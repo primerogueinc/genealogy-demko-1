@@ -25,3 +25,4 @@ Not a text. The stone is the one in DM-D-004. The turned earth and flowers fit a
 - Not published: it is a photograph of living people. Checksum kept in archive/WITHHELD.json.
 - The file carries no date. The file name supplies the occasion and the names; both are the collector's labels (X-004).
 - Evidence it gives: Stefan Duska is dead and is buried in his mother's plot, if the label is right.
+- Held under ledger X-015 item 2: the photograph shows the subject of the tree. Stefan Duska died in 2018 (stated by Kevin, ledger C-11), which dates the photograph to that year if the label is right.

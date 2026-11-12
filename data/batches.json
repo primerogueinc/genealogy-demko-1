@@ -276,5 +276,68 @@
         "DM-D-011"
       ]
     }
+  },
+  {
+    "id": "DM-B-006",
+    "date": "2026-11-12",
+    "at_utc": "2026-11-12T06:16:34Z",
+    "title": "Ledger v8: reused names, living status, provenance; second cross-review",
+    "folder": "F-05",
+    "files": 6,
+    "blurb": "Read ledger v8 and the coordinator's method note on epidemics and reused names, and applied them. The note bites on this line at once. The Mihály baptised at Viszoka in 1882 already carries the name of a twin brother who died in 1873, and nothing in hand shows that he himself lived: the burial books are not in the file. What speaks for him is the age his daughter's birth record gives her father in 1906, twenty-four, which fits the child of 1882 and not the dead twin. The link stays at 70 and is now marked as an unresolved necronym risk; so is the step from the Mária of 1906 to the Mary Demko who died in Montréal. The second cross-review of the Duska repo found a new folder, Iňačovce Greek Catholic, and six of its strips are taken here. They show Demkos already in that parish before the Viszoka Mihály arrived: a Michael Demko, cottar of Jesztreb, in 1870, and a 'Mihály Demkó the younger', cottar of Jesztreb, with a wife Anna in 1889. That second Mihály is very probably the father on the cropped 'maybe' baptism, which makes it another family's child. A Kocsis couple at Solymos in 1875 becomes the first candidate for the parents of Maria's mother. Living status now follows the coordinator's rule: Stefan Duska died in 2018, and his son's status is unknown. Every document carries a provenance block, mostly reading 'unknown'. The one photograph showing the subject of the tree is held, not published.",
+    "raised": [
+      "DM-H-023",
+      "DM-H-024",
+      "DM-H-025",
+      "DM-H-026"
+    ],
+    "resolved": [],
+    "revised": [
+      "DM-H-003",
+      "DM-H-005",
+      "DM-H-010",
+      "DM-H-015",
+      "DM-H-021"
+    ],
+    "people_added": [
+      "DM-X-028",
+      "DM-X-029",
+      "DM-X-030",
+      "DM-X-031",
+      "DM-X-032",
+      "DM-X-033",
+      "DM-X-034",
+      "DM-X-035"
+    ],
+    "sources_added": [
+      "DM-S-006-1",
+      "DM-S-006-2",
+      "DM-S-006-3",
+      "DM-S-006-4",
+      "DM-S-006-5",
+      "DM-S-006-6"
+    ],
+    "documents_added": [
+      "DM-D-034",
+      "DM-D-035",
+      "DM-D-036",
+      "DM-D-037",
+      "DM-D-038",
+      "DM-D-039"
+    ],
+    "read": [
+      "coordinator ledger v8 (2026-11-12)",
+      "claude/coordinator-method-note-epidemics-necronyms.md",
+      "claude/places-agent-to-demko-agent.md (after PL-B-001)",
+      "claude/duska-agent-to-demko-agent.md (after DUS B-008)",
+      "claude/site-agent-to-demko-agent.md (after SITE-B-005)",
+      "genealogu-duska-1 main @3ac9629 (cross-review)",
+      "duska-and-demko-villages main @6eab2b2"
+    ],
+    "cross_review": {
+      "repo": "primerogueinc/genealogu-duska-1",
+      "commit": "3ac9629",
+      "found": "New folder F-005 (Iňačovce Greek Catholic, part 1, 11 files): six strips naming a Demko or a Kocsis taken and read; four Krak strips and the 1877 Du[s]ko strip are the Duska agent's and name no Demko. Their F-X01 holds three of this repo's records, taken under X-012. Their B-009 adopts the 1906 parents. Nothing else new for this line."
+    }
   }
 ]

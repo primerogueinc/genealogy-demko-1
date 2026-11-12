@@ -107,7 +107,14 @@
       "The entry above (no. 35) and the one below are partly visible and name other families; they are not transcribed.",
       "The child was born at Viszoka, not at Čičarovce. If the label is right, Čičarovce is where the book was kept.",
       "Added at DM-B-003 on a second look: the entry below, of which only the top line shows, has the residence 'Vaján' (Vojany) and the officiant 'Polányi Endre'. Two different priests officiate on one page."
-    ]
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-002",
@@ -178,7 +185,14 @@
       "All names are in one hand: the scribe wrote them, the villagers did not sign.",
       "No archive stamp, fond or folio number is visible on this page.",
       "The addressee is not named. 'Praesul' is a bishop; the four villages and the request for a wooden chapel fit a petition from Greek Catholics to the bishop of Mukachevo. That is an inference."
-    ]
+    ],
+    "provenance": {
+      "archive": "unknown; one photograph's location tag is in Berehove, Ukraine",
+      "fond_or_film": "unknown",
+      "book": "loose petition, two pages",
+      "page_or_image": "unknown",
+      "obtained": "from a third party, 'Martin' in the file names; photographed 2020-02-19 per the image metadata"
+    }
   },
   {
     "id": "DM-D-003",
@@ -222,7 +236,14 @@
     "notes": [
       "Photo metadata: taken 19 Feb 2020 with a phone, location tag 48.207 N, 22.644 E, which is in Berehove, Ukraine. A branch of the Zakarpattia state archive is in that town (from training, to be confirmed by the Places agent). This is the only provenance the files carry.",
       "The earliest Demko at Viszoka on paper so far: 79 years before the 1882 baptism at house 132."
-    ]
+    ],
+    "provenance": {
+      "archive": "unknown; one photograph's location tag is in Berehove, Ukraine",
+      "fond_or_film": "unknown",
+      "book": "loose petition, two pages",
+      "page_or_image": "unknown",
+      "obtained": "from a third party, 'Martin' in the file names; photographed 2020-02-19 per the image metadata"
+    }
   },
   {
     "id": "DM-D-004",
@@ -266,7 +287,14 @@
       "No other name is cut on this face of the stone.",
       "A stone is made after the death from what the family says: good for the death year, second-hand for the birth year."
     ],
-    "route": "duska"
+    "route": "duska",
+    "provenance": {
+      "archive": "not an archive record: a gravestone",
+      "fond_or_film": "unknown",
+      "book": "n/a",
+      "page_or_image": "n/a",
+      "obtained": "photograph; photographer unknown"
+    }
   },
   {
     "id": "DM-D-005",
@@ -303,9 +331,18 @@
     "notes": [
       "Not published: it is a photograph of living people. Checksum kept in archive/WITHHELD.json.",
       "The file carries no date. The file name supplies the occasion and the names; both are the collector's labels (X-004).",
-      "Evidence it gives: Stefan Duska is dead and is buried in his mother's plot, if the label is right."
+      "Evidence it gives: Stefan Duska is dead and is buried in his mother's plot, if the label is right.",
+      "Held under ledger X-015 item 2: the photograph shows the subject of the tree. Stefan Duska died in 2018 (stated by Kevin, ledger C-11), which dates the photograph to that year if the label is right."
     ],
-    "route": "duska"
+    "route": "duska",
+    "provenance": {
+      "archive": "not an archive record: a family photograph",
+      "fond_or_film": "unknown",
+      "book": "n/a",
+      "page_or_image": "n/a",
+      "obtained": "family photograph; photographer unknown"
+    },
+    "held": "about the subject"
   },
   {
     "id": "DM-D-006",
@@ -380,7 +417,14 @@
     "notes": [
       "The collector's own label says 'maybe'.",
       "It disagrees with the civil record DM-D-008 on the day of birth (24 February against 22 August) and on the mother (Anna against Mária Kocsis). It is a different child unless the year proves otherwise. See DM-H-015."
-    ]
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "unknown",
+      "page_or_image": "unknown; entry 44",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-007",
@@ -437,7 +481,14 @@
       "The file name speaks of a guardianship and names a living person; that name is withheld here and in the archived file name. Nothing on this page concerns a guardianship.",
       "Mike Duska was alive on the date of the deed."
     ],
-    "route": "duska"
+    "route": "duska",
+    "provenance": {
+      "archive": "not an archive record: a family paper",
+      "fond_or_film": "unknown",
+      "book": "notarial deed of sale, 1966; notary and deed number not on this page",
+      "page_or_image": "one page",
+      "obtained": "photograph of a paper in the family's hands"
+    }
   },
   {
     "id": "DM-D-008",
@@ -598,7 +649,14 @@
       "The image is a phone screenshot of a scan, dated 13 Jan 2022 in its metadata. The register's custodian, district and volume are not shown.",
       "The father signs his own name. In 1882 terms he is the right age to the week: a Mihály Demkó born at Viszoka on 19 August 1882 turned 24 four days before this entry.",
       "House numbers are not asked for on this form."
-    ]
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "State civil register of births, registry seat Alsókánya, 1906",
+      "page_or_image": "page 320, entry 45",
+      "obtained": "unknown; a phone screenshot of a colour scan, dated 2022-01-13 in its metadata"
+    }
   },
   {
     "id": "DM-D-009",
@@ -626,7 +684,14 @@
     "translation": "Byte-for-byte the same file as DM-D-008.",
     "notes": [
       "Same SHA-256 as DM-D-008. Archived because it was in the folder."
-    ]
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "State civil register of births, registry seat Alsókánya, 1906",
+      "page_or_image": "page 320, entry 45",
+      "obtained": "unknown; a phone screenshot of a colour scan, dated 2022-01-13 in its metadata"
+    }
   },
   {
     "id": "DM-D-010",
@@ -675,7 +740,14 @@
     "notes": [
       "File metadata: created 13 Jan 2022, the same day as the screenshots. The file name credits 'Czech Origins'.",
       "Read only after this agent had made its own transcription of DM-D-008."
-    ]
+    ],
+    "provenance": {
+      "archive": "not an archive record: a transcription",
+      "fond_or_film": "unknown",
+      "book": "n/a",
+      "page_or_image": "n/a",
+      "obtained": "third-party transcription; the file name credits 'Czech Origins'; file dated 2022-01-13"
+    }
   },
   {
     "id": "DM-D-011",
@@ -811,7 +883,14 @@
       "The mother's maiden surname and home village are given in the form used for a wife of another rite: 'gr.kat., Iňačovce'.",
       "Shared with the Duska agent's line (Ahn 4 and Ahn 8)."
     ],
-    "route": "duska"
+    "route": "duska",
+    "provenance": {
+      "archive": "not an archive record: a family paper",
+      "fond_or_film": "unknown",
+      "book": "certificate citing the Roman Catholic baptism register of Senné, volume IV",
+      "page_or_image": "page 110, entry 43 of 1929",
+      "obtained": "photograph of the original certificate in the family's hands"
+    }
   },
   {
     "id": "DM-D-012",
@@ -898,7 +977,14 @@
       "Puts György Demkó and Mária Hreskó as a married couple at Viszoka by January 1857, 25 years before the birth of Mihály."
     ],
     "also_read_by": "DUS:D-004-13 / DUS:S-017 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-013",
@@ -973,7 +1059,14 @@
       "An earlier Mihály in the same family. The Mihály of 1882 carries the name again, as does the János of 1875."
     ],
     "also_read_by": "DUS:D-004-18 / DUS:S-021 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-014",
@@ -1048,7 +1141,14 @@
       "Readings agree with DUS:D-004-08."
     ],
     "also_read_by": "DUS:D-004-08 / DUS:S-012 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-015",
@@ -1117,7 +1217,14 @@
       "The next entry is a Hricko at the Vaján farmstead: the clerk writes Hreskó and Hricko as different names. Readings agree with DUS:D-004-03."
     ],
     "also_read_by": "DUS:D-004-03 / DUS:S-007 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-016",
@@ -1191,7 +1298,14 @@
       "The mother is Anna Szlekár here and Mária Szlekár in 1877, 1879 and 1883. Readings agree with DUS:D-004-02."
     ],
     "also_read_by": "DUS:D-004-02 / DUS:S-006 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-017",
@@ -1265,7 +1379,14 @@
       "The father's status word is not read here; DUS:D-004-04 reads '[telk.]'. Otherwise the readings agree."
     ],
     "also_read_by": "DUS:D-004-04 / DUS:S-008 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-018",
@@ -1345,7 +1466,14 @@
       "House 120 is next door to György Demkó's 121. Readings agree with DUS:D-004-09."
     ],
     "also_read_by": "DUS:D-004-09 / DUS:S-013 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-019",
@@ -1419,7 +1547,14 @@
       "Readings agree with DUS:D-004-20."
     ],
     "also_read_by": "DUS:D-004-20 / DUS:S-023 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-020",
@@ -1499,7 +1634,14 @@
       "In Latin. Readings agree with DUS:D-004-05."
     ],
     "also_read_by": "DUS:D-004-05 / DUS:S-009 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-021",
@@ -1579,7 +1721,14 @@
       "The month was not read by this agent; DUS:D-004-06 reads 'Sz. Mihály hava' (September). Faint ink."
     ],
     "also_read_by": "DUS:D-004-06 / DUS:S-010 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-022",
@@ -1653,7 +1802,14 @@
       "Same parents as the György of [1834]. Readings agree with DUS:D-004-07."
     ],
     "also_read_by": "DUS:D-004-07 / DUS:S-011 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-023",
@@ -1721,7 +1877,14 @@
       "A third wife's name against a György Demko at Viszoka within nine years: Barbara in [1831], Anna in [1834] and [1838], Mária here. One man widowed twice, or two or three men. Readings agree with DUS:D-004-12."
     ],
     "also_read_by": "DUS:D-004-12 / DUS:S-016 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-024",
@@ -1789,7 +1952,14 @@
       "In Latin. A Demko daughter married to a Tirpák: collateral to the line. Readings agree with DUS:D-004-15."
     ],
     "also_read_by": "DUS:D-004-15 / DUS:S-019 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-025",
@@ -1863,7 +2033,14 @@
       "Readings agree with DUS:D-004-10."
     ],
     "also_read_by": "DUS:D-004-10 / DUS:S-014 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-026",
@@ -1931,7 +2108,14 @@
       "Readings agree with DUS:D-004-19."
     ],
     "also_read_by": "DUS:D-004-19 / DUS:S-022 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-027",
@@ -1993,7 +2177,14 @@
       "The file name says Demko; the entry says Szulák. Agrees with DUS:D-004-01, which found the same."
     ],
     "also_read_by": "DUS:D-004-01 / DUS:S-005 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-028",
@@ -2061,7 +2252,14 @@
       "In Latin. A Kocsis family in the Csicser parish, not at Solymos. No stated link to Mária Kocsis, Ahn 19. Readings agree with DUS:D-004-14."
     ],
     "also_read_by": "DUS:D-004-14 / DUS:S-018 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-029",
@@ -2135,7 +2333,14 @@
       "Same parents as DM-D-028. Readings agree with DUS:D-004-11."
     ],
     "also_read_by": "DUS:D-004-11 / DUS:S-015 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-030",
@@ -2209,7 +2414,14 @@
       "No stated link to either line. The baptism day is taken from DUS:D-004-17; this agent read the digits less surely."
     ],
     "also_read_by": "DUS:D-004-17 / DUS:S-020 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-031",
@@ -2239,7 +2451,14 @@
       "Same SHA-256 as DM-D-001. It was in this folder too, which ties the 1882 strip to the same book as the entries around it."
     ],
     "also_read_by": "DUS:D-004-16 / DUS:S-002 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Csicser (Čičarovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-032",
@@ -2308,7 +2527,14 @@
       "Readings agree with DUS:D-003-01."
     ],
     "also_read_by": "DUS:D-003-01 / DUS:S-003 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "later hand copy on a printed Slovak form; parish Belža per the folder name",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   },
   {
     "id": "DM-D-033",
@@ -2377,6 +2603,490 @@
       "A Kocsis mother, not a Demko. Readings agree with DUS:D-003-02."
     ],
     "also_read_by": "DUS:D-003-02 / DUS:S-004 @ce326b4",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012"
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "later hand copy on a printed Slovak form; parish Belža per the folder name",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-034",
+    "batch": "DM-B-006",
+    "folder": "F-05",
+    "source": "DM-S-006-1",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Anna_Demko_1889.png",
+    "sha256": "801a89d6b7cb8541ba0323f8b51ca34b2911e5aba058260d261102b10fd86858",
+    "image": {
+      "format": "PNG",
+      "width": 1711,
+      "height": 118
+    },
+    "title": "Baptism of Anna Demkó, born 26 November [1889], died 17 March 1891, Jesztreb 71",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Demko 1889",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): the 1889 entry names its officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "51.",
+        "english": "51",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "November 26. / 26.",
+        "english": "26 November, both",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex, legitimacy",
+        "original": "Anna / nő / törvényes",
+        "english": "Anna, girl, legitimate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "ifj. Demkó Mihály g.kath. zsellér / Jaros Anna g.kath.",
+        "english": "Mihály Demkó the younger, Greek Catholic, cottar; Anna Jaros, Greek Catholic",
+        "certainty": "clear"
+      },
+      {
+        "column": "Residence",
+        "original": "Jesztreb 71.",
+        "english": "Jesztreb (Jastrabie pri Michalovciach) no. 71",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Mráz János r.kath. / Kozákné Kepej Anna",
+        "english": "János Mráz, Roman Catholic; Anna Kepej, wife of Kozák",
+        "certainty": "clear"
+      },
+      {
+        "column": "Officiant",
+        "original": "Lescsisin György solymosi g.kath. lelkész",
+        "english": "György Lescsisin, Greek Catholic pastor of Solymos",
+        "certainty": "clear"
+      },
+      {
+        "column": "Remark",
+        "original": "meghalt 1891 márcz. 17.",
+        "english": "Died 17 March 1891",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "No. 51. Born and baptised 26 November: Anna, legitimate daughter of Mihály Demkó the younger, Greek Catholic cottar, and Anna Jaros, of Jesztreb no. 71. She died on 17 March 1891.",
+    "notes": [
+      "Year 1889 from the collector's file name; the death note fits.",
+      "A second Mihály Demkó: a cottar of Jesztreb with a wife called Anna, a father by 1889. He cannot be the Mihály born at Viszoka in 1882. 'The younger' implies an older Mihály Demkó in the same parish.",
+      "No cause of death is given. Readings agree with DUS:D-005-09."
+    ],
+    "also_read_by": "DUS:D-005-09 / DUS:S-035 @3ac9629",
+    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-035",
+    "batch": "DM-B-006",
+    "folder": "F-05",
+    "source": "DM-S-006-2",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Anna_Demko_1870.png",
+    "sha256": "d30597dc87daf31244c65f19125f4e434641235c2a3b5c1230fb94a7b86007b1",
+    "image": {
+      "format": "PNG",
+      "width": 1878,
+      "height": 192
+    },
+    "title": "Baptism of Anna Demko, born 12 January [1870], Jesztreb 54",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Latin",
+    "collector_label": "Baptism of Anna Demko 1870",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): the 1889 entry names its officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "4.",
+        "english": "4",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "Januarius 12. / 13.",
+        "english": "12 January / 13 January",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex, legitimacy",
+        "original": "Anna / foemin. / legitim.",
+        "english": "Anna, female, legitimate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Michael Demko g.c. inquilin. / Maria Lazár",
+        "english": "Michael (Mihály) Demko, Greek Catholic, cottar; Maria Lazár",
+        "certainty": "clear"
+      },
+      {
+        "column": "Residence",
+        "original": "Jesztreb num. 54",
+        "english": "Jesztreb no. 54",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Georgius Mazur / Maria Tamás",
+        "english": "Georgius Mazur; Maria Tamás",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "No. 4. Born 12 January, baptised 13 January: Anna, legitimate daughter of Michael Demko, Greek Catholic cottar, and Maria Lazár, of Jesztreb no. 54.",
+    "notes": [
+      "Year 1870 from the collector's file name.",
+      "Probably the older Mihály Demkó implied by 'ifj.' in the 1889 entry. Readings agree with DUS:D-005-08."
+    ],
+    "also_read_by": "DUS:D-005-08 / DUS:S-034 @3ac9629",
+    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-036",
+    "batch": "DM-B-006",
+    "folder": "F-05",
+    "source": "DM-S-006-3",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Andras_Demko_1864.png",
+    "sha256": "0332ded9d0e79f0b47ca1b84265e88104a71c12d809a0bc176b47978e379f4d1",
+    "image": {
+      "format": "PNG",
+      "width": 1874,
+      "height": 185
+    },
+    "title": "Baptism of András Szmeriga, son of Susana Demko, 13 November [1864], Jesztreb",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Latin",
+    "collector_label": "Baptism of Andras Demko 1864",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): the 1889 entry names its officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "61.",
+        "english": "61",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "November 13. / 14",
+        "english": "13 November / 14 November",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex, legitimacy",
+        "original": "András / masc. / legitim.",
+        "english": "András, male, legitimate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Joannes [Sz]meriga [...] / Susana Demko G.C.",
+        "english": "Joannes Szmeriga; Susana Demko, Greek Catholic",
+        "certainty": "probable"
+      },
+      {
+        "column": "Residence",
+        "original": "Jesztreb numer. dom. 2[?]",
+        "english": "Jesztreb, house 23 or 29",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Godparents",
+        "original": "Michael Holubik / Susana Mráz",
+        "english": "Michael Holubik; Susana Mráz",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "No. 61. Born 13 November, baptised 14 November: András, legitimate son of Joannes Szmeriga and Susana Demko, of Jesztreb.",
+    "notes": [
+      "Year 1864 from the collector's file name. The child is a Szmeriga; the Demko is his mother.",
+      "This agent first read the father as 'Ameriga' and the house as 23. DUS:D-005-05 reads Szmeriga and 29; a Szmeriga János appears on the 1889 strip, so the surname is theirs."
+    ],
+    "also_read_by": "DUS:D-005-05 / DUS:S-031 @3ac9629",
+    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-037",
+    "batch": "DM-B-006",
+    "folder": "F-05",
+    "source": "DM-S-006-4",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Andreas_Demko_1861.png",
+    "sha256": "4d92d6421b81294c6a6a69f34163593b50bd464292553e8009d715326ca4f043",
+    "image": {
+      "format": "PNG",
+      "width": 1630,
+      "height": 155
+    },
+    "title": "Baptism of Andreas, son of Elisab. Demko, 10 December [1861], Szenna",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Latin",
+    "collector_label": "Baptism of Andreas Demko 1861",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): the 1889 entry names its officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "18",
+        "english": "18",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "December 10 / 10.",
+        "english": "10 December, both",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name",
+        "original": "Andreas",
+        "english": "Andreas",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Joannes Jerko (?) / Elisab. Demko",
+        "english": "Joannes Jerko (?); Elisabeth Demko",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Residence",
+        "original": "Szenna",
+        "english": "Szenna (Senné)",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Andreas De[...] / Anna [...] coelebs",
+        "english": "Andreas De[...]; Anna [...], unmarried",
+        "certainty": "uncertain"
+      }
+    ],
+    "translation": "No. 18. Born and baptised 10 December: Andreas, son of Joannes Jerko (?) and Elisabeth Demko, of Szenna.",
+    "notes": [
+      "Year 1861 from the collector's file name. The child takes the father's surname, which this agent reads Jerko and DUS:D-005-06 reads Sirko, both with a question mark.",
+      "A Demko woman married at Senné and in the Iňačovce Greek Catholic book: the Senné Greek Catholics were registered there (PL-H-001)."
+    ],
+    "also_read_by": "DUS:D-005-06 / DUS:S-032 @3ac9629",
+    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-038",
+    "batch": "DM-B-006",
+    "folder": "F-05",
+    "source": "DM-S-006-5",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Andra_Demko_-_maybe_1876.png",
+    "sha256": "8993101ad3388cf3b59e5bec3e2b477499b3b22e371837f6208f2f88a4a20623",
+    "image": {
+      "format": "PNG",
+      "width": 1719,
+      "height": 220
+    },
+    "title": "Baptism of Andreas, born 25 February, died February 1870, Szenna (labelled 'Demko maybe 1876')",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Latin",
+    "collector_label": "Baptism of Andra Demko - maybe 1876",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): the 1889 entry names its officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "6.",
+        "english": "6",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "25a febr. / 25a febr.",
+        "english": "25 February, both",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name",
+        "original": "Andreas",
+        "english": "Andreas",
+        "certainty": "clear"
+      },
+      {
+        "column": "Father",
+        "original": "Joannes [...] g.c. inquil.",
+        "english": "Joannes [surname not read], Greek Catholic, cottar",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Mother",
+        "original": "[...]",
+        "english": "Not read",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Residence",
+        "original": "Szenna",
+        "english": "Szenna (Senné)",
+        "certainty": "probable"
+      },
+      {
+        "column": "Godparents",
+        "original": "M[a/u]csko Mich. et [...] Senenses",
+        "english": "Mich. Macsko or Mucsko and another, of Senné",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Remark",
+        "original": "mortuus 2[2/7] februar. 1870.",
+        "english": "Died 22 or 27 February 1870",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "No. 6. Born and baptised 25 February: Andreas, son of a Joannes, Greek Catholic cottar of Szenna. He died within days, in February 1870.",
+    "notes": [
+      "The parents' cell is too faint to read. The owner's label says 'Demko maybe 1876'; the death note puts the entry in 1870.",
+      "Differences: this agent reads the father's surname as possibly Jerko and the death day as 22; DUS:D-005-04 reads '[D]enko [?]' and 27.",
+      "If the father is the Joannes of DM-D-037, this is a second Andreas to the same couple nine years after the first: the reuse of a dead child's name that ledger X-017 warns of. Not established."
+    ],
+    "also_read_by": "DUS:D-005-04 / DUS:S-030 @3ac9629",
+    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-039",
+    "batch": "DM-B-006",
+    "folder": "F-05",
+    "source": "DM-S-006-6",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Anna_Kocsis_1875.png",
+    "sha256": "1ef96168eef277496e5cac25adee07ab2a490fa222440be6165b65e031d6b4a9",
+    "image": {
+      "format": "PNG",
+      "width": 1499,
+      "height": 160
+    },
+    "title": "Baptism of Anna Kocsis, born 18 March [1875], Solymos",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Kocsis 1875",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): the 1889 entry names its officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "9",
+        "english": "9",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "Március 18 - 19.",
+        "english": "18 March / 19 March",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex, legitimacy",
+        "original": "Anna / nő / törvényes",
+        "english": "Anna, girl, legitimate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "[Kocsis?] János / [...] Mária",
+        "english": "János Kocsis (?); Mária, surname not read",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Residence",
+        "original": "Solymos [1/7]3.",
+        "english": "Solymos, house 13 or 73",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Godparents",
+        "original": "K[...] Mihály / Hutkó Anna Ádám György neje",
+        "english": "Mihály K[...]; Anna Hutkó, wife of György Ádám",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "No. 9. Born 18 March, baptised 19 March: Anna, legitimate daughter of János Kocsis (?) and Mária, of Solymos.",
+    "notes": [
+      "Year 1875 from the collector's file name. The parents' cell is blurred; 'Kocsis' is the label and fits what shows.",
+      "Differences: house 13 here, 73 in DUS:D-005-11; the mother's surname is unread here and '[Kovács?]' there.",
+      "A Kocsis couple having children at Solymos eleven years before Mária Kocsis, Ahn 19, was born there. See DM-H-025."
+    ],
+    "also_read_by": "DUS:D-005-11 / DUS:S-037 @3ac9629",
+    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
   }
 ]

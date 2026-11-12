@@ -50,7 +50,7 @@
     "ask": "Whether Stefan Duska (Ahn 4) is living: yes or no.",
     "why": "The site treats an empty value as living. The Duska agent owns the entry; both repos leave it empty.",
     "raised": "DM-B-002",
-    "answer": "Not living, on the label of the burial photograph."
+    "answer": "Not living: died 2018 (Kevin, relayed in ledger C-11)."
   },
   {
     "id": "DM-A-007",
@@ -62,11 +62,12 @@
   },
   {
     "id": "DM-A-008",
-    "status": "raised",
+    "status": "answered",
     "raised_to_kevin": "2026-11-12",
     "ask": "Whether the second man in the burial photograph, named in two file names, is living, and whether he may be named.",
     "why": "His name is withheld until then (DM-DEC-012).",
-    "raised": "DM-B-004"
+    "raised": "DM-B-004",
+    "answer": "Covered by ledger X-016: he stays unnamed unless a death is stated."
   },
   {
     "id": "DM-A-009",
@@ -81,5 +82,12 @@
     "ask": "The marriage record of Mihály Demkó and Mária Kocsis, about 1903 to 1906.",
     "why": "Settles DM-H-017 and lifts DM-H-010 off its cap.",
     "raised": "DM-B-004"
+  },
+  {
+    "id": "DM-A-011",
+    "status": "held",
+    "ask": "Burial entries for Viszoka (Csicser Greek Catholic and the Roman Catholic parish), 1882 to 1897, and for Solymos, 1906 to 1921.",
+    "why": "The check that ledger X-017 requires before the 1882 baptism and the 1906 birth can be attached to adults (DM-NC-001, DM-NC-002).",
+    "raised": "DM-B-006"
   }
 ]

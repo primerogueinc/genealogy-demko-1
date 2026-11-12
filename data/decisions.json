@@ -112,5 +112,47 @@
     "date": "2026-11-12",
     "decision": "Records DM-D-004, 005, 007 and 011 are marked route: duska.",
     "why": "Ledger v3, X-012 item 4: they concern Ahn 4 and Ahn 8 as well as Ahn 9."
+  },
+  {
+    "id": "DM-DEC-020",
+    "date": "2026-11-12",
+    "decision": "Living status set by ledger X-016: P-002 'unknown'; P-004 not living, died 2018 as stated by Kevin. DM-DEC-013 is superseded by his statement.",
+    "why": "Ledger v8, X-016 and C-11."
+  },
+  {
+    "id": "DM-DEC-021",
+    "date": "2026-11-12",
+    "decision": "The burial photograph stays out of the repo and is marked held: about the subject. The other man in it stays unnamed, and his name stays out of the archived file name of DM-D-007.",
+    "why": "Ledger X-015 item 2 and X-016 item 5: he was alive when the photograph was taken, and nothing states a death."
+  },
+  {
+    "id": "DM-DEC-022",
+    "date": "2026-11-12",
+    "decision": "No record image was removed from this repo under ledger v4 or v5, so there is nothing to restore. Every document now has a provenance block with 'unknown' written out.",
+    "why": "Ledger v8, X-015 as reversed, item 4."
+  },
+  {
+    "id": "DM-DEC-023",
+    "date": "2026-11-12",
+    "decision": "Necronym checks are logged in data/necronym_checks.json. Links that cannot be checked against burials carry necronym_risk: unresolved and stay at or under 70.",
+    "why": "Ledger X-017 and the method note, section 3."
+  },
+  {
+    "id": "DM-DEC-024",
+    "date": "2026-11-12",
+    "decision": "Any further research pass will be told to use the open web only, with no mailbox, drive or other personal connector.",
+    "why": "Ledger X-011 item 6. The first pass, run before that rule, reached a mailbox (DM-DEC-010)."
+  },
+  {
+    "id": "DM-DEC-025",
+    "date": "2026-11-12",
+    "decision": "Times are stored as ISO 8601 UTC with a trailing Z from this batch on (at_utc on batches, logged on checks). Earlier entries hold dates only and are left as dates.",
+    "why": "Ledger X-018 item 2."
+  },
+  {
+    "id": "DM-DEC-026",
+    "date": "2026-11-12",
+    "decision": "Anna Szlekár and Mária Szlekár are entered as two women.",
+    "why": "Ledger X-017 rule 7."
   }
 ]

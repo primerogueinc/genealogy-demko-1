@@ -19,6 +19,15 @@ Added 12 Nov 2026:
 - **Research.** Kevin allows open research on the Demko surname, excluding anything he authored.
 - **Shared rules.** The Project doc `claude/ALL-AGENTS-READ-FIRST.md` and the coordinator's ledger apply. The ledger and every note addressed to this agent are read at the start of each batch and logged.
 
+Added 12 Nov 2026 from ledger v8:
+
+- **Reused names (X-017).** A baptism is not an identity. Before one is attached to an adult, the burials are searched for fifteen years after it and the baptisms searched forward for a later child of the same name; the search is logged in `data/necronym_checks.json`. Where the burials are not in hand the link is marked `necronym_risk: unresolved` and stays at or under 70. A change of mother's name under one father is a second marriage until a second man is shown.
+- **Living (X-016).** Only Kevin is known to be living. A death stated or documented, or a birth 100 years back or more: `living: false`. Otherwise `"unknown"`: name and year only.
+- **Images (X-015).** Record images are committed with name, checksum, size and a provenance block. An image about Kevin himself is held, not committed.
+- **Research (X-011).** Open web only. No mailbox, drive or other personal connector.
+- **Times (X-018).** ISO 8601 UTC with a trailing Z; a date alone where only the date is known.
+- **Cross-review (X-012).** The Duska repo is read at the start of every batch and the pass is logged.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.

@@ -21,7 +21,7 @@
     "ahnentafel": 2,
     "name": "Kevin John Duska",
     "role": "Father",
-    "living": true,
+    "living": "unknown",
     "owner": "duska",
     "birth": {
       "date": null,
@@ -31,12 +31,12 @@
     "sources": [
       "DM-S-000-1"
     ],
-    "note": "Link in the chain only. Not researched here."
+    "note": "Link in the chain only. Living status unknown (Kevin, ledger X-016): shown by name and year only."
   },
   {
     "id": "P-004",
     "ahnentafel": 4,
-    "name": "Stefan (Štefan) Duska",
+    "name": "Stefan (Štefan, Steve) Duska",
     "role": "Paternal grandfather",
     "living": false,
     "owner": "duska",
@@ -50,10 +50,14 @@
       "DM-S-004-8",
       "DM-S-004-3"
     ],
-    "note": "Son of Michal Duska and Maria Demko by the 1947 certificate. Marked as dead on the strength of the burial photograph's label (a prior). The Duska agent owns this entry.",
+    "note": "Son of Michal Duska and Maria Demko by the 1947 certificate. Died 2018 and was known as Steve: stated by Kevin (ledger C-11), not documented. The Duska agent owns this entry.",
     "baptism": {
       "date": "26 Oct 1929",
       "place": "Roman Catholic parish of Senné"
+    },
+    "death": {
+      "date": "2018",
+      "place": null
     }
   },
   {
@@ -95,7 +99,7 @@
       "DM-S-004-5",
       "DM-S-004-6"
     ],
-    "note": "Wife of Michal (Mike) Duska and mother of Štefan: documented by the 1947 certificate, the gravestone and the 1966 deed. Greek Catholic, of Iňačovce. Died 9 Sep 1950. The birth date and parents come from the 1906 civil registration; that she is the child in it rests on three points agreeing (name, Iňačovce, 1906) and not yet on a record that states it. See DM-H-010 and DM-H-015.",
+    "note": "Wife of Michal (Mike) Duska and mother of Štefan: documented by the 1947 certificate, the gravestone and the 1966 deed. Greek Catholic, of Iňačovce. Died 9 Sep 1950. The birth date and parents come from the 1906 civil registration; that she is the child in it rests on three points agreeing (name, Iňačovce, 1906) and not yet on a record that states it. See DM-H-010 and DM-H-015. Ledger X-017: no burial or death register for Iňačovce after 1906 is in hand, so it is not shown that the child of 1906 lived to marry; see data/necronym_checks.json.",
     "death": {
       "date": "9 Sep 1950",
       "place": "Montréal, Québec"
@@ -103,7 +107,8 @@
     "burial": {
       "date": null,
       "place": "Notre-Dame-des-Neiges, Montréal (per the collector's label)"
-    }
+    },
+    "necronym_risk": "unresolved"
   },
   {
     "id": "P-018",
@@ -121,7 +126,8 @@
       "DM-S-004-6",
       "DM-S-001-1"
     ],
-    "note": "Greek Catholic agricultural day-labourer living at Solymos in August 1906, born at Magasrév, aged 24; signs his own name. Father of the Mária born 22 Aug 1906. Taken to be the Mihály baptised at Viszoka no. 132 on 20 Aug 1882 (DM-X-001): same name, rite, birthplace and age to the week. That identification is an inference until his marriage entry is found (DM-H-017)."
+    "note": "Greek Catholic agricultural day-labourer living at Solymos in August 1906, born at Magasrév, aged 24; signs his own name. Father of the Mária born 22 Aug 1906. Taken to be the Mihály baptised at Viszoka no. 132 on 20 Aug 1882 (DM-X-001): same name, rite, birthplace and age to the week. That identification is an inference until his marriage entry is found (DM-H-017). Ledger X-017: the burials of the Csicser parish for 1882 to 1897 are not in hand, so it is not shown that the child of 1882 lived. His age as written in 1906, 24, fits a birth between August 1881 and August 1882.",
+    "necronym_risk": "unresolved"
   },
   {
     "id": "P-019",
@@ -155,7 +161,8 @@
     "sources": [
       "DM-S-001-1"
     ],
-    "note": "Greek Catholic farmer at Viszoka no. 132 in 1882 (same man as DM-X-002). On the line only through the inference at P-018."
+    "note": "Greek Catholic farmer at Viszoka no. 132 in 1882 (same man as DM-X-002). On the line only through the inference at P-018.",
+    "necronym_risk": "unresolved"
   },
   {
     "id": "P-037",
@@ -172,7 +179,8 @@
     "sources": [
       "DM-S-001-1"
     ],
-    "note": "Roman Catholic (same woman as DM-X-003). On the line only through the inference at P-018."
+    "note": "Roman Catholic (same woman as DM-X-003). On the line only through the inference at P-018.",
+    "necronym_risk": "unresolved"
   },
   {
     "id": "DM-X-001",
@@ -439,8 +447,8 @@
   {
     "id": "DM-X-016",
     "ahnentafel": null,
-    "name": "Anna or Mária Szlekár",
-    "role": "Wife of DM-X-015",
+    "name": "Anna Szlekár",
+    "role": "Wife of DM-X-015 in [1874]",
     "living": false,
     "owner": "demko",
     "birth": {
@@ -449,10 +457,9 @@
     },
     "proof": "documented",
     "sources": [
-      "DM-S-005-5",
-      "DM-S-005-6"
+      "DM-S-005-5"
     ],
-    "note": "Greek Catholic. Anna in one entry, Mária in three."
+    "note": "Greek Catholic. Mother of Anna, [1874]. A Mária Szlekár is the mother in 1877, 1879 and 1883 (DM-X-028). Under ledger X-017 the change of name is taken as a second wife until shown to be one woman."
   },
   {
     "id": "DM-X-017",
@@ -645,5 +652,147 @@
       "DM-S-005-18"
     ],
     "note": "Daughters Maria [1832, Mogyorós] and Julianna [1836]. Not at Solymos, where Ahn 19 was born."
+  },
+  {
+    "id": "DM-X-028",
+    "ahnentafel": null,
+    "name": "Mária Szlekár",
+    "role": "Wife of DM-X-015 in [1877], 1879 and 1883",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-6",
+      "DM-S-005-7",
+      "DM-S-005-8"
+    ],
+    "note": "Greek Catholic. Kept apart from Anna Szlekár (DM-X-016) under ledger X-017 until a record shows they are one woman."
+  },
+  {
+    "id": "DM-X-029",
+    "ahnentafel": null,
+    "name": "Mihály Demkó the younger, of Jesztreb",
+    "role": "A second Mihály Demkó in the Iňačovce parish; probably the father in the 'maybe' strip",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-006-1"
+    ],
+    "note": "Greek Catholic cottar at Jesztreb no. 71 in [1889], wife Anna Jaros. Born before about 1868. Not the Mihály born at Viszoka in 1882. See DM-H-023 and DM-H-026."
+  },
+  {
+    "id": "DM-X-030",
+    "ahnentafel": null,
+    "name": "Anna Jaros",
+    "role": "Wife of DM-X-029",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-006-1"
+    ],
+    "note": "Greek Catholic."
+  },
+  {
+    "id": "DM-X-031",
+    "ahnentafel": null,
+    "name": "Anna Demkó",
+    "role": "Daughter of DM-X-029",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "26 Nov [1889]",
+      "place": "Jesztreb no. 71"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-006-1"
+    ],
+    "note": "Died in her second year.",
+    "death": {
+      "date": "17 Mar 1891",
+      "place": null
+    }
+  },
+  {
+    "id": "DM-X-032",
+    "ahnentafel": null,
+    "name": "Michael Demko, of Jesztreb",
+    "role": "Probably the older Mihály implied by 'the younger'",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-006-2"
+    ],
+    "note": "Greek Catholic cottar at Jesztreb no. 54 in [1870], wife Maria Lazár, daughter Anna born 12 Jan [1870]."
+  },
+  {
+    "id": "DM-X-033",
+    "ahnentafel": null,
+    "name": "Susana Demko, wife of Joannes Szmeriga",
+    "role": "Demko woman at Jesztreb",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-006-3"
+    ],
+    "note": "Greek Catholic. Son András born 13 Nov [1864]."
+  },
+  {
+    "id": "DM-X-034",
+    "ahnentafel": null,
+    "name": "Elisabeth Demko, wife of Joannes Jerko (?)",
+    "role": "Demko woman at Senné",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-006-4"
+    ],
+    "note": "Son Andreas born 10 Dec [1861]. Husband's surname doubtful."
+  },
+  {
+    "id": "DM-X-035",
+    "ahnentafel": null,
+    "name": "János Kocsis (?) and his wife Mária",
+    "role": "Kocsis couple at Solymos; candidates for the parents of Ahn 19",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-006-6"
+    ],
+    "note": "Daughter Anna born 18 Mar [1875], Solymos. Surname read with doubt. See DM-H-025."
   }
 ]

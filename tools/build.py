@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
 NAMES = ["people", "sources", "documents", "priors", "hypotheses",
-         "batches", "folders", "leads", "asks", "decisions"]
+         "batches", "folders", "leads", "asks", "decisions", "necronym_checks"]
 
 
 def load():
@@ -216,7 +216,7 @@ def render(d):
     add("<nav><a href='#line'>Line</a><a href='#batches'>Batch log</a><a href='#documents'>Documents</a>"
         "<a href='#board'>Hypotheses</a><a href='#candidates'>Candidates</a><a href='#priors'>Priors</a>"
         "<a href='#sources'>Sources</a><a href='#leads'>Leads</a><a href='#folders'>Folders</a>"
-        "<a href='#asks'>Asks</a><a href='#decisions'>Decisions</a><a href='#agents'>Agents</a></nav>")
+        "<a href='#checks'>Name checks</a><a href='#asks'>Asks</a><a href='#decisions'>Decisions</a><a href='#agents'>Agents</a></nav>")
 
     add("<h2 id='line'>The line</h2><ul class='chain'>")
     def vital(p):
@@ -264,6 +264,10 @@ def render(d):
         add("<dt>Register</dt><dd>Parish: " + e(r["parish"]) + " Denomination: " + e(r["denomination"])
             + " Page: " + e(r["page"]) + ". Reference: " + e(r["archive_reference"]) + ".</dd>")
         add("<dt>Notes</dt><dd>" + "<br>".join(e(n) for n in doc["notes"]) + "</dd>")
+        if doc.get("provenance"):
+            pv = doc["provenance"]
+            add("<dt>Provenance</dt><dd>Archive: " + e(pv["archive"]) + ". Fond or film: " + e(pv["fond_or_film"]) + ". Book: " + e(pv["book"])
+                + ". Page or image: " + e(pv["page_or_image"]) + ". How obtained: " + e(pv["obtained"]) + "</dd>")
         add(f"<dt>Collector's file name</dt><dd>{e(doc['collector_label'])}</dd>"
             f"<dt>Archived as</dt><dd><code>{e(doc['file'] or 'withheld')}</code><br><code>sha256 {e(doc['sha256'])}</code></dd></dl></div>")
 
@@ -271,7 +275,8 @@ def render(d):
     for h in sorted(d["hypotheses"], key=lambda h: (h["status"] != "open", h["id"])):
         add(f"<div class='card'><span class='conf'>{h['confidence']}%</span><span class='id'>{e(h['id'])}</span>"
             f"<span class='pill'>{e(h['status'])}</span><span class='pill'>raised {e(h['raised'])}</span>"
-            + (f"<span class='pill demko'>{e(h['question'])}</span>" if h.get("question") else "") +
+            + (f"<span class='pill demko'>{e(h['question'])}</span>" if h.get("question") else "")
+            + ("<span class='pill uncertain'>necronym risk unresolved</span>" if h.get("necronym_risk") else "") +
             f"<div class='bar'><i style='width:{h['confidence']}%'></i></div><p><b>{e(h['statement'])}</b></p>"
             f"<dl><dt>Basis</dt><dd>{e(h['basis'])}</dd><dt>Test</dt><dd>{e(h['test'])}</dd>")
         if h["resolution"]:
@@ -327,6 +332,12 @@ def render(d):
     for a in d["asks"]:
         add(f"<tr><td>{e(a['id'])}</td><td>{e(a['ask'])}</td><td>{e(a['why'])}</td>"
             f"<td><span class='pill {e(a['status'])}'>{e(a['status'])}</span></td></tr>")
+    add("</table></div>")
+
+    add("<h2 id='checks'>Reused-name checks</h2><p class='meta'>Required by the coordinator before a baptism is attached to an adult.</p><div class='tw'><table><tr><th>Id</th><th>Person</th><th>What was checked</th><th>Result</th></tr>")
+    for x in d["necronym_checks"]:
+        what = " ".join(f"{k.replace('_', ' ').capitalize()}: {x[k]}" for k in ("burials_searched", "forward_search", "backward", "age_test", "cousin_test") if x.get(k))
+        add(f"<tr><td>{e(x['id'])}</td><td>{e(x['person'])}</td><td>{e(what)}</td><td>{e(x['result'])}</td></tr>")
     add("</table></div>")
 
     add("<h2 id='decisions'>Decisions</h2><div class='tw'><table><tr><th>Id</th><th>Date</th><th>Decision</th><th>Why</th></tr>")

@@ -306,5 +306,65 @@
     "reliability": "Derivative: a later copy on a Slovak-era form. Parish from the folder name.",
     "document": "DM-D-033",
     "also": "DUS:S-004 @ce326b4"
+  },
+  {
+    "id": "DM-S-006-1",
+    "batch": "DM-B-006",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Anna Demkó, born 26 November [1889], died 17 March 1891, Jesztreb 71",
+    "extract": "No. 51. Born and baptised 26 November: Anna, legitimate daughter of Mihály Demkó the younger, Greek Catholic cottar, and Anna Jaros, of Jesztreb no. 71. She died on 17 March 1891.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-034",
+    "also": "DUS:S-035 @3ac9629"
+  },
+  {
+    "id": "DM-S-006-2",
+    "batch": "DM-B-006",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Anna Demko, born 12 January [1870], Jesztreb 54",
+    "extract": "No. 4. Born 12 January, baptised 13 January: Anna, legitimate daughter of Michael Demko, Greek Catholic cottar, and Maria Lazár, of Jesztreb no. 54.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-035",
+    "also": "DUS:S-034 @3ac9629"
+  },
+  {
+    "id": "DM-S-006-3",
+    "batch": "DM-B-006",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of András Szmeriga, son of Susana Demko, 13 November [1864], Jesztreb",
+    "extract": "No. 61. Born 13 November, baptised 14 November: András, legitimate son of Joannes Szmeriga and Susana Demko, of Jesztreb.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-036",
+    "also": "DUS:S-031 @3ac9629"
+  },
+  {
+    "id": "DM-S-006-4",
+    "batch": "DM-B-006",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Andreas, son of Elisab. Demko, 10 December [1861], Szenna",
+    "extract": "No. 18. Born and baptised 10 December: Andreas, son of Joannes Jerko (?) and Elisabeth Demko, of Szenna.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-037",
+    "also": "DUS:S-032 @3ac9629"
+  },
+  {
+    "id": "DM-S-006-5",
+    "batch": "DM-B-006",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Andreas, born 25 February, died February 1870, Szenna (labelled 'Demko maybe 1876')",
+    "extract": "No. 6. Born and baptised 25 February: Andreas, son of a Joannes, Greek Catholic cottar of Szenna. He died within days, in February 1870.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-038",
+    "also": "DUS:S-030 @3ac9629"
+  },
+  {
+    "id": "DM-S-006-6",
+    "batch": "DM-B-006",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Anna Kocsis, born 18 March [1875], Solymos",
+    "extract": "No. 9. Born 18 March, baptised 19 March: Anna, legitimate daughter of János Kocsis (?) and Mária, of Solymos.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-039",
+    "also": "DUS:S-037 @3ac9629"
   }
 ]

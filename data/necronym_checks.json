@@ -1,0 +1,54 @@
+[
+  {
+    "id": "DM-NC-001",
+    "rule": "X-017 rules 1 to 5",
+    "person": "P-018 / DM-X-001, Mihály Demkó, baptised 20 Aug 1882",
+    "burials_searched": "none: no burial register of the Csicser Greek Catholic parish or of the Roman Catholic parish for Viszoka, 1882 to 1897, is in hand",
+    "forward_search": "The strips in hand for this couple end in 1882. No later Mihály to György Demkó is in hand; the mother was bearing by January 1857, so a child after 1882 is unlikely.",
+    "backward": "An earlier Mihály, twin, born 29 May [1873], is marked with a cross (DM-D-013). The 1882 child is itself a reuse of that name. The two are kept as two people.",
+    "age_test": "The father of 1906 is '24 (huszonnégy) éves' on 23 Aug 1906: born between 24 Aug 1881 and 23 Aug 1882. The child of 19 Aug 1882 fits; the twin of 1873 does not.",
+    "cousin_test": "The 1906 record names no parents for him. A cousin Mihály born about 1881-82 to János Demkó of Viszoka no. 120 is not excluded by the strips in hand (gap between March 1879 and January 1883).",
+    "result": "necronym risk: unresolved. Link capped at 70.",
+    "logged": "2026-11-12T06:16:34Z"
+  },
+  {
+    "id": "DM-NC-002",
+    "rule": "X-017 rules 1 to 3",
+    "person": "P-009, Mária Demkó, born 22 Aug 1906",
+    "burials_searched": "none: no burial or civil death register for Solymos, 1906 to 1921, is in hand",
+    "forward_search": "One other baptism of a Mária to a Mihály Demkó is in hand (DM-D-006, 24 February, year not shown, mother Anna). It is kept as a second person.",
+    "age_test": "The gravestone gives 'born 1906'. No record gives her age at marriage or death.",
+    "result": "necronym risk: unresolved. That Ahn 9 is the child of 1906 stays an agreement of name, village and year.",
+    "logged": "2026-11-12T06:16:34Z"
+  },
+  {
+    "id": "DM-NC-003",
+    "rule": "X-017 rules 1, 6 and 7",
+    "person": "P-036, György Demkó, husband of Mária Hreskó; candidates Georgius of [1831] and György of [1834]",
+    "burials_searched": "none in hand",
+    "forward_search": "Three wives' names appear with a György Demko at Viszoka between [1831] and [1840]. Under rule 7 they are taken as successive wives of one man until a record shows two men (DM-H-021).",
+    "result": "necronym risk: unresolved for both boys.",
+    "logged": "2026-11-12T06:16:34Z"
+  },
+  {
+    "id": "DM-NC-004",
+    "rule": "X-017 rule 3",
+    "person": "János Demkó: twin of [1873] (cross), and János born 29 Mar 1875, same parents",
+    "result": "Two people. The second carries the name of the first.",
+    "logged": "2026-11-12T06:16:34Z"
+  },
+  {
+    "id": "DM-NC-005",
+    "rule": "X-017 rule 7",
+    "person": "DM-X-016 Anna Szlekár [1874] and DM-X-028 Mária Szlekár [1877-1883], wives of János Demkó",
+    "result": "Kept as two women. A slip of the pen for one woman is as likely; no record decides.",
+    "logged": "2026-11-12T06:16:34Z"
+  },
+  {
+    "id": "DM-NC-006",
+    "rule": "X-017 item 6",
+    "person": "DUS:K-004 György Demko (1895, Gönyű) and DUS:K-007 Mária Hriczko ([1894], Szina)",
+    "result": "Neither is attached to anyone on this line or used for any inference here.",
+    "logged": "2026-11-12T06:16:34Z"
+  }
+]

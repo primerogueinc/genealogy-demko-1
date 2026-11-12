@@ -59,5 +59,21 @@
     ],
     "archive_path": "archive/duska-baptisms/cicarovce/",
     "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4, their F-004"
+  },
+  {
+    "id": "F-05",
+    "path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
+    "described_by_kevin": "Given to the Duska agent in parts; part 1 is 11 files. Six of them name a Demko or a Kocsis and are taken here under ledger X-012. The Krak and Duska strips stay with the Duska agent.",
+    "received": "2026-11-12",
+    "files_received": 6,
+    "complete": false,
+    "shared_with": [
+      "duska"
+    ],
+    "batches": [
+      "DM-B-006"
+    ],
+    "archive_path": "archive/duska-baptisms/inacovce-solymos-greek-catholic/",
+    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629, their F-005"
   }
 ]

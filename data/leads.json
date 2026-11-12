@@ -184,5 +184,43 @@
       "DM-H-011",
       "DM-H-013"
     ]
+  },
+  {
+    "id": "DM-L-023",
+    "text": "From the Places agent @6eab2b2: Alsókánya is the Hungarian name of Jastrabie pri Michalovciach (PL-P-014), which the church books call Jesztreb. This confirms the reading 'Kelt: Alsókányán' in DM-D-008: the civil birth of 1906 at Solymos was registered at Jastrabie.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-006",
+      "DM-H-018"
+    ]
+  },
+  {
+    "id": "DM-L-024",
+    "text": "From the Places agent @6eab2b2: the Iňačovce Greek Catholic church archive was badly damaged by lightning on 6 July 1929 and by fire on 1 April 1930 (PL-S-046); the indexed register stops in 1898 (PL-R-003). Three birth volumes of a state register for 1895 to 1906 appear in an index of FamilySearch image groups (PL-S-047), not opened.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-005",
+      "DM-H-018",
+      "DM-H-025"
+    ]
+  },
+  {
+    "id": "DM-L-025",
+    "text": "From the Places agent @6eab2b2: Greek Catholics living in Senné, Jastrabie and Stretava were registered at Iňačovce (PL-H-001, supported, 90). The Reformed of Iňačovce were a filial of Lúčky (PL-R-005). Vysoká nad Uhom stayed on the Slovak side in April 1939 (PL-S-036).",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-002",
+      "DM-H-003",
+      "DM-H-026"
+    ]
+  },
+  {
+    "id": "DM-L-026",
+    "text": "From the coordinator's method note of 12 Nov 2026 (ledger X-017): cholera waves in Hungary in 1831-32, 1848-49, 1854-55, 1866-67, 1872-73 and 1892-93. In this file: twins born in May 1873 both marked dead (DM-D-013), a first child dead at six weeks in February 1857 (DM-D-012). No cause of death is written on any strip in hand.",
+    "url": "https://github.com/primerogueinc/duska-coordinator",
+    "bears_on": [
+      "DM-H-010",
+      "DM-H-021"
+    ]
   }
 ]

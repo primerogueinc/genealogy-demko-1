@@ -77,6 +77,12 @@
         "from": 30,
         "to": 85,
         "why": "DM-S-004-8: Maria Demko 'of Iňačovce' married to Michal Duska of Senné, living at Senné no. 160."
+      },
+      {
+        "batch": "DM-B-006",
+        "from": 85,
+        "to": 85,
+        "why": "Confirmed, with a refinement from Places (PL-H-001 @6eab2b2): Greek Catholics of Senné and Jesztreb were entered in the Iňačovce book, and Demko women married at both are in it by the 1860s (DM-D-036, DM-D-037)."
       }
     ]
   },
@@ -134,6 +140,12 @@
         "from": 50,
         "to": 30,
         "why": "The birth record now in hand is a state civil registration, not a church book. A Greek Catholic baptism entry for August 1906 should also exist; nothing yet says where."
+      },
+      {
+        "batch": "DM-B-006",
+        "from": 30,
+        "to": 30,
+        "why": "Unchanged. Places reports the Iňačovce parish archive damaged by lightning in 1929 and fire in 1930 (PL-S-046 @6eab2b2) and the indexed register ending in 1898: a baptism of August 1906 may survive only in a copy held elsewhere."
       }
     ],
     "question": "X-Q-01"
@@ -243,9 +255,16 @@
         "from": 20,
         "to": 70,
         "why": "DM-S-004-6: Maria's father is Mihály Demkó, Greek Catholic, born at Magasrév (Viszoka), aged 24 on 23 Aug 1906. The Mihály of DM-S-001-1 was born at Viszoka on 19 Aug 1882: same name, rite, village and age to the week. Two links are still by agreement and not by statement: that Ahn 9 is the child of 1906, and that the father of 1906 is the child of 1882. Held at the X-009 cap of 70; this agent's own estimate without the cap is about 85."
+      },
+      {
+        "batch": "DM-B-006",
+        "from": 70,
+        "to": 70,
+        "why": "Unchanged at the cap. Ledger X-017 names the reason: it is not shown that the child of 1882 lived. The age written in 1906 fits him and not his dead namesake of 1873 (DM-NC-001). A second Mihály Demkó, a cottar of Jesztreb in the same registry district, is now on record (DM-D-034), but he was a father by 1889 and the 1906 record gives a birthplace, Magasrév, that sets the two apart."
       }
     ],
-    "question": "X-Q-03"
+    "question": "X-Q-03",
+    "necronym_risk": "unresolved"
   },
   {
     "id": "DM-H-011",
@@ -328,14 +347,22 @@
   {
     "id": "DM-H-015",
     "statement": "The 'maybe' baptism (DM-S-004-4: Mária, born 24 February, father Mihály Demkó, cottar, mother Anna) is not Ahn 9.",
-    "confidence": 85,
+    "confidence": 80,
     "basis": "Different birthday and different mother from the civil record, and the collector's own doubt. Against: if this strip is from 1906 and from Iňačovce, there were two Mária Demkós born there that year to fathers called Mihály, and the gravestone's 'born 1906' would fit either.",
     "test": "The year and parish of the strip. A baptism of Mária Demkó in late August 1906 in the Iňačovce Greek Catholic book.",
     "status": "open",
     "raised": "DM-B-004",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-006",
+        "from": 85,
+        "to": 80,
+        "why": "A Mihály Demkó, cottar, with a wife called Anna is now documented at Jesztreb in [1889] (DM-D-034). The 'maybe' strip, with the same father's name and standing and a mother Anna, is most simply a later child of that couple. Whether Ahn 9 could be that child still turns on the strip's year."
+      }
+    ],
+    "necronym_risk": "unresolved"
   },
   {
     "id": "DM-H-016",
@@ -354,7 +381,8 @@
         "to": 50,
         "why": "A Demko family, not one man, is at Viszoka by the 1830s: two or three fathers named György and a married daughter. That is a generation after Joannes."
       }
-    ]
+    ],
+    "necronym_risk": "unresolved"
   },
   {
     "id": "DM-H-017",
@@ -403,19 +431,27 @@
     "raised": "DM-B-005",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [],
+    "necronym_risk": "unresolved"
   },
   {
     "id": "DM-H-021",
     "statement": "The three György Demkos who baptised children at Viszoka in [1831], [1834-1838] and [1840] with wives Barbara, Anna and Mária are fewer than three men.",
-    "confidence": 55,
+    "confidence": 60,
     "basis": "Three wives' names in nine years under one husband's name. A man twice widowed fits the dates as written: Barbara to 1831, Anna 1834 to 1838, Mária by 1840. So do an uncle and nephew, or cousins. The years are the collector's.",
     "test": "Burials of Barbara and Anna Demko at Viszoka, 1831 to 1840; marriages of a widower György Demko.",
     "status": "open",
     "raised": "DM-B-005",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-006",
+        "from": 55,
+        "to": 60,
+        "why": "Ledger X-017 rule 7: a change of mother's name under one father's name is read as a second marriage until a second man is shown."
+      }
+    ]
   },
   {
     "id": "DM-H-022",
@@ -425,6 +461,56 @@
     "test": "His marriage entry to a Szlekár, about 1870; the 1869 census sheets for Viszoka.",
     "status": "open",
     "raised": "DM-B-005",
+    "resolved": null,
+    "resolution": null,
+    "history": [],
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "DM-H-023",
+    "statement": "The 'maybe' baptism (DM-D-006) is a child of Mihály Demkó the younger and his wife Anna, of Jesztreb, and comes from the Iňačovce Greek Catholic book.",
+    "confidence": 55,
+    "basis": "Same father's name, rite and standing (zsellér) and a mother Anna, as in DM-D-034. Against: the mother's surname is Jaros there and reads Latnoszki, Batronszki or similar on the strip; the strip shows no place.",
+    "test": "The year and page of the strip; the residence column that was cut off.",
+    "status": "open",
+    "raised": "DM-B-006",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-024",
+    "statement": "The Mária born on 22 August 1906 died young, and Ahn 9 is a later daughter of the same father who was given her name.",
+    "confidence": 8,
+    "necronym_risk": "unresolved",
+    "basis": "Raised because ledger X-017 requires the possibility to be carried until the burials are searched. Against it: the gravestone's 'born 1906', which a later child would not match.",
+    "test": "Burials and civil deaths at Solymos, 1906 to 1921; her age in the marriage entry.",
+    "status": "open",
+    "raised": "DM-B-006",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-025",
+    "statement": "Mária Kocsis (Ahn 19), born at Solymos about 1886, is a daughter of the János Kocsis and Mária who baptised a child at Solymos in [1875].",
+    "confidence": 30,
+    "basis": "Same surname, same village, eleven years apart, and the collector kept the strip. The surname on the strip is read with doubt, and Kocsis is a common name.",
+    "test": "A baptism of Mária Kocsis at Solymos in 1885 to 1887 in the Iňačovce Greek Catholic book (indexed to 1898, PL-R-003).",
+    "status": "open",
+    "raised": "DM-B-006",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-026",
+    "statement": "The Demkos of Jesztreb (Michael and his wife Maria Lazár, 1870; Mihály the younger, 1889) are a different family from the Demkos of Viszoka, with no common ancestor after 1800.",
+    "confidence": 50,
+    "basis": "Different parish, different standing (cottars against farmers), and the Viszoka Mihály is described in 1906 by his birthplace, as an incomer. Against: he married and settled in the very parish where they lived, which kin often arranged.",
+    "test": "Where Michael Demko of Jesztreb was born; marriages of Demkos in the Iňačovce book before 1870.",
+    "status": "open",
+    "raised": "DM-B-006",
     "resolved": null,
     "resolution": null,
     "history": []
