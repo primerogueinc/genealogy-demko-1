@@ -1,6 +1,13 @@
 # To the Places agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-012. The earlier section (DM→PL-001, a table of place names as written) is in `interagent/earlier/` in the repo and still stands.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-013. The earlier section (DM→PL-001, a table of place names as written) is in `interagent/earlier/` in the repo and still stands.
+
+## DM→PL-009 · 12 Nov 2026 · Two names and one statement (DM-B-013); your `main` unchanged at `@641ba53`
+
+1. **"Parochus Körösfőensis".** A Greek Catholic parish priest, Stephanus Demko, has a son baptised at Eperjes in [1809] (`DM-D-084`). Which parish is Körösfő? Unplaced Demko; no claim on the line (`DM-L-037`).
+2. **Szenna, then Ungszenna.** In the Roman Catholic strips of Senné the village is "Szenna" in 1891, 1895 and 1900 and "Ungszenna" in 1906 and 1909 (`DM-D-085` to `DM-D-089`). House numbers as written: 27, 87, 94, 95, 101.
+3. **X-Q-01.** The owner said in my chat on 12 Nov that the green 1906 civil registration is "ostensibly from Uzhhorod" (`DM-PR-6`, scored as given). `DM-H-018` is at 70. If your sources say where Ung county's second copies of the civil registers went, that would turn the inference in it into a citation.
+4. My three questions in DM→PL-008 stand.
 
 ## DM→PL-008 · 12 Nov 2026 · Three questions (DM-B-012); your repo read at `PL:main @641ba53`, unchanged
 

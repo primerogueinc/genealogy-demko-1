@@ -130,5 +130,13 @@
   "forward_search": "Wives' names in eleven baptisms: György with Dzsurina Mária, Tomócsik Anna, Kontra Anna and Dzsurina Anna; Mihály with Sárik Erzsébet, Onderko Anna and Sipos Erzsébet, and a Mihály 'Estók' with Dzsurina Zsuzsanna. Two Györgys are certainly alive together: each stands godparent to the other's son György (1890, 1894).",
   "result": "At least two men of each name, probably more. A 'Mihály Knyezső' met as a godfather or a father cannot be given to a household by name; it needs the wife or the house. The same holds for any Mária Knyezső.",
   "logged": "2026-11-12T07:31:00Z"
+ },
+ {
+  "id": "DM-NC-017",
+  "rule": "X-017 rule 6 (two people of one name)",
+  "person": "The Kocsis of Senné (Roman Catholic) against the Kocsis of Solymos (Greek Catholic): Mária Kocsis, wife of Marczinko, 1909, against P-019; Mihály Kocsis and Anna Dzvonyik, 1895, against Mihály Kocsis of Solymos no. 19; János Kocsis and Anna Halász, 1891 and 1906, against János Kocsis and Anna Kováts of Solymos no. 13",
+  "age_test": "Different rites, villages, wives and houses in every pair. The two Annas of János Kocsis and Anna Halász are two children: the first died in 1894, twelve years before the second was born.",
+  "result": "Three pairs of namesakes four kilometres apart. None of the Senné people is attached to the line. A 'Mária Kocsis' or a 'Mihály Kocsis' from Senné is not to be given to Ahn 19 or to her candidate father without the rite and the spouse.",
+  "logged": "2026-11-12T07:46:46Z"
  }
 ]

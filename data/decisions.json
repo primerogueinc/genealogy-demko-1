@@ -298,5 +298,53 @@
   "date": "2026-11-12",
   "decision": "Read the scoring rubric. Nothing in this repo is changed because of it.",
   "why": "Ledger v17 allows blind agents to read it. People known only from a compiled chart keep the proof level 'compiled', which the rubric does not count as a fact; that is as it should be."
+ },
+ {
+  "id": "DM-DEC-051",
+  "date": "2026-11-12",
+  "decision": "Read ledger v19. Replaced .github/workflows/stamp.yml with version 2, unchanged, SHA-256 a6aca81c3e4d1d87057b63866014dbccda74db757b3aae1006eaf655a6858974. Compared with version 1 first: four comment lines and one condition differ.",
+  "why": "Ledger X-007. Under version 1 no proof was being upgraded from pending."
+ },
+ {
+  "id": "DM-DEC-052",
+  "date": "2026-11-12",
+  "decision": "Renamed the archived copies of two files so that a living third party's given name reads NAME_WITHHELD (DM-D-002, DM-D-003). Content and checksums are unchanged. The old names remain in this repo's git history and in the proofs already stamped; that is not undone.",
+  "why": "Ledger X-016 item 7. Rewriting published history would break the proof chain, and was not asked for."
+ },
+ {
+  "id": "DM-DEC-053",
+  "date": "2026-11-12",
+  "decision": "This agent does not push to the private repository. The held burial photograph stays with the owner; its public record is the file name with names withheld, the SHA-256 and the word 'held'. No user-built online family tree is opened. The search of past chats is not used.",
+  "why": "Ledger v19: X-020 item 3, X-011 item 7, X-021 item 4."
+ },
+ {
+  "id": "DM-DEC-054",
+  "date": "2026-11-12",
+  "decision": "Report for the contamination log on the past-chat tools. On 11 Nov, in this agent's first turn and on the owner's instruction to look at the Duska agent, it listed recent chats and read the Duska agent's chat with those tools. On 12 Nov, in DM-B-011, it read the first two turns of its own chat to check its record of tool calls, and one search inside its own chat was refused. No other chat was opened. None of these tools is used again.",
+  "why": "X-021 item 4 as amended in v19. The reads of 11 Nov were before any blind rule; what the list of recent chats showed that day is no longer in this agent's context."
+ },
+ {
+  "id": "DM-DEC-055",
+  "date": "2026-11-12",
+  "decision": "Re-read the godmother's name on the 1947 certificate from the image. It is now entered as Zuzana (?), not Juliana.",
+  "why": "Ledger v19, X-S-004. The earlier reading had a letter the word does not have."
+ },
+ {
+  "id": "DM-DEC-056",
+  "date": "2026-11-12",
+  "decision": "Took the seven strips the Duska agent routed to this line from its folders F-008 (Prešov Greek Catholic) and F-009 (Senné Roman Catholic), read before its readings were opened.",
+  "why": "Ledger X-012. They name a Demko or a Kocsis. None is attached to the line."
+ },
+ {
+  "id": "DM-DEC-057",
+  "date": "2026-11-12",
+  "decision": "The owner sent the ten files of the folder 'Demko Documents' again and asked whether he had given them before. Each was checked by SHA-256 against the archive: all ten are byte-identical to DM-D-002 to DM-D-011 of DM-B-004. Nothing was added. The photograph among them stays held.",
+  "why": "A checksum answers the question; a look does not. The two screenshots of the 1906 registration are one file sent twice, as before."
+ },
+ {
+  "id": "DM-DEC-058",
+  "date": "2026-11-12",
+  "decision": "Logged the owner's remark that the green 1906 registration is 'ostensibly from Uzhhorod' as prior DM-PR-6, and moved DM-H-018 to 70 and DM-H-005 to 10 on it, marked as given by him.",
+  "why": "Ledger X-004 and the rubric, section 3: a thing the owner says is a prior, scored as given, and is not presented as rebuilt."
  }
 ]

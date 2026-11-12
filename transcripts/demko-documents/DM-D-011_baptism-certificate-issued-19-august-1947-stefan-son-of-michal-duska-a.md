@@ -27,7 +27,7 @@
 | Father | Michal Duska, r.kat., želiar, Senné | Michal Duska, Roman Catholic, cottar, of Senné | clear |
 | Mother | Maria Demko, gr.kat., Iňačovce | Maria Demko, Greek Catholic, of Iňačovce | clear |
 | Residence | Senné 160. | Senné, house no. 160 | clear |
-| Godparents | Jozef Macko-Kocák (?), gr.k., gymnazista (?), Michalovce / Juliana Hanušcák (?), r.k., žena Jána Bandura (?), Senné | Jozef Macko-Kocák (?), Greek Catholic, grammar-school pupil (?), of Michalovce; Juliana Hanušcák (?), Roman Catholic, wife of Ján Bandura (?), of Senné *(All four surnames are doubtful.)* | uncertain |
+| Godparents | Jozef Macko-Kocák (?), gr.k., gymnazista (?), Michalovce / Zuzana (?) Han[...]ščák (?), r.k., žena Jána Bandura (?), Senné | Jozef Macko-Kocák (?), Greek Catholic, grammar-school pupil (?), of Michalovce; Zuzana (?) Han[...]ščák (?), Roman Catholic, wife of Ján Bandura (?), of Senné *(All four surnames are doubtful. The godmother's given name was read as Juliana until DM-B-013.)* | uncertain |
 | Baptised by | Ján Barna, farár | Ján Barna, parish priest | probable |
 | Issued | Senné, die 19. mensis Augusta anno 1947 | Senné, 19 August 1947 | clear |
 | Signature and seal | [signature unread] / Rím. kat. farský úrad Senné | Signature not read. Seal of the Roman Catholic parish office, Senné | uncertain |
@@ -42,3 +42,4 @@ Certificate no. 106 of 1947 from the Roman Catholic parish of Senné, citing vol
 - A son of a Roman Catholic father and Greek Catholic mother, entered in the Roman Catholic book.
 - The mother's maiden surname and home village are given in the form used for a wife of another rite: 'gr.kat., Iňačovce'.
 - Shared with the Duska agent's line (Ahn 4 and Ahn 8).
+- Read again in DM-B-013 at the coordinator's request (ledger v19, X-S-004). The godmother's given name is a capital with a loop below the line, then five low letters: 'uzana'. There is no tall stroke for an l and no dot for an i, so 'Juliana' was wrong. The capital is like the J of 'Jozef' in the line above and could be a Z of the same build: Zuzana, or 'Juzana' as spelt. The ledger had told this agent that the Duska agent reads Zuzana; the letter count is this agent's own.

@@ -1,10 +1,10 @@
 # DM-D-002 · Petition to the bishop for leave to build a wooden chapel, 27 January 1803, page 1
 
-- **File:** `archive/demko-documents/Demko_Document_form_Martin_Part_1_1803.jpg`
+- **File:** `archive/demko-documents/Demko_Document_form_NAME_WITHHELD_Part_1_1803.jpg`
 - **SHA-256:** `4c51b09eaf87f04d8515b07bb885d00745b12f1ad05ff6f4f420445679a44ecf`
 - **Kind:** Manuscript petition, photographed original
 - **Language:** Latin
-- **Collector's label:** Demko Document form Martin Part 1 1803
+- **Collector's label:** Demko Document form NAME_WITHHELD Part 1 1803
 - **Parish:** n/a
 - **Denomination:** n/a
 - **Page / reference:** n/a / Not visible
@@ -30,3 +30,4 @@ To the bishop. The people of Pálócz, Tegenye, Viszoka and Mogyorós say their 
 - All names are in one hand: the scribe wrote them, the villagers did not sign.
 - No archive stamp, fond or folio number is visible on this page.
 - The addressee is not named. 'Praesul' is a bishop; the four villages and the request for a wooden chapel fit a petition from Greek Catholics to the bishop of Mukachevo. That is an inference.
+- The owner's file name carries a living third party's given name. It is replaced by NAME_WITHHELD in the archived copy of the name from DM-B-013 (ledger X-016 item 7). The file's content and checksum are unchanged.

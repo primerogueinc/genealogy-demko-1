@@ -11,8 +11,12 @@
 #   2. stamp the manifests with OpenTimestamps (ots stamp);
 #   3. commit each manifest and its .ots proof to the `proofs` branch as
 #      proofs/<UTC date of the commit>_<short commit>.manifest and .manifest.ots
-# Every six hours: run `ots upgrade` on proofs that are still pending and
-# commit the upgraded files.
+# After every stamp, and every six hours: run `ots upgrade` on proofs that are
+# still pending and commit the upgraded files.
+#
+# Version 2 (12 Nov 2026): the upgrade now also runs on every push, so pending
+# proofs are completed by the next push even where GitHub does not start the
+# schedule.
 #
 # The proofs show that these exact files existed no later than a given
 # Bitcoin block. They do not show who wrote them.
@@ -201,7 +205,7 @@ jobs:
   upgrade:
     name: Upgrade pending proofs
     needs: stamp
-    if: ${{ always() && github.event_name != 'push' }}
+    if: ${{ always() }}
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:

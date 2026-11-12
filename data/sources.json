@@ -780,5 +780,75 @@
   "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
   "document": "DM-D-082",
   "also": "DUS:S-095 @4d7a299"
+ },
+ {
+  "id": "DM-S-013-1",
+  "batch": "DM-B-013",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism and confirmation of Catharina Kocsis, [1804], Eperjes",
+  "extract": "Catharina, daughter of Joannes and Eva Kocsis, baptised and confirmed. Sponsors Andreas Siegenthaler and Susanna Henzelmann, of Eperjes.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-083",
+  "also": "DUS:S-133 @54436a6"
+ },
+ {
+  "id": "DM-S-013-2",
+  "batch": "DM-B-013",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism and confirmation of Stephanus Andreas, son of the priest Stephanus Demko, September [1809], Eperjes",
+  "extract": "September: Stephanus Andreas, little son of the Very Reverend Stephanus Demko, parish priest of Körösfő, baptised and confirmed. Sponsors: an advocate, Michael [...], and the noble Susanna [...], wife of Andreas Weber.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-084",
+  "also": "DUS:S-134 @54436a6"
+ },
+ {
+  "id": "DM-S-013-3",
+  "batch": "DM-B-013",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of András Marczinko, son of Mária Kocsis, born 3 February 1909, died 14 October 1925, Ungszenna 27",
+  "extract": "No. 6. Born 3 February 1909, baptised the 4th: András, legitimate son of Mihály Marczinko, Roman Catholic farmer, and Mária Kocsis, Roman Catholic, of Ungszenna no. 27. Note: died 14 October 1925.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-085",
+  "also": "DUS:S-139 @54436a6"
+ },
+ {
+  "id": "DM-S-013-4",
+  "batch": "DM-B-013",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Demko, born 9 March 1900, Szenna 87",
+  "extract": "No. 14. Born 9 March 1900, baptised the 10th: Anna, legitimate daughter of János Demko, Roman Catholic carpenter (?), of Szenna, and Mária Ivanko, Greek Catholic, of Lasztomér in Zemplén. Szenna no. 87.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-086",
+  "also": "DUS:S-143 @54436a6"
+ },
+ {
+  "id": "DM-S-013-5",
+  "batch": "DM-B-013",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Kocsis, born 17 December 1891, died 28 January 1894, Szenna 94",
+  "extract": "No. 84. Born 17 December 1891, baptised the 18th: Anna, legitimate daughter of János Kocsis, Roman Catholic farmer, and Anna Halász, of Szenna no. 94. Note: died 28 January 1894.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-087",
+  "also": "DUS:S-153 @54436a6"
+ },
+ {
+  "id": "DM-S-013-6",
+  "batch": "DM-B-013",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Kocsis, born 26 December 1895, Szenna 95",
+  "extract": "No. 66. Born 26 December 1895, baptised the 28th: Anna, legitimate daughter of Mihály Kocsis, Roman Catholic cottar, and Anna Dzvonyik, of Szenna no. 95.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-088",
+  "also": "DUS:S-154 @54436a6"
+ },
+ {
+  "id": "DM-S-013-7",
+  "batch": "DM-B-013",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Kocsis, born 17 May 1906, died 15 April 1908, Ungszenna 101",
+  "extract": "No. 15. Born 17 May 1906, baptised the 19th: Anna, legitimate daughter of János Kocsis, Roman Catholic cottar, and Anna Halász, of Ungszenna no. 101. Note: died 15 April 1908.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-089",
+  "also": "DUS:S-155 @54436a6"
  }
 ]

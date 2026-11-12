@@ -1,10 +1,10 @@
 # DM-D-003 · Petition to the bishop, 27 January 1803, page 2: signers for Viszoka and Mogyorós
 
-- **File:** `archive/demko-documents/Demko_Document_from_Martin_Part_2_1803.jpg`
+- **File:** `archive/demko-documents/Demko_Document_from_NAME_WITHHELD_Part_2_1803.jpg`
 - **SHA-256:** `b8fee4f43001a789242edda9b01007872528a517b0e16af19971214f2e21a972`
 - **Kind:** Manuscript petition, photographed original
 - **Language:** Latin
-- **Collector's label:** Demko Document from Martin Part 2 1803
+- **Collector's label:** Demko Document from NAME_WITHHELD Part 2 1803
 - **Parish:** n/a
 - **Denomination:** n/a
 - **Page / reference:** n/a / Not visible
@@ -25,3 +25,4 @@ Continuation of the signatures: four named men of Viszoka, the last of them Joan
 
 - Photo metadata: taken 19 Feb 2020 with a phone, location tag 48.207 N, 22.644 E, which is in Berehove, Ukraine. A branch of the Zakarpattia state archive is in that town (from training, to be confirmed by the Places agent). This is the only provenance the files carry.
 - The earliest Demko at Viszoka on paper so far: 79 years before the 1882 baptism at house 132.
+- The owner's file name carries a living third party's given name. It is replaced by NAME_WITHHELD in the archived copy of the name from DM-B-013 (ledger X-016 item 7). The file's content and checksum are unchanged.

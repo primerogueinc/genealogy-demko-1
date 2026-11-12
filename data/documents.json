@@ -121,7 +121,7 @@
   "batch": "DM-B-004",
   "folder": "F-02",
   "source": "DM-S-004-1",
-  "file": "archive/demko-documents/Demko_Document_form_Martin_Part_1_1803.jpg",
+  "file": "archive/demko-documents/Demko_Document_form_NAME_WITHHELD_Part_1_1803.jpg",
   "sha256": "4c51b09eaf87f04d8515b07bb885d00745b12f1ad05ff6f4f420445679a44ecf",
   "image": {
    "format": "JPEG",
@@ -131,7 +131,7 @@
   "title": "Petition to the bishop for leave to build a wooden chapel, 27 January 1803, page 1",
   "kind": "Manuscript petition, photographed original",
   "language": "Latin",
-  "collector_label": "Demko Document form Martin Part 1 1803",
+  "collector_label": "Demko Document form NAME_WITHHELD Part 1 1803",
   "register": {
    "parish": "n/a",
    "denomination": "n/a",
@@ -184,14 +184,15 @@
   "notes": [
    "All names are in one hand: the scribe wrote them, the villagers did not sign.",
    "No archive stamp, fond or folio number is visible on this page.",
-   "The addressee is not named. 'Praesul' is a bishop; the four villages and the request for a wooden chapel fit a petition from Greek Catholics to the bishop of Mukachevo. That is an inference."
+   "The addressee is not named. 'Praesul' is a bishop; the four villages and the request for a wooden chapel fit a petition from Greek Catholics to the bishop of Mukachevo. That is an inference.",
+   "The owner's file name carries a living third party's given name. It is replaced by NAME_WITHHELD in the archived copy of the name from DM-B-013 (ledger X-016 item 7). The file's content and checksum are unchanged."
   ],
   "provenance": {
    "archive": "unknown; one photograph's location tag is in Berehove, Ukraine",
    "fond_or_film": "unknown",
    "book": "loose petition, two pages",
    "page_or_image": "unknown",
-   "obtained": "from a third party, 'Martin' in the file names; photographed 2020-02-19 per the image metadata"
+   "obtained": "from a third party, named in the owner's file names; the name is withheld under ledger X-016 item 7; photographed 2020-02-19 per the image metadata"
   }
  },
  {
@@ -199,7 +200,7 @@
   "batch": "DM-B-004",
   "folder": "F-02",
   "source": "DM-S-004-1",
-  "file": "archive/demko-documents/Demko_Document_from_Martin_Part_2_1803.jpg",
+  "file": "archive/demko-documents/Demko_Document_from_NAME_WITHHELD_Part_2_1803.jpg",
   "sha256": "b8fee4f43001a789242edda9b01007872528a517b0e16af19971214f2e21a972",
   "image": {
    "format": "JPEG",
@@ -209,7 +210,7 @@
   "title": "Petition to the bishop, 27 January 1803, page 2: signers for Viszoka and Mogyorós",
   "kind": "Manuscript petition, photographed original",
   "language": "Latin",
-  "collector_label": "Demko Document from Martin Part 2 1803",
+  "collector_label": "Demko Document from NAME_WITHHELD Part 2 1803",
   "register": {
    "parish": "n/a",
    "denomination": "n/a",
@@ -235,14 +236,15 @@
   "translation": "Continuation of the signatures: four named men of Viszoka, the last of them Joannes Demko, and two of Mogyorós, each group 'and the other inhabitants'.",
   "notes": [
    "Photo metadata: taken 19 Feb 2020 with a phone, location tag 48.207 N, 22.644 E, which is in Berehove, Ukraine. A branch of the Zakarpattia state archive is in that town (from training, to be confirmed by the Places agent). This is the only provenance the files carry.",
-   "The earliest Demko at Viszoka on paper so far: 79 years before the 1882 baptism at house 132."
+   "The earliest Demko at Viszoka on paper so far: 79 years before the 1882 baptism at house 132.",
+   "The owner's file name carries a living third party's given name. It is replaced by NAME_WITHHELD in the archived copy of the name from DM-B-013 (ledger X-016 item 7). The file's content and checksum are unchanged."
   ],
   "provenance": {
    "archive": "unknown; one photograph's location tag is in Berehove, Ukraine",
    "fond_or_film": "unknown",
    "book": "loose petition, two pages",
    "page_or_image": "unknown",
-   "obtained": "from a third party, 'Martin' in the file names; photographed 2020-02-19 per the image metadata"
+   "obtained": "from a third party, named in the owner's file names; the name is withheld under ledger X-016 item 7; photographed 2020-02-19 per the image metadata"
   }
  },
  {
@@ -649,10 +651,11 @@
    "A state register on printed security paper, made the day after the birth on the father's own word: an original record with a first-hand informant.",
    "The image is a phone screenshot of a scan, dated 13 Jan 2022 in its metadata. The register's custodian, district and volume are not shown.",
    "The father signs his own name. In 1882 terms he is the right age to the week: a Mihály Demkó born at Viszoka on 19 August 1882 turned 24 four days before this entry.",
-   "House numbers are not asked for on this form."
+   "House numbers are not asked for on this form.",
+   "The owner said on 12 Nov 2026 that this document is 'ostensibly from Uzhhorod' (DM-PR-6). That is his statement, not something the image shows; it is scored as given. If right, this is the 'birth record in Uzhhorod' of DM-PR-1, and the record was found before the rebuild began."
   ],
   "provenance": {
-   "archive": "unknown",
+   "archive": "Uzhhorod, 'ostensibly', on the owner's word (DM-PR-6). Not shown on the image",
    "fond_or_film": "unknown",
    "book": "State civil register of births, registry seat Alsókánya, 1906",
    "page_or_image": "page 320, entry 45",
@@ -684,10 +687,11 @@
   "fields": [],
   "translation": "Byte-for-byte the same file as DM-D-008.",
   "notes": [
-   "Same SHA-256 as DM-D-008. Archived because it was in the folder."
+   "Same SHA-256 as DM-D-008. Archived because it was in the folder.",
+   "The owner said on 12 Nov 2026 that this document is 'ostensibly from Uzhhorod' (DM-PR-6). That is his statement, not something the image shows; it is scored as given. If right, this is the 'birth record in Uzhhorod' of DM-PR-1, and the record was found before the rebuild began."
   ],
   "provenance": {
-   "archive": "unknown",
+   "archive": "Uzhhorod, 'ostensibly', on the owner's word (DM-PR-6). Not shown on the image",
    "fond_or_film": "unknown",
    "book": "State civil register of births, registry seat Alsókánya, 1906",
    "page_or_image": "page 320, entry 45",
@@ -853,10 +857,10 @@
    },
    {
     "column": "Godparents",
-    "original": "Jozef Macko-Kocák (?), gr.k., gymnazista (?), Michalovce / Juliana Hanušcák (?), r.k., žena Jána Bandura (?), Senné",
-    "english": "Jozef Macko-Kocák (?), Greek Catholic, grammar-school pupil (?), of Michalovce; Juliana Hanušcák (?), Roman Catholic, wife of Ján Bandura (?), of Senné",
+    "original": "Jozef Macko-Kocák (?), gr.k., gymnazista (?), Michalovce / Zuzana (?) Han[...]ščák (?), r.k., žena Jána Bandura (?), Senné",
+    "english": "Jozef Macko-Kocák (?), Greek Catholic, grammar-school pupil (?), of Michalovce; Zuzana (?) Han[...]ščák (?), Roman Catholic, wife of Ján Bandura (?), of Senné",
     "certainty": "uncertain",
-    "note": "All four surnames are doubtful."
+    "note": "All four surnames are doubtful. The godmother's given name was read as Juliana until DM-B-013."
    },
    {
     "column": "Baptised by",
@@ -882,7 +886,8 @@
    "A derivative: an extract made 18 years after the baptism from the parish's own book, with volume and page cited.",
    "A son of a Roman Catholic father and Greek Catholic mother, entered in the Roman Catholic book.",
    "The mother's maiden surname and home village are given in the form used for a wife of another rite: 'gr.kat., Iňačovce'.",
-   "Shared with the Duska agent's line (Ahn 4 and Ahn 8)."
+   "Shared with the Duska agent's line (Ahn 4 and Ahn 8).",
+   "Read again in DM-B-013 at the coordinator's request (ledger v19, X-S-004). The godmother's given name is a capital with a loop below the line, then five low letters: 'uzana'. There is no tall stroke for an l and no dot for an i, so 'Juliana' was wrong. The capital is like the J of 'Jozef' in the line above and could be a Z of the same build: Zuzana, or 'Juzana' as spelt. The ledger had told this agent that the Duska agent reads Zuzana; the letter count is this agent's own."
   ],
   "route": "duska",
   "provenance": {
@@ -6655,5 +6660,536 @@
   },
   "also_read_by": "DUS:D-007-10 / DUS:S-095 @4d7a299",
   "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-083",
+  "batch": "DM-B-013",
+  "folder": "F-10",
+  "source": "DM-S-013-1",
+  "file": "archive/presov-greek-catholic/Baptism_of_Catharina_Kocsis_1804.png",
+  "sha256": "a62d7fc5eff86f542e063c477c4a29fcd47554edb65d9496daf8f7d39c558553",
+  "image": {
+   "format": "PNG",
+   "width": 1176,
+   "height": 283
+  },
+  "title": "Baptism and confirmation of Catharina Kocsis, [1804], Eperjes",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Baptism of Catharina Kocsis 1804",
+  "register": {
+   "parish": "Greek Catholic parish of Eperjes (Prešov): the sponsors are called 'Eperjessienses' and the entry is signed by a chaplain. The owner's folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "Die [.]a [.]bris bapt. & confirmata est Catharina e Parentibus Joanne & Eva Kocsis. Levantibus Andrea Siegenthaler, & Susanna Henzelmann Eperjessiensibus.",
+    "english": "On the [..] of [a month written with a numeral] Catharina was baptised and confirmed, of the parents Joannes and Eva Kocsis. Sponsors: Andreas Siegenthaler and Susanna Henzelmann, of Eperjes.",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Catharina, daughter of Joannes and Eva Kocsis, baptised and confirmed. Sponsors Andreas Siegenthaler and Susanna Henzelmann, of Eperjes.",
+  "notes": [
+   "Year 1804 from the collector's file name. The day and month are not safely read here; the Duska agent reads 7 November.",
+   "A Kocsis family in the town of Prešov, sixty kilometres and eighty years from Mária Kocsis of Solymos. The surname means 'coachman' and is common across the kingdom. No link is shown or expected.",
+   "The child is baptised and confirmed in one rite, as the Greek church does.",
+   "Readings agree with DUS:D-008-03 apart from the date."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Eperjes (Prešov), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-008-03 / DUS:S-133 @54436a6",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+ },
+ {
+  "id": "DM-D-084",
+  "batch": "DM-B-013",
+  "folder": "F-10",
+  "source": "DM-S-013-2",
+  "file": "archive/presov-greek-catholic/Baptism_of_Stephanus_Demko_1809.png",
+  "sha256": "82019731df297de75d265cba876b51797a55773134755df03ad65096e707e4c7",
+  "image": {
+   "format": "PNG",
+   "width": 876,
+   "height": 441
+  },
+  "title": "Baptism and confirmation of Stephanus Andreas, son of the priest Stephanus Demko, September [1809], Eperjes",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Baptism of Stephanus Demko 1809",
+  "register": {
+   "parish": "Greek Catholic parish of Eperjes (Prešov): the sponsors are called 'Eperjessienses' and the entry is signed by a chaplain. The owner's folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "Die 1[.]a 7bris Baptisatus, et Confirmatus est Stephanus Andreas filiolus Adm. Rdi Dni Stephani Demko Parochi Körösfőensis, et levantibus Per-illustri D. Michaele [...] Advocato, tum Nobili Susanna [...] Dni Andreae Weber Consorte. J. [...] Capel.",
+    "english": "On the 10th or 11th of September was baptised and confirmed Stephanus Andreas, little son of the Very Reverend Stephanus Demko, parish priest of Körösfő; the sponsors being the illustrious Michael [...], advocate, and the noble Susanna [...], wife of Andreas Weber. J. [...], chaplain.",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "September: Stephanus Andreas, little son of the Very Reverend Stephanus Demko, parish priest of Körösfő, baptised and confirmed. Sponsors: an advocate, Michael [...], and the noble Susanna [...], wife of Andreas Weber.",
+  "notes": [
+   "Year 1809 from the collector's file name. The day reads 10 or 11; the Duska agent reads 10.",
+   "A Greek Catholic parish priest named Demko, with a son: the clergy of that church married. The mother is not named. His parish is written 'Körösfőensis'; the place is not identified here and is flagged to the Places agent.",
+   "Not shown to be kin to the Demkos of Viszoka, who were villagers under a landlord in 1803 (DM-D-003). Unplaced.",
+   "The sponsors' surnames are doubtful in both readings (DUS:D-008-04)."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Eperjes (Prešov), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-008-04 / DUS:S-134 @54436a6",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+ },
+ {
+  "id": "DM-D-085",
+  "batch": "DM-B-013",
+  "folder": "F-11",
+  "source": "DM-S-013-3",
+  "file": "archive/senne-roman-catholic/Baptism_of_Andras_Marczinko_Kocsis_1909.png",
+  "sha256": "ecf59957c662e3f638f2ec459dfb1c1f4f29350f2496750914238f63ef79344f",
+  "image": {
+   "format": "PNG",
+   "width": 1491,
+   "height": 275
+  },
+  "title": "Baptism of András Marczinko, son of Mária Kocsis, born 3 February 1909, died 14 October 1925, Ungszenna 27",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Andras Marczinko Kocsis 1909",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna; Ungszenna by 1906). Every party is 'r.k.' unless marked, and the officiant is the 'plébános'. The owner's folder name agrees.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "6.",
+    "english": "No. 6",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "1909 febr. 3. / 1909 febr. 4.",
+    "english": "3 February 1909 / 4 February 1909",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "András / fi / törvényes",
+    "english": "András / male / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Marczinko Mihály r.k. gazda, Ungszenna / Kocsis Mária r.k., Ungszenna",
+    "english": "Mihály Marczinko, Roman Catholic, farmer, of Ungszenna; Mária Kocsis, Roman Catholic, of Ungszenna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Ungszenna 27.",
+    "english": "Ungszenna (Senné), house no. 27",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Morvai János gk. gazda Ungszenna / Obsitnyik Borbála, Farkas Jánosné, Ungszenna",
+    "english": "János Morvai, Greek Catholic, farmer; Borbála Obsitnyik, wife of János Farkas; of Ungszenna",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "Barna János, plébános",
+    "english": "János Barna, parish priest",
+    "certainty": "clear"
+   },
+   {
+    "column": "Remarks",
+    "original": "+ 1925 okt. 14.",
+    "english": "died 14 October 1925",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 6. Born 3 February 1909, baptised the 4th: András, legitimate son of Mihály Marczinko, Roman Catholic farmer, and Mária Kocsis, Roman Catholic, of Ungszenna no. 27. Note: died 14 October 1925.",
+  "notes": [
+   "The year is written on the strip.",
+   "A third Mária Kocsis. She is Roman Catholic, of Senné, and married to a Marczinko in 1909. Maria Demko's mother was Greek Catholic, of Solymos, and the wife of Mihály Demkó in 1906. Not the same woman on what is in hand (DM-NC-017).",
+   "The priest, Barna János, is the 'Ján Barna farár' who baptised Štefan Duska in the same church twenty years later (DM-D-011).",
+   "Readings agree with DUS:D-009-05."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms (the Places agent's PL-R-006)",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-009-05 / DUS:S-139 @54436a6",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+ },
+ {
+  "id": "DM-D-086",
+  "batch": "DM-B-013",
+  "folder": "F-11",
+  "source": "DM-S-013-4",
+  "file": "archive/senne-roman-catholic/Baptism_of_Anna_Demko_1900.png",
+  "sha256": "b5e930a6bdb8a1ac1e397a696db4aa5234f4b0e6a873dee600da04ef5b17391f",
+  "image": {
+   "format": "PNG",
+   "width": 1631,
+   "height": 206
+  },
+  "title": "Baptism of Anna Demko, born 9 March 1900, Szenna 87",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Demko 1900",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna; Ungszenna by 1906). Every party is 'r.k.' unless marked, and the officiant is the 'plébános'. The owner's folder name agrees.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "14.",
+    "english": "No. 14",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "1900. Márcz. 9. / 1900. Márcz. 10.",
+    "english": "9 March 1900 / 10 March 1900",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Anna / nő / törv.",
+    "english": "Anna / female / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Demko János rk. ács (?) Szenna / Ivanko Mária gk. Lasztomér, Zemplén",
+    "english": "János Demko, Roman Catholic, carpenter (?), of Szenna; Mária Ivanko, Greek Catholic, of Lasztomér in Zemplén county",
+    "certainty": "probable"
+   },
+   {
+    "column": "Residence",
+    "original": "Szenna 87.",
+    "english": "Szenna (Senné), house no. 87",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Stachira (?) András gk. cseléd / Fika (?) Mária gk. szennaiak",
+    "english": "András Stachira (?), Greek Catholic, farm servant; Mária Fika (?), Greek Catholic; both of Szenna",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Officiant",
+    "original": "Buzinkay (?) Gyula plébános",
+    "english": "Gyula Buzinkay (?), parish priest",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 14. Born 9 March 1900, baptised the 10th: Anna, legitimate daughter of János Demko, Roman Catholic carpenter (?), of Szenna, and Mária Ivanko, Greek Catholic, of Lasztomér in Zemplén. Szenna no. 87.",
+  "notes": [
+   "The year is written on the strip.",
+   "A Demko household at Senné in 1900, in the village where Maria Demko married a generation later. He is entered as Roman Catholic and 'of Szenna'. His wife is from Lasztomér, the village of the unplaced Ilona Demkó of the 'hint' strips (DM-D-041): there the Demko was of Lasztomér, here the Demko's wife is.",
+   "Ahn 18 had a brother János, baptised Greek Catholic at Viszoka in March 1875 (DM-D-014). He would be 25 here. Whether this is he is DM-H-037; the rite and the words 'of Szenna' speak against it.",
+   "Readings agree with DUS:D-009-09, which also doubts the occupation."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms (the Places agent's PL-R-006)",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-009-09 / DUS:S-143 @54436a6",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+ },
+ {
+  "id": "DM-D-087",
+  "batch": "DM-B-013",
+  "folder": "F-11",
+  "source": "DM-S-013-5",
+  "file": "archive/senne-roman-catholic/Baptism_of_Anna_Kocsis_1891.png",
+  "sha256": "315a5342a18dad80f67b4008a80ba10c97187f01bc4641d5c3beb839b1cb3680",
+  "image": {
+   "format": "PNG",
+   "width": 1762,
+   "height": 393
+  },
+  "title": "Baptism of Anna Kocsis, born 17 December 1891, died 28 January 1894, Szenna 94",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Kocsis 1891",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna; Ungszenna by 1906). Every party is 'r.k.' unless marked, and the officiant is the 'plébános'. The owner's folder name agrees.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "84.",
+    "english": "No. 84",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "1891 Dec 17 / 1891 Dec 18",
+    "english": "17 December 1891 / 18 December 1891",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Anna / nő / törvényes",
+    "english": "Anna / female / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Szenna 94",
+    "english": "Szenna (Senné), house no. 94",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Kocsis János r.k. gazda Szenna / Halász Anna r.k. Szenna",
+    "english": "János Kocsis, Roman Catholic, farmer; Anna Halász, Roman Catholic; of Szenna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Murnyik György r.k. gazda Szenna / Obsitnyik Anna r.k. Szenna",
+    "english": "György Murnyik, farmer; Anna Obsitnyik; Roman Catholics of Szenna",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "Rusznák [...] esperes plébános",
+    "english": "[...] Rusznák, dean and parish priest",
+    "certainty": "probable"
+   },
+   {
+    "column": "Remarks",
+    "original": "meghalt 1894. Jan. 28.",
+    "english": "died 28 January 1894",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 84. Born 17 December 1891, baptised the 18th: Anna, legitimate daughter of János Kocsis, Roman Catholic farmer, and Anna Halász, of Szenna no. 94. Note: died 28 January 1894.",
+  "notes": [
+   "The year is written on the strip.",
+   "Roman Catholic Kocsis of Senné: a different village and church from the Greek Catholic Kocsis of Solymos. A János Kocsis with a wife Anna is also on record at Solymos no. 13 in the 1870s (wife Anna Kováts): two men (DM-NC-017).",
+   "The priest's given name is not read here; István in DUS:D-009-19."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms (the Places agent's PL-R-006)",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-009-19 / DUS:S-153 @54436a6",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+ },
+ {
+  "id": "DM-D-088",
+  "batch": "DM-B-013",
+  "folder": "F-11",
+  "source": "DM-S-013-6",
+  "file": "archive/senne-roman-catholic/Baptism_of_Anna_Kocsis_1895.png",
+  "sha256": "96574c65ded5de828c6522b0814f401f39519cb4e893506aaef8a7a43387b856",
+  "image": {
+   "format": "PNG",
+   "width": 1742,
+   "height": 232
+  },
+  "title": "Baptism of Anna Kocsis, born 26 December 1895, Szenna 95",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Kocsis 1895",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna; Ungszenna by 1906). Every party is 'r.k.' unless marked, and the officiant is the 'plébános'. The owner's folder name agrees.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "66.",
+    "english": "No. 66",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "1895. Deczemb. 26. / 1895. Decz. 28.",
+    "english": "26 December 1895 / 28 December 1895",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Anna / nő / törv.",
+    "english": "Anna / female / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Kocsis Mihály rk. zsellér Szenna / Dzvonyik Anna rk. Szenna",
+    "english": "Mihály Kocsis, Roman Catholic, cottar; Anna Dzvonyik, Roman Catholic; of Szenna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Szenna 95.",
+    "english": "Szenna (Senné), house no. 95",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Bobik János rk. földm. Szenna / [...] Borbála rk. Szenna",
+    "english": "János Bobik, farmer; Borbála [...]; Roman Catholics of Szenna",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "Buzinkay (?) Gyula plébános",
+    "english": "Gyula Buzinkay (?), parish priest",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 66. Born 26 December 1895, baptised the 28th: Anna, legitimate daughter of Mihály Kocsis, Roman Catholic cottar, and Anna Dzvonyik, of Szenna no. 95.",
+  "notes": [
+   "The year is written on the strip.",
+   "A Mihály Kocsis at Senné in 1895, next door to János Kocsis at no. 94. Not the Mihály Kocsis of Solymos no. 19: that man is Greek Catholic, a farmer, and his wife is Mária Knyezső (DM-NC-017).",
+   "The godmother's surname is not read (Jankovcsák? here, Hankos[n]ák in DUS:D-009-20)."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms (the Places agent's PL-R-006)",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-009-20 / DUS:S-154 @54436a6",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+ },
+ {
+  "id": "DM-D-089",
+  "batch": "DM-B-013",
+  "folder": "F-11",
+  "source": "DM-S-013-7",
+  "file": "archive/senne-roman-catholic/Baptism_of_Anna_Kocsis_1906.png",
+  "sha256": "45b1135d525e877e127130086b3f6345486925df50a5d27fe5de65dc69d3b180",
+  "image": {
+   "format": "PNG",
+   "width": 1731,
+   "height": 217
+  },
+  "title": "Baptism of Anna Kocsis, born 17 May 1906, died 15 April 1908, Ungszenna 101",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Kocsis 1906",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna; Ungszenna by 1906). Every party is 'r.k.' unless marked, and the officiant is the 'plébános'. The owner's folder name agrees.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "15.",
+    "english": "No. 15",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "1906 május 17. / 1906 május 19.",
+    "english": "17 May 1906 / 19 May 1906",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Anna / nő / törvényes",
+    "english": "Anna / female / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Kocsiss János, r.k. zsellér Ungszenna / Halász Anna, r.k. Ungszenna",
+    "english": "János Kocsis, Roman Catholic, cottar; Anna Halász, Roman Catholic; of Ungszenna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Ung Szenna 101 sz.",
+    "english": "Ungszenna (Senné), house no. 101",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "L[...] Mihály r.k. cseléd Ungszenna / Jozsijo (?) Józsefné szül. Kondás Anna r.k. Ungszenna",
+    "english": "Mihály L[...], farm servant; the wife of József Jozsijo (?), born Anna Kondás; Roman Catholics of Ungszenna",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Officiant",
+    "original": "Barna János, r.k. lelkész",
+    "english": "János Barna, Roman Catholic pastor",
+    "certainty": "clear"
+   },
+   {
+    "column": "Remarks",
+    "original": "+ 1908. ápr. 15.",
+    "english": "died 15 April 1908",
+    "certainty": "clear"
+   },
+   {
+    "column": "Line below",
+    "original": "1906 évi május hó 22-én tartott egyházi látogatáskor [...]",
+    "english": "At the church visitation held on 22 May 1906 [...]; the rest is cut",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 15. Born 17 May 1906, baptised the 19th: Anna, legitimate daughter of János Kocsis, Roman Catholic cottar, and Anna Halász, of Ungszenna no. 101. Note: died 15 April 1908.",
+  "notes": [
+   "The year is written on the strip.",
+   "Same couple as in 1891 (DM-D-087), fifteen years on. A second daughter Anna after the first died; the father is now a cottar where he was a farmer, and the house is 101 where it was 94. The village is written Ungszenna where it was Szenna.",
+   "A visitation of the church three days after this baptism is noted across the page.",
+   "Readings agree with DUS:D-009-21."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms (the Places agent's PL-R-006)",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-009-21 / DUS:S-155 @54436a6",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
  }
 ]

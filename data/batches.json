@@ -669,5 +669,68 @@
    "commit": "4d7a299",
    "found": "Two commits since the last pass. Its B-017 is a new folder of 45 strips from the Reformed register of Solymos; thirteen are routed to this line and taken, checksums equal to its manifest, read here before its readings were opened. The parents agree in all thirteen. Differences are on doubtful words: a baptism day and a house number in 1887, the father's surname and the pastor in 1825, house numbers in 1890 and 1910, two godparents' surnames, the dates in 1921. One of its strips (its D-007-08) has a Knyezső row above a Duska row and stays with it. At its request the rite of Mária Knyezső was read again: Roman Catholic, in 1887 and in 1889. Its B-018 says the owner has no more folders."
   }
+ },
+ {
+  "id": "DM-B-013",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T07:47:27Z",
+  "title": "Ledger v19; seven strips from Prešov and Senné, a Demko at Senné in 1900, and a godmother's name corrected",
+  "folder": "F-11",
+  "files": 7,
+  "blurb": "Ledger v19 is read. The stamping workflow is replaced with version 2. Two archived file names that carried a living third party's given name now read NAME_WITHHELD. The hypothesis that Maria Demko's father is the child of 1882 lists the two links it rests on. The Kocsis question has a number, X-Q-05. At the coordinator's request the godmother on Štefan's 1947 certificate was read again: she is Zuzana, not Juliana as entered before. The cross-review brought seven strips from two more folders the owner gave the Duska agent. From the Roman Catholic book of Senné: a János Demko, carpenter, with a daughter in 1900 at house 87, in the village where Maria Demko later married. He may be her father's brother, born at Viszoka in 1875, but he is entered as Roman Catholic and 'of Szenna', so that stands at 15. Also from Senné: Roman Catholic Kocsis households, including a third Mária Kocsis and a second Mihály Kocsis, none of them the Greek Catholic Kocsis of Solymos. From the Greek Catholic book of Prešov: a Kocsis family of 1804 and a parish priest named Demko with a little son in 1809, both unplaced. While this batch was being written the owner sent the ten files of 'Demko Documents' a second time; by checksum they are the same ten already here. He added one thing: the green 1906 birth registration is 'ostensibly from Uzhhorod'. That is logged as his statement. It makes the record long said to be in Uzhhorod and the record in hand the same paper, and moves that reading to 70, as given. The private piles are unchanged: one held file. Curiosities: 4.",
+  "raised": [
+   "DM-H-037"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-010",
+   "DM-H-018",
+   "DM-H-005"
+  ],
+  "people_added": [
+   "DM-X-056",
+   "DM-X-057",
+   "DM-X-058",
+   "DM-X-059"
+  ],
+  "sources_added": [
+   "DM-S-013-1",
+   "DM-S-013-2",
+   "DM-S-013-3",
+   "DM-S-013-4",
+   "DM-S-013-5",
+   "DM-S-013-6",
+   "DM-S-013-7"
+  ],
+  "documents_added": [
+   "DM-D-083",
+   "DM-D-084",
+   "DM-D-085",
+   "DM-D-086",
+   "DM-D-087",
+   "DM-D-088",
+   "DM-D-089"
+  ],
+  "curiosities_added": [
+   "DM-C-021",
+   "DM-C-022",
+   "DM-C-023",
+   "DM-C-024"
+  ],
+  "curiosities": 4,
+  "read": [
+   "coordinator ledger v19 (2026-11-12), duska-coordinator @bcea4c8",
+   "genealogu-duska-1 main @54436a6 (cross-review; its B-019 to B-021)",
+   "duska-and-demko-villages main @641ba53 (unchanged)",
+   "private repository @4f16658: to-demko/ and to-both/ only, unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "54436a6",
+   "found": "Three commits since the last pass: two new folders, Prešov Greek Catholic (4 strips, complete) and Senné Roman Catholic (27 strips so far, open). Seven strips are routed to this line and taken, checksums equal to its manifests. Its note named the parents on each before this agent read them; the strips were then read from the images. The readings agree on every parent. Differences: the date of the 1804 entry (not read here; 7 November there), the day in 1809 (10 or 11 here, 10 there), a priest's given name in 1891, a godmother's surname in 1895. It has accepted that Mária Knyezső is written Roman Catholic twice and leaves the number on that question to this agent. Its Krak finding (Anna Krak is the wife of a Duska of Senné) takes nothing from DM-H-026."
+  },
+  "priors_added": [
+   "DM-PR-6"
+  ]
  }
 ]

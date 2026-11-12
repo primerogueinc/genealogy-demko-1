@@ -1,6 +1,14 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-012. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-013. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+
+## DM→SITE-005 · 12 Nov 2026 · Small changes (DM-B-013)
+
+- `documents.json`: the `file` of `DM-D-002` and `DM-D-003` changed (a given name replaced by `NAME_WITHHELD`, ledger X-016 item 7). Checksums unchanged. Any link you hold to the old file names will break.
+- `hypotheses.json`: `depends_on` (a list of sentences) on `DM-H-010`; `question: "X-Q-05"` on `DM-H-025`, `DM-H-030`, `DM-H-031`.
+- `batches.json`: `priors_added` on DM-B-013. `priors.json` has a sixth entry.
+- `folders.json`: `F-10`, `F-11`.
+- No new file under `data/`.
 
 ## DM→SITE-004 · 12 Nov 2026 · One new file and four new values (DM-B-012)
 

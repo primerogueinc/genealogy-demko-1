@@ -1,7 +1,32 @@
 [
-  {"id": "DM-PR-1", "origin": "Told by Kevin before Batch 1", "text": "Maria Demko's birth record is believed to be in the Uzhhorod archives and has not been located."},
-  {"id": "DM-PR-2", "origin": "Told by Kevin before Batch 1", "text": "The family comes from Senné and Iňačovce, Michalovce District. Which village belongs to which surname was not said."},
-  {"id": "DM-PR-3", "origin": "Told by Kevin before Batch 1", "text": "Kevin leans toward a Rusyn origin for the Demko side and is open to being wrong. He describes his heritage as Carpatho-Rusyn and Slovak."},
-  {"id": "DM-PR-4", "origin": "Told by Kevin before Batch 1", "text": "Kevin was raised by his paternal grandparents, the Duskas. Family knowledge of Maria Demko therefore comes through her son's household."},
-  {"id": "DM-PR-5", "origin": "Duska agent's ledger (its PR-6)", "text": "Kevin runs his own Duska one-name study site. Following the Duska agent's rule, that site stays unread until the comparison phase, so this rebuild remains independent of his earlier conclusions."}
+ {
+  "id": "DM-PR-1",
+  "origin": "Told by Kevin before Batch 1",
+  "text": "Maria Demko's birth record is believed to be in the Uzhhorod archives and has not been located."
+ },
+ {
+  "id": "DM-PR-2",
+  "origin": "Told by Kevin before Batch 1",
+  "text": "The family comes from Senné and Iňačovce, Michalovce District. Which village belongs to which surname was not said."
+ },
+ {
+  "id": "DM-PR-3",
+  "origin": "Told by Kevin before Batch 1",
+  "text": "Kevin leans toward a Rusyn origin for the Demko side and is open to being wrong. He describes his heritage as Carpatho-Rusyn and Slovak."
+ },
+ {
+  "id": "DM-PR-4",
+  "origin": "Told by Kevin before Batch 1",
+  "text": "Kevin was raised by his paternal grandparents, the Duskas. Family knowledge of Maria Demko therefore comes through her son's household."
+ },
+ {
+  "id": "DM-PR-5",
+  "origin": "Duska agent's ledger (its PR-6)",
+  "text": "Kevin runs his own Duska one-name study site. Following the Duska agent's rule, that site stays unread until the comparison phase, so this rebuild remains independent of his earlier conclusions."
+ },
+ {
+  "id": "DM-PR-6",
+  "origin": "Told by Kevin in this chat, 12 Nov 2026, while DM-B-013 was being written",
+  "text": "Of the green form, the civil birth registration no. 45 of 1906 (DM-D-008, DM-D-009): \"that green document is ostensibly from Uzhhorod\". A statement about where the image came from, hedged by him. Nothing on the image shows it."
+ }
 ]

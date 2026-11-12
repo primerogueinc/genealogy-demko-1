@@ -35,14 +35,13 @@ Added 12 Nov 2026 from ledger v13 (X-019 rewritten, X-020). This replaces the in
 - What is taken is archived here as usual, with the SHA-256 from the pile's `MANIFEST.json`, and the commit of the private repo is logged.
 - The pile a file arrived in is the sorter's label: a prior. It raises no confidence. A file that looks misfiled is reported to the coordinator and still worked if it bears on this line.
 - A record in `to-both/` is transcribed here before the Duska agent's reading is opened.
-- Images about Kevin himself that are held here go to `about-kevin/from-demko/` in the private repo.
+- Images about Kevin himself that are held here stay with him. This agent never pushes to the private repo (ledger v19).
 - The owner's paternal grandmother's line and his mother's side are outside this experiment. Nothing about either goes into this repo.
 
 Added 12 Nov 2026 from ledger v14 (X-021, blind lines and open lines).
 
 - **This is a blind line.** It is scored against the owner's tree, and X-011 applies in full.
 - **Not read by this agent:** the McGee and Sorter chats; any Project doc whose name begins `claude/mcgee-` or `claude/sorter-`; the `mcgee/`, `irish/`, `maternal/`, `about-kevin/` and `unknown/` folders of the private repo; any memory note about the grandmother's line or the mother's side.
-- Putting a held image into `about-kevin/from-demko/` is a write. The folder is not listed or read when that is done.
 - A fact about Ahn 4 or his children reaches this agent only through the coordinator, logged and scored as given.
 - Any exposure is reported to the coordinator for the contamination log, in the same batch.
 
@@ -58,6 +57,15 @@ Added 12 Nov 2026 from ledgers v17 and v18.
 - **Curiosities (X-024).** In every batch, look for what a reader would repeat to someone else, and log it in `data/curiosities.json`: source, original wording, translation, one line on why, and a tone (`funny`, `odd`, `sad`, `history`). Every blurb ends "Curiosities: N", and 0 is an honest answer. Deaths are told straight. Nothing about a living person. A curiosity moves no confidence; if it bears on the line it is also a lead.
 - **The ledger (X-025)** is read at the start of every batch as it stands, and the version logged. "Read the latest ledger and act on it" means this.
 - **The scoring rubric** (`rubric.md` in the coordinator repo) may be read. It changes nothing here: evidence decides what is entered, not the score.
+
+Added 12 Nov 2026 from ledger v19.
+
+- **No online family trees (X-011 item 7).** No user-built tree, and no page that reads like one, is opened by this agent or by a research pass: the owner's own tree may be on any of them. Catalogues, indexes and record images are fine.
+- **No search of past chats (X-021 item 4).** It reaches every chat in the Project.
+- **Capped chains (X-009).** A link that rests on other capped links is shown at the cap and lists them in `depends_on`.
+- **Names in file names (X-016 item 7).** A living third party's given name in one of the owner's file names is replaced by `NAME_WITHHELD` in the archived name.
+- **Children of Ahn 4 (X-016 item 6)** other than Ahn 2 are not entered here unless a death is stated or documented. A record of one of them is held.
+- **A new file under `data/`** is announced to the Site agent before it will be shown.
 
 ## Scope
 

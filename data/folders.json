@@ -118,7 +118,7 @@
    "DM-B-011"
   ],
   "archive_path": "archive/unclassified-sorter-piles/",
-  "private_commit_read": "9bf2c7a; piles unchanged at 15a7b72",
+  "private_commit_read": "9bf2c7a; piles unchanged at 15a7b72 and at 4f16658",
   "archive_note": "No image here yet: the one file is held (archive/WITHHELD.json)."
  },
  {
@@ -136,5 +136,37 @@
   ],
   "archive_path": "archive/duska-baptisms/inacovce-reformed/",
   "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299, its F-007"
+ },
+ {
+  "id": "F-10",
+  "path": "Presov - Greek Catholic",
+  "described_by_kevin": "Given to the Duska agent as 'Presov - Greek Catholic FULL', 4 files; it lists the folder as complete. Baptisms from the Greek Catholic parish of Eperjes (Prešov), 1804 to 1822, in Latin. Two strips are routed to this line and taken here under ledger X-012.",
+  "received": "2026-11-12",
+  "files_received": 2,
+  "complete": true,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-013"
+  ],
+  "archive_path": "archive/presov-greek-catholic/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6, its F-008"
+ },
+ {
+  "id": "F-11",
+  "path": "Senne - Roman Catholic",
+  "described_by_kevin": "Given to the Duska agent in parts, 27 files so far; it lists the folder as open. Baptisms from the Roman Catholic register of Senné, 1866 to 1910. Five strips are routed to this line so far and taken here under ledger X-012.",
+  "received": "2026-11-12",
+  "files_received": 5,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-013"
+  ],
+  "archive_path": "archive/senne-roman-catholic/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6, its F-009"
  }
 ]

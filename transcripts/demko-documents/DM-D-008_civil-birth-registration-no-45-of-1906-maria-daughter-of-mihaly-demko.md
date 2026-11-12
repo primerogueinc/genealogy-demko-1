@@ -46,3 +46,4 @@ Entry 45, page 320. Registered at Alsókánya on 23 August 1906. The father came
 - The image is a phone screenshot of a scan, dated 13 Jan 2022 in its metadata. The register's custodian, district and volume are not shown.
 - The father signs his own name. In 1882 terms he is the right age to the week: a Mihály Demkó born at Viszoka on 19 August 1882 turned 24 four days before this entry.
 - House numbers are not asked for on this form.
+- The owner said on 12 Nov 2026 that this document is 'ostensibly from Uzhhorod' (DM-PR-6). That is his statement, not something the image shows; it is scored as given. If right, this is the 'birth record in Uzhhorod' of DM-PR-1, and the record was found before the rebuild began.

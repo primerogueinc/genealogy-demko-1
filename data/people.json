@@ -1184,5 +1184,76 @@
    "DM-S-012-2"
   ],
   "note": "Mother of a Borbála baptised 5 April [1825]. The earliest Kocsis at Solymos in hand. No link to the Kocsis farmers of the 1840s or to Ahn 19 is shown."
+ },
+ {
+  "id": "DM-X-056",
+  "ahnentafel": null,
+  "name": "Stephanus Demko, parish priest of Körösfő",
+  "role": "Unplaced Demko: a Greek Catholic priest, 1809",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-013-2"
+  ],
+  "note": "Father of Stephanus Andreas, baptised at Eperjes in September [1809]. No link to the Demkos of Viszoka is shown."
+ },
+ {
+  "id": "DM-X-057",
+  "ahnentafel": null,
+  "name": "János Demko, carpenter (?), of Senné no. 87",
+  "role": "A Demko at Senné in 1900; perhaps the brother of Ahn 18",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-013-4"
+  ],
+  "note": "Entered as Roman Catholic and of Szenna. Wife Mária Ivanko, Greek Catholic, of Lasztomér. Daughter Anna born 9 Mar 1900. See DM-H-037."
+ },
+ {
+  "id": "DM-X-058",
+  "ahnentafel": null,
+  "name": "The Roman Catholic Kocsis of Senné, 1891 to 1909",
+  "role": "Namesakes of the Solymos Kocsis; not shown to be kin",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-013-5",
+   "DM-S-013-6",
+   "DM-S-013-7",
+   "DM-S-013-3"
+  ],
+  "note": "János Kocsis and Anna Halász: Anna, 17 Dec 1891 (no. 94), died 1894; Anna, 17 May 1906 (no. 101), died 1908. Mihály Kocsis and Anna Dzvonyik: Anna, 26 Dec 1895 (no. 95). Mária Kocsis, wife of Mihály Marczinko: András, 3 Feb 1909 (no. 27), died 1925. All Roman Catholic. See DM-NC-017."
+ },
+ {
+  "id": "DM-X-059",
+  "ahnentafel": null,
+  "name": "Joannes and Eva Kocsis, of Eperjes",
+  "role": "A Kocsis family in the town of Prešov, [1804]",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-013-1"
+  ],
+  "note": "Daughter Catharina baptised and confirmed in the Greek Catholic church of Eperjes. No link shown or expected."
  }
 ]

@@ -21,3 +21,4 @@ Byte-for-byte the same file as DM-D-008.
 ## Notes
 
 - Same SHA-256 as DM-D-008. Archived because it was in the folder.
+- The owner said on 12 Nov 2026 that this document is 'ostensibly from Uzhhorod' (DM-PR-6). That is his statement, not something the image shows; it is scored as given. If right, this is the 'birth record in Uzhhorod' of DM-PR-1, and the record was found before the rebuild began.

@@ -127,7 +127,7 @@
  {
   "id": "DM-H-005",
   "statement": "The Uzhhorod record is a Greek Catholic register or register duplicate of the Mukachevo eparchy, and not a civil register.",
-  "confidence": 30,
+  "confidence": 10,
   "basis": "DM-L-003 catalogues exactly such a series for the Ung district. DM-L-001 shows the Iňačovce Greek Catholic books held at Prešov stop at 1898, which would leave a later baptism outside the Slovak holdings.",
   "test": "Whatever told Kevin the record is in Uzhhorod: an archive reply, a catalogue entry, or a fond and file number.",
   "status": "open",
@@ -158,6 +158,12 @@
     "from": 30,
     "to": 30,
     "why": "Unchanged. Places reports the Iňačovce parish archive damaged by lightning in 1929 and fire in 1930 (PL-S-046 @6eab2b2) and the indexed register ending in 1898: a baptism of August 1906 may survive only in a copy held elsewhere."
+   },
+   {
+    "batch": "DM-B-013",
+    "from": 30,
+    "to": 10,
+    "why": "The owner places the civil registration itself at Uzhhorod (DM-PR-6), which answers the question without a church book. Not refuted: a Greek Catholic entry for her may also exist, there or elsewhere."
    }
   ],
   "question": "X-Q-01"
@@ -273,10 +279,20 @@
     "from": 70,
     "to": 70,
     "why": "Unchanged at the cap. Ledger X-017 names the reason: it is not shown that the child of 1882 lived. The age written in 1906 fits him and not his dead namesake of 1873 (DM-NC-001). A second Mihály Demkó, a cottar of Jesztreb in the same registry district, is now on record (DM-D-034), but he was a father by 1889 and the 1906 record gives a birthplace, Magasrév, that sets the two apart."
+   },
+   {
+    "batch": "DM-B-013",
+    "from": 70,
+    "to": 70,
+    "why": "Ledger v19, X-009: a link resting on two capped links is shown at the cap, with what it rests on listed. The two links are now in 'depends_on'. No new evidence."
    }
   ],
   "question": "X-Q-03",
-  "necronym_risk": "unresolved"
+  "necronym_risk": "unresolved",
+  "depends_on": [
+   "The Mária registered on 23 August 1906 is Ahn 9, and not an elder sister of the same name who died (the negation of DM-H-024)",
+   "The father of 1906, Mihály Demkó born at Magasrév and aged 24, is the child baptised at Viszoka on 20 August 1882, and that child lived (DM-NC-001, DM-NC-007)"
+  ]
  },
  {
   "id": "DM-H-011",
@@ -430,14 +446,21 @@
   "id": "DM-H-018",
   "question": "X-Q-01",
   "statement": "The record said to be in Uzhhorod is the county's second copy of the civil registration of 1906, the entry now in hand as DM-S-004-6.",
-  "confidence": 40,
+  "confidence": 70,
   "basis": "The prior (DM-PR-1) says a birth record is in Uzhhorod and unfound; the only birth record in the file is a civil one, obtained in January 2022 from a source not stated. Rival of DM-H-005 under X-Q-01.",
   "test": "Where the scan in DM-D-008 came from (DM-A-007).",
-  "status": "open",
+  "status": "supported",
   "raised": "DM-B-004",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-013",
+    "from": 40,
+    "to": 70,
+    "why": "The owner says the green civil registration is 'ostensibly from Uzhhorod' (DM-PR-6). So the record of DM-PR-1 and the record in hand are, on his word, one and the same. That it is the county's second copy and not the registry's own book is still an inference: from recall, not checked here, civil registers were kept in two copies and the second went to the county, whose seat was Ungvár. Given by the owner, not rebuilt; his own word is 'ostensibly'."
+   }
+  ]
  },
  {
   "id": "DM-H-019",
@@ -551,7 +574,8 @@
     "to": 12,
     "why": "A baptism of a Mária Kocsis of the right age is in hand and her parents are the other couple (DM-D-054). Nothing new speaks for this one. Left open, not refuted: the book has not been searched."
    }
-  ]
+  ],
+  "question": "X-Q-05"
  },
  {
   "id": "DM-H-026",
@@ -634,7 +658,8 @@
     "to": 62,
     "why": "The test named for this hypothesis has come in. A Mária Kocsis was baptised at Solymos on 28 February [1887], daughter of this couple at this house (DM-D-054). It is the only Mária Kocsis of the right decade among the 58 strips of the folder, and the third Kocsis couple now on record has only sons in hand. Not higher: the folder is the owner's selection, not a search of the book; she is a year younger than the age written in 1906; and the link is by name, place and age, with no record yet that names the parents of Mihály Demkó's wife."
    }
-  ]
+  ],
+  "question": "X-Q-05"
  },
  {
   "id": "DM-H-031",
@@ -647,7 +672,8 @@
   "resolved": null,
   "resolution": null,
   "history": [],
-  "necronym_risk": "unresolved"
+  "necronym_risk": "unresolved",
+  "question": "X-Q-05"
  },
  {
   "id": "DM-H-032",
@@ -717,5 +743,18 @@
   "resolved": null,
   "resolution": null,
   "history": []
+ },
+ {
+  "id": "DM-H-037",
+  "statement": "János Demko, carpenter of Senné no. 87 in 1900, is the János baptised at Viszoka in March 1875, son of György Demkó and Mária Hreskó and brother of Ahn 18.",
+  "confidence": 15,
+  "basis": "Same name, and the right age: 25 at the birth of a first child in hand (DM-D-086, DM-D-014). It would explain how a Viszoka family came to the Senné and Solymos side, where his brother Mihály was a day-labourer by 1906 and where Mihály's daughter married. Against: he is entered as Roman Catholic and the Viszoka child was baptised Greek Catholic; the entry calls him 'of Szenna'; and a Demko woman was already a mother at Senné in 1861 (DM-D-037), so Senné had Demkos of its own.",
+  "test": "The marriage of János Demko and Mária Ivanko, about 1898 to 1900, at Senné or at Lasztomér (PL-R-055), which should give his birthplace and father.",
+  "status": "open",
+  "raised": "DM-B-013",
+  "resolved": null,
+  "resolution": null,
+  "history": [],
+  "necronym_risk": "unresolved"
  }
 ]

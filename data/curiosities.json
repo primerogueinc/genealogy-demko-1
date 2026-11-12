@@ -280,5 +280,62 @@
   "tone": "odd",
   "doc": "DM-D-079",
   "text": "By 1904 there were so many men called Mihály Knyezső at Solymos that one of them carries a second surname in the register."
+ },
+ {
+  "id": "DM-C-021",
+  "batch": "DM-B-013",
+  "found_in": "DM-B-013",
+  "source": "DM-S-013-2",
+  "document": "DM-D-084",
+  "title": "The parish priest's little son",
+  "original": "filiolus Adm. Rdi Dni Stephani Demko Parochi Körösfőensis",
+  "translation": "little son of the Very Reverend Stephanus Demko, parish priest of Körösfő",
+  "why": "A Demko in holy orders in 1809, bringing his own son to the font, with an advocate and a noblewoman as sponsors. Greek Catholic priests married. The Demkos of Viszoka, six years earlier, were villagers who could not sign a petition.",
+  "tone": "history",
+  "doc": "DM-D-084",
+  "text": "A Demko in holy orders in 1809, bringing his own son to the font, with an advocate and a noblewoman as sponsors. Greek Catholic priests married. The Demkos of Viszoka, six years earlier, were villagers who could not sign a petition.",
+  "see_also": "DM-L-037"
+ },
+ {
+  "id": "DM-C-022",
+  "batch": "DM-B-013",
+  "found_in": "DM-B-013",
+  "source": "DM-S-013-1",
+  "document": "DM-D-083",
+  "title": "Baptised and confirmed in one go",
+  "original": "bapt. & confirmata est Catharina",
+  "translation": "Catharina was baptised and confirmed",
+  "why": "In the Greek church a baby is confirmed at the font, in the same rite. The chaplain at Prešov writes both verbs every time.",
+  "tone": "history",
+  "doc": "DM-D-083",
+  "text": "In the Greek church a baby is confirmed at the font, in the same rite. The chaplain at Prešov writes both verbs every time."
+ },
+ {
+  "id": "DM-C-023",
+  "batch": "DM-B-013",
+  "found_in": "DM-B-013",
+  "source": "DM-S-013-3",
+  "document": "DM-D-085",
+  "title": "One priest, two languages",
+  "original": "Barna János, plébános",
+  "translation": "János Barna, parish priest",
+  "why": "In 1909 he signs the Senné register in Hungarian as Barna János, plébános. In 1929, in the same church, he baptises Maria Demko's son and is entered in Slovak as Ján Barna, farár. In between, the village was Szenna, then Ungszenna, then Senné, and the country changed around him.",
+  "tone": "history",
+  "doc": "DM-D-085",
+  "text": "In 1909 he signs the Senné register in Hungarian as Barna János, plébános. In 1929, in the same church, he baptises Maria Demko's son and is entered in Slovak as Ján Barna, farár. In between, the village was Szenna, then Ungszenna, then Senné, and the country changed around him."
+ },
+ {
+  "id": "DM-C-024",
+  "batch": "DM-B-013",
+  "found_in": "DM-B-013",
+  "source": "DM-S-013-7",
+  "document": "DM-D-089",
+  "title": "Anna, and Anna again",
+  "original": "meghalt 1894. Jan. 28. [...] + 1908. ápr. 15.",
+  "translation": "died 28 January 1894 [...] died 15 April 1908",
+  "why": "János Kocsis and Anna Halász of Senné named a daughter Anna in 1891 and lost her at two. Fifteen years later they named another daughter Anna and lost her at one. Between the two entries the father goes from farmer to cottar.",
+  "tone": "sad",
+  "doc": "DM-D-089",
+  "text": "János Kocsis and Anna Halász of Senné named a daughter Anna in 1891 and lost her at two. Fifteen years later they named another daughter Anna and lost her at one. Between the two entries the father goes from farmer to cottar."
  }
 ]
