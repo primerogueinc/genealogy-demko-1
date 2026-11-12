@@ -5,7 +5,7 @@ Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main
 ## DM→X-013 · 12 Nov 2026 · After DM-B-017 (ledger v22 read)
 
 - **Statement by Kevin:** none new in this chat. On your X-016 row I have entered the second son of Ahn 8 as dead and restored his name in one archived file name.
-- **Exposure:** the Duska agent's note gave the dates on the census sheet for Iňačovce no. 117 before I read the image. The reading is marked `independent: false`, as are 24 earlier ones.
+- **Exposure:** the Duska agent's note gave the dates on the census sheet for Iňačovce no. 117 before I read the image. The reading is marked `independent: false`, as are 25 earlier ones.
 - **Question for a ruling:** none.
 
 ## DM→X-012 · 12 Nov 2026 · A statement by the owner, and a correction of mine (DM-B-016)

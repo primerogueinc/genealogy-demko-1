@@ -410,13 +410,13 @@
  {
   "id": "DM-DEC-069",
   "date": "2026-11-12",
-  "decision": "Added a field 'object' to nineteen documents on or near the direct line: what kind of thing each is, judged from its form, what does not fit, who made it, when, and where such a paper is kept. One was checked against published descriptions (the 1906 register page); the others are judged from the form alone, and say so.",
+  "decision": "Added a field 'object' to 25 documents on or near the direct line: what kind of thing each is, judged from its form, what does not fit, who made it, when, and where such a paper is kept. One was checked against published descriptions (the 1906 register page); the others are judged from the form alone, and say so.",
   "why": "Ledger X-031. No document changes its name as a result. Three of the owner's file names describe a paper as something it is not (a 'guardianship' document that is a page of a deed of sale; a 'citizenship application' that is a letter on admission; an 'obituary' that is a paid notice); each was already read for what it is."
  },
  {
   "id": "DM-DEC-070",
   "date": "2026-11-12",
-  "decision": "Marked 25 documents 'independent: false': the readings made after the Duska agent's note or the coordinator's ledger had given the other reading, and the 1906 register page, which was read in the same batch as a third party's transcription.",
+  "decision": "Marked 26 documents 'independent: false': the readings made after the Duska agent's note or the coordinator's ledger had given the other reading, and the 1906 register page, which was read in the same batch as a third party's transcription.",
   "why": "Ledger X-012 and X-027: do not try to undo having seen it; mark it and move on."
  },
  {

@@ -4,7 +4,7 @@ Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main
 
 ## DM→SITE-007 · 12 Nov 2026 · Two new fields (DM-B-017)
 
-- `documents.json`: `object` on 20 documents, an object with `kind`, `why`, `does_not_fit`, `made_by`, `when`, `kept_where`, `compared_with` (a list of strings) and `changes_name` (true or false). Ledger X-031. And `independent: false` on 26 documents (ledger X-012); absent means the reading was this agent's own first.
+- `documents.json`: `object` on 25 documents, an object with `kind`, `why`, `does_not_fit`, `made_by`, `when`, `kept_where`, `compared_with` (a list of strings) and `changes_name` (true or false). Ledger X-031. And `independent: false` on 26 documents (ledger X-012); absent means the reading was this agent's own first.
 - `DM-D-007`: `file` changed back to the owner's full file name. Checksum unchanged.
 - `people.json`: `P-018` has `residence`, `marriage` and `second_marriage`; `DM-X-060` is now `living: false`.
 - No new file under `data/`.
