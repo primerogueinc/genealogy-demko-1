@@ -1,0 +1,23 @@
+[
+  {
+    "id": "DM-A-001",
+    "status": "held",
+    "ask": "The full page that entry no. 36 was cut from, with its printed header, plus the film, DGS or archive reference.",
+    "why": "Settles DM-H-011 and makes the citation complete.",
+    "raised": "DM-B-001"
+  },
+  {
+    "id": "DM-A-002",
+    "status": "held",
+    "ask": "Whatever established that Maria Demko's birth record is in Uzhhorod: an archive reply, a catalogue line, a fond number.",
+    "why": "Tests DM-H-005 directly.",
+    "raised": "DM-B-000"
+  },
+  {
+    "id": "DM-A-003",
+    "status": "held",
+    "ask": "Any record naming Maria Demko with an age, a father or a home village: the Duska-Demko marriage, a child's baptism, a census sheet.",
+    "why": "Chooses between DM-H-009, DM-H-010 and neither.",
+    "raised": "DM-B-001"
+  }
+]

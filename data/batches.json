@@ -1,0 +1,69 @@
+[
+  {
+    "id": "DM-B-000",
+    "date": "2026-11-11",
+    "title": "Baseline before any archive file",
+    "folder": null,
+    "files": 0,
+    "blurb": "No records yet. This line starts from one sentence: Maria Demko was the wife of Mihaly Duska and the mother of Stefan, Kevin's paternal grandfather. Nothing is known of her birth year, village, parents or church. What Kevin said before the rebuild began is logged as priors, not findings: her birth record is thought to be in Uzhhorod, the family villages are Senné and Iňačovce, and he leans toward a Rusyn origin. A first pass through public catalogues shows the Greek Catholic books for Iňačovce held at Prešov stop in 1898, which may be why a later baptism would have to be sought in Uzhhorod. Eight hypotheses are on the board, each with a confidence and a named test.",
+    "raised": [
+      "DM-H-001",
+      "DM-H-002",
+      "DM-H-003",
+      "DM-H-004",
+      "DM-H-005",
+      "DM-H-006",
+      "DM-H-007",
+      "DM-H-008"
+    ],
+    "resolved": [],
+    "people_added": [
+      "P-001",
+      "P-002",
+      "P-004",
+      "P-008",
+      "P-009",
+      "P-018",
+      "P-019"
+    ],
+    "sources_added": [
+      "DM-S-000-1"
+    ],
+    "revised": [],
+    "documents_added": []
+  },
+  {
+    "id": "DM-B-001",
+    "date": "2026-11-11",
+    "title": "Cicarovce: one baptism, 1882",
+    "folder": "F-01",
+    "files": 1,
+    "blurb": "One image, given with no context: a single line cut from a Hungarian-language baptism register. On 20 August 1882 a boy named Mihály was baptised, born the day before at Viszoka no. 132 to György Demkó, a Greek Catholic farmer, and Mária Hreskó, a Roman Catholic. This is the first Demko household on paper, and it sits in a village the priors never mentioned. Nothing in the entry ties it to Maria Demko. Mihály could be her brother, her father, or no relation, and the board now carries the first two as competing hypotheses with most of the weight still on 'unproven'. The mixed marriage matters either way: under the custom of the time a daughter of this couple would have been baptised Roman Catholic, which cuts against looking for Maria in a Greek Catholic book. No hypothesis is resolved. Five moved, three were raised.",
+    "raised": [
+      "DM-H-009",
+      "DM-H-010",
+      "DM-H-011"
+    ],
+    "resolved": [],
+    "revised": [
+      "DM-H-002",
+      "DM-H-003",
+      "DM-H-004",
+      "DM-H-005",
+      "DM-H-008"
+    ],
+    "people_added": [
+      "DM-X-001",
+      "DM-X-002",
+      "DM-X-003",
+      "DM-X-004",
+      "DM-X-005"
+    ],
+    "sources_added": [
+      "DM-S-001-1"
+    ],
+    "documents_added": [
+      "DM-D-001"
+    ]
+  }
+]

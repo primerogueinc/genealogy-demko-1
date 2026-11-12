@@ -1,0 +1,19 @@
+[
+  {
+    "id": "DM-S-000-1",
+    "batch": "DM-B-000",
+    "type": "Statement by the subject",
+    "title": "Kevin J.S. Duska Jr., chat statement to the Demko agent, 11 Nov 2026",
+    "extract": "Descent given as: Kevin J.S. Duska Jr. → Kevin John Duska → Stefan Duska → Mihaly Duska and Maria Demko. Maria Demko described as the wife of his father's father's father.",
+    "reliability": "Family knowledge plus Kevin's own earlier research. No document seen. Names above the father are second-hand at best."
+  },
+  {
+    "id": "DM-S-001-1",
+    "batch": "DM-B-001",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism register entry no. 36 of 1882: Mihály, son of György Demkó and Mária Hreskó, Viszoka 132",
+    "extract": "Born 19 Aug 1882, baptised 20 Aug 1882. Father Greek Catholic farmer, mother Roman Catholic. Godparents Mihály Varga and Anna Hreskó, both Roman Catholic.",
+    "reliability": "Original record made the day after the birth: strong for the event and the parents. Weak for provenance: parish, denomination and archive reference rest on the file name alone.",
+    "document": "DM-D-001"
+  }
+]

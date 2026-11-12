@@ -1,0 +1,87 @@
+[
+  {
+    "id": "DM-L-001",
+    "text": "Iňačovce (Solymos, Ung county). Registers listed at the Prešov state archive: Greek Catholic 1811-1898, Reformed 1747-1940, Roman Catholic 1863-1926. The Greek Catholic run ends in 1898.",
+    "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
+    "bears_on": [
+      "DM-H-002",
+      "DM-H-003",
+      "DM-H-005"
+    ]
+  },
+  {
+    "id": "DM-L-002",
+    "text": "Iňačovce has been a Greek Catholic parish since the mid-18th century, per the Slovak public-administration portal's village profile.",
+    "url": "https://www.slovensko.sk/sk/institucie/o-institucii/informacie-o-obci/_3fa364bb-c010-4003-be03-44f28eb0cdf2",
+    "bears_on": [
+      "DM-H-002",
+      "DM-H-003"
+    ]
+  },
+  {
+    "id": "DM-L-003",
+    "text": "FamilySearch catalogues Greek Catholic records of the Mukachevo eparchy for Ungvár / Užhorod and the Ung district, 1826-1938. Candidate home for the Maria Demko entry. Same item as the Duska agent's L-003.",
+    "url": "https://www.familysearch.org/search/catalog/1411329",
+    "bears_on": [
+      "DM-H-005"
+    ]
+  },
+  {
+    "id": "DM-L-004",
+    "text": "Demko is a diminutive of Demeter / Dymitr / Demyan and occurs as a Polish, Slovak and Ukrainian/Rusyn surname. The name alone does not identify the family's origin.",
+    "url": "https://en.wikipedia.org/wiki/Demko",
+    "bears_on": [
+      "DM-H-008"
+    ]
+  },
+  {
+    "id": "DM-L-005",
+    "text": "A FamilySearch community thread: a researcher was told that registers for some Ung county places are missing from Prešov and went looking in Ukraine; the thread also says Ung county is absent from the 1869 census images on FamilySearch. Shows the Uzhhorod route is a known one for Slovak-side Ung villages.",
+    "url": "https://community.familysearch.org/en/discussion/comment/379308",
+    "bears_on": [
+      "DM-H-004",
+      "DM-H-005"
+    ]
+  },
+  {
+    "id": "DM-L-006",
+    "text": "Hungaricana urbarial tables for Solymos (Ung) list the landlords and their villein counts. Useful for placing a Demko household under a landlord if the family is found at Iňačovce in the 18th century.",
+    "url": "https://archives.hungaricana.hu/en/urberi/ung-solymos",
+    "bears_on": [
+      "DM-H-003"
+    ]
+  },
+  {
+    "id": "DM-L-007",
+    "text": "Senné (Szenna, Ung) Roman Catholic register of births, marriages and deaths, 1831-1926, filmed from the Prešov state archive. Where a Duska-Demko marriage or their children's baptisms would be if the couple lived in Senné. Same item as the Duska agent's L-001.",
+    "url": "https://www.familysearch.org/en/search/catalog/710997",
+    "bears_on": [
+      "DM-H-007"
+    ]
+  },
+  {
+    "id": "DM-L-008",
+    "text": "Čičarovce (Csicser) was in Ung county and lies at about 48°33′N 22°02′E, south of Senné (48°40′N). Its register holdings were not retrieved in this pass.",
+    "url": "https://en.wikipedia.org/wiki/%C4%8Ci%C4%8Darovce",
+    "bears_on": [
+      "DM-H-011"
+    ]
+  },
+  {
+    "id": "DM-L-009",
+    "text": "Hungaricana urbarial tables exist for Csicser (Ung), listing seven landlords. A parallel table for Viszoka should be checked for a Demko villein.",
+    "url": "https://archives.hungaricana.hu/en/urberi/ung-csicser",
+    "bears_on": [
+      "DM-H-009"
+    ]
+  },
+  {
+    "id": "DM-L-010",
+    "text": "Hungarian Act LIII of 1868 regulated the religion of children born to mixed marriages. The same-sex rule this rebuild relies on (sons follow the father, daughters the mother) is from training and still needs the text of the Act.",
+    "url": "https://epa.hu/05300/05342/00006/pdf/EPA05342_lk_2022_233-272.pdf",
+    "bears_on": [
+      "DM-H-002",
+      "DM-H-011"
+    ]
+  }
+]

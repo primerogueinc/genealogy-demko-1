@@ -1,0 +1,203 @@
+[
+  {
+    "id": "P-001",
+    "ahnentafel": 1,
+    "name": "Kevin J.S. Duska Jr.",
+    "role": "Subject",
+    "living": true,
+    "owner": "duska",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "stated",
+    "sources": [
+      "DM-S-000-1"
+    ],
+    "note": "Starting point of the line. Dates for living people are kept out of this repo; the Duska ledger holds them."
+  },
+  {
+    "id": "P-002",
+    "ahnentafel": 2,
+    "name": "Kevin John Duska",
+    "role": "Father",
+    "living": true,
+    "owner": "duska",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "stated",
+    "sources": [
+      "DM-S-000-1"
+    ],
+    "note": "Link in the chain only. Not researched here."
+  },
+  {
+    "id": "P-004",
+    "ahnentafel": 4,
+    "name": "Stefan Duska",
+    "role": "Paternal grandfather",
+    "living": null,
+    "owner": "duska",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "stated",
+    "sources": [
+      "DM-S-000-1"
+    ],
+    "note": "Son of Mihaly Duska and Maria Demko, per Kevin's statement. No record in hand. His baptism entry is the first document expected to name Maria Demko as a mother."
+  },
+  {
+    "id": "P-008",
+    "ahnentafel": 8,
+    "name": "Mihaly Duska",
+    "role": "Great-grandfather, husband of Maria Demko",
+    "living": false,
+    "owner": "duska",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "stated",
+    "sources": [
+      "DM-S-000-1"
+    ],
+    "note": "Name given in its Hungarian form (Mihály). Belongs to the Duska agent's line. Shared interest: the marriage to Maria Demko."
+  },
+  {
+    "id": "P-009",
+    "ahnentafel": 9,
+    "name": "Maria Demko",
+    "role": "Great-grandmother. Head of this repo's line",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "stated",
+    "sources": [
+      "DM-S-000-1",
+      "DM-PR-1"
+    ],
+    "note": "Wife of Mihaly Duska, mother of Stefan. Birth record said to be in the Uzhhorod archives and not yet located. No birth year, village, parents or denomination known."
+  },
+  {
+    "id": "P-018",
+    "ahnentafel": 18,
+    "name": "[given name unknown] Demko",
+    "role": "Father of Maria Demko",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "inferred",
+    "sources": [],
+    "note": "Inferred only: Maria carries the surname Demko, so her father is presumed to be a Demko. An illegitimate birth registered under the mother's surname would break this inference."
+  },
+  {
+    "id": "P-019",
+    "ahnentafel": 19,
+    "name": "[unknown]",
+    "role": "Mother of Maria Demko",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "unknown",
+    "sources": [],
+    "note": "Nothing known. Her maiden surname opens the next line."
+  },
+  {
+    "id": "DM-X-001",
+    "ahnentafel": null,
+    "name": "Mihály Demkó",
+    "role": "Candidate: brother or father of Maria Demko, or unrelated",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "19 Aug 1882",
+      "place": "Viszoka (Vysoká nad Uhom) no. 132, Ung county"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-001-1"
+    ],
+    "note": "Baptised 20 Aug 1882. Link to the direct line unproven: see DM-H-009 and DM-H-010."
+  },
+  {
+    "id": "DM-X-002",
+    "ahnentafel": null,
+    "name": "György Demkó",
+    "role": "Candidate: Ahn 18 or Ahn 36",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-001-1"
+    ],
+    "note": "Greek Catholic farmer living at Viszoka no. 132 in August 1882. Born before about 1862."
+  },
+  {
+    "id": "DM-X-003",
+    "ahnentafel": null,
+    "name": "Mária Hreskó",
+    "role": "Candidate: Ahn 19 or Ahn 37",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-001-1"
+    ],
+    "note": "Roman Catholic, wife of György Demkó in 1882. Opens a possible Hreskó line."
+  },
+  {
+    "id": "DM-X-004",
+    "ahnentafel": null,
+    "name": "Anna Hreskó",
+    "role": "Godmother in 1882",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-001-1"
+    ],
+    "note": "Roman Catholic. Shares the mother's maiden surname; probably her sister or sister-in-law."
+  },
+  {
+    "id": "DM-X-005",
+    "ahnentafel": null,
+    "name": "Mihály Varga",
+    "role": "Godfather in 1882",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-001-1"
+    ],
+    "note": "Roman Catholic. The child may be named for him."
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "DM-D-001",
+    "batch": "DM-B-001",
+    "folder": "F-01",
+    "source": "DM-S-001-1",
+    "file": "archive/duska-and-demko-leads/cicarovce/Baptism_of_Mihaly_Demko_1882_-_Cicarovce_Son_of_Gyorgy_Demko_and_Maria_Hresko.png",
+    "sha256": "cb7dc2a5ae3f74f572532b6d3cead7436dd81d9c42b6b956f64950c1b1c33f7d",
+    "image": {
+      "format": "PNG",
+      "width": 1814,
+      "height": 157
+    },
+    "title": "Baptism of Mihály Demkó, 20 August 1882",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Demko 1882 - Cicarovce Son of Gyorgy Demko and Maria Hresko",
+    "register": {
+      "parish": "Not visible. The file name says Cicarovce (Čičarovce, Hungarian Csicser, Ung county).",
+      "denomination": "Not visible. See DM-H-011.",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry no.",
+        "original": "36",
+        "english": "36",
+        "certainty": "clear"
+      },
+      {
+        "column": "Year",
+        "original": "1882",
+        "english": "1882",
+        "certainty": "probable",
+        "note": "Written above the entry. The third digit is cramped; the next entry's year is a clear 1882 and the file name agrees."
+      },
+      {
+        "column": "Born / baptised",
+        "original": "aug 19. 20",
+        "english": "Born 19 August, baptised 20 August",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name",
+        "original": "Mihály",
+        "english": "Michael",
+        "certainty": "clear"
+      },
+      {
+        "column": "Sex",
+        "original": "fi",
+        "english": "boy (fiú)",
+        "certainty": "clear",
+        "note": "The ditto-like strokes beside it fill the unused sub-columns."
+      },
+      {
+        "column": "Legitimacy",
+        "original": "törv",
+        "english": "legitimate (törvényes)",
+        "certainty": "clear"
+      },
+      {
+        "column": "Father",
+        "original": "Demkó György gk. gazda",
+        "english": "György (George) Demkó, Greek Catholic, farmer",
+        "certainty": "clear",
+        "note": "gk. = görög katolikus. gazda = a peasant holding his own land."
+      },
+      {
+        "column": "Mother",
+        "original": "Hreskó Mária rom. kath.",
+        "english": "Mária Hreskó, Roman Catholic",
+        "certainty": "probable",
+        "note": "The initial is ornate; read as H by comparison with the godmother's surname."
+      },
+      {
+        "column": "Residence and house no.",
+        "original": "Viszoka 132",
+        "english": "Viszoka (today Vysoká nad Uhom), house no. 132",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Varga Mih. r.k. / Hreskó Anna r.k.",
+        "english": "Mihály Varga, Roman Catholic; Anna Hreskó, Roman Catholic",
+        "certainty": "clear",
+        "note": "The godmother carries the mother's maiden surname: probably her kin."
+      },
+      {
+        "column": "Baptising priest",
+        "original": "Csurgovich (?)",
+        "english": "Csurgovich (?)",
+        "certainty": "uncertain",
+        "note": "Surname only. Could also be read Emrgovich or Cmrgovich. Needs another entry in the same hand."
+      },
+      {
+        "column": "Remarks",
+        "original": "—",
+        "english": "none",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "No. 36. 1882. Born 19 August, baptised 20 August: Mihály, a boy, legitimate. Parents: György Demkó, Greek Catholic, farmer, and Mária Hreskó, Roman Catholic. Residence: Viszoka, house no. 132. Godparents: Mihály Varga, Roman Catholic, and Anna Hreskó, Roman Catholic. Baptised by Csurgovich (reading uncertain). No remarks.",
+    "notes": [
+      "The image is a strip 157 pixels high. No page header, parish name, page number or film number is visible, so the register is identified only by the collector's file name.",
+      "The entry above (no. 35) and the one below are partly visible and name other families; they are not transcribed.",
+      "The child was born at Viszoka, not at Čičarovce. If the label is right, Čičarovce is where the book was kept."
+    ]
+  }
+]

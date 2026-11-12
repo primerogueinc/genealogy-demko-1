@@ -1,0 +1,17 @@
+[
+  {
+    "id": "F-01",
+    "path": "Documents/Genealogy/Duska and Demko Leads/Cicarovce",
+    "described_by_kevin": "First folder given to the Demko agent, with no context on purpose. Also given to the Duska agent.",
+    "received": "2026-11-11",
+    "files_received": 1,
+    "complete": true,
+    "shared_with": [
+      "duska"
+    ],
+    "batches": [
+      "DM-B-001"
+    ],
+    "archive_path": "archive/duska-and-demko-leads/cicarovce/"
+  }
+]
