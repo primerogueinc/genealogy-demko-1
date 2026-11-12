@@ -6,7 +6,7 @@
     "why": "Settles DM-H-011 and makes the citation complete.",
     "raised": "DM-B-001",
     "raised_to_kevin": "2026-11-12",
-    "note": "Same as the coordinator's RQ-2."
+    "note": "Largely answered by folder F-04: the book is the Csicser Greek Catholic register. The page header and film number are still wanted."
   },
   {
     "id": "DM-A-002",
@@ -27,11 +27,12 @@
   },
   {
     "id": "DM-A-004",
-    "status": "raised",
+    "status": "answered",
     "raised_to_kevin": "2026-11-12",
     "ask": "The two images in Duska Baptisms/Belza (Kosice) - Greek Catholic, given to this agent as well.",
     "why": "Ledger gap 1. The Demko people in them are this agent's to place, and a shared record is archived in both repos (rule 7). Until then DM-H-013 rests on a relayed reading.",
-    "raised": "DM-B-002"
+    "raised": "DM-B-002",
+    "answer": "Closed by ledger v3, X-012: taken from the Duska repo."
   },
   {
     "id": "DM-A-005",

@@ -22,7 +22,8 @@
     "type": "Authored report (research pass, compiled by a research agent from web sources)",
     "title": "Research pass 1 on the Demko surname in Ung county, 12 Nov 2026",
     "extract": "Identifies the Greek Catholic priest of Čičarovce in 1882-1886 as Ján Csurgovics and the Roman Catholic priest in 1868-1890 as Andrej (Endre) Polányi; places Vysoká nad Uhom as a Greek Catholic filial of Čičarovce from after 1806 to 1948; gives film numbers for the Čičarovce registers; quotes Act LIII of 1868, section 12; finds no Demko in a private transcription of the 1715 lists for the four villages; finds nothing in North American indexes.",
-    "reliability": "Secondary throughout: municipal and parish web pages, reference works, a private transcription, catalogue numbers relayed by a finding list. Good for where to look, not for who anyone was. Two statements in it came from the owner's private correspondence and are set aside (DM-DEC-010). The report text is not archived here for that reason; the findings used are in leads DM-L-014 to DM-L-021."
+    "reliability": "Secondary throughout: municipal and parish web pages, reference works, a private transcription, catalogue numbers relayed by a finding list. Good for where to look, not for who anyone was. Two statements in it came from the owner's private correspondence and are set aside (DM-DEC-010). The report text is not archived here for that reason; the findings used are in leads DM-L-014 to DM-L-021.",
+    "proof": "lead"
   },
   {
     "id": "DM-S-004-1",
@@ -95,5 +96,215 @@
     "extract": "Parents Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce. Senné no. 160. Register volume IV, page 110, entry 43.",
     "reliability": "Official extract under seal from the parish's own register, with volume and page. Direct evidence that Štefan's mother was Maria Demko of Iňačovce.",
     "document": "DM-D-011"
+  },
+  {
+    "id": "DM-S-005-1",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Mária Demkó, born 2 January 1857, died 15 February 1857, Viszoka 79",
+    "extract": "No. 1 of 1857. Born and baptised 2 January 1857: Mária, legitimate daughter of György Demko, Greek Catholic farmer, and Mária Hreško, of Viszoka no. 79. Godfather Andr. Hreško, farmer. Baptised by Ioann Bokshai, parish priest of Lekárt. She died on 15 February 1857.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-012",
+    "also": "DUS:S-017 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-2",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of the twins Mihály and János Demkó, born 29 May [1873]",
+    "extract": "No. 24. Born 29 May, baptised 30 May: twin boys Mihály and János, legitimate sons of György Demkó, Greek Catholic farmer, and Mária Hreskó, Roman Catholic. Both names carry a cross, the usual mark of a child who died.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-013",
+    "also": "DUS:S-021 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-3",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of János Demkó, born 29 March 1875, Viszoka 121",
+    "extract": "No. 14. Born and baptised 29 March 1875: János, legitimate son of György Demkó, Greek Catholic farmer, and Mária Hreskó, Roman Catholic, Viszoka no. 121. Godparents János Varga and Erzsébet Takács. Baptised by József Kubek, Greek Catholic pastor of Csicser.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-014",
+    "also": "DUS:S-012 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-4",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Borbála Demkó, born 23 April [1879], Viszoka 121",
+    "extract": "No. 16. Born 23 April, baptised 24 April: Borbála, legitimate daughter of György Demkó, Greek Catholic farmer, and Mária Hreskó, Roman Catholic, Viszoka no. 121.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-015",
+    "also": "DUS:S-007 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-5",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Anna Demkó, born 13 October [1874], Viszoka",
+    "extract": "No. 39. Born and baptised 13 October: Anna, legitimate daughter of János Demkó, Greek Catholic farmer, and Anna Szlekár, Greek Catholic, of Viszoka.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-016",
+    "also": "DUS:S-006 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-6",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Erzsébet Demkó, born 10 April [1877], Viszoka 141",
+    "extract": "No. 26. Born 10 April, baptised 11 April: Erzsébet, legitimate daughter of János Demkó and Mária Szlekár, both Greek Catholic, Viszoka no. 141.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-017",
+    "also": "DUS:S-008 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-7",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of János Demkó, born 2 March [1879], died 14 March 1879, Viszoka 120",
+    "extract": "No. 7. Born and baptised 2 March: János, legitimate son of János Demkó, Greek Catholic farmer, and Mária Szlekár, Viszoka no. 120. He died on 14 March 1879.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-018",
+    "also": "DUS:S-013 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-8",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Zsuzsánna Demkó, born 6 January 1883, Viszoka",
+    "extract": "No. 3 of 1883. Born 6 January, baptised 7 January: Zsuzsánna, legitimate daughter of János Demkó, Greek Catholic, and Mária Szlekár, of Viszoka. Baptised by János Csurgovich, pastor.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-019",
+    "also": "DUS:S-023 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-9",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Georgius Demko, [1831], Viszoka",
+    "extract": "No. 10. Born the 12th and baptised the 13th: Georgius, son of Georg. Demko and Barbara Cs[encsarik?], of Viszoka. Baptised by the Latin-rite priest of Pálócz with the local priest's consent.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-020",
+    "also": "DUS:S-009 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-10",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of György Demko, [September 1834], Viszoka",
+    "extract": "No. 53. Baptised the 16th: György, son of György Demko and Anna Samudovszki (?), of Viszoka.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-021",
+    "also": "DUS:S-010 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-11",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of János Demko, [1838], Viszoka",
+    "extract": "Born and baptised the 28th: János, son of György Demkó and Anna Samudovszki, of Viszoka.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-022",
+    "also": "DUS:S-011 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-12",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Mária Demko, [1840], Viszoka",
+    "extract": "Born and baptised the 29th: Mária, daughter of György Demko, Greek Catholic farmer, and Mária Vaszil (?), of Viszoka.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-023",
+    "also": "DUS:S-016 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-13",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Maria Tirpák, daughter of Maria Demko, [October 1832], Viszoka",
+    "extract": "No. 33. Maria, daughter of Georg. Tirpák and Maria Demko, both Greek Catholic, of Viszoka.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-024",
+    "also": "DUS:S-019 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-14",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of János Tirpák, son of Mária Demko, [1835], Viszoka",
+    "extract": "No. 5. Baptised the 17th: János, son of György Tirpák and Mária Demko, of Viszoka.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-025",
+    "also": "DUS:S-014 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-15",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Mihály Tirpák, son of Mária Demko, [1839], Viszoka",
+    "extract": "Baptised the 17th: Mihály, son of György Tirpák, cottar, and Mária Demko, of Viszoka.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-026",
+    "also": "DUS:S-022 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-16",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Anna, daughter of György Szulák and Mária Hre[k]ó, 7 May [1872] (labelled Demko)",
+    "extract": "No. 33. Born 7 May, baptised 9 May: Anna, legitimate daughter of György Szulák, Greek Catholic cottar, and Mária Hre[k]ó. No Demko can be read on the strip.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-027",
+    "also": "DUS:S-005 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-17",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Maria Kocsis, [1832], Mogyorós",
+    "extract": "No. 42. Maria, daughter of István Kocsis, Greek Catholic, and Erzsébet Dubics, Roman Catholic, of Mogyorós.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-028",
+    "also": "DUS:S-018 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-18",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Julianna Kocsis, born 27 January [1836]",
+    "extract": "No. 3. Born 27 January, baptised 30 January: Julianna, daughter of István Kocsis, cottar, and Erzsébet Dubics.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-029",
+    "also": "DUS:S-015 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-19",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Mihály Hornyák, son of Erzsébet Kocsis, born 15 May 1873, Csicser 90",
+    "extract": "No. 21. Born 15 May 1873: Mihály, legitimate son of Pál Hornyák, Greek Catholic cottar, and Erzsébet Kocsis, Reformed, Csicser no. 90.",
+    "reliability": "Original entry, cropped. Year and parish as noted.",
+    "document": "DM-D-030",
+    "also": "DUS:S-020 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-20",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of György Demko, born 29 March 1895, Gönyű 24 (later copy)",
+    "extract": "No. 13. Born 29 March, baptised 31 March 1895: György, legitimate son of György Demko, Greek Catholic landholder, and Katalin Jobbágy, Greek Catholic, Gönyű no. 24.",
+    "reliability": "Derivative: a later copy on a Slovak-era form. Parish from the folder name.",
+    "document": "DM-D-032",
+    "also": "DUS:S-003 @ce326b4"
+  },
+  {
+    "id": "DM-S-005-21",
+    "batch": "DM-B-005",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism of Mária Hriczko, daughter of Erzsébet Kocsis, 29 August [1894], Szina 182 (later copy)",
+    "extract": "No. 33. Born and baptised 29 August: Mária, legitimate daughter of József Hriczko, Greek Catholic cottar, and Erzsébet Kocsis, Roman Catholic, Szina no. 182.",
+    "reliability": "Derivative: a later copy on a Slovak-era form. Parish from the folder name.",
+    "document": "DM-D-033",
+    "also": "DUS:S-004 @ce326b4"
   }
 ]

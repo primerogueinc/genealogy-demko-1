@@ -174,5 +174,107 @@
       "DM-D-010",
       "DM-D-011"
     ]
+  },
+  {
+    "id": "DM-B-005",
+    "date": "2026-11-12",
+    "title": "Ledger v3 and first cross-review: 22 strips taken from the Duska repo",
+    "folder": "F-04",
+    "files": 22,
+    "blurb": "Read ledger v3 and made the first cross-review pass over the Duska repo at ce326b4. Kevin had filed two folders of Demko baptisms under Duska; under the coordinator's ruling they are archived here too, with matching checksums, and read afresh before comparing. Twenty strips are from one book, and the book now identifies itself: its entries of the 1870s are signed by the Greek Catholic pastor of Csicser, and the entry of January 1883 writes 'Csurgovich János' in full. They rebuild the household that Maria Demko's father was born into. György Demkó and Mária Hreskó were married by January 1857, lost a daughter that year and twin boys in 1873, and had János in 1875, Borbála in 1879 and Mihály in 1882, moving from house 79 to 121 to 132. A János Demkó, probably a brother, farmed next door. A generation earlier, a György Demko appears at Viszoka with three different wives' names in nine years. Two boys of the 1830s are candidates for the György who married Mária Hreskó. This agent's readings agree with the Duska agent's on all but two points: the mother's rite in the 1857 entry, and a residence in 1873 that this agent could not read. The two Belža strips are also read; they concern another Demko family near Košice. Three Kocsis strips show no link to Maria's mother. Four hypotheses moved, three were raised.",
+    "raised": [
+      "DM-H-020",
+      "DM-H-021",
+      "DM-H-022"
+    ],
+    "resolved": [],
+    "revised": [
+      "DM-H-002",
+      "DM-H-011",
+      "DM-H-013",
+      "DM-H-016"
+    ],
+    "people_added": [
+      "DM-X-010",
+      "DM-X-011",
+      "DM-X-012",
+      "DM-X-013",
+      "DM-X-014",
+      "DM-X-015",
+      "DM-X-016",
+      "DM-X-017",
+      "DM-X-018",
+      "DM-X-019",
+      "DM-X-020",
+      "DM-X-021",
+      "DM-X-022",
+      "DM-X-023",
+      "DM-X-024",
+      "DM-X-025",
+      "DM-X-026",
+      "DM-X-027"
+    ],
+    "sources_added": [
+      "DM-S-005-1",
+      "DM-S-005-2",
+      "DM-S-005-3",
+      "DM-S-005-4",
+      "DM-S-005-5",
+      "DM-S-005-6",
+      "DM-S-005-7",
+      "DM-S-005-8",
+      "DM-S-005-9",
+      "DM-S-005-10",
+      "DM-S-005-11",
+      "DM-S-005-12",
+      "DM-S-005-13",
+      "DM-S-005-14",
+      "DM-S-005-15",
+      "DM-S-005-16",
+      "DM-S-005-17",
+      "DM-S-005-18",
+      "DM-S-005-19",
+      "DM-S-005-20",
+      "DM-S-005-21"
+    ],
+    "documents_added": [
+      "DM-D-012",
+      "DM-D-013",
+      "DM-D-014",
+      "DM-D-015",
+      "DM-D-016",
+      "DM-D-017",
+      "DM-D-018",
+      "DM-D-019",
+      "DM-D-020",
+      "DM-D-021",
+      "DM-D-022",
+      "DM-D-023",
+      "DM-D-024",
+      "DM-D-025",
+      "DM-D-026",
+      "DM-D-027",
+      "DM-D-028",
+      "DM-D-029",
+      "DM-D-030",
+      "DM-D-031",
+      "DM-D-032",
+      "DM-D-033"
+    ],
+    "read": [
+      "coordinator ledger v3 (2026-11-12)",
+      "genealogu-duska-1 main @ce326b4: folder register, documents, candidates, sources (cross-review, X-012)"
+    ],
+    "cross_review": {
+      "repo": "primerogueinc/genealogu-duska-1",
+      "commit": "ce326b4",
+      "found": "Folders F-003 and F-004 belong to the Demko line: taken. F-001 (bishop's circulars, Senné) and the Duska people P-001 to P-008: nothing for this line. K-001 to K-097 checked: the Demko, Szlekár, Hreskó, Tirpák and Kocsis people are entered here as DM-X-010 to DM-X-027; the godparents and clergy are cited from the Duska repo and not copied.",
+      "routed_to_duska": [
+        "DM-D-004",
+        "DM-D-005",
+        "DM-D-007",
+        "DM-D-011"
+      ]
+    }
   }
 ]

@@ -326,5 +326,324 @@
       "DM-S-004-4"
     ],
     "note": "Surname uncertain."
+  },
+  {
+    "id": "DM-X-010",
+    "ahnentafel": null,
+    "name": "Mária Demkó",
+    "role": "Sister of P-018, if he is the Mihály of 1882",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "2 Jan 1857",
+      "place": "Viszoka no. 79"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-1"
+    ],
+    "note": "First known child of György Demkó and Mária Hreskó.",
+    "death": {
+      "date": "15 Feb 1857",
+      "place": null
+    }
+  },
+  {
+    "id": "DM-X-011",
+    "ahnentafel": null,
+    "name": "Mihály Demkó (twin)",
+    "role": "Brother of P-018, same proviso",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "29 May [1873]",
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-2"
+    ],
+    "note": "Marked with a cross: died young. Not the Mihály of 1882."
+  },
+  {
+    "id": "DM-X-012",
+    "ahnentafel": null,
+    "name": "János Demkó (twin)",
+    "role": "Brother of P-018, same proviso",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "29 May [1873]",
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-2"
+    ],
+    "note": "Marked with a cross: died young."
+  },
+  {
+    "id": "DM-X-013",
+    "ahnentafel": null,
+    "name": "János Demkó",
+    "role": "Brother of P-018, same proviso",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "29 Mar 1875",
+      "place": "Viszoka no. 121"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-3"
+    ],
+    "note": "Son of György Demkó and Mária Hreskó."
+  },
+  {
+    "id": "DM-X-014",
+    "ahnentafel": null,
+    "name": "Borbála Demkó",
+    "role": "Sister of P-018, same proviso",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "23 Apr [1879]",
+      "place": "Viszoka no. 121"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-4"
+    ],
+    "note": "Daughter of György Demkó and Mária Hreskó."
+  },
+  {
+    "id": "DM-X-015",
+    "ahnentafel": null,
+    "name": "János Demkó, farmer",
+    "role": "Head of the house next door; perhaps a brother of P-036",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-5",
+      "DM-S-005-6",
+      "DM-S-005-7",
+      "DM-S-005-8"
+    ],
+    "note": "Greek Catholic farmer at Viszoka (no. 141 in [1877], no. 120 in 1879). Wife Anna or Mária Szlekár. Children Anna [1874], Erzsébet [1877], János 1879 (lived twelve days), Zsuzsánna 1883. See DM-H-022."
+  },
+  {
+    "id": "DM-X-016",
+    "ahnentafel": null,
+    "name": "Anna or Mária Szlekár",
+    "role": "Wife of DM-X-015",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-5",
+      "DM-S-005-6"
+    ],
+    "note": "Greek Catholic. Anna in one entry, Mária in three."
+  },
+  {
+    "id": "DM-X-017",
+    "ahnentafel": null,
+    "name": "György Demko, husband of Anna Samudovszki (?)",
+    "role": "Candidate for Ahn 72",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-10",
+      "DM-S-005-11"
+    ],
+    "note": "Father at Viszoka in [1834] and [1838]."
+  },
+  {
+    "id": "DM-X-018",
+    "ahnentafel": null,
+    "name": "Anna Samudovszki (?)",
+    "role": "Candidate for Ahn 73",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-10",
+      "DM-S-005-11"
+    ],
+    "note": "Surname doubtful."
+  },
+  {
+    "id": "DM-X-019",
+    "ahnentafel": null,
+    "name": "György Demko",
+    "role": "Candidate for P-036",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "Sep [1834]",
+      "place": "Viszoka"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-10"
+    ],
+    "note": "Son of György Demko and Anna Samudovszki (?). See DM-H-020."
+  },
+  {
+    "id": "DM-X-020",
+    "ahnentafel": null,
+    "name": "János Demko",
+    "role": "Candidate for DM-X-015",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "[1838]",
+      "place": "Viszoka"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-11"
+    ],
+    "note": "Son of György Demko and Anna Samudovszki. See DM-H-022."
+  },
+  {
+    "id": "DM-X-021",
+    "ahnentafel": null,
+    "name": "Georg. Demko, husband of Barbara Cs[encsarik?]",
+    "role": "Candidate for Ahn 72",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-9"
+    ],
+    "note": "Father at Viszoka in [1831]. May be the same man as DM-X-017 with an earlier wife."
+  },
+  {
+    "id": "DM-X-022",
+    "ahnentafel": null,
+    "name": "Barbara Cs[encsarik?]",
+    "role": "Candidate for Ahn 73",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-9"
+    ],
+    "note": "Surname doubtful."
+  },
+  {
+    "id": "DM-X-023",
+    "ahnentafel": null,
+    "name": "Georgius Demko",
+    "role": "Candidate for P-036",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "[1831]",
+      "place": "Viszoka"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-9"
+    ],
+    "note": "Son of Georg. Demko and Barbara. See DM-H-020."
+  },
+  {
+    "id": "DM-X-024",
+    "ahnentafel": null,
+    "name": "György Demko, husband of Mária Vaszil (?)",
+    "role": "Unplaced Demko at Viszoka",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-12"
+    ],
+    "note": "Father at Viszoka in [1840]. May be the same man as DM-X-017 or DM-X-021."
+  },
+  {
+    "id": "DM-X-025",
+    "ahnentafel": null,
+    "name": "Mária Demko, wife of György Tirpák",
+    "role": "Collateral Demko at Viszoka",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-13",
+      "DM-S-005-14",
+      "DM-S-005-15"
+    ],
+    "note": "Greek Catholic. Children Maria [1832], János [1835], Mihály [1839]. Born before about 1815."
+  },
+  {
+    "id": "DM-X-026",
+    "ahnentafel": null,
+    "name": "György Demko of Gönyű",
+    "role": "Unplaced; see DM-H-013",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-20"
+    ],
+    "note": "Greek Catholic landholder at Gönyű no. 24 in 1895, wife Katalin Jobbágy, son György born 29 Mar 1895. Same man as DUS:K-005."
+  },
+  {
+    "id": "DM-X-027",
+    "ahnentafel": null,
+    "name": "István Kocsis and Erzsébet Dubics",
+    "role": "Kocsis family in the Csicser parish; no stated link",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-005-17",
+      "DM-S-005-18"
+    ],
+    "note": "Daughters Maria [1832, Mogyorós] and Julianna [1836]. Not at Solymos, where Ahn 19 was born."
   }
 ]

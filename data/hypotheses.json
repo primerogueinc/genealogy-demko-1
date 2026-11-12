@@ -46,6 +46,12 @@
         "from": 55,
         "to": 88,
         "why": "The 1947 certificate calls Štefan's mother 'gr.kat.' in 1929 (DM-S-004-8), and the 1906 civil record gives the child's religion as Greek Catholic with both parents Greek Catholic (DM-S-004-6). Her baptism entry itself is not in hand."
+      },
+      {
+        "batch": "DM-B-005",
+        "from": 88,
+        "to": 88,
+        "why": "Unchanged. Noted: Borbála, a daughter of the Greek Catholic György Demkó and the Roman Catholic Mária Hreskó, is in the Greek Catholic book in 1879."
       }
     ]
   },
@@ -244,10 +250,10 @@
   {
     "id": "DM-H-011",
     "statement": "The strip is cut from a Greek Catholic baptism register: the boy followed his father's rite, and 'Cicarovce' in the file name is the parish seat or the collector's label, not his birthplace.",
-    "confidence": 65,
+    "confidence": 92,
     "basis": "From training, not yet checked against a source: Hungarian law of 1868 had children of mixed marriages follow the parent of the same sex. The priest's name may read Csurgovich, a surname I associate with Greek Catholic clergy; the reading is uncertain. Against: both godparents and the mother are Roman Catholic, and the strip shows no page header. Ledger v2 (X-Q-02, X-010): not to be moved further on the priest's name alone until he is identified from a source.",
     "test": "The full page with its printed header, and the film or DGS number of the image.",
-    "status": "open",
+    "status": "supported",
     "raised": "DM-B-001",
     "resolved": null,
     "resolution": null,
@@ -257,6 +263,12 @@
         "from": 50,
         "to": 65,
         "why": "The priest is now identified from a source: Ján Csurgovics, Greek Catholic priest of Čičarovce 1882-1886 (DM-L-014, DM-L-015), with Viszoka a Greek Catholic filial of Čičarovce. Only the Greek Catholic book is filmed for 1882 (DM-L-016). Against: the next entry on the same page is officiated by Polányi Endre, whom the same source lists as the Roman Catholic priest of Čičarovce, so the page mixes clergy of both rites. Secondary sources only; held below the X-009 cap."
+      },
+      {
+        "batch": "DM-B-005",
+        "from": 65,
+        "to": 92,
+        "why": "Records in hand now say so. The 1875 and 1879 strips from the same book name the officiant as 'Kubek József csicseri g.k. lelkész', and a second copy of the 1882 strip sits in the same folder. The January 1883 strip, in the same hand and layout as 1882, writes 'Csurgovich János ... lelkész' in full. The Polányi entry is then a Roman Catholic priest baptising in the Greek Catholic pastor's stead. No page header or archive reference yet."
       }
     ],
     "question": "X-Q-02"
@@ -285,14 +297,21 @@
     "id": "DM-H-013",
     "question": "X-Q-04",
     "statement": "György Demko of Gönyű no. 24 (DUS:S-003, 1895, wife Katalin Jobbágy) is the same man as György Demkó of Viszoka no. 132 (DM-S-001-1, 1882, wife Mária Hreskó), widowed, remarried and moved.",
-    "confidence": 5,
+    "confidence": 3,
     "basis": "For: same name, same rite, both landholders, both records kept by the same collector. Against: a landholding peasant rarely left his holding, the two villages are in different counties (distance per the Duska agent's note, not yet tied to a PL- id), and György Demko is a very common name. The Belža images have not been given to this agent; this rests on DUS:S-003 @53bf7f0 as relayed. Unchanged by DM-B-004.",
     "test": "A burial of Mária Hreskó before 1895; the marriage entry of György Demko and Katalin Jobbágy with the groom's age, status and origin.",
     "status": "open",
     "raised": "DM-B-002",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-005",
+        "from": 5,
+        "to": 3,
+        "why": "The Viszoka György was still having children with Mária Hreskó in 1882; a move to Gönyű with a new wife and a holding by 1895 is possible but asks a lot."
+      }
+    ]
   },
   {
     "id": "DM-H-014",
@@ -321,14 +340,21 @@
   {
     "id": "DM-H-016",
     "statement": "Joannes Demko of Viszoka (1803) is a forefather of György Demkó of Viszoka no. 132 (1882) in the male line.",
-    "confidence": 45,
+    "confidence": 50,
     "basis": "Same surname, same village, same church community, about three generations apart. DM-L-018 reports no Demko at Viszoka in 1715, so the name may have arrived with one man. Nothing joins the two yet.",
     "test": "The Čičarovce Greek Catholic registers for Viszoka entries, 1806 to 1882 (DM-L-016); the 1828 land census and the 1869 census for Viszoka.",
     "status": "open",
     "raised": "DM-B-004",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-005",
+        "from": 45,
+        "to": 50,
+        "why": "A Demko family, not one man, is at Viszoka by the 1830s: two or three fathers named György and a married daughter. That is a generation after Joannes."
+      }
+    ]
   },
   {
     "id": "DM-H-017",
@@ -363,6 +389,42 @@
     "test": "Canadian immigration records for 1947 to 1950; her burial entry.",
     "status": "open",
     "raised": "DM-B-004",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-020",
+    "statement": "György Demkó, husband of Mária Hreskó (Ahn 36 if the line holds), is one of the two boys baptised at Viszoka in the 1830s: Georgius of [1831], son of Georg. Demko and Barbara, or György of [1834], son of György Demko and Anna Samudovszki.",
+    "confidence": 65,
+    "basis": "He was married with a child by January 1857, so born before about 1836, and both boys are Greek Catholic Demkos of Viszoka of the right age. Split about evenly between the two. A third György of the same age, not in the folder, cannot be ruled out.",
+    "test": "The marriage of György Demkó and Mária Hreskó, about 1855, in the Csicser Greek Catholic or the Roman Catholic book; his age at burial.",
+    "status": "open",
+    "raised": "DM-B-005",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-021",
+    "statement": "The three György Demkos who baptised children at Viszoka in [1831], [1834-1838] and [1840] with wives Barbara, Anna and Mária are fewer than three men.",
+    "confidence": 55,
+    "basis": "Three wives' names in nine years under one husband's name. A man twice widowed fits the dates as written: Barbara to 1831, Anna 1834 to 1838, Mária by 1840. So do an uncle and nephew, or cousins. The years are the collector's.",
+    "test": "Burials of Barbara and Anna Demko at Viszoka, 1831 to 1840; marriages of a widower György Demko.",
+    "status": "open",
+    "raised": "DM-B-005",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-022",
+    "statement": "János Demkó, farmer at Viszoka no. 120 and 141, is the János baptised in [1838] and a brother of György Demkó of no. 121.",
+    "confidence": 40,
+    "basis": "Adjoining house numbers in 1879, the same rite and standing, the same godparent families (Soltész), and a János of the right age born to György Demko and Anna Samudovszki.",
+    "test": "His marriage entry to a Szlekár, about 1870; the 1869 census sheets for Viszoka.",
+    "status": "open",
+    "raised": "DM-B-005",
     "resolved": null,
     "resolution": null,
     "history": []

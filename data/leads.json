@@ -175,5 +175,14 @@
     "bears_on": [
       "DM-H-008"
     ]
+  },
+  {
+    "id": "DM-L-022",
+    "text": "Places named in the Duska-repo strips and in folder F-02, flagged to the Places agent as written: Gönyű, Szina, Bölzse (Belža); Mogyorós; Tegenye; Pálócz; Bező; Lekárt; Vaján; a residence ending '-mező' (read as Feketemező by the Duska agent); Alsókánya; Magasrév.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-011",
+      "DM-H-013"
+    ]
   }
 ]

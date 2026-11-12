@@ -27,5 +27,37 @@
     ],
     "archive_path": "archive/demko-documents/",
     "note": "Nine files archived, one withheld (a photograph of living people). Two of the nine are the same file under two names."
+  },
+  {
+    "id": "F-03",
+    "path": "Duska Baptisms/Belza (Kosice) - Greek Catholic",
+    "described_by_kevin": "Given to the Duska agent as a full folder. Taken from the Duska repo under ledger X-012, item 5; not handed to this agent by Kevin.",
+    "received": "2026-11-12",
+    "files_received": 2,
+    "complete": true,
+    "shared_with": [
+      "duska"
+    ],
+    "batches": [
+      "DM-B-005"
+    ],
+    "archive_path": "archive/duska-baptisms/belza-kosice-greek-catholic/",
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4, their F-003"
+  },
+  {
+    "id": "F-04",
+    "path": "Duska Baptisms/Cicarovce",
+    "described_by_kevin": "Given to the Duska agent as a full folder. None of its twenty strips names a Duska; taken from the Duska repo under ledger X-012, item 3.",
+    "received": "2026-11-12",
+    "files_received": 20,
+    "complete": true,
+    "shared_with": [
+      "duska"
+    ],
+    "batches": [
+      "DM-B-005"
+    ],
+    "archive_path": "archive/duska-baptisms/cicarovce/",
+    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4, their F-004"
   }
 ]

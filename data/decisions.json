@@ -88,5 +88,29 @@
     "date": "2026-11-12",
     "decision": "The third-party transcription (DM-D-010) was opened only after this agent had finished its own reading of the image.",
     "why": "So the two readings are independent."
+  },
+  {
+    "id": "DM-DEC-016",
+    "date": "2026-11-12",
+    "decision": "Took folders F-003 and F-004 from the Duska repo at ce326b4: files archived under the same names, checksums matched against the Duska manifests, each strip read before the Duska agent's transcription was opened, differences logged in the document notes.",
+    "why": "Ledger v3, X-012 items 3 and 5. This agent had already seen the Duska agent's list of names (its candidates file) as part of the cross-review, so the readings are independent of its transcriptions but not of that list."
+  },
+  {
+    "id": "DM-DEC-017",
+    "date": "2026-11-12",
+    "decision": "Godparents and clergy from the 22 strips are not entered as people here; the Duska repo's entries are cited instead.",
+    "why": "Ledger rule 6: cite, do not copy. Only people who may be on the Demko line, or kin of it, are entered."
+  },
+  {
+    "id": "DM-DEC-018",
+    "date": "2026-11-12",
+    "decision": "The research report DM-S-003-1 and its leads carry proof level 'lead'.",
+    "why": "Ledger v3, X-011 item 4."
+  },
+  {
+    "id": "DM-DEC-019",
+    "date": "2026-11-12",
+    "decision": "Records DM-D-004, 005, 007 and 011 are marked route: duska.",
+    "why": "Ledger v3, X-012 item 4: they concern Ahn 4 and Ahn 8 as well as Ahn 9."
   }
 ]
