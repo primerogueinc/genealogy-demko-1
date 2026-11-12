@@ -46,6 +46,12 @@ Added 12 Nov 2026 from ledger v14 (X-021, blind lines and open lines).
 - A fact about Ahn 4 or his children reaches this agent only through the coordinator, logged and scored as given.
 - Any exposure is reported to the coordinator for the contamination log, in the same batch.
 
+Added 12 Nov 2026 from ledgers v15 and v16.
+
+- **Hypothesis statuses** are the ledger's four: `open`, `supported`, `solved`, `refuted`. `solved` needs a record in hand with its archive reference (X-009).
+- **Stefan's wife (X-022).** If a record naming her reaches this repo, her name as written and everything on Stefan's side are public; her parents, birthplace, age and earlier residence are marked `[withheld: outside this experiment]`, and the image is held.
+- **The private repo is read with a sparse checkout** of `to-demko/` and `to-both/` only. This session has read access; it cannot write there.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.
@@ -79,7 +85,7 @@ This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 
 
 ## Proof levels
 
-`documented` (a record states it) · `stated` (Kevin said it) · `prior` (said before the rebuild) · `inferred` (follows from other facts) · `unknown`.
+`documented` (a record states it) · `stated` (Kevin said it) · `prior` (said before the rebuild) · `compiled` (a chart or tree made by someone else says it, with no source shown) · `inferred` (follows from other facts) · `unknown`.
 
 ## Living people
 

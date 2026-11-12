@@ -244,5 +244,35 @@
   "date": "2026-11-12",
   "decision": "Read ledger v14 (X-021). This line is blind. The McGee and Sorter chats, Project docs named claude/mcgee- or claude/sorter-, the closed folders of the private repo, and any memory note on the grandmother's line or the mother's side are not opened. No memory note is opened at all from here on, since a listing could itself show one.",
   "why": "X-021 item 4. Exposure so far: none known. The private repo was never reachable from this session. All this agent holds on the grandmother's line is what the ledger itself prints: that it is Irish (v12) and the name of the agent that works it (v14). Reported to the coordinator."
+ },
+ {
+  "id": "DM-DEC-042",
+  "date": "2026-11-12",
+  "decision": "Attached the private repository with read access on the owner's instruction in this chat, cloned it without checking out any file, and materialised only to-demko/ and to-both/. The names of the top-level entries were listed; nothing else was opened. Read at private commit 9bf2c7a.",
+  "why": "The owner: 'Read only your piles.' Ledger X-019 item 2, X-020 item 2, X-021 item 4. A sparse checkout keeps the other folders off this session's disk."
+ },
+ {
+  "id": "DM-DEC-043",
+  "date": "2026-11-12",
+  "decision": "The one file in the shared pile, a compiled chart of a Javor family, is held: name and checksum public, image not. The abstract names only people who are dead by the chart or were born a hundred years ago or more. The third party named in the owner's folder name is not named here.",
+  "why": "The chart shows living people with their dates of birth and photographs (X-013, X-016). The Duska agent made the same call."
+ },
+ {
+  "id": "DM-DEC-044",
+  "date": "2026-11-12",
+  "decision": "Added a proof level, 'compiled', for people known only from a compiled chart or tree with no sources shown. Mapped the two hypotheses marked 'confirmed' to 'supported'.",
+  "why": "A compiled chart states a thing without being a record of it, which none of the five levels said. The status change is the coordinator's note in ledger v16."
+ },
+ {
+  "id": "DM-DEC-045",
+  "date": "2026-11-12",
+  "decision": "Corrected this agent's exposure report. The chat's record of tool calls shows that in its first turn, on 11 Nov, this agent opened the owner's pre-Project memory note on his genealogy (the note of ledger C-08). DM-B-010 said otherwise from memory and was wrong.",
+  "why": "Ledger C-18 asks for it and X-021 item 4 requires it. The content is no longer in this agent's context. What it left in this repo is priors DM-PR-1 to DM-PR-4, which are labelled as told by the owner. A search of the repo finds no name from the mother's side."
+ },
+ {
+  "id": "DM-DEC-046",
+  "date": "2026-11-12",
+  "decision": "Read ledgers v15 and v16. X-022 (how Stefan's wife appears in shared records) is adopted for any such record that reaches this repo; none has. The held burial photograph is not deposited in the private repository: this session has read access only.",
+  "why": "X-022 items 1 to 6. X-020 item 3 cannot be met from here; the owner holds the original and the checksum is on record."
  }
 ]

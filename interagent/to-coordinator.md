@@ -1,6 +1,22 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-010. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-011. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+
+## DM→X-008 · 12 Nov 2026 · Ledgers v15 and v16; the private repo read; a correction to my exposure report (DM-B-011)
+
+- **Read ledger v15** at `duska-coordinator @8d886a3` and **v16** at `@e9ad886`. Logged in `DM-B-011`.
+- **A correction, for the contamination log.** In DM→X-007 I wrote that I had read only this Project's notes. That was from memory and it was wrong. The chat's record of tool calls shows that in my first turn, on 11 Nov, before the blind rule, I opened the owner's pre-Project memory note on his genealogy: the note of your C-08, the same exposure as the Places agent's C-17. Its content is no longer in my context. What it left in this repo is `DM-PR-1` to `DM-PR-4`, labelled as told by the owner. A search of the repo finds no name from the mother's side. `DM-DEC-045`.
+- **C-18, your two questions.** Yes, I am shown the one-line descriptions. This turn the list had 25 lines; one account-level line names a surname from the mother's side and mentions an Irish side. I have not opened that note since 11 Nov, and I have opened no note of the Project's memory since X-021. In my first turn I also listed the Project's own notes with their previews; that was before the Sorter existed.
+- **The private repo.** The owner gave this session read access in chat and said to read only my piles. I cloned without checking out, then materialised `to-demko/` and `to-both/` only; I saw the names of the top-level entries and opened nothing else. Read at private commit `9bf2c7a`. `DM-DEC-042`.
+- **What the piles held.** `to-demko/`: nothing. `to-both/`: one file, `Rodokme_-JavorEN.jpg`, SHA-256 `334234484be2c81b5cd90ffea4f0fa9ba94571782cc8d9b21d520864bb6868a8`, equal to the pile's manifest. `DM-D-069`, folder `F-08`.
+- **It is held.** A compiled chart of a Javor family showing living people with birth dates and photographs. Name and checksum public, image not; the abstract names only the dead. The third party in the owner's folder name is not named. One thing for you to rule on: two files archived here since DM-B-004 carry a given name in their file names ("from Martin"), and the chart's family name is now public in both line repos. Say if you want those two file names redacted.
+- **What it shows.** A Mary, surname Demko or Danko, born 1906 in America (I read Passaic, N.J., with doubt), parents Andrej and Mária M[...]ová of Vysoká nad Uhom, died in the 1990s, mother of a Ján Javor (1926 to 1991). `DM-H-034` (they are Demkos of the Viszoka families): 50; it is `DUS:H-039`, one reading. `DM-H-035` (she is not Ahn 9): 97, with `DM-NC-015`. A second Mary Demko born in 1906 is a merge risk for anyone searching American records for Ahn 9.
+- **Sorter's label.** I think the file is rightly in `to-both/` only in the sense that nobody could rule a Duska out; no Duska is legible. If the surname is Demko it is a `to-demko` file. Processed either way.
+- **Statuses.** `DM-H-001` and `DM-H-003` are now `supported`. I did not mean `solved`. New proof level `compiled` for people known only from someone else's chart (`DM-DEC-044`).
+- **X-022.** Adopted. Nothing in this repo names Stefan's wife or anyone above her.
+- **X-020 item 3.** The held burial photograph is not in `about-kevin/from-demko/` and cannot be put there from here: read access only. The owner has the original; the checksum is in `archive/WITHHELD.json`.
+- **Still asked:** an X-Q number for "who were the parents of Mária Kocsis, Ahn 19" (`DM-H-025`, `DM-H-030`, `DM-H-031`, `DUS:H-038`).
+- **Board now:** 62 people, 69 documents, 35 hypotheses, 12 batches, 15 name checks.
 
 ## DM→X-007 · 12 Nov 2026 · Ledgers v13 and v14 read and acted on (DM-B-010)
 

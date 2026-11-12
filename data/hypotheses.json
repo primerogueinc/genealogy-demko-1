@@ -5,7 +5,7 @@
   "confidence": 97,
   "basis": "Her grandson (Ahn 2) was born in the early 1960s per the Duska ledger. Two generations of 22 to 35 years each put her birth in this window.",
   "test": "Her age in any marriage, census, passenger or death record.",
-  "status": "confirmed",
+  "status": "supported",
   "raised": "DM-B-000",
   "resolved": "DM-B-004",
   "resolution": "Born 1906 by her gravestone; 22 Aug 1906 if she is the child of the civil record DM-S-004-6.",
@@ -15,6 +15,12 @@
     "from": 70,
     "to": 97,
     "why": "The gravestone gives 'born 1906' (DM-S-004-2)."
+   },
+   {
+    "batch": "DM-B-011",
+    "from": 97,
+    "to": 97,
+    "why": "Status changed from 'confirmed' to 'supported' on the coordinator's note in ledger v16. 'Confirmed' is not a ledger status, and 'solved' needs a record in hand with its archive reference (X-009); the gravestone and the civil registration are in hand, but no archive reference is on either image. The confidence is unchanged."
    }
   ]
  },
@@ -61,7 +67,7 @@
   "confidence": 85,
   "basis": "DM-PR-2 names two villages 4 km apart, and the Duska agent's H-004 places the Duska male line in Senné. The alternative readings (Demko from Senné, or from a third village) are each plausible.",
   "test": "Bride's residence and house number in the Duska-Demko marriage entry.",
-  "status": "confirmed",
+  "status": "supported",
   "raised": "DM-B-000",
   "resolved": "DM-B-004",
   "resolution": "Confirmed for Maria: born at Solymos (Iňačovce) and married into Senné. Corrected for the surname: her father came to Solymos from Viszoka, and it is her mother, Mária Kocsis, who was Solymos-born.",
@@ -83,6 +89,12 @@
     "from": 85,
     "to": 85,
     "why": "Confirmed, with a refinement from Places (PL-H-001 @6eab2b2): Greek Catholics of Senné and Jesztreb were entered in the Iňačovce book, and Demko women married at both are in it by the 1860s (DM-D-036, DM-D-037)."
+   },
+   {
+    "batch": "DM-B-011",
+    "from": 85,
+    "to": 85,
+    "why": "Status changed from 'confirmed' to 'supported' on the coordinator's note in ledger v16. 'Confirmed' is not a ledger status, and 'solved' needs a record in hand with its archive reference (X-009); the gravestone and the civil registration are in hand, but no archive reference is on either image. The confidence is unchanged."
    }
   ]
  },
@@ -662,5 +674,29 @@
   "resolution": null,
   "history": [],
   "necronym_risk": "unresolved"
+ },
+ {
+  "id": "DM-H-034",
+  "statement": "The Mary of the Javor chart, born 1906, and her father Andrej are Demkos, not Dankos, and belong to the Demko families of Viszoka (Vysoká nad Uhom).",
+  "confidence": 50,
+  "basis": "The largest lettering on the chart, a photograph caption, reads Demko more easily than Danko, but not safely. Vysoká nad Uhom is the village of the Demkos of house 132 and of the house next door. The chart gives Andrej's parents as a Ján and an Anna S[...]; a János Demkó with a wife Anna Szlekár had a child at Viszoka in [1874] (DM-D-016). Against: Danko is also a surname of the district (a Danko stands godmother at Solymos in [1891], DM-D-058); the chart is a compilation with no sources; the wife of that János is Mária Szlekár from [1877] on. That the owner kept the file adds nothing (X-019 items 4 and 8). The Duska agent holds the same at 50 (DUS:H-039 @93ca2f1): one reading, not two.",
+  "test": "A larger copy of the chart. Failing that, the baptism of an Andrej Demko at Viszoka in the 1880s in the Csicser Greek Catholic book, or the 1906 birth of a Mary Demko or Danko at Passaic, New Jersey.",
+  "status": "open",
+  "raised": "DM-B-011",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-035",
+  "statement": "The Mary of the Javor chart (1906 to 199[?]) is a different woman from Maria Demko, Ahn 9 (1906 to 1950).",
+  "confidence": 97,
+  "basis": "Different birthplaces (America; Solymos, DM-D-008), different deaths (the 1990s; Montréal 1950, DM-D-004 and DM-D-007), different husbands (a Javor; Mike Duska) and different parents (Andrej and Mária M[...]ová; Mihály Demkó and Mária Kocsis). Against: only that the chart is a compilation read at a poor size. Kept on the board because the two share a given name, a birth year and perhaps a surname and a village, which is how two people get merged.",
+  "test": "None needed beyond the records in hand; a larger copy of the chart would remove the doubt about its dates.",
+  "status": "supported",
+  "raised": "DM-B-011",
+  "resolved": null,
+  "resolution": null,
+  "history": []
  }
 ]

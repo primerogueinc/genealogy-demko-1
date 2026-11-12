@@ -114,5 +114,13 @@
   "age_test": "Eighteen years apart; different mothers; different fathers (DM-H-033 against DM-H-010).",
   "result": "Two people. A record of a 'Mária Demkó, daughter of Mihály' from this parish must be placed by date and mother's name before it is given to either. The same holds for the Maria of [1864], aunt of the [1888] child.",
   "logged": "2026-11-12T06:48:29Z"
+ },
+ {
+  "id": "DM-NC-015",
+  "rule": "X-017 rule 6 (two people of one name)",
+  "person": "Mary D[e]mko of the Javor chart, born 1906 in America, against P-009 Maria Demko, born 22 Aug 1906 at Solymos",
+  "age_test": "Same birth year. Deaths more than forty years apart; different husbands and parents.",
+  "result": "Two women. A record of a 'Mary Demko, born 1906' from an American source must be placed by parents, husband or death before it is given to Ahn 9: there may have been a second one, born at Passaic.",
+  "logged": "2026-11-12T07:08:14Z"
  }
 ]

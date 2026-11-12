@@ -1102,5 +1102,43 @@
    "DM-S-010-3"
   ],
   "note": "Son György, 11 Feb [1882]. The surname reads Koczák in both agents' readings. Kept as a negative."
+ },
+ {
+  "id": "DM-X-052",
+  "ahnentafel": null,
+  "name": "Mary D[e]mko, wife of a Javor (chart)",
+  "role": "A namesake of Ahn 9, born the same year. Not her",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "1906",
+   "place": "Passaic (?), New Jersey, U.S.A."
+  },
+  "proof": "compiled",
+  "sources": [
+   "DM-S-011-1"
+  ],
+  "note": "Demko or Danko: the chart is too small to say. Born in America, apparently at Passaic, New Jersey; a line of her box names Vysoká nad Uhom; mother of Ján Javor (1926 to 1991). Not Maria Demko, who was born at Solymos and died at Montréal in 1950 (DM-NC-015). From a compiled chart only.",
+  "death": {
+   "date": "199[?]",
+   "place": null
+  }
+ },
+ {
+  "id": "DM-X-053",
+  "ahnentafel": null,
+  "name": "Andrej D[e]mko and Mária M[...]ová, of Vysoká nad Uhom (chart)",
+  "role": "Parents of DM-X-052; perhaps Demkos of the Viszoka families",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "compiled",
+  "sources": [
+   "DM-S-011-1"
+  ],
+  "note": "She 1887 to 1979 by a photograph caption. His parents on the chart are a Ján D[..]ko and an Anna S[...] of the same village. A János Demkó with a wife Anna Szlekár is on record at Viszoka in [1874] (DM-X-015, DM-X-016); whether these are the same couple is not shown. See DM-H-034. From a compiled chart only."
  }
 ]

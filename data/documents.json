@@ -5463,5 +5463,111 @@
   },
   "also_read_by": "DUS:D-005-58 / DUS:S-084 @66f89b1",
   "taken_from": "primerogueinc/genealogu-duska-1 @66f89b1 under ledger X-012"
+ },
+ {
+  "id": "DM-D-069",
+  "batch": "DM-B-011",
+  "folder": "F-08",
+  "source": "DM-S-011-1",
+  "file": null,
+  "withheld": true,
+  "sha256": "334234484be2c81b5cd90ffea4f0fa9ba94571782cc8d9b21d520864bb6868a8",
+  "image": {
+   "format": "JPEG",
+   "width": 2576,
+   "height": 988
+  },
+  "title": "Family-tree chart of a Javor family, a watermarked preview, undated (image held)",
+  "kind": "Compiled family-tree chart (derivative source, compiler not stated), withheld",
+  "language": "Slovak",
+  "collector_label": "Rodokme_-JavorEN.jpg, in a subfolder of 'AAAA Unclassified' named for a third party (name withheld)",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Title on the banner",
+    "original": "Rodostrom rodiny Javorovej",
+    "english": "Family tree of the Javor family",
+    "certainty": "clear"
+   },
+   {
+    "column": "Watermark",
+    "original": "náhľad",
+    "english": "preview",
+    "certainty": "clear"
+   },
+   {
+    "column": "Photograph caption",
+    "original": "Mary D[e]mko 1906 - 199[?]",
+    "english": "Mary Demko (or Danko), 1906 to 199[?]. The last figure of the death year is not legible; read 1995 here at first, 1991 by the Duska agent.",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Her box",
+    "original": "Mary D[e]mko / * [...] 1906 Passaic (?) N.J. U.S.A / [...] Vysoká n. Uh. / + [...] 199[?] T[...]",
+    "english": "Mary Demko (or Danko). Born 1906 at Passaic (?), New Jersey, U.S.A. A middle line, probably her marriage, names Vysoká nad Uhom. Died 199[?]; the place is not read.",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Her father",
+    "original": "Andrej D[..]ko / [...] Vysoká n. Uh.",
+    "english": "Andrej Demko (or Danko), of Vysoká nad Uhom; dates not read",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Her mother",
+    "original": "Mária M[...]ová / [...] Vysoká n. Uh.; photograph caption: Mária M[...]ová 1887 - 1979",
+    "english": "Mária M[...]ová, of Vysoká nad Uhom, 1887 to 1979 by the caption",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Her father's parents",
+    "original": "Ján D[..]ko / [...] Vysoká n. Uh.; Anna S[...] / [...] Vysoká n. Uh.",
+    "english": "Ján Demko (or Danko) and Anna S[...], both of Vysoká nad Uhom; dates not read",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Generation above",
+    "original": "Ján D[..]ko; Mária",
+    "english": "A Ján of the same surname and a Mária; nothing else in the boxes",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Her son",
+    "original": "Ján Javor / * [...] 1926 T[...] / + [...] 1991 Michalovce",
+    "english": "Ján Javor, 1926 to 1991, died at Michalovce",
+    "certainty": "probable"
+   },
+   {
+    "column": "Not abstracted",
+    "original": "(three generations below him)",
+    "english": "Living people with birth dates and photographs. Left out under ledger X-016.",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "A printed, illustrated family-tree chart titled 'Rodostrom rodiny Javorovej', stamped 'náhľad' (preview) several times. Some 250 name boxes over eight or nine generations, with photographs, a coat of arms and two churches. At this size only the photograph captions and a few boxes can be read. Read here: a woman Mary D[e]mko, 1906 to 199[?], born in the United States, apparently at Passaic, New Jersey, with a marriage line naming Vysoká nad Uhom; her parents Andrej D[..]ko and Mária M[...]ová (1887 to 1979), both of Vysoká nad Uhom; his parents Ján D[..]ko and Anna S[...], of the same village; above them a Ján D[..]ko and a Mária. She married a Javor and had a son Ján Javor, 1926 to 1991. The surname is Demko or Danko; the size does not decide it. No Duska and no Kocsis is legible. The lower generations are living people and are not abstracted.",
+  "notes": [
+   "Not an archive record. A compiled chart shows conclusions and no sources. Everything read from it is a lead with a test, not a finding.",
+   "The image is held and not published: it shows living third parties with their dates of birth and photographs (ledger X-013, X-016). Its name and checksum are in archive/WITHHELD.json. The file is in the private repository, pile 'to-both'.",
+   "It reached this agent through the Sorter's pile 'to-both' at private commit 9bf2c7a. The pile is the sorter's label, a prior; it raises no confidence (X-019 item 4). The Sorter read one surname as 'Danko or Demko'.",
+   "This Mary is not Maria Demko, Ahn 9. Both were born in 1906 and both may be Demkos tied to Vysoká nad Uhom. Ahn 9 was born at Solymos on 22 August 1906 (DM-D-008) and died at Montréal on 9 September 1950 (DM-D-004, DM-D-007); this woman was born in America, married a Javor and died in the 1990s. See DM-NC-015 and DM-H-035.",
+   "Read here before the Duska agent's reading was opened (X-019 item 5). It reads the death year as 1991 and does not name Passaic; otherwise the same (DUS:D-006-01 @93ca2f1)."
+  ],
+  "provenance": {
+   "archive": "none: a compiled chart, not an archive record",
+   "fond_or_film": "not applicable",
+   "book": "not applicable",
+   "page_or_image": "single image, 2576 by 988 pixels, 550,616 bytes",
+   "obtained": "From the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-both' in the private repository at commit 9bf2c7a (Sorter batch S-B-001). Who drew the chart and how the owner came by it are unknown."
+  },
+  "held": "shows living third parties with their birth dates",
+  "pile": "to-both",
+  "private_commit": "9bf2c7a",
+  "sorters_label": "to-both; also fits to-demko if the surname is Demko",
+  "also_read_by": "DUS:D-006-01 / DUS:S-085 @93ca2f1"
  }
 ]

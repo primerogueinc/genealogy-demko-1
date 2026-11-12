@@ -7,5 +7,14 @@
     "bytes": 1278343,
     "reason": "Photograph showing the subject of the tree and another person of unknown living status. Held under ledger X-015 item 2 and X-016. The checksum lets the file be matched later.",
     "held": "about the subject"
+  },
+  {
+    "folder": "F-08",
+    "document": "DM-D-069",
+    "original_name": "Rodokme_-JavorEN.jpg",
+    "sha256": "334234484be2c81b5cd90ffea4f0fa9ba94571782cc8d9b21d520864bb6868a8",
+    "bytes": 550616,
+    "reason": "A compiled family-tree chart showing living third parties with dates of birth and photographs. Held under ledger X-013 and X-016. The file is in the private repository, pile to-both, commit 9bf2c7a.",
+    "held": "shows living third parties with their birth dates"
   }
 ]

@@ -103,5 +103,22 @@
    "DM-B-008"
   ],
   "archive_path": "archive/demko-military/"
+ },
+ {
+  "id": "F-08",
+  "path": "AAAA Unclassified (through the Sorter's piles, not from the owner directly)",
+  "described_by_kevin": "The owner's mixed folder. A Sorter divides it into piles in a private repository; this agent reads the Demko pile and the shared pile only (ledger X-019, X-020). At private commit 9bf2c7a the Demko pile was empty and the shared pile held one file. The owner has said the folder holds important Demko documents (ledger C-16); that raises no confidence here.",
+  "received": "2026-11-12",
+  "files_received": 1,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-011"
+  ],
+  "archive_path": "archive/unclassified-sorter-piles/",
+  "private_commit_read": "9bf2c7a",
+  "archive_note": "No image here yet: the one file is held (archive/WITHHELD.json)."
  }
 ]

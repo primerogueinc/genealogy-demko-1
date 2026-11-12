@@ -544,5 +544,45 @@
    "commit": "ca93549",
    "found": "Two commits since the last pass. Its folder F-005 is complete at 58 files (@66f89b1); its latest batch (@ca93549) adds no file and points this agent to the Mária Kocsis strip, which had been taken and read before that note was opened. Fifteen strips taken, checksums equal to its manifest. Read here first, then compared. Differences: house number of the Maria of [1864] (28 here, 38 there); day of birth of Michael 1866 (14 or 15 here, 14 there); a godmother's spelling in 1879. Added here and not there: the [1848] strip may be of 1847; the blank row of 1870 is a false start for Anna of 1871; the death note beside János 1885 belongs to the next row. Its H-038 is the same reading as DM-H-031."
   }
+ },
+ {
+  "id": "DM-B-011",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T07:08:14Z",
+  "title": "Ledgers v15 and v16; the first file from the Sorter's piles, a chart of another family with a second Mary D[e]mko born in 1906",
+  "folder": "F-08",
+  "files": 1,
+  "blurb": "The owner gave this session read access to the private repository and said to read only this agent's piles. Only those two folders were checked out. The Demko pile is empty. The shared pile holds one file: a small preview of an illustrated family-tree chart of a family named Javor. It is a compilation, not a record, and it shows living people with their dates of birth, so the image is held and only its checksum is public. Most of it cannot be read at this size. What can be read is a woman called Mary, surname Demko or Danko, born in 1906 in America, apparently at Passaic in New Jersey, tied to Vysoká nad Uhom through her parents Andrej and Mária, and dead in the 1990s. Vysoká is the village Maria Demko's father came from, so this may be a branch of the same Demkos that went to America and came back. It is not Maria Demko herself: she was born at Solymos and died in Montréal in 1950. The two share a name and a birth year, which is how people get merged, so a guard is on the board. Ledgers v15 and v16 are read. Two hypotheses marked 'confirmed' are now 'supported', as the coordinator asked. One correction to the last batch: this agent did open the owner's old memory note on his genealogy, in its first turn on 11 November, before the blind rule; the last batch said it had not.",
+  "raised": [
+   "DM-H-034",
+   "DM-H-035"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-001",
+   "DM-H-003"
+  ],
+  "people_added": [
+   "DM-X-052",
+   "DM-X-053"
+  ],
+  "sources_added": [
+   "DM-S-011-1"
+  ],
+  "documents_added": [
+   "DM-D-069"
+  ],
+  "read": [
+   "coordinator ledger v15 (2026-11-12), duska-coordinator @8d886a3",
+   "coordinator ledger v16 (2026-11-12), duska-coordinator @e9ad886",
+   "private repository @9bf2c7a: to-demko/ (empty) and to-both/ (one file) only",
+   "genealogu-duska-1 main @93ca2f1 (cross-review; its B-015 and B-016)",
+   "duska-and-demko-villages main @641ba53 (its PL-B-005; nothing new for this agent)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "93ca2f1",
+   "found": "Two commits since the last pass. It took the same shared-pile file and holds the image too (its D-006-01). Its reading was opened after this agent's own: it has the death year as 1991 where this agent cannot fix the last figure, and it does not name Passaic; both leave Demko or Danko open. Its H-039 is DM-H-034. It has accepted all five differences this agent sent after the last pass, including the redating of two strips to 1847 and 1871. No new strip for this line."
+  }
  }
 ]
