@@ -193,6 +193,18 @@
    "book": "loose petition, two pages",
    "page_or_image": "unknown",
    "obtained": "from a third party, named in the owner's file names; the name is withheld under ledger X-016 item 7; photographed 2020-02-19 per the image metadata"
+  },
+  "object": {
+   "kind": "A petition in Latin from villagers to a bishop, written by a scribe, 1803",
+   "why": "Opens with the address 'Excellentissime Domine Praesul', a single paragraph of request, closes with a formula of submission, the place and date, and the names of four men for each of four villages 'and the other inhabitants', all in one hand.",
+   "does_not_fit": "No endorsement, seal or reply is in the two views. The owner's file name says only that it came from a third party.",
+   "made_by": "A scribe, for the villagers of four places",
+   "when": "27 January 1803",
+   "kept_where": "A petition to a bishop would be kept in the bishop's archive; which one is not shown",
+   "compared_with": [
+    "The two views against each other"
+   ],
+   "changes_name": false
   }
  },
  {
@@ -245,6 +257,18 @@
    "book": "loose petition, two pages",
    "page_or_image": "unknown",
    "obtained": "from a third party, named in the owner's file names; the name is withheld under ledger X-016 item 7; photographed 2020-02-19 per the image metadata"
+  },
+  "object": {
+   "kind": "A petition in Latin from villagers to a bishop, written by a scribe, 1803",
+   "why": "Opens with the address 'Excellentissime Domine Praesul', a single paragraph of request, closes with a formula of submission, the place and date, and the names of four men for each of four villages 'and the other inhabitants', all in one hand.",
+   "does_not_fit": "No endorsement, seal or reply is in the two views. The owner's file name says only that it came from a third party.",
+   "made_by": "A scribe, for the villagers of four places",
+   "when": "27 January 1803",
+   "kept_where": "A petition to a bishop would be kept in the bishop's archive; which one is not shown",
+   "compared_with": [
+    "The two views against each other"
+   ],
+   "changes_name": false
   }
  },
  {
@@ -296,6 +320,18 @@
    "book": "n/a",
    "page_or_image": "n/a",
    "obtained": "photograph; photographer unknown"
+  },
+  "object": {
+   "kind": "A photograph of a gravestone",
+   "why": "A cut stone with an inscription, standing in a cemetery among other stones.",
+   "does_not_fit": "The cemetery's name is not on the image; it is the owner's label.",
+   "made_by": "The stone: whoever ordered it, after 1950. The photograph: the owner",
+   "when": "stone after September 1950; photograph modern",
+   "kept_where": "The stone stands on the grave",
+   "compared_with": [
+    "The second file of the same view (DM-D-090)"
+   ],
+   "changes_name": false
   }
  },
  {
@@ -334,7 +370,8 @@
    "Not published: it is a photograph of living people. Checksum kept in archive/WITHHELD.json.",
    "The file carries no date. The file name supplies the occasion and the names; both are the collector's labels (X-004).",
    "Evidence it gives: Stefan Duska is dead and is buried in his mother's plot, if the label is right.",
-   "Held under ledger X-015 item 2: the photograph shows the subject of the tree. Stefan Duska died in 2018 (stated by Kevin, ledger C-11), which dates the photograph to that year if the label is right."
+   "Held under ledger X-015 item 2: the photograph shows the subject of the tree. Stefan Duska died in 2018 (stated by Kevin, ledger C-11), which dates the photograph to that year if the label is right.",
+   "The second man in the photograph is, by the owner's file name, Michael Walter Duska. He is dead by the owner's statement (ledger X-016), so he is now named. The photograph still shows the owner and stays held."
   ],
   "route": "duska",
   "provenance": {
@@ -434,7 +471,7 @@
   "batch": "DM-B-004",
   "folder": "F-02",
   "source": "DM-S-004-5",
-  "file": "archive/demko-documents/Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg",
+  "file": "archive/demko-documents/Maria_Demko_Notarial_Document_Regarding_Guardianship_of_Michael_Walter_Duska_-_establishes_date_of_death.jpg",
   "sha256": "57e158a05aa586a97944516a1ffdd112522130f0fa64c9c2962db6df4781a846",
   "image": {
    "format": "JPEG",
@@ -482,7 +519,8 @@
   "notes": [
    "Only this page was given. The notary, the parties, the property and the deed number are on other pages.",
    "The file name speaks of a guardianship and names a living person; that name is withheld here and in the archived file name. Nothing on this page concerns a guardianship.",
-   "Mike Duska was alive on the date of the deed."
+   "Mike Duska was alive on the date of the deed.",
+   "The owner's file name is restored in full in DM-B-017. The man it names is dead by the owner's statement (ledger X-016), so his name is no longer withheld."
   ],
   "route": "duska",
   "provenance": {
@@ -491,6 +529,18 @@
    "book": "notarial deed of sale, 1966; notary and deed number not on this page",
    "page_or_image": "one page",
    "obtained": "photograph of a paper in the family's hands"
+  },
+  "object": {
+   "kind": "One page of a notary's deed of sale of a house, typed, in English: the vendor's declarations",
+   "why": "Numbered declarations beginning 'THAT', the heading 'POSSESSION & CONDITIONS', and 'the Purchaser shall become the absolute owner of the immoveable hereby sold'. The declaration of the vendor's marriage is the fourth of them.",
+   "does_not_fit": "The owner's file name calls it a notarial document 'regarding guardianship'. Nothing on this page concerns a guardianship; the page is from a sale. Only one page is in hand, with no notary's name, number or date beyond 'November 1966'.",
+   "made_by": "A Québec notary, for the vendor Mike Duska",
+   "when": "On or about 1 November 1966",
+   "kept_where": "The notary's records (minutes), with a copy to each party; from recall, not checked",
+   "compared_with": [
+    "The page itself"
+   ],
+   "changes_name": false
   }
  },
  {
@@ -660,7 +710,21 @@
    "book": "State civil register of births, registry seat Alsókánya, 1906",
    "page_or_image": "page 320, entry 45",
    "obtained": "unknown; a phone screenshot of a colour scan, dated 2022-01-13 in its metadata"
-  }
+  },
+  "object": {
+   "kind": "A page of a Hungarian state civil register of births, in the form used from 1895 to 1906: one entry to a page",
+   "why": "A printed Hungarian form on green security paper with a page number (320) and an entry number (45 szám). It opens 'Kelt ... Megjelent az alulírott anyakönyvvezető előtt' (dated at ...; appeared before the undersigned registrar) and closes 'Felolvastatván ... helybenhagyatott és aláíratott' (read out, approved and signed), with the registrar's and the informant's signatures. That is the entry itself, taken down in the informant's presence, not a certificate copied from it later: a certificate would carry a seal, a date of issue and no informant's signature. The published description of the collection says that from 1895 to 1906 the forms are one page to an event and from 1907 a row in a table.",
+   "does_not_fit": "The image shows no cover, title page or stamp, so the registry and the archive are not on it. Each register was kept in two copies, the office's own and one sent to the county. Which copy this is cannot be told from the form: whether the informant signed both is not known to this agent. The owner says the image is 'ostensibly from Uzhhorod' (DM-PR-6), which would make it the county's copy, since Ungvár was the seat of Ung county.",
+   "made_by": "The state registrar at Alsókánya, signing with the surname first and the given name József; the father, Demko Mihály, signs as informant",
+   "when": "23 August 1906, the day after the birth",
+   "kept_where": "One copy at the registry office, one with the county. For the county's copies of Ung, the county seat was Ungvár (Uzhhorod).",
+   "compared_with": [
+    "FamilySearch, collection description of 'Hungary, Civil Registration, 1895-1980': forms of one page per event to 1906, a table from 1907; originals at the registry office, copies to the county archive",
+    "EHRI, entry for the State Archive of Transcarpathian Oblast: documents to 1945 are kept at Berehove"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-009",
@@ -696,7 +760,21 @@
    "book": "State civil register of births, registry seat Alsókánya, 1906",
    "page_or_image": "page 320, entry 45",
    "obtained": "unknown; a phone screenshot of a colour scan, dated 2022-01-13 in its metadata"
-  }
+  },
+  "object": {
+   "kind": "A page of a Hungarian state civil register of births, in the form used from 1895 to 1906: one entry to a page",
+   "why": "A printed Hungarian form on green security paper with a page number (320) and an entry number (45 szám). It opens 'Kelt ... Megjelent az alulírott anyakönyvvezető előtt' (dated at ...; appeared before the undersigned registrar) and closes 'Felolvastatván ... helybenhagyatott és aláíratott' (read out, approved and signed), with the registrar's and the informant's signatures. That is the entry itself, taken down in the informant's presence, not a certificate copied from it later: a certificate would carry a seal, a date of issue and no informant's signature. The published description of the collection says that from 1895 to 1906 the forms are one page to an event and from 1907 a row in a table.",
+   "does_not_fit": "The image shows no cover, title page or stamp, so the registry and the archive are not on it. Each register was kept in two copies, the office's own and one sent to the county. Which copy this is cannot be told from the form: whether the informant signed both is not known to this agent. The owner says the image is 'ostensibly from Uzhhorod' (DM-PR-6), which would make it the county's copy, since Ungvár was the seat of Ung county.",
+   "made_by": "The state registrar at Alsókánya, signing with the surname first and the given name József; the father, Demko Mihály, signs as informant",
+   "when": "23 August 1906, the day after the birth",
+   "kept_where": "One copy at the registry office, one with the county. For the county's copies of Ung, the county seat was Ungvár (Uzhhorod).",
+   "compared_with": [
+    "FamilySearch, collection description of 'Hungary, Civil Registration, 1895-1980': forms of one page per event to 1906, a table from 1907; originals at the registry office, copies to the county archive",
+    "EHRI, entry for the State Archive of Transcarpathian Oblast: documents to 1945 are kept at Berehove"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-010",
@@ -752,6 +830,18 @@
    "book": "n/a",
    "page_or_image": "n/a",
    "obtained": "third-party transcription; the file name credits 'Czech Origins'; file dated 2022-01-13"
+  },
+  "object": {
+   "kind": "A typed transcription and translation of the 1906 register page, made for the owner by someone else",
+   "why": "A word-processor file, not a record. Its file name says where it came from; that is the owner's label.",
+   "does_not_fit": "Nothing",
+   "made_by": "A third party, for the owner",
+   "when": "modern",
+   "kept_where": "The owner's files",
+   "compared_with": [
+    "The image it transcribes (DM-D-008)"
+   ],
+   "changes_name": false
   }
  },
  {
@@ -897,7 +987,20 @@
    "book": "certificate citing the Roman Catholic baptism register of Senné, volume IV",
    "page_or_image": "page 110, entry 43 of 1929",
    "obtained": "photograph of the original certificate in the family's hands"
-  }
+  },
+  "object": {
+   "kind": "A parish extract of a baptism entry (Litterae Baptismales / Krstný list), on a printed two-language form",
+   "why": "Printed Latin and Slovak form with blanks for the parish, volume, page and entry; a revenue stamp cancelled by the parish seal; a second seal 'Rím. kat. farský úrad Senné' and a signature at the foot; issue number 106 of 1947 and the date 19 August 1947; the printer's line 'Tlačiareň Alžbeta, Košice'. The form says of itself that it attests what stands in the baptism register.",
+   "does_not_fit": "Nothing. It is a copy made eighteen years after the event, so it carries any slip the copyist made.",
+   "made_by": "The Roman Catholic parish office of Senné",
+   "when": "19 August 1947",
+   "kept_where": "Given to the person who asked for it; the register itself (volume IV) stayed with the parish",
+   "compared_with": [
+    "The second extract of the same entry, issued 1955 (DM-D-099): a different printing of the same kind of form, same contents"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-012",
@@ -5576,7 +5679,19 @@
   "pile": "to-both",
   "private_commit": "9bf2c7a",
   "sorters_label": "to-both; also fits to-demko if the surname is Demko",
-  "also_read_by": "DUS:D-006-01 / DUS:S-085 @93ca2f1"
+  "also_read_by": "DUS:D-006-01 / DUS:S-085 @93ca2f1",
+  "object": {
+   "kind": "A commercial illustrated family-tree chart, a watermarked preview",
+   "why": "A printed layout with a banner title, portraits, a coat of arms and several hundred name boxes; the word for 'preview' is stamped across it.",
+   "does_not_fit": "Nothing",
+   "made_by": "Unknown; a chart of this kind is drawn to order",
+   "when": "modern",
+   "kept_where": "The owner's files",
+   "compared_with": [
+    "The image itself"
+   ],
+   "changes_name": false
+  }
  },
  {
   "id": "DM-D-070",
@@ -6707,7 +6822,8 @@
    "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
   },
   "also_read_by": "DUS:D-008-03 / DUS:S-133 @54436a6",
-  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012",
+  "independent": false
  },
  {
   "id": "DM-D-084",
@@ -6754,7 +6870,8 @@
    "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
   },
   "also_read_by": "DUS:D-008-04 / DUS:S-134 @54436a6",
-  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012",
+  "independent": false
  },
  {
   "id": "DM-D-085",
@@ -6843,7 +6960,8 @@
    "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
   },
   "also_read_by": "DUS:D-009-05 / DUS:S-139 @54436a6",
-  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012",
+  "independent": false
  },
  {
   "id": "DM-D-086",
@@ -6926,7 +7044,8 @@
    "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
   },
   "also_read_by": "DUS:D-009-09 / DUS:S-143 @54436a6",
-  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012",
+  "independent": false
  },
  {
   "id": "DM-D-087",
@@ -7014,7 +7133,8 @@
    "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
   },
   "also_read_by": "DUS:D-009-19 / DUS:S-153 @54436a6",
-  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012",
+  "independent": false
  },
  {
   "id": "DM-D-088",
@@ -7096,7 +7216,8 @@
    "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
   },
   "also_read_by": "DUS:D-009-20 / DUS:S-154 @54436a6",
-  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012",
+  "independent": false
  },
  {
   "id": "DM-D-089",
@@ -7191,7 +7312,8 @@
    "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
   },
   "also_read_by": "DUS:D-009-21 / DUS:S-155 @54436a6",
-  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012",
+  "independent": false
  },
  {
   "id": "DM-D-090",
@@ -7246,7 +7368,20 @@
    "format": "JPEG",
    "width": 2048,
    "height": 1152
-  }
+  },
+  "object": {
+   "kind": "A photograph of a gravestone",
+   "why": "A cut stone with an inscription, standing in a cemetery among other stones.",
+   "does_not_fit": "The cemetery's name is not on the image; it is the owner's label.",
+   "made_by": "The stone: whoever ordered it, after 1950. The photograph: the owner",
+   "when": "stone after September 1950; photograph modern",
+   "kept_where": "The stone stands on the grave",
+   "compared_with": [
+    "The second file of the same view (DM-D-090)"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-091",
@@ -7299,7 +7434,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A Czechoslovak emigrant's passport (cestovný pas, stamped 'vysťahovalecký'), 1937",
+   "why": "Green cloth cover with the state arms and 'Cestovný pas / Passeport'; printed pages in Slovak and French; a book number (3389) and a passport number (305); revenue stamp; the stamp of the District Office at Michalovce over the photograph; a Canadian immigration stamp from Antwerp.",
+   "does_not_fit": "Only four views are in hand. The pages of validity and of visas are not among them.",
+   "made_by": "The District Office (Okresný úrad) at Michalovce",
+   "when": "1937, before 9 November",
+   "kept_where": "Carried by the holder; kept by the family",
+   "compared_with": [
+    "The four views against each other"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-092",
@@ -7384,7 +7532,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A Czechoslovak emigrant's passport (cestovný pas, stamped 'vysťahovalecký'), 1937",
+   "why": "Green cloth cover with the state arms and 'Cestovný pas / Passeport'; printed pages in Slovak and French; a book number (3389) and a passport number (305); revenue stamp; the stamp of the District Office at Michalovce over the photograph; a Canadian immigration stamp from Antwerp.",
+   "does_not_fit": "Only four views are in hand. The pages of validity and of visas are not among them.",
+   "made_by": "The District Office (Okresný úrad) at Michalovce",
+   "when": "1937, before 9 November",
+   "kept_where": "Carried by the holder; kept by the family",
+   "compared_with": [
+    "The four views against each other"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-093",
@@ -7483,7 +7644,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A Czechoslovak emigrant's passport (cestovný pas, stamped 'vysťahovalecký'), 1937",
+   "why": "Green cloth cover with the state arms and 'Cestovný pas / Passeport'; printed pages in Slovak and French; a book number (3389) and a passport number (305); revenue stamp; the stamp of the District Office at Michalovce over the photograph; a Canadian immigration stamp from Antwerp.",
+   "does_not_fit": "Only four views are in hand. The pages of validity and of visas are not among them.",
+   "made_by": "The District Office (Okresný úrad) at Michalovce",
+   "when": "1937, before 9 November",
+   "kept_where": "Carried by the holder; kept by the family",
+   "compared_with": [
+    "The four views against each other"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-094",
@@ -7551,7 +7725,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A Czechoslovak emigrant's passport (cestovný pas, stamped 'vysťahovalecký'), 1937",
+   "why": "Green cloth cover with the state arms and 'Cestovný pas / Passeport'; printed pages in Slovak and French; a book number (3389) and a passport number (305); revenue stamp; the stamp of the District Office at Michalovce over the photograph; a Canadian immigration stamp from Antwerp.",
+   "does_not_fit": "Only four views are in hand. The pages of validity and of visas are not among them.",
+   "made_by": "The District Office (Okresný úrad) at Michalovce",
+   "when": "1937, before 9 November",
+   "kept_where": "Carried by the holder; kept by the family",
+   "compared_with": [
+    "The four views against each other"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-095",
@@ -7637,7 +7824,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A printed court form, typed in: consent of a guardianship court to a minor's emigration",
+   "why": "Printed heading 'Svolenie k vysťahovaniu sa nezletilca do cudzozemska', blanks typed in, a file number, the court's name and date at the foot.",
+   "does_not_fit": "The typing is faint and the seal, if any, is not seen in the photograph.",
+   "made_by": "The District Court at Michalovce, division I, acting as guardianship office",
+   "when": "7 October 1937",
+   "kept_where": "This copy with the mother, to show to the shipping agent; the file (Nsl 446/37) with the court",
+   "compared_with": [
+    "The form's own printed wording"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-096",
@@ -7705,7 +7905,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A typed letter from a Canadian government department to an applicant",
+   "why": "Printed letterhead of the Department of Mines and Resources, Immigration Branch; a file number; dated at Ottawa; addressed to Mike Duska; signed for the District Superintendent.",
+   "does_not_fit": "The owner's file name calls it a citizenship application. It is neither an application nor about citizenship: it answers an application for the admission of his wife and son.",
+   "made_by": "The Immigration Branch, Ottawa",
+   "when": "11 September 1937",
+   "kept_where": "Sent to the addressee; the application itself would be in the department's file",
+   "compared_with": [
+    "The letter's own wording"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-097",
@@ -7796,7 +8009,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A steamship company's purchaser's receipt for a prepaid passage",
+   "why": "Printed 'PURCHASER'S RECEIPT', form and serial number, typed in, overprinted 'NOT GOOD FOR PASSAGE': a receipt for money, not a ticket.",
+   "does_not_fit": "The owner's file name calls it a boat receipt, which is right.",
+   "made_by": "Canadian Pacific Steamships, Montréal agency",
+   "when": "17 September 1937",
+   "kept_where": "Given to the purchaser",
+   "compared_with": [
+    "The form's own wording"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-098",
@@ -7885,7 +8111,20 @@
   },
   "original_sha256": "0864769695b2b24bdb344d0ae00239906ee3bb1e006bf201ca5cb41b146ea6f3",
   "original_held": "the full photograph shows part of an envelope belonging to a line outside this experiment",
-  "public_copy": "cropped; the same file as in the Duska repo"
+  "public_copy": "cropped; the same file as in the Duska repo",
+  "object": {
+   "kind": "An emigrant's transport contract (Dopravní smlouva) with a licensed carrier's Prague office",
+   "why": "Printed Czech form headed with the carrier's name and 'Dopravní smlouva čís.', a table of passengers, clauses on insurance and luggage, an emigrants' register number, and the emigrant's signature.",
+   "does_not_fit": "The owner's file name calls it a boat and train ticket. It is the contract; the tickets would be separate.",
+   "made_by": "The Canadian Pacific Railway office in Prague",
+   "when": "8 November 1937",
+   "kept_where": "One part with the emigrant",
+   "compared_with": [
+    "The form's own wording"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-099",
@@ -7988,7 +8227,20 @@
    "format": "JPEG",
    "width": 1536,
    "height": 2048
-  }
+  },
+  "object": {
+   "kind": "A parish extract of a baptism entry (Litterae Baptismales / Krstný list), on a printed form, issued 'for church and private use'",
+   "why": "The same kind of form as the extract of 1947, a later printing; issue number 124 of 1955, parish seal, signed by an administrator ('adm.').",
+   "does_not_fit": "Nothing",
+   "made_by": "The Roman Catholic parish office of Senné",
+   "when": "1 October 1955",
+   "kept_where": "Given to the person who asked for it",
+   "compared_with": [
+    "The extract of 1947 (DM-D-011)"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-100",
@@ -8066,7 +8318,20 @@
   "file": null,
   "withheld": true,
   "sha256": "010b1c4a6fd27cb09f3eddc851228896294f0aa2f53a923dbc59653652174f49",
-  "held": "names people of unknown living status and shows the owner's account name on a website"
+  "held": "names people of unknown living status and shows the owner's account name on a website",
+  "object": {
+   "kind": "A death notice placed by the family in a daily newspaper, as a clipping printed from a newspaper-archive website",
+   "why": "A short paragraph under the surname in capitals, in the column of such notices; the website's caption gives the paper, date and page.",
+   "does_not_fit": "The owner's file name calls it an obituary. It is a paid notice, written by the family, not an article.",
+   "made_by": "The family, through the funeral home",
+   "when": "Printed 2 February 1974",
+   "kept_where": "The newspaper",
+   "compared_with": [
+    "The clipping's own caption"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-101",
@@ -8151,7 +8416,20 @@
    "obtained": "unknown; a screen capture from an online viewer. From the owner's folder 'Duska Census', given to the Duska agent"
   },
   "also_read_by": "DUS:D-011-24 @c1c3be2",
-  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012",
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-102",
@@ -8235,7 +8513,20 @@
    "obtained": "unknown; a small screen image, about 400 to 480 pixels wide. From the owner's folder 'Duska Census', given to the Duska agent"
   },
   "also_read_by": "DUS:D-011-06 @c1c3be2",
-  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012",
+  "object": {
+   "kind": "A page of an urbarial table (urbarium), on a printed Hungarian form, filled in by hand in Latin",
+   "why": "Printed column heads 'Kereszt és Vezeték Nevek', 'Jobbágy Helynek Minéműsége', 'Adózások'; a heading 'Possessio ...' with the village's class; serfs grouped under their landlord as 'coloni', 'inquilini', 'subinquilini'; a total and two wax seals with signatures at the foot. That is the layout of the tables drawn up for each village under the urbarial regulation of Maria Theresa.",
+   "does_not_fit": "No date is on the page. The owner's folder gives 1767, the year that regulation began; the year a given county's tables were made is not known to this agent. The kind was first known here from his folder name and is now read from the form.",
+   "made_by": "County commissioners, with the landlord's men; signed and sealed",
+   "when": "Undated on the page; the owner says 1767",
+   "kept_where": "From recall, not checked: one set with the county and one with the royal council; the Hungarian National Archives show such tables online (DM-L-006)",
+   "compared_with": [
+    "The three urbarial pages in hand, which share one printed form (DM-D-102 to DM-D-104)"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-103",
@@ -8313,7 +8604,20 @@
    "obtained": "unknown; a small screen image, about 400 to 480 pixels wide. From the owner's folder 'Duska Census', given to the Duska agent"
   },
   "also_read_by": "DUS:D-011-04 @c1c3be2",
-  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012",
+  "object": {
+   "kind": "A page of an urbarial table (urbarium), on a printed Hungarian form, filled in by hand in Latin",
+   "why": "Printed column heads 'Kereszt és Vezeték Nevek', 'Jobbágy Helynek Minéműsége', 'Adózások'; a heading 'Possessio ...' with the village's class; serfs grouped under their landlord as 'coloni', 'inquilini', 'subinquilini'; a total and two wax seals with signatures at the foot. That is the layout of the tables drawn up for each village under the urbarial regulation of Maria Theresa.",
+   "does_not_fit": "No date is on the page. The owner's folder gives 1767, the year that regulation began; the year a given county's tables were made is not known to this agent. The kind was first known here from his folder name and is now read from the form.",
+   "made_by": "County commissioners, with the landlord's men; signed and sealed",
+   "when": "Undated on the page; the owner says 1767",
+   "kept_where": "From recall, not checked: one set with the county and one with the royal council; the Hungarian National Archives show such tables online (DM-L-006)",
+   "compared_with": [
+    "The three urbarial pages in hand, which share one printed form (DM-D-102 to DM-D-104)"
+   ],
+   "changes_name": false
+  },
+  "independent": false
  },
  {
   "id": "DM-D-104",
@@ -8378,6 +8682,117 @@
    "obtained": "unknown; a small screen image, about 400 to 480 pixels wide. From the owner's folder 'Duska Census', given to the Duska agent"
   },
   "also_read_by": "DUS:D-011-05 @c1c3be2",
-  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012",
+  "object": {
+   "kind": "A page of an urbarial table (urbarium), on a printed Hungarian form, filled in by hand in Latin",
+   "why": "Printed column heads 'Kereszt és Vezeték Nevek', 'Jobbágy Helynek Minéműsége', 'Adózások'; a heading 'Possessio ...' with the village's class; serfs grouped under their landlord as 'coloni', 'inquilini', 'subinquilini'; a total and two wax seals with signatures at the foot. That is the layout of the tables drawn up for each village under the urbarial regulation of Maria Theresa.",
+   "does_not_fit": "No date is on the page. The owner's folder gives 1767, the year that regulation began; the year a given county's tables were made is not known to this agent. The kind was first known here from his folder name and is now read from the form.",
+   "made_by": "County commissioners, with the landlord's men; signed and sealed",
+   "when": "Undated on the page; the owner says 1767",
+   "kept_where": "From recall, not checked: one set with the county and one with the royal council; the Hungarian National Archives show such tables online (DM-L-006)",
+   "compared_with": [
+    "The three urbarial pages in hand, which share one printed form (DM-D-102 to DM-D-104)"
+   ],
+   "changes_name": false
+  },
+  "independent": false
+ },
+ {
+  "id": "DM-D-105",
+  "batch": "DM-B-017",
+  "folder": "F-12",
+  "source": "DM-S-017-1",
+  "file": "archive/duska-census/Inacovce_-_9_-_House_of_Michal_Demko.png",
+  "sha256": "06fbdf9e61f73a7196b0d54cf53a20dd76d4df58612116f5ddcbfb3282c90014",
+  "image": {
+   "format": "PNG",
+   "width": 1523,
+   "height": 1079
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 117: Michal Demko, born 1882 at Vysoká, his wife Zuzanna, two children, and his mother-in-law Maria Kočišová",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 9 - House of Michal Demko",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Sčítanie ľudu 1930. Politický okres Michalovce. Obec Iňačovce. Číslo domovné 117. Meno majiteľa domu: Michal Dem[ko]",
+    "english": "Census of 1930. District of Michalovce, commune of Iňačovce, house no. 117. Owner of the house: Michal Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Demko Michal / prednosta domácnosti a majiteľ bytu / mužské / 28 augusta 1882 / ženatý / Vysoká, [Veľ.] Kapušany, Slovensko / čsl., Iňačovce / slovenský / grécko katolík / čítať a písať / roľník / trvale",
+    "english": "Michal Demko, head of the household and owner of the dwelling, male, born 28 August 1882, married; born at Vysoká, district of Veľké Kapušany; home commune Iňačovce; Slovak; Greek Catholic; reads and writes; farmer; permanently resident",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1, in the commune since",
+    "original": "19[.]9 [...]",
+    "english": "A year beginning 19 and a place, both too faint to read",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Row 2",
+    "original": "Demková Zuzanna / manželka / žena / 28 apríla 1901 / vydatá / 3 februára 1919 / 2 / Iňačovce / grécko katolík / čítať a písať / domáca",
+    "english": "Zuzanna Demková, wife, born 28 April 1901, married 3 February 1919, two children born; born at Iňačovce; Greek Catholic; reads and writes; at home",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 3",
+    "original": "Demko Juraj / syn / mužské / 17 septembra 1911 / slobodný / Iňačovce / grécko katolík / čítať a písať",
+    "english": "Juraj Demko, son, born 17 September 1911, single; born at Iňačovce; Greek Catholic; reads and writes",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 4",
+    "original": "Demková Anna / dcéra / ženské / 12 novembra 1924 / Iňačovce / grécko katolícka",
+    "english": "Anna Demková, daughter, born 12 November 1924 at Iňačovce; Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 5",
+    "original": "Kočišová Maria / testiná / ženské / 15 august 1863 / vdova / 10 novembra 1879 / 3 ; 2 / Iňačovce / slovenský / rímsko katolícka / čítať a písať / domáca / trvale",
+    "english": "Maria Kočišová, mother-in-law, female, born 15 August 1863, widow, married 10 November 1879; three children born, two living; born at Iňačovce; Slovak; Roman Catholic; reads and writes; at home; permanently resident",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Iňačovce, district of Michalovce, house 117, owner Michal Demko, on the night of 1 December 1930. Michal Demko, head of the household, born 28 August 1882 at Vysoká, married, Greek Catholic, Slovak, a farmer, reads and writes. Zuzanna Demková, his wife, born 28 April 1901 at Iňačovce, married 3 February 1919, two children born. Juraj Demko, son, born 17 September 1911 at Iňačovce, single. Anna Demková, daughter, born 12 November 1924. Maria Kočišová, the head's mother-in-law, born 15 August 1863 at Iňačovce, a widow, married 10 November 1879, three children born and two living, Roman Catholic, reads and writes.",
+  "notes": [
+   "This is Maria Demko's father, twenty-four years after her birth. The registration of 1906 has Mihály Demkó, Greek Catholic, living at Solymos, born at Magasrév, aged 24. This sheet has Michal Demko, Greek Catholic, owner of a house at Iňačovce, born at Vysoká on 28 August 1882. Magasrév and Vysoká are one village.",
+   "It shows that a Mihály Demkó born at Vysoká in August 1882 grew up and was alive in 1930. The baptism in hand is of a boy born 19 August 1882 and baptised the 20th (DM-D-001); the census says the 28th. Nine days apart, in the same month of the same year, in a village with one Demko birth that summer in the strips. This is the survival that ledger X-017 asked for (DM-NC-001).",
+   "His wife in 1930 is not Maria's mother. Zuzanna was born in 1901 and married him on 3 February 1919. So Mária Kocsis, alive in August 1906, was dead by then. The son Juraj was born in September 1911, when Zuzanna was ten: he is a child of the first marriage, and so a brother of Maria Demko.",
+   "The mother-in-law is the find. Maria Kočišová: a widow whose married name is Kocsis, Roman Catholic in a Greek Catholic house, born at Iňačovce in 1863, married in 1879. The one Roman Catholic woman married to a Kocsis at Solymos in the strips is Mária Knyezső, wife of Mihály Kocsis of no. 19, mother of the Mária baptised in [1887] (DM-D-054). The sheet does not say whose mother she is. She may be the mother of his dead first wife, or of Zuzanna, or of both if he married two sisters. See DM-H-041.",
+   "Her birthday is 15 August, like the one given for Maria in her in-laws' house at Senné (DM-D-101).",
+   "The Duska agent's note gave these dates before this agent read the image. Read from the image; agrees with DUS:D-011-84 in every field read by both."
+  ],
+  "provenance": {
+   "archive": "unknown; the image carries a small catalogue label that is not legible at this size",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 117, page 1",
+   "obtained": "unknown; a screen capture from an online viewer. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-84 @2043138",
+  "taken_from": "primerogueinc/genealogu-duska-1 @2043138 under ledger X-012"
  }
 ]

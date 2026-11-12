@@ -309,13 +309,19 @@
     "from": 70,
     "to": 70,
     "why": "The first of its two links is now carried by her own passport (DM-D-093). The second, that the father of 1906 is the child of 1882, is unchanged. Still at the cap."
+   },
+   {
+    "batch": "DM-B-017",
+    "from": 70,
+    "to": 70,
+    "why": "The census of 1930 has Michal Demko, Greek Catholic, at Iňačovce, born at Vysoká on 28 August 1882 (DM-D-105). So the second link is much firmer: the father of 1906 was born at Vysoká in August 1882, and a boy of that name born there that month lived. What is still missing is a record of his that names his parents. Held at the cap of 70 because no archive reference is in hand for any of the three records (X-009); this agent's own estimate without the cap is about 90."
    }
   ],
   "question": "X-Q-03",
   "necronym_risk": "unresolved",
   "depends_on": [
    "The Mária registered on 23 August 1906 is Ahn 9, and not an elder sister of the same name who died (the negation of DM-H-024). Since DM-B-014 her passport of 1937 gives the same day and place of birth",
-   "The father of 1906, Mihály Demkó born at Magasrév and aged 24, is the child baptised at Viszoka on 20 August 1882, and that child lived (DM-NC-001, DM-NC-007)"
+   "The father of 1906, Mihály Demkó born at Magasrév and aged 24, is the child baptised at Viszoka on 20 August 1882. Since DM-B-017 the census of 1930 gives his birth as 28 August 1882 at Vysoká and shows he lived (DM-NC-001 closed for survival)"
   ]
  },
  {
@@ -464,7 +470,14 @@
   "raised": "DM-B-004",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-017",
+    "from": 60,
+    "to": 60,
+    "why": "No change. The census of 1930 shows he did settle in her village and owned a house there; the marriage entry is still not in hand."
+   }
+  ]
  },
  {
   "id": "DM-H-018",
@@ -591,7 +604,7 @@
  {
   "id": "DM-H-025",
   "statement": "Mária Kocsis (Ahn 19), born at Solymos about 1886, is a daughter of János Kocsis and Anna Kováts of Solymos no. 13.",
-  "confidence": 12,
+  "confidence": 4,
   "basis": "Same surname, same village, eleven years apart, and the collector kept the strip. The surname on the strip is read with doubt, and Kocsis is a common name.",
   "test": "A baptism of Mária Kocsis at Solymos in 1885 to 1887 in the Iňačovce Greek Catholic book (indexed to 1898, PL-R-003).",
   "status": "open",
@@ -610,6 +623,12 @@
     "from": 25,
     "to": 12,
     "why": "A baptism of a Mária Kocsis of the right age is in hand and her parents are the other couple (DM-D-054). Nothing new speaks for this one. Left open, not refuted: the book has not been searched."
+   },
+   {
+    "batch": "DM-B-017",
+    "from": 12,
+    "to": 4,
+    "why": "The mother-in-law in Michal Demko's house in 1930 is Roman Catholic and was married in 1879. Anna Kováts, the wife in this rival couple, was bearing children by 1875. Not her."
    }
   ],
   "question": "X-Q-05"
@@ -681,7 +700,7 @@
  {
   "id": "DM-H-030",
   "statement": "Mária Kocsis (Ahn 19), born at Solymos about 1886, is a daughter of Mihály Kocsis and Mária Knyezső of Solymos no. 19.",
-  "confidence": 62,
+  "confidence": 70,
   "basis": "A Kocsis couple of Solymos with a child in [1889], the mother named Mária, and Ahn 19 herself named her first daughter Mária. Mihály Knyezső stood godfather to the other Kocsis couple's children, so the two houses were close. Rival of DM-H-025; the rest of the weight is on a third Kocsis couple not yet seen.",
   "test": "The civil marriage of Mihály Demkó and Mária Kocsis, about 1905 or 1906, in the Alsókánya registry: from recall, not checked here, Hungarian civil marriage entries name both sets of parents. Failing that, a search of the Solymos baptisms 1884 to 1888 for any other Mária Kocsis.",
   "status": "supported",
@@ -694,6 +713,12 @@
     "from": 40,
     "to": 62,
     "why": "The test named for this hypothesis has come in. A Mária Kocsis was baptised at Solymos on 28 February [1887], daughter of this couple at this house (DM-D-054). It is the only Mária Kocsis of the right decade among the 58 strips of the folder, and the third Kocsis couple now on record has only sons in hand. Not higher: the folder is the owner's selection, not a search of the book; she is a year younger than the age written in 1906; and the link is by name, place and age, with no record yet that names the parents of Mihály Demkó's wife."
+   },
+   {
+    "batch": "DM-B-017",
+    "from": 62,
+    "to": 70,
+    "why": "The census of 1930 puts a Roman Catholic widow named Kočišová, born at Iňačovce in 1863, in Michal Demko's house as his mother-in-law (DM-D-105). The only Roman Catholic wife of a Kocsis at Solymos in the strips is Mária Knyezső of no. 19. Not conclusive, because the sheet does not say which of his two wives was her daughter. Held at the cap of 70 (X-009); without the cap, about 85."
    }
   ],
   "question": "X-Q-05"
@@ -701,14 +726,21 @@
  {
   "id": "DM-H-031",
   "statement": "Mária Kocsis (Ahn 19), mother of Maria Demko, is the Mária baptised at Solymos on 28 February [1887], daughter of Mihály Kocsis and Mária Knyezső, house no. 19.",
-  "confidence": 58,
+  "confidence": 68,
   "basis": "Same name, same village, same rite, and an age one year off the '20' written in August 1906 (DM-D-054, DM-D-008). The only Mária Kocsis of that decade in the folder. Her entry carries no note of death in a book that usually notes infant deaths. Against: the year is from the file name; the folder is a selection, so a second Mária Kocsis born 1885 or 1886 may sit in the book unseen; no burial register has been opened; no archive reference. Under the X-009 and X-017 cap of 70 in any case. The Duska agent holds the same reading at 55 (DUS:H-038 @66f89b1).",
   "test": "The civil marriage of Mihály Demkó and Mária Kocsis, about 1905 or 1906. A search of the Solymos baptisms 1884 to 1888 and of the deaths 1887 to 1898, which the Places agent places in Prešov volumes no. 383 and its neighbours (PL-R-003 @208af51). No volume after 1898 is known (PL-Q-006).",
   "status": "open",
   "raised": "DM-B-010",
   "resolved": null,
   "resolution": null,
-  "history": [],
+  "history": [
+   {
+    "batch": "DM-B-017",
+    "from": 58,
+    "to": 68,
+    "why": "As for DM-H-030, on the same sheet. One step further from it: if the widow is the mother of the second wife only, Ahn 19 could still be a Kocsis of another house. Her own baptism still rests on name, village and age, and no burial book has been searched."
+   }
+  ],
   "necronym_risk": "unresolved",
   "question": "X-Q-05"
  },
@@ -772,7 +804,7 @@
  {
   "id": "DM-H-036",
   "statement": "Mária Knyezső, wife of Mihály Kocsis of Solymos no. 19 and candidate for Ahn 39, was born into one of the Knyezső families of Solymos that appear in the Reformed register.",
-  "confidence": 35,
+  "confidence": 50,
   "basis": "The surname is thick on the ground at Solymos: nine couples in the Reformed book between 1884 and 1921, one more in the Greek Catholic book (Gergely, no. 97, DM-D-065). Knyezsős stand godparent across the churches: a Mihály Knyezső for the Kocsis children of no. 13 in the Greek Catholic book, and Knyezsős for Duska children in the Reformed book from 1829 (the Duska agent's finding, not checked here). Her own daughter of 1887 had a Reformed godmother. Against: she is written 'rkath.' in 1887 and again in 1889, by a priest who writes 'ref.' for the godmother in the same entry. A Roman Catholic daughter in a Reformed family needs a Catholic mother. From recall, not checked here: under the Hungarian law of 1868 the children of a mixed marriage followed the parent of their own sex, which would allow exactly that, but a recalled rule only suggests the test. She may also have come from another village. The Duska agent holds the same question at 40 (DUS:H-044 @4d7a299).",
   "test": "Her baptism, about 1850 to 1869, in the Roman Catholic book that served Solymos, or in the Reformed book if her rite changed; the marriage of Mihály Kocsis and Mária Knyezső, before 1887, which should give her age, rite and home village.",
   "status": "open",
@@ -785,6 +817,12 @@
     "from": 35,
     "to": 35,
     "why": "The urbarial page for Solymos has a Mihály whose surname begins Kn- at no. 4, which the owner's file name reads as Knyezso (DM-D-103). Too small to read; no move."
+   },
+   {
+    "batch": "DM-B-017",
+    "from": 35,
+    "to": 50,
+    "why": "If the widow of 1930 is Mária Knyezső, she was born at Iňačovce (DM-D-105). That answers 'another village'. It does not say which Knyezső house, and she is still Roman Catholic among Reformed namesakes."
    }
   ]
  },
@@ -833,6 +871,31 @@
   "test": "The census sheets of 1930 for her parents' house at Iňačovce and for the Demkos of Vysoká, which the Duska agent says are coming; the mother-tongue column of 1900 or 1910.",
   "status": "open",
   "raised": "DM-B-015",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-041",
+  "statement": "Maria Kočišová of the census of 1930 is Mária Knyezső, widow of Mihály Kocsis of Solymos no. 19, and the mother of Mária Kocsis (Ahn 19).",
+  "question": "X-Q-05",
+  "confidence": 68,
+  "basis": "Married name Kocsis; Roman Catholic, as Mária Knyezső is written twice in the baptism book; born at Iňačovce in 1863, so 23 at the birth of the Mária of [1887]; married in 1879; mother-in-law of the man who was Mária Kocsis's husband in 1906 (DM-D-105, DM-D-054, DM-D-048, DM-D-008). Three children born fits Mária, Anna and one more. Against: 'mother-in-law' may be through the second wife, Zuzanna, born 1901, whose maiden name is not given; then the widow need not be the mother of the first. If he married two sisters she is the mother of both. Another Roman Catholic widow Kocsis at Iňačovce cannot be ruled out without the 1930 sheets for the other Kocsis houses. The Duska agent holds the same reading at 60 (DUS:H-070 @2043138): one sheet, read twice.",
+  "test": "The marriage of 10 November 1879, in the Iňačovce Greek Catholic or Roman Catholic book (volumes to 1898 are at Prešov, PL-R-003): it names the bride and groom. The marriage of 3 February 1919, for Zuzanna's maiden name. The 1930 sheets of the other Kocsis houses at Iňačovce.",
+  "status": "open",
+  "raised": "DM-B-017",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-042",
+  "statement": "Juraj Demko, born 17 September 1911 at Iňačovce, is a son of Mihály Demkó and Mária Kocsis and a full brother of Maria Demko; his mother died between that day and 3 February 1919.",
+  "confidence": 70,
+  "basis": "He is 'son' in his father's house in 1930; his father's wife of 1930 was ten years old when he was born and married his father in 1919 (DM-D-105). His father's wife in 1906 was Mária Kocsis (DM-D-008). Against: a wife between the two is possible, and the date is the household's. At the cap (X-009); without it, about 82.",
+  "test": "The civil birth of 17 September 1911 in the Alsókánya register; the death of Mária Kocsis, 1911 to 1919; the marriage of 3 February 1919, which should call him a widower.",
+  "status": "supported",
+  "raised": "DM-B-017",
   "resolved": null,
   "resolution": null,
   "history": []

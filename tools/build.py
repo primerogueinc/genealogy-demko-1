@@ -271,6 +271,13 @@ def render(d):
         add("<dt>Register</dt><dd>Parish: " + e(r["parish"]) + " Denomination: " + e(r["denomination"])
             + " Page: " + e(r["page"]) + ". Reference: " + e(r["archive_reference"]) + ".</dd>")
         add("<dt>Notes</dt><dd>" + "<br>".join(e(n) for n in doc["notes"]) + "</dd>")
+        if doc.get("object"):
+            ob = doc["object"]
+            add("<dt>What kind of object</dt><dd><b>" + e(ob["kind"]) + ".</b> " + e(ob["why"]) + " <i>What does not fit:</i> " + e(ob["does_not_fit"])
+                + " <i>Made by:</i> " + e(ob["made_by"]) + ", " + e(ob["when"]) + ". <i>Kept:</i> " + e(ob["kept_where"])
+                + " <i>Compared with:</i> " + e("; ".join(ob["compared_with"])) + "</dd>")
+        if doc.get("independent") is False:
+            add("<dt>Independent reading?</dt><dd>No. Another agent's reading or a transcription was seen first (ledger X-012, X-027).</dd>")
         if doc.get("provenance"):
             pv = doc["provenance"]
             add("<dt>Provenance</dt><dd>Archive: " + e(pv["archive"]) + ". Fond or film: " + e(pv["fond_or_film"]) + ". Book: " + e(pv["book"])

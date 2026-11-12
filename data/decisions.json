@@ -400,5 +400,35 @@
   "date": "2026-11-12",
   "decision": "Logged the owner's statement that Maria Demko's second son is Michael Jr. as prior DM-PR-9 and wrote his given name that way. Nothing else about him is entered.",
   "why": "A statement by the owner is scored as given. Ledger X-028 allows his given name and 'born in Canada' and nothing more while his status is unknown."
+ },
+ {
+  "id": "DM-DEC-068",
+  "date": "2026-11-12",
+  "decision": "Read ledger v22 (and v21 with it). The second son of Michal Duska and Maria Demko is now entered as dead, on the owner's statement to the Duska agent as the ledger relays it; his name is no longer withheld from one archived file name. The photograph that shows him with the owner stays held.",
+  "why": "Ledger X-016: dead means full records may be public. X-015: an image about the owner himself is held whoever else is in it."
+ },
+ {
+  "id": "DM-DEC-069",
+  "date": "2026-11-12",
+  "decision": "Added a field 'object' to nineteen documents on or near the direct line: what kind of thing each is, judged from its form, what does not fit, who made it, when, and where such a paper is kept. One was checked against published descriptions (the 1906 register page); the others are judged from the form alone, and say so.",
+  "why": "Ledger X-031. No document changes its name as a result. Three of the owner's file names describe a paper as something it is not (a 'guardianship' document that is a page of a deed of sale; a 'citizenship application' that is a letter on admission; an 'obituary' that is a paid notice); each was already read for what it is."
+ },
+ {
+  "id": "DM-DEC-070",
+  "date": "2026-11-12",
+  "decision": "Marked 25 documents 'independent: false': the readings made after the Duska agent's note or the coordinator's ledger had given the other reading, and the 1906 register page, which was read in the same batch as a third party's transcription.",
+  "why": "Ledger X-012 and X-027: do not try to undo having seen it; mark it and move on."
+ },
+ {
+  "id": "DM-DEC-071",
+  "date": "2026-11-12",
+  "decision": "Took one more sheet from the Duska agent's census folder, Iňačovce no. 117, the house of Maria Demko's father. Forty other sheets and 24 Senné strips routed here are left for later batches.",
+  "why": "Ledger X-012. This sheet bears on both capped links of the line; the others are namesakes and neighbours."
+ },
+ {
+  "id": "DM-DEC-072",
+  "date": "2026-11-12",
+  "decision": "Notes to the coordinator now carry only three things: a new statement by the owner, an exposure, a question that needs a ruling.",
+  "why": "Ledger X-030."
  }
 ]

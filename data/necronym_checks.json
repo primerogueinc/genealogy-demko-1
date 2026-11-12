@@ -8,7 +8,7 @@
   "backward": "An earlier Mihály, twin, born 29 May [1873], is marked with a cross (DM-D-013). The 1882 child is itself a reuse of that name. The two are kept as two people.",
   "age_test": "The father of 1906 is '24 (huszonnégy) éves' on 23 Aug 1906: born between 24 Aug 1881 and 23 Aug 1882. The child of 19 Aug 1882 fits; the twin of 1873 does not.",
   "cousin_test": "The 1906 record names no parents for him. A cousin Mihály born about 1881-82 to János Demkó of Viszoka no. 120 is not excluded by the strips in hand (gap between March 1879 and January 1883).",
-  "result": "necronym risk: unresolved. Link capped at 70.",
+  "result": "Closed for survival in DM-B-017: the census of 1930 has a Michal Demko born at Vysoká in August 1882 alive at Iňačovce (DM-D-105). The days differ, the 19th in the baptism and the 28th in the census. That he is the son of György Demkó and Mária Hreskó still rests on there being one such birth in the strips.",
   "logged": "2026-11-12T06:16:34Z"
  },
  {
@@ -86,7 +86,7 @@
   "rule": "X-017 rules 1 and 2",
   "person": "P-019, Mária Kocsis, against the Mária baptised 28 Feb [1887] at Solymos no. 19",
   "burials_searched": "none in hand. The Places agent now gives the Iňačovce Greek Catholic death volumes at Prešov as nos. 382 (1861-1874) and 383 (1860-1898), film 88 (PL-R-003 @208af51). No agent has opened them, and nothing is known after 1898.",
-  "forward_search": "All 58 strips of the folder checked by label, and the 28 held here read: no second Mária to Mihály Kocsis and Mária Knyezső; their next child in hand is Anna, October [1889]. The remarks cell of the [1887] entry is blank, in a book that notes infant deaths there on eight strips between 1875 and 1894.",
+  "forward_search": "All 58 strips of the folder checked by label, and the 28 held here read: no second Mária to Mihály Kocsis and Mária Knyezső; their next child in hand is Anna, October [1889]. The remarks cell of the [1887] entry is blank, in a book that notes infant deaths there on eight strips between 1875 and 1894. Since DM-B-017: Ahn 19 was dead by 3 February 1919; a Roman Catholic widow Kočišová, born 1863, lives with her widower in 1930 (DM-D-105).",
   "age_test": "Born February 1887: 19 in August 1906, where the civil record says 20.",
   "result": "Unresolved. Not attached to P-019. DM-H-031 is held at 58 and cannot pass 70 until a burial search or the marriage entry is seen.",
   "logged": "2026-11-12T06:48:29Z"

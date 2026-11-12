@@ -1,6 +1,6 @@
 # DM-D-007 · Notarial deed of sale, 1966, one page: declaration that Mike Duska married once, to Maria Demko, who died 9 September 1950
 
-- **File:** `archive/demko-documents/Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg`
+- **File:** `archive/demko-documents/Maria_Demko_Notarial_Document_Regarding_Guardianship_of_Michael_Walter_Duska_-_establishes_date_of_death.jpg`
 - **SHA-256:** `57e158a05aa586a97944516a1ffdd112522130f0fa64c9c2962db6df4781a846`
 - **Kind:** Typed notarial deed, photographed page
 - **Language:** English
@@ -28,3 +28,4 @@ A page from a deed of sale of a property, effective 1 November 1966. The seller 
 - Only this page was given. The notary, the parties, the property and the deed number are on other pages.
 - The file name speaks of a guardianship and names a living person; that name is withheld here and in the archived file name. Nothing on this page concerns a guardianship.
 - Mike Duska was alive on the date of the deed.
+- The owner's file name is restored in full in DM-B-017. The man it names is dead by the owner's statement (ledger X-016), so his name is no longer withheld.

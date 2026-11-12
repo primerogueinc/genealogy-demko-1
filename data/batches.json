@@ -875,5 +875,55 @@
   "read": [
    "coordinator ledger v20 (2026-11-12), duska-coordinator @02d2162"
   ]
+ },
+ {
+  "id": "DM-B-017",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T20:49:16Z",
+  "title": "Ledger v22; Maria Demko's father in the census of 1930, with a second wife, a son, and a mother-in-law named Kočišová",
+  "folder": "F-12",
+  "files": 1,
+  "blurb": "Ledger v22 is read. It asks this agent to say what kind of object each document is, from its form, before leaning on it; that is now a field on nineteen documents. The green page of 1906 is a page of a Hungarian state birth register in the one-entry-to-a-page form used until 1906, signed by the registrar and by her father; which of the register's two copies it is cannot be told from the form. No document changes its name. Maria Demko's second son is entered as dead on the owner's word, and a file name that had hidden his name is restored. One census sheet is taken from the Duska agent: Iňačovce no. 117 on 1 December 1930, the house of Michal Demko, born at Vysoká on 28 August 1882. This is Maria's father. It shows the boy born at Viszoka in August 1882 grew up, which closes the survival check on him. His wife is Zuzanna, born 1901, married in 1919, so Maria's mother Mária Kocsis had died by then. A son Juraj, born 1911, is Maria's brother. And in the house is his mother-in-law, Maria Kočišová: a Roman Catholic widow, born at Iňačovce in 1863, married in 1879. That is what Mária Knyezső, the mother of the Mária Kocsis baptised in 1887, would look like forty years on. The sheet does not say which wife was her daughter, so the Kocsis question moves to the cap of 70 and not past it. Both capped links of the line are now firmer than the cap lets the board show; the record that would lift it is still the marriage of 1927, or one that names a parent. Curiosities: 3.",
+  "raised": [
+   "DM-H-041",
+   "DM-H-042"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-010",
+   "DM-H-030",
+   "DM-H-031",
+   "DM-H-025",
+   "DM-H-036"
+  ],
+  "people_added": [
+   "DM-X-064",
+   "DM-X-065",
+   "DM-X-066",
+   "DM-X-067"
+  ],
+  "sources_added": [
+   "DM-S-017-1"
+  ],
+  "documents_added": [
+   "DM-D-105"
+  ],
+  "curiosities_added": [
+   "DM-C-033",
+   "DM-C-034",
+   "DM-C-035"
+  ],
+  "curiosities": 3,
+  "read": [
+   "coordinator ledger v22 (2026-11-12), duska-coordinator @e9c4dea; v21 read with it",
+   "genealogu-duska-1 main @2043138 (cross-review; its B-037 to B-039)",
+   "private repository @9b2fe2b: piles unchanged",
+   "duska-and-demko-villages main @641ba53 (unchanged)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "2043138",
+   "found": "Three batches since the last pass. It has 46 more census sheets of 1930 for nine villages, 41 routed here; one is taken now (its D-011-84), checksum equal to its manifest. Its note gave the dates on that sheet before this agent read it, so the reading is marked not independent; read from the image, it agrees. It holds the mother-in-law as a possible Mária Knyezső at 60 (its H-070); DM-H-041 is the same reading. It reports the second son's birth from a 1973 registration it holds; not read here. It has adopted file names and checksums only for shared files from now on."
+  }
  }
 ]

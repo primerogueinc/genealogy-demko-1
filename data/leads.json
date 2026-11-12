@@ -347,5 +347,16 @@
    "DM-H-010",
    "DM-H-031"
   ]
+ },
+ {
+  "id": "DM-L-041",
+  "text": "Dates from the census of 1930 for Iňačovce no. 117, each a record to watch for when the owner's marriage and death folders come: the marriage of Maria Kočišová, 10 November 1879; the birth of Juraj Demko, 17 September 1911; the death of Mária Kocsis, 1911 to 1919; the marriage of Michal Demko and Zuzanna, 3 February 1919. The first is inside the Iňačovce volumes held at Prešov (PL-R-003).",
+  "url": null,
+  "bears_on": [
+   "DM-H-041",
+   "DM-H-042",
+   "DM-H-030",
+   "DM-H-010"
+  ]
  }
 ]

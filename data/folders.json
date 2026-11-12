@@ -119,7 +119,7 @@
    "DM-B-014"
   ],
   "archive_path": "archive/unclassified-sorter-piles/",
-  "private_commit_read": "c18bb44",
+  "private_commit_read": "c18bb44; piles unchanged at 9b2fe2b",
   "archive_note": "Ten images public. Three files held: the Javor chart, the death notice of 1974, and the full photograph of the 1937 contract (a cropped copy is public). See archive/WITHHELD.json."
  },
  {
@@ -175,15 +175,16 @@
   "path": "Duska Census",
   "described_by_kevin": "Announced to the Duska agent as 'Beginning Duska Census'; 66 files so far and still open there. Urbarial tables (the owner's date: 1767) and household sheets of the census of 1930. Four pages are taken here under ledger X-012: the Senné sheet that names Maria Demko, and the urbarial pages of Viszoka, Solymos and Csicser. Four Senné sheets of Kocsis households and the sheets for Iňačovce and Vysoká are still to come.",
   "received": "2026-11-12",
-  "files_received": 4,
+  "files_received": 5,
   "complete": false,
   "shared_with": [
    "duska"
   ],
   "batches": [
-   "DM-B-015"
+   "DM-B-015",
+   "DM-B-017"
   ],
   "archive_path": "archive/duska-census/",
-  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2, its F-011"
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 and @2043138, its F-011"
  }
 ]

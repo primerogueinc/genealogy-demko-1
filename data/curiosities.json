@@ -450,5 +450,47 @@
   "tone": "history",
   "doc": "DM-D-102",
   "text": "The oldest Demko in the file is a line in a table of dues. Read by the printed column heads, from recall: a year of his life owed the convent of Lelesz fifty-two days with his own oxen, two capons, two chickens and a dozen eggs."
+ },
+ {
+  "id": "DM-C-033",
+  "batch": "DM-B-017",
+  "found_in": "DM-B-017",
+  "source": "DM-S-017-1",
+  "document": "DM-D-105",
+  "title": "Two Marias, one birthday",
+  "original": "15 august 1863",
+  "translation": "15 August 1863",
+  "why": "At Senné the census was told Maria Dušková was born on 15 August. At Iňačovce, four kilometres off and by another enumerator, it was told that Maria Kočišová was born on 15 August too. Two women called Maria, two houses, one date. It reads less like two birthdays than like a custom: a Maria's day is St Mary's.",
+  "tone": "odd",
+  "doc": "DM-D-105",
+  "text": "At Senné the census was told Maria Dušková was born on 15 August. At Iňačovce, four kilometres off and by another enumerator, it was told that Maria Kočišová was born on 15 August too. Two women called Maria, two houses, one date. It reads less like two birthdays than like a custom: a Maria's day is St Mary's."
+ },
+ {
+  "id": "DM-C-034",
+  "batch": "DM-B-017",
+  "found_in": "DM-B-017",
+  "source": "DM-S-017-1",
+  "document": "DM-D-105",
+  "title": "A stepmother five years older",
+  "original": "28 apríla 1901 [...] 3 februára 1919",
+  "translation": "[born] 28 April 1901 [...] [married] 3 February 1919",
+  "why": "Zuzanna married Michal Demko at seventeen. He was thirty-six, a widower with a daughter of twelve and a son of seven. The daughter was Maria Demko, five years younger than her new stepmother.",
+  "tone": "history",
+  "doc": "DM-D-105",
+  "text": "Zuzanna married Michal Demko at seventeen. He was thirty-six, a widower with a daughter of twelve and a son of seven. The daughter was Maria Demko, five years younger than her new stepmother."
+ },
+ {
+  "id": "DM-C-035",
+  "batch": "DM-B-017",
+  "found_in": "DM-B-017",
+  "source": "DM-S-017-1",
+  "document": "DM-D-105",
+  "title": "The mother-in-law who stayed",
+  "original": "Kočišová Maria / testiná / vdova / rímsko katolícka",
+  "translation": "Maria Kočišová, mother-in-law, widow, Roman Catholic",
+  "why": "A Roman Catholic widow of sixty-seven in a Greek Catholic house, entered as the head's mother-in-law, beside a wife young enough to be her granddaughter. Whichever wife was her daughter, she is the oldest person in the file who was still alive when Maria Demko left for Canada.",
+  "tone": "history",
+  "doc": "DM-D-105",
+  "text": "A Roman Catholic widow of sixty-seven in a Greek Catholic house, entered as the head's mother-in-law, beside a wife young enough to be her granddaughter. Whichever wife was her daughter, she is the oldest person in the file who was still alive when Maria Demko left for Canada."
  }
 ]

@@ -1000,5 +1000,15 @@
   "reliability": "An official table of holdings and dues. Small image; undated on its face.",
   "document": "DM-D-104",
   "also": "DUS:D-011-05 @c1c3be2"
+ },
+ {
+  "id": "DM-S-017-1",
+  "batch": "DM-B-017",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 117: Michal Demko, born 1882 at Vysoká, his wife Zuzanna, two children, and his mother-in-law Maria Kočišová",
+  "extract": "Iňačovce, district of Michalovce, house 117, owner Michal Demko, on the night of 1 December 1930. Michal Demko, head of the household, born 28 August 1882 at Vysoká, married, Greek Catholic, Slovak, a farmer, reads and writes. Zuzanna Demková, his wife, born 28 April 1901 at Iňačovce, married 3 February 1919, two children born. Juraj Demko, son, born 17 September 1911 at Iňačovce, single. Anna Demková, daughter, born 12 November 1924. Maria Kočišová, the head's mother-in-law, born 15 August 1863 at Iňačovce, a widow, married 10 November 1879, three children born and two living, Roman Catholic, reads and writes.",
+  "reliability": "A state census sheet filled in for the household; dates are as the household gave them, and relationships are to the head.",
+  "document": "DM-D-105",
+  "also": "DUS:D-011-84 @2043138"
  }
 ]

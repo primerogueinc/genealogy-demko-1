@@ -166,21 +166,41 @@
  {
   "id": "P-018",
   "ahnentafel": 18,
-  "name": "Mihály Demkó",
+  "name": "Mihály (Michal) Demkó",
   "role": "Father of Maria Demko",
   "living": false,
   "owner": "demko",
   "birth": {
-   "date": "c. 1882 (19 Aug 1882 if he is DM-X-001)",
+   "date": "August 1882: the 19th by the baptism taken to be his, the 28th by the census of 1930",
    "place": "Magasrév (Viszoka, Vysoká nad Uhom)"
   },
   "proof": "documented",
   "sources": [
    "DM-S-004-6",
-   "DM-S-001-1"
+   "DM-S-001-1",
+   "DM-S-017-1"
   ],
-  "note": "Greek Catholic agricultural day-labourer living at Solymos in August 1906, born at Magasrév, aged 24; signs his own name. Father of the Mária born 22 Aug 1906. Taken to be the Mihály baptised at Viszoka no. 132 on 20 Aug 1882 (DM-X-001): same name, rite, birthplace and age to the week. That identification is an inference until his marriage entry is found (DM-H-017). Ledger X-017: the burials of the Csicser parish for 1882 to 1897 are not in hand, so it is not shown that the child of 1882 lived. His age as written in 1906, 24, fits a birth between August 1881 and August 1882.",
-  "necronym_risk": "unresolved"
+  "note": "Greek Catholic. A farm day-labourer at Solymos in August 1906, born at Magasrév, aged 24, signing his own name; father of the Mária born 22 August 1906. In the census of 1930 he is Michal Demko, farmer and owner of house no. 117 at Iňačovce, born at Vysoká on 28 August 1882, with a second wife, Zuzanna, married 3 February 1919, a son Juraj born 1911 and a daughter Anna born 1924, and his mother-in-law Maria Kočišová. Taken to be the Mihály baptised at Viszoka no. 132 on 20 August 1882 (DM-X-001): same name, rite and village, and a birth in August 1882 by the baptism, by his age in 1906 and by the census. The census shows that a Mihály Demkó born there that month lived to be 48, which is the survival ledger X-017 asked for. His parents are still not named on any record of his own, so György Demkó and Mária Hreskó stay inferred (DM-H-010, at the cap).",
+  "necronym_risk": "resolved for survival (census of 1930); the link to the parents of 1882 is still by agreement of name, place and month",
+  "residence": [
+   {
+    "date": "Aug 1906",
+    "place": "Solymos (Iňačovce)"
+   },
+   {
+    "date": "1 Dec 1930",
+    "place": "Iňačovce no. 117, his own house"
+   }
+  ],
+  "marriage": {
+   "date": "before Aug 1906",
+   "place": null
+  },
+  "second_marriage": {
+   "date": "3 Feb 1919",
+   "place": null,
+   "to": "Zuzanna (DM-X-064)"
+  }
  },
  {
   "id": "P-019",
@@ -195,9 +215,14 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-004-6"
+   "DM-S-004-6",
+   "DM-S-017-1"
   ],
-  "note": "Greek Catholic, born and living at Solymos, aged 20 in August 1906. Wife of Mihály Demkó. Opens the Kocsis line at Iňačovce. A baptism that may be hers is in hand: Mária, 28 Feb [1887], daughter of Mihály Kocsis and Mária Knyezső, Solymos no. 19 (DM-X-045, DM-H-031 at 58). Not attached yet."
+  "note": "Greek Catholic, born and living at Solymos, aged 20 in August 1906. Wife of Mihály Demkó. Dead before 3 February 1919, when he married again; a son Juraj was born in September 1911, so she was probably alive then. A baptism that may be hers is in hand: Mária, 28 Feb [1887], daughter of Mihály Kocsis and Mária Knyezső, Solymos no. 19 (DM-X-045, DM-H-031). In 1930 a Roman Catholic widow, Maria Kočišová, born 1863, lives in her husband's house as his mother-in-law (DM-X-067, DM-H-041). Not attached to parents yet.",
+  "death": {
+   "date": "between September 1911 and 3 February 1919",
+   "place": null
+  }
  },
  {
   "id": "P-036",
@@ -926,9 +951,10 @@
   "proof": "documented",
   "sources": [
    "DM-S-008-6",
-   "DM-S-010-1"
+   "DM-S-010-1",
+   "DM-S-017-1"
   ],
-  "note": "He Greek Catholic, a farmer; she Roman Catholic. Daughters Mária, born 27 Feb [1887], and Anna, born 19 Oct [1889], both at house no. 19. See DM-H-030 and DM-H-031. Her rite, read twice, is Roman Catholic, though most Knyezsős of Solymos are in the Reformed book (DM-X-054)."
+  "note": "He Greek Catholic, a farmer; she Roman Catholic. Daughters Mária, born 27 Feb [1887], and Anna, born 19 Oct [1889], both at house no. 19. See DM-H-030 and DM-H-031. Her rite, read twice, is Roman Catholic, though most Knyezsős of Solymos are in the Reformed book (DM-X-054). A Roman Catholic widow Maria Kočišová, born at Iňačovce in 1863 and married on 10 November 1879, is in Michal Demko's house in 1930 as his mother-in-law: very probably this Mária Knyezső (DM-H-041)."
  },
  {
   "id": "DM-X-040",
@@ -1312,19 +1338,19 @@
  {
   "id": "DM-X-060",
   "ahnentafel": null,
-  "name": "Michael (Mike) Jr., second son of Michal Duska and Maria Demko",
+  "name": "Michael (Mike) Duska Jr., second son of Michal Duska and Maria Demko",
   "role": "Son of Michal Duska and Maria Demko; brother of Ahn 4",
-  "living": "unknown",
+  "living": false,
   "owner": "demko",
   "birth": {
-   "date": null,
-   "place": "Canada"
+   "date": "1 Dec 1938 (from the Duska agent, not read here)",
+   "place": "Montréal"
   },
   "proof": "documented",
   "sources": [
    "DM-S-014-11"
   ],
-  "note": "'Mike' with his brother Steve in their father's death notice of 1974, where the father is 'Mike, Sr.'. The owner gives his name as Michael Jr. (DM-PR-9, given). Born in Canada. Living status unknown: given name and country of birth only (ledger X-016 item 3, X-028)."
+  "note": "'Mike' with his brother Steve in their father's death notice of 1974, where the father is 'Mike, Sr.'. The owner gives his name as Michael Jr. (DM-PR-9) and his own file names call him Michael Walter Duska; both are his word. Dead, by the owner's statement to the Duska agent on 12 Nov 2026 (ledger X-016); no date of death is given. He was at his brother's burial in 2018 by the owner's file name. The date of birth is from a Québec registration of 1973 that the Duska agent holds and this agent has not read (DUS:H-071 @2043138, which holds him as the son at 75)."
  },
  {
   "id": "DM-X-061",
@@ -1376,5 +1402,81 @@
    "DM-S-015-4"
   ],
   "note": "Half a holding under Gáspár Orosz, among the serfs free to move. Not shown to be kin to the Kocsis of Solymos."
+ },
+ {
+  "id": "DM-X-064",
+  "ahnentafel": null,
+  "name": "Zuzanna Demková, second wife of Michal Demko",
+  "role": "Stepmother of Maria Demko",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "28 Apr 1901",
+   "place": "Iňačovce"
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-017-1"
+  ],
+  "note": "Greek Catholic. Married Michal Demko on 3 February 1919, aged 17; two children born by 1930. Her maiden name is not on the sheet. If the widow Kočišová in the house is her mother, she was born a Kocsis and was the sister of his first wife (DM-H-041).",
+  "marriage": {
+   "date": "3 Feb 1919",
+   "place": null
+  }
+ },
+ {
+  "id": "DM-X-065",
+  "ahnentafel": null,
+  "name": "Juraj Demko, of Iňačovce",
+  "role": "Brother of Maria Demko",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "17 Sep 1911",
+   "place": "Iňačovce"
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-017-1"
+  ],
+  "note": "Son of Michal Demko, in his father's house in 1930, single, Greek Catholic. Born when his father's second wife was ten, so a child of the first marriage (DM-H-042). Dead by the hundred-year rule and by the owner's 'all dead' of the villagers on these sheets."
+ },
+ {
+  "id": "DM-X-066",
+  "ahnentafel": null,
+  "name": "Anna Demková, of Iňačovce",
+  "role": "Half-sister of Maria Demko",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "12 Nov 1924",
+   "place": "Iňačovce"
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-017-1"
+  ],
+  "note": "Daughter of Michal Demko and Zuzanna. Dead by the hundred-year rule and by the owner's 'all dead' of the villagers on these sheets."
+ },
+ {
+  "id": "DM-X-067",
+  "ahnentafel": null,
+  "name": "Maria Kočišová, widow, mother-in-law of Michal Demko",
+  "role": "Very probably Mária Knyezső, and then the grandmother of Maria Demko (Ahn 39)",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "15 Aug 1863 (as given to the census)",
+   "place": "Iňačovce"
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-017-1"
+  ],
+  "note": "Roman Catholic, born at Iňačovce, a widow in 1930, living in Michal Demko's house as his mother-in-law. Married 10 November 1879; three children born, two living. Reads and writes. Whether she is the mother of his first wife, his second, or both, the sheet does not say: DM-H-041.",
+  "marriage": {
+   "date": "10 Nov 1879",
+   "place": null
+  }
  }
 ]
