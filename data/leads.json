@@ -83,5 +83,32 @@
       "DM-H-002",
       "DM-H-011"
     ]
+  },
+  {
+    "id": "DM-L-011",
+    "text": "Relayed, not seen: DUS:S-003 @53bf7f0. Later hand copy of a baptism, entry 13 of 1895: György, born 29 Mar, son of György Demko, Greek Catholic landholder, and Katalin Jobbágy, Gönyű (Gyňov) no. 24. Parish (Belža) from a folder name only. Coordinator crosswalk X-S-002.",
+    "url": "https://github.com/primerogueinc/genealogu-duska-1",
+    "bears_on": [
+      "DM-H-013"
+    ]
+  },
+  {
+    "id": "DM-L-012",
+    "text": "Relayed, not seen: DUS:S-004 @53bf7f0. Later hand copy of a baptism, entry 33 of [1894]: Mária, daughter of József Hriczko, Greek Catholic, and Erzsébet Kocsis, Roman Catholic, Szina (Seňa) no. 182. A daughter of a mixed-rite couple in a book labelled Greek Catholic. The Duska agent holds Hriczko and Hreskó to be different surnames (DUS:H-017, 60). Crosswalk X-S-003.",
+    "url": "https://github.com/primerogueinc/genealogu-duska-1",
+    "bears_on": [
+      "DM-H-002",
+      "DM-H-005"
+    ]
+  },
+  {
+    "id": "DM-L-013",
+    "text": "Relayed from the Places agent, note to the coordinator of 11 Nov 2026: Vysoká nad Uhom is PL-P-037, 6.5 km from Senné and 9.3 km from Iňačovce, and was a Latin-rite filial of Pavlovce nad Uhom in a 1733 list (PL-S-010). Čičarovce is a different village further south and has a Greek Catholic parish today. The Places agent owns the question of which book the 1882 strip is from (X-Q-02, PL-H-008).",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-003",
+      "DM-H-011",
+      "DM-H-012"
+    ]
   }
 ]

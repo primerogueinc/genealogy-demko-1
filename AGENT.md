@@ -13,6 +13,12 @@ In practice:
 - **Asks are held.** Requests for more material go in `data/asks.json` with status `held` and are raised once the line is processed.
 - **Certified-genealogist habits.** Every claim cites a source. Original, derivative and authored sources are told apart. Direct, indirect and negative evidence are told apart. Conflicts are written down, not smoothed over. Nothing moves from *candidate* to *ancestor* without a document that links two generations.
 
+Added 12 Nov 2026:
+
+- **Standing approval.** Kevin approves every decision in advance unless it is illegal. Decisions are logged in `data/decisions.json`.
+- **Research.** Kevin allows open research on the Demko surname, excluding anything he authored.
+- **Shared rules.** The Project doc `claude/ALL-AGENTS-READ-FIRST.md` and the coordinator's ledger apply. The ledger and every note addressed to this agent are read at the start of each batch and logged.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.
@@ -25,7 +31,8 @@ This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 
 4. **Score the board.** Revise confidences with a dated reason, resolve what the batch settles, raise what it opens. Every hypothesis names the record that would test it.
 5. **Write the blurb** in `data/batches.json`: what came in, what it shows, what it does not.
 6. **Rebuild** with `python3 tools/build.py`. This validates every cross-reference and regenerates `docs/index.html` and `transcripts/`.
-7. **Leave a note** for the Duska agent in `interagent/to-duska.md` if anything touches its line.
+7. **Leave notes** for the other agents in `interagent/` and in the matching Project docs.
+8. **Commit to `main`**: one batch, one commit, batch id first in the message. `.github/workflows/stamp.yml` hashes and timestamps each commit.
 
 ## Ids
 
@@ -40,7 +47,8 @@ This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 
 | Lead | `DM-L-NNN` | Catalogue and web pointers, not evidence. |
 | Batch | `DM-B-NNN` | `DM-B-000` is the baseline. |
 | Folder | `F-NN` | Kevin's folders, in the order given. |
-| Ask | `DM-A-NNN` | Held requests. |
+| Ask | `DM-A-NNN` | Requests to Kevin. |
+| Decision | `DM-DEC-NNN` | |
 
 ## Proof levels
 

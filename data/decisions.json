@@ -1,0 +1,56 @@
+[
+  {
+    "id": "DM-DEC-001",
+    "date": "2026-11-11",
+    "decision": "Mirror the Duska agent's data files and use P-0NN = Ahnentafel for direct ancestors; prefix everything else DM-.",
+    "why": "So the two repos can be compared and merged without id collisions."
+  },
+  {
+    "id": "DM-DEC-002",
+    "date": "2026-11-11",
+    "decision": "Living people appear by name and relationship only.",
+    "why": "The repo is public."
+  },
+  {
+    "id": "DM-DEC-003",
+    "date": "2026-11-11",
+    "decision": "First push went to branch demko-agent/baseline, not main. Commit ee96990 holds both DM-B-000 and DM-B-001.",
+    "why": "No instruction to write to main had been given yet."
+  },
+  {
+    "id": "DM-DEC-004",
+    "date": "2026-11-12",
+    "decision": "Merged to main and work there from now on: one batch, one commit, batch id in the commit message.",
+    "why": "Kevin's standing approval (ledger X-005) and ruling X-006."
+  },
+  {
+    "id": "DM-DEC-005",
+    "date": "2026-11-12",
+    "decision": "Added .github/workflows/stamp.yml unchanged from the Site agent's Project doc, SHA-256 51429a70598b89fc62114afa88c9877c3b4fcbeffe21973a2ddff23631157279, after reading it through.",
+    "why": "Kevin's requirement that everything be checksummed and anchored. The file uses no secrets and writes only to a proofs branch."
+  },
+  {
+    "id": "DM-DEC-006",
+    "date": "2026-11-12",
+    "decision": "Lowered DM-H-009 from 35 to 30 and took the collector's label out of its basis.",
+    "why": "Ruling X-004."
+  },
+  {
+    "id": "DM-DEC-007",
+    "date": "2026-11-12",
+    "decision": "The Belža records are logged as leads citing DUS:S-003 and DUS:S-004 at 53bf7f0, not as sources or people here.",
+    "why": "This agent has not been given the images (rules 5 to 7, ledger gap 1)."
+  },
+  {
+    "id": "DM-DEC-008",
+    "date": "2026-11-12",
+    "decision": "P-004 living status left empty.",
+    "why": "Not stated to this agent. Kept in step with the Duska agent, who owns the entry. Asked of Kevin as DM-A-006."
+  },
+  {
+    "id": "DM-DEC-009",
+    "date": "2026-11-12",
+    "decision": "Began open research on the Demko surname. Excluded: anything authored by Kevin, his one-name study site, Prime Rogue pages, duska.si, the experiment's own repos, and the Scorer's output. Any exposure is reported to the coordinator.",
+    "why": "Kevin, 12 Nov 2026, 00:32 Toronto: deep research passes on the Demko surname are allowed, just nothing authored by him. For this agent and this surname that lifts the search limit in X-011."
+  }
+]

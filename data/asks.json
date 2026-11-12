@@ -1,23 +1,59 @@
 [
   {
     "id": "DM-A-001",
-    "status": "held",
+    "status": "raised",
     "ask": "The full page that entry no. 36 was cut from, with its printed header, plus the film, DGS or archive reference.",
     "why": "Settles DM-H-011 and makes the citation complete.",
-    "raised": "DM-B-001"
+    "raised": "DM-B-001",
+    "raised_to_kevin": "2026-11-12",
+    "note": "Same as the coordinator's RQ-2."
   },
   {
     "id": "DM-A-002",
-    "status": "held",
+    "status": "raised",
     "ask": "Whatever established that Maria Demko's birth record is in Uzhhorod: an archive reply, a catalogue line, a fond number.",
     "why": "Tests DM-H-005 directly.",
-    "raised": "DM-B-000"
+    "raised": "DM-B-000",
+    "raised_to_kevin": "2026-11-12"
   },
   {
     "id": "DM-A-003",
-    "status": "held",
+    "status": "raised",
     "ask": "Any record naming Maria Demko with an age, a father or a home village: the Duska-Demko marriage, a child's baptism, a census sheet.",
     "why": "Chooses between DM-H-009, DM-H-010 and neither.",
-    "raised": "DM-B-001"
+    "raised": "DM-B-001",
+    "raised_to_kevin": "2026-11-12"
+  },
+  {
+    "id": "DM-A-004",
+    "status": "raised",
+    "raised_to_kevin": "2026-11-12",
+    "ask": "The two images in Duska Baptisms/Belza (Kosice) - Greek Catholic, given to this agent as well.",
+    "why": "Ledger gap 1. The Demko people in them are this agent's to place, and a shared record is archived in both repos (rule 7). Until then DM-H-013 rests on a relayed reading.",
+    "raised": "DM-B-002"
+  },
+  {
+    "id": "DM-A-005",
+    "status": "raised",
+    "raised_to_kevin": "2026-11-12",
+    "ask": "Stefan Duska's birth year and birthplace.",
+    "why": "The coordinator's RQ-1. Narrows Maria's birth window (DM-H-001) and chooses between DM-H-009 and DM-H-010.",
+    "raised": "DM-B-002"
+  },
+  {
+    "id": "DM-A-006",
+    "status": "raised",
+    "raised_to_kevin": "2026-11-12",
+    "ask": "Whether Stefan Duska (Ahn 4) is living: yes or no.",
+    "why": "The site treats an empty value as living. The Duska agent owns the entry; both repos leave it empty.",
+    "raised": "DM-B-002"
+  },
+  {
+    "id": "DM-A-007",
+    "status": "raised",
+    "raised_to_kevin": "2026-11-12",
+    "ask": "Where each folder's images came from: FamilySearch, a state archive, or his own photographs.",
+    "why": "Raised by the coordinator for all agents. Decides how the record images may be shown.",
+    "raised": "DM-B-002"
   }
 ]

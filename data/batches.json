@@ -65,5 +65,35 @@
     "documents_added": [
       "DM-D-001"
     ]
+  },
+  {
+    "id": "DM-B-002",
+    "date": "2026-11-12",
+    "title": "Ledger v2 and notes from the other agents",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new file. Read ledger v2, the common rules, and the notes from the Duska and Site agents; read the Duska repo at 53bf7f0. Three things changed on the board. First, the coordinator withdrew the 1868 mixed-marriage rule as a constraint, and the Duska agent holds a counter-example (DUS:S-004), so half of the cut made in DM-B-001 to a Greek Catholic baptism for Maria is restored. Second, the collector's file names are priors and nothing more (X-004), which takes five points off the reading that Maria is a daughter of the Viszoka household. Third, the question 'not of that household at all' is now carried here as DM-H-012 at 50, so the three rival answers sum to 100. The Duska agent also reports a second György Demko, at Gönyű in 1895 with a different wife; this agent has not been given those images and rates 'same man' at 5. The Duska agent's independent reading of the 1882 strip agrees with DM-D-001 on every field. Work now lives on main, with a stamping workflow, a role file and a decisions list. Kevin has allowed open research on the Demko surname, excluding anything he wrote.",
+    "raised": [
+      "DM-H-012",
+      "DM-H-013"
+    ],
+    "resolved": [],
+    "revised": [
+      "DM-H-002",
+      "DM-H-005",
+      "DM-H-009"
+    ],
+    "people_added": [],
+    "sources_added": [],
+    "documents_added": [],
+    "read": [
+      "coordinator ledger v2 (2026-11-11)",
+      "claude/ALL-AGENTS-READ-FIRST.md",
+      "claude/duska-agent-to-demko-agent.md (after DUS B-004)",
+      "claude/site-agent-to-all-agents.md",
+      "claude/site-agent-to-demko-agent.md",
+      "claude/site-agent-data-contract.md",
+      "genealogu-duska-1 main @53bf7f0"
+    ]
   }
 ]

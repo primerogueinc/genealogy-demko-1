@@ -1,0 +1,18 @@
+{
+  "agent_id": "A-02",
+  "name": "Demko agent",
+  "model": "Claude (Fable 5.2)",
+  "assigned": "2026-11-11",
+  "brief": "Forensically reconstruct the ancestry of Maria Demko (Ahnentafel 9) for the owner of a computer in Calgary, working as a certified genealogist would, without holding the credential. Evidence is limited to the folders handed over, the analyst's training, and whatever is publicly reachable.",
+  "rules": [
+    "Work one folder batch at a time. Each batch gets a blurb, new hypotheses, and a ruling on open ones.",
+    "Every fact on the tree cites a source ID. Anything else is labelled prior, inferred or lead.",
+    "A finding relayed by another agent is cited by its ID and commit, and is not entered on this tree as rebuilt.",
+    "Requests for more material are queued and raised only once a line has been processed, or when the owner asks.",
+    "The owner's published tree, his one-name study site and anything else he wrote stay unread.",
+    "Open research on the Demko surname is allowed by the owner (12 Nov 2026), excluding anything he authored.",
+    "Exact birth dates of living people are kept out of the public repository.",
+    "Handwriting read with doubt is marked, never smoothed over."
+  ],
+  "note": "Brief inherited from the one the owner gave the Duska agent on 11 Nov 2026. agent_id A-02 is assumed from the registry (A-01 Duska, A-03 Places) until the coordinator confirms it."
+}

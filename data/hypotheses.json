@@ -14,7 +14,7 @@
   {
     "id": "DM-H-002",
     "statement": "Maria Demko was baptised Greek Catholic.",
-    "confidence": 50,
+    "confidence": 55,
     "basis": "DM-PR-3 (Rusyn lean), DM-PR-1 (Uzhhorod was the seat of the Mukachevo Greek Catholic eparchy) and DM-L-002 (Iňačovce was a Greek Catholic parish).",
     "test": "Denomination column in her baptism, her marriage entry, or her children's baptisms.",
     "status": "open",
@@ -27,6 +27,12 @@
         "from": 60,
         "to": 50,
         "why": "DM-S-001-1 shows a Demko household split by rite: father Greek Catholic, mother Roman Catholic. If Maria is a daughter of that couple (DM-H-009), the usual rule of the period would have her baptised in her mother's church."
+      },
+      {
+        "batch": "DM-B-002",
+        "from": 50,
+        "to": 55,
+        "why": "Ledger v2, X-A-001 as amended: the 1868 rule is withdrawn as a constraint between the two Catholic rites. DUS:S-004 @53bf7f0 shows a daughter of a Greek Catholic father and Roman Catholic mother entered in a book labelled Greek Catholic. Half of the DM-B-001 cut is restored."
       }
     ]
   },
@@ -66,12 +72,13 @@
         "to": 65,
         "why": "Viszoka is on the Slovak side of the present border. Only counts if the Viszoka household is hers."
       }
-    ]
+    ],
+    "question": "X-Q-01"
   },
   {
     "id": "DM-H-005",
     "statement": "The Uzhhorod record is a Greek Catholic register or register duplicate of the Mukachevo eparchy, and not a civil register.",
-    "confidence": 45,
+    "confidence": 50,
     "basis": "DM-L-003 catalogues exactly such a series for the Ung district. DM-L-001 shows the Iňačovce Greek Catholic books held at Prešov stop at 1898, which would leave a later baptism outside the Slovak holdings.",
     "test": "Whatever told Kevin the record is in Uzhhorod: an archive reply, a catalogue entry, or a fond and file number.",
     "status": "open",
@@ -84,8 +91,15 @@
         "from": 50,
         "to": 45,
         "why": "A Roman Catholic baptism for Maria (possible under DM-H-009) would not be in a Mukachevo eparchy book."
+      },
+      {
+        "batch": "DM-B-002",
+        "from": 45,
+        "to": 50,
+        "why": "Same reason as DM-H-002: a daughter of the Viszoka couple need not have been baptised Roman Catholic, so the Greek Catholic series stays a fair place to look."
       }
-    ]
+    ],
+    "question": "X-Q-01"
   },
   {
     "id": "DM-H-006",
@@ -133,14 +147,22 @@
   {
     "id": "DM-H-009",
     "statement": "György Demkó and Mária Hreskó of Viszoka no. 132 are Maria Demko's parents (Ahn 18 and 19). The Mihály baptised in 1882 is her brother.",
-    "confidence": 35,
-    "basis": "Same surname in the same county. The collector filed the image under Demko leads and labelled it by the parents' names. Maria shares her given name with the mother. Against: no document links the two, and Viszoka is not one of the villages in DM-PR-2.",
+    "confidence": 30,
+    "basis": "Same surname in the same county, and Maria shares her given name with the mother. The collector's label is a prior only (X-004). Against: no document links the two, and Viszoka is not one of the villages in DM-PR-2.",
     "test": "A baptism of a Mária to this couple at Viszoka 132, or a marriage entry naming Maria's father as György and her home as Viszoka.",
     "status": "open",
     "raised": "DM-B-001",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-002",
+        "from": 35,
+        "to": 30,
+        "why": "Ruling X-004: the collector's file name and folder are priors and cannot carry weight. That was part of the DM-B-001 basis."
+      }
+    ],
+    "question": "X-Q-03"
   },
   {
     "id": "DM-H-010",
@@ -152,16 +174,44 @@
     "raised": "DM-B-001",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [],
+    "question": "X-Q-03"
   },
   {
     "id": "DM-H-011",
     "statement": "The strip is cut from a Greek Catholic baptism register: the boy followed his father's rite, and 'Cicarovce' in the file name is the parish seat or the collector's label, not his birthplace.",
     "confidence": 50,
-    "basis": "From training, not yet checked against a source: Hungarian law of 1868 had children of mixed marriages follow the parent of the same sex. The priest's name may read Csurgovich, a surname I associate with Greek Catholic clergy; the reading is uncertain. Against: both godparents and the mother are Roman Catholic, and the strip shows no page header.",
+    "basis": "From training, not yet checked against a source: Hungarian law of 1868 had children of mixed marriages follow the parent of the same sex. The priest's name may read Csurgovich, a surname I associate with Greek Catholic clergy; the reading is uncertain. Against: both godparents and the mother are Roman Catholic, and the strip shows no page header. Ledger v2 (X-Q-02, X-010): not to be moved further on the priest's name alone until he is identified from a source.",
     "test": "The full page with its printed header, and the film or DGS number of the image.",
     "status": "open",
     "raised": "DM-B-001",
+    "resolved": null,
+    "resolution": null,
+    "history": [],
+    "question": "X-Q-02"
+  },
+  {
+    "id": "DM-H-012",
+    "question": "X-Q-03",
+    "statement": "Maria Demko is not of the Viszoka no. 132 household: neither a daughter of György Demkó and Mária Hreskó nor a daughter of their son Mihály.",
+    "confidence": 50,
+    "basis": "Carried from the coordinator's X-H-001. Demko is a common surname across the region, the only link so far is the collector's choice to keep the image (a prior, X-004), and the priors name Senné and Iňačovce, not Viszoka. Rival of DM-H-009 and DM-H-010; the three sum to 100.",
+    "test": "Maria's father's name and home village in her marriage entry or in a child's baptism.",
+    "status": "open",
+    "raised": "DM-B-002",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-013",
+    "question": "X-Q-04",
+    "statement": "György Demko of Gönyű no. 24 (DUS:S-003, 1895, wife Katalin Jobbágy) is the same man as György Demkó of Viszoka no. 132 (DM-S-001-1, 1882, wife Mária Hreskó), widowed, remarried and moved.",
+    "confidence": 5,
+    "basis": "For: same name, same rite, both landholders, both records kept by the same collector. Against: a landholding peasant rarely left his holding, the two villages are in different counties (distance per the Duska agent's note, not yet tied to a PL- id), and György Demko is a very common name. The Belža images have not been given to this agent; this rests on DUS:S-003 @53bf7f0 as relayed.",
+    "test": "A burial of Mária Hreskó before 1895; the marriage entry of György Demko and Katalin Jobbágy with the groom's age, status and origin.",
+    "status": "open",
+    "raised": "DM-B-002",
     "resolved": null,
     "resolution": null,
     "history": []

@@ -1,5 +1,11 @@
 # Read from the Duska agent
 
+## 12 Nov 2026
+
+- **Repo** `main` at `53bf7f0`, after its B-004. Read: people, hypotheses H-012, H-013, H-015, H-016, H-017, H-019, candidates K-004 to K-009, role file.
+- **Note** `claude/duska-agent-to-demko-agent.md`, after B-004. Taken into DM-B-002: its independent reading of the 1882 strip (agrees on every field), the two Belža records (as leads DM-L-011, DM-L-012), and the mixed-rite counter-example.
+- Not seen: the Belža images themselves.
+
 ## 11 Nov 2026
 
 - **Repo** `primerogueinc/genealogu-duska-1`, `main` at `f3e8569`: README and licence only. Nothing pushed yet.
