@@ -77,8 +77,8 @@
   },
   {
     "id": "DM-L-010",
-    "text": "Hungarian Act LIII of 1868 regulated the religion of children born to mixed marriages. The same-sex rule this rebuild relies on (sons follow the father, daughters the mother) is from training and still needs the text of the Act.",
-    "url": "https://epa.hu/05300/05342/00006/pdf/EPA05342_lk_2022_233-272.pdf",
+    "text": "Hungarian Act LIII of 1868, section 12: of the children of mixed marriages, sons follow the father's religion and daughters the mother's; contrary agreements are void. Text now sourced (DM-S-003-1, statute collection). Whether it was applied between the Roman and Greek rites is not settled; see ledger X-A-001.",
+    "url": "https://net.jogtar.hu/ezer-ev-torveny?docid=86800053.TV",
     "bears_on": [
       "DM-H-002",
       "DM-H-011"
@@ -109,6 +109,71 @@
       "DM-H-003",
       "DM-H-011",
       "DM-H-012"
+    ]
+  },
+  {
+    "id": "DM-L-014",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Čičarovce village site, church page: Greek Catholic parish priests Jozef Kubek 1847-1881, then Ján Csurgovics 1882-1886. Roman Catholic priest Andrej (Endre) Polányi 1868-1890. In 1825 the Greek Catholic parish had twelve filials, among them Pavlovce nad Uhom, Vysoká nad Uhom and Vojany. All three confessions had a parish in the village.",
+    "url": "https://www.obeccicarovce.sk/cirkev.html",
+    "bears_on": [
+      "DM-H-011"
+    ]
+  },
+  {
+    "id": "DM-L-015",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Vysoká nad Uhom Greek Catholic parish history: a filial of Bežovce after 1771, of Čičarovce after 1806, a parish of its own only from 26 Sep 1948. Names a Ján Čurgovič among priests who served it.",
+    "url": "https://grkatvysokanaduhom.webnode.sk/historia-farnosti/",
+    "bears_on": [
+      "DM-H-011"
+    ]
+  },
+  {
+    "id": "DM-L-016",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. FamilySearch image groups for Čičarovce, via a finding list: Greek Catholic baptisms, marriages and deaths 1875-1886 on DGS 4406715 and 4406819; Roman Catholic baptisms filmed only for 1781-1849 (DGS 4405885). If the 1882 strip is a FamilySearch image, only the Greek Catholic book covers its year.",
+    "url": "https://poosch.sk/en/slovak-church-records-search.html",
+    "bears_on": [
+      "DM-H-011"
+    ]
+  },
+  {
+    "id": "DM-L-017",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Parish geography: Greek Catholics of Senné, Jastrabie, Rebrín, Stretava and Stretavka belonged to the Greek Catholic parish of Iňačovce; Roman Catholics of Iňačovce, Palín, Stretava, Stretavka and Zemplínska Široká belonged to the Roman Catholic parish of Senné.",
+    "url": "https://lexikon.katolikus.hu/U/Ungszenna.html",
+    "bears_on": [
+      "DM-H-002",
+      "DM-H-003"
+    ]
+  },
+  {
+    "id": "DM-L-018",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. A private transcription of the 1715 tax lists shows no Demko at Viszoka, Senné, Čičarovce or Iňačovce. The Viszoka list has a 'Joannes Heress', which may or may not be an early Hreskó.",
+    "url": "https://www.cisarik.com/0_Vysoka_nad_Uhom_Michalovce_KI_Ung_Uzhorod.html",
+    "bears_on": [
+      "DM-H-012"
+    ]
+  },
+  {
+    "id": "DM-L-019",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Language and confession: Fényes (1851) describes Viszoka as Hungarian-Rusyn-Slovak with 331 Roman Catholics, 275 Greek Catholics and 182 Reformed, and Senné as Slovak-Rusyn-Hungarian. By 1910 Slovak was the recorded majority mother tongue in both.",
+    "url": "https://hu.wikipedia.org/wiki/Ungszenna",
+    "bears_on": [
+      "DM-H-008"
+    ]
+  },
+  {
+    "id": "DM-L-020",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Uzhhorod holdings: fond 151 of the Zakarpattia state archive is the board of the Mukachevo Greek Catholic eparchy. FamilySearch catalogue 1411329 films part of it; its inventories are catalogue 1411333, film 2376464 item 1. Whether it includes Čičarovce or Iňačovce was not checked.",
+    "url": "https://www.familysearch.org/search/catalog/1411329",
+    "bears_on": [
+      "DM-H-005"
+    ]
+  },
+  {
+    "id": "DM-L-021",
+    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Surname: Demko is a pet form of Demeter in Slovak and Polish use and of Demjan in Rusyn and Ukrainian use; Demkó is the same name in Hungarian spelling.",
+    "url": "https://en.geneanet.org/surnames/DEMETER",
+    "bears_on": [
+      "DM-H-008"
     ]
   }
 ]

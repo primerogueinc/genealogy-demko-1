@@ -180,14 +180,21 @@
   {
     "id": "DM-H-011",
     "statement": "The strip is cut from a Greek Catholic baptism register: the boy followed his father's rite, and 'Cicarovce' in the file name is the parish seat or the collector's label, not his birthplace.",
-    "confidence": 50,
+    "confidence": 65,
     "basis": "From training, not yet checked against a source: Hungarian law of 1868 had children of mixed marriages follow the parent of the same sex. The priest's name may read Csurgovich, a surname I associate with Greek Catholic clergy; the reading is uncertain. Against: both godparents and the mother are Roman Catholic, and the strip shows no page header. Ledger v2 (X-Q-02, X-010): not to be moved further on the priest's name alone until he is identified from a source.",
     "test": "The full page with its printed header, and the film or DGS number of the image.",
     "status": "open",
     "raised": "DM-B-001",
     "resolved": null,
     "resolution": null,
-    "history": [],
+    "history": [
+      {
+        "batch": "DM-B-003",
+        "from": 50,
+        "to": 65,
+        "why": "The priest is now identified from a source: Ján Csurgovics, Greek Catholic priest of Čičarovce 1882-1886 (DM-L-014, DM-L-015), with Viszoka a Greek Catholic filial of Čičarovce. Only the Greek Catholic book is filmed for 1882 (DM-L-016). Against: the next entry on the same page is officiated by Polányi Endre, whom the same source lists as the Roman Catholic priest of Čičarovce, so the page mixes clergy of both rites. Secondary sources only; held below the X-009 cap."
+      }
+    ],
     "question": "X-Q-02"
   },
   {

@@ -52,5 +52,17 @@
     "date": "2026-11-12",
     "decision": "Began open research on the Demko surname. Excluded: anything authored by Kevin, his one-name study site, Prime Rogue pages, duska.si, the experiment's own repos, and the Scorer's output. Any exposure is reported to the coordinator.",
     "why": "Kevin, 12 Nov 2026, 00:32 Toronto: deep research passes on the Demko surname are allowed, just nothing authored by him. For this agent and this surname that lifts the search limit in X-011."
+  },
+  {
+    "id": "DM-DEC-010",
+    "date": "2026-11-12",
+    "decision": "Two statements in the research report that came from the owner's private correspondence with a third party are set aside: not entered as leads, not used to score any hypothesis, and not published here. The exposure is reported to the coordinator for the contamination log. The report text is not archived in this repo.",
+    "why": "The research tool searched a connected mailbox, which the brief did not ask for. The correspondence is part of the owner's earlier research (blind rule, X-011) and names a private person."
+  },
+  {
+    "id": "DM-DEC-011",
+    "date": "2026-11-12",
+    "decision": "Web pages found by the research pass are logged as leads marked 'as reported', not as sources read by this agent.",
+    "why": "The agent could not open the pages itself in this session. A lead says where to look; it proves nothing."
   }
 ]

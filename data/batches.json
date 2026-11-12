@@ -95,5 +95,23 @@
       "claude/site-agent-data-contract.md",
       "genealogu-duska-1 main @53bf7f0"
     ]
+  },
+  {
+    "id": "DM-B-003",
+    "date": "2026-11-12",
+    "title": "Research pass 1: the Demko surname",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new file. Kevin allowed open research on the Demko surname, excluding anything he wrote, and one pass was run. Its useful result concerns the 1882 strip. A village history lists Ján Csurgovics as Greek Catholic priest of Čičarovce from 1882 to 1886, and the Greek Catholics of Viszoka were served from Čičarovce, so the collector's label is probably right about the parish and the book is probably the Greek Catholic one. A second look at the strip itself complicates that: the entry beneath is signed by Polányi Endre, whom the same history names as the village's Roman Catholic priest. The page was written by clergy of both rites, which fits a village with three churches but does not say whose book it is. The pass found no Demko in a transcription of the 1715 tax lists for the four villages and nothing in North American indexes. It also reached into the owner's private correspondence and repeated two statements from it; those are set aside and reported to the coordinator. One hypothesis moved; none was raised or resolved.",
+    "raised": [],
+    "resolved": [],
+    "revised": [
+      "DM-H-011"
+    ],
+    "people_added": [],
+    "sources_added": [
+      "DM-S-003-1"
+    ],
+    "documents_added": []
   }
 ]

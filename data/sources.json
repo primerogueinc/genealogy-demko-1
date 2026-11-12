@@ -15,5 +15,13 @@
     "extract": "Born 19 Aug 1882, baptised 20 Aug 1882. Father Greek Catholic farmer, mother Roman Catholic. Godparents Mihály Varga and Anna Hreskó, both Roman Catholic.",
     "reliability": "Original record made the day after the birth: strong for the event and the parents. Weak for provenance: parish, denomination and archive reference rest on the file name alone.",
     "document": "DM-D-001"
+  },
+  {
+    "id": "DM-S-003-1",
+    "batch": "DM-B-003",
+    "type": "Authored report (research pass, compiled by a research agent from web sources)",
+    "title": "Research pass 1 on the Demko surname in Ung county, 12 Nov 2026",
+    "extract": "Identifies the Greek Catholic priest of Čičarovce in 1882-1886 as Ján Csurgovics and the Roman Catholic priest in 1868-1890 as Andrej (Endre) Polányi; places Vysoká nad Uhom as a Greek Catholic filial of Čičarovce from after 1806 to 1948; gives film numbers for the Čičarovce registers; quotes Act LIII of 1868, section 12; finds no Demko in a private transcription of the 1715 lists for the four villages; finds nothing in North American indexes.",
+    "reliability": "Secondary throughout: municipal and parish web pages, reference works, a private transcription, catalogue numbers relayed by a finding list. Good for where to look, not for who anyone was. Two statements in it came from the owner's private correspondence and are set aside (DM-DEC-010). The report text is not archived here for that reason; the findings used are in leads DM-L-014 to DM-L-021."
   }
 ]
