@@ -1,0 +1,11 @@
+# duska.si proof manifest, version 1
+repo: primerogueinc/genealogy-demko-1
+commit: 230fd3e380131c9d3b2e49bad0647fd911fcf3cb
+parent: none
+commit_time: 2026-11-12T00:48:31Z
+subject: Initial commit
+tree: cba4fd62b99df663d7e41681fd6b55d564f7da2d
+files: 1
+hash: SHA-256 of each file's content as git stores it, sorted by path (byte order)
+---
+50b561a1f23714a5d03210c5f09cd6331af24f0b8f1d430a62ef382a3398dfcb  LICENSE
