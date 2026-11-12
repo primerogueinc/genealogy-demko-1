@@ -850,5 +850,115 @@
   "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
   "document": "DM-D-089",
   "also": "DUS:S-155 @54436a6"
+ },
+ {
+  "id": "DM-S-014-1",
+  "batch": "DM-B-014",
+  "type": "Photograph of a gravestone",
+  "title": "Photograph of the gravestone of Mary Demko, wife of Mike Duska, dated 21 October 2016 by its file name",
+  "extract": "A dark stone headed DUSKA: in loving memory of Mary Demko, born 1906, died 1950, beloved wife of Mike Duska.",
+  "reliability": "A gravestone: the dates were supplied by whoever ordered it.",
+  "document": "DM-D-090",
+  "also": "DUS:D-006-02 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-2",
+  "batch": "DM-B-014",
+  "type": "Czechoslovak emigrant passport, cover",
+  "title": "Passport of Maria Dušková, born Demková, 1937: front cover",
+  "extract": "The green cloth cover of a Czechoslovak passport, book no. 3389 of 1937.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-091",
+  "also": "DUS:D-006-15 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-3",
+  "batch": "DM-B-014",
+  "type": "Czechoslovak emigrant passport, name page",
+  "title": "Passport of Maria Dušková, born Demková, 1937: name page",
+  "extract": "Emigrant's passport no. 305 of 1937. Holder: Maria Dušková, born Demková, with one child. Czechoslovak. Home commune: Senné, district of Veľké Kapušany.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-092",
+  "also": "DUS:D-006-16 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-4",
+  "batch": "DM-B-014",
+  "type": "Czechoslovak emigrant passport, description page",
+  "title": "Passport of Maria Dušková, born Demková, 1937: personal description",
+  "extract": "Occupation: farm woman. Born at Iňačovce on 22 August 1906. Living at Iňačovce. Face oblong, eyes grey, hair chestnut, no distinguishing marks. One child: Štefan, born 23 October 1929, male.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-093",
+  "also": "DUS:D-006-17 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-5",
+  "batch": "DM-B-014",
+  "type": "Czechoslovak emigrant passport, photograph page",
+  "title": "Passport of Maria Dušková, born Demková, 1937: photograph and signature",
+  "extract": "The holder's photograph with her son, signed 'Marja Duškova' across the print and again below. Issued by the District Office at Michalovce. Stamped by Canadian immigration at Antwerp on 9 November 1937.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-094",
+  "also": "DUS:D-006-18 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-6",
+  "batch": "DM-B-014",
+  "type": "Court form, typed in: guardianship consent to a minor's emigration",
+  "title": "Consent of the Michalovce district court for the minor Štefan Duško to emigrate with his mother, 7 October 1937",
+  "extract": "The District Court at Michalovce, as guardianship office, consents on 7 October 1937 that the minor Štefan Duško, born 23 October 1929 at Senné, emigrate with his mother Mária Dušková, born Demková, of Iňačovce, to his father Michal Duško in Canada. The mother may sign the transport contract. She is over 24 and wholly reliable.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-095",
+  "also": "DUS:D-006-13 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-7",
+  "batch": "DM-B-014",
+  "type": "Typed official letter",
+  "title": "Letter of the Immigration Branch, Ottawa, to Mike Duska of Montréal, 11 September 1937",
+  "extract": "Ottawa, 11 September 1937, to Mike Duska, 1196a St. George Street, Montréal: on his application to admit his wife Maria, 'aged 28', and son Stefan, aged 7, of Iňačovce, a letter to ease their entry has been sent to her through the Canadian Pacific passenger agent at Windsor Station.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-096",
+  "also": "DUS:D-006-11 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-8",
+  "batch": "DM-B-014",
+  "type": "Printed receipt, typed in",
+  "title": "Canadian Pacific Steamships purchaser's receipt, Montréal, 17 September 1937: passage for Mrs. Maria Duska and Master Stefan Duska",
+  "extract": "Receipt no. 242299 of Canadian Pacific Steamships, Montréal, 17 September 1937: Mike Duska of 1196a St. George Street paid $178.50 for a third-class passage from Prague to a Canadian port for Mrs. Maria Duska, adult, and Master Stefan Duska, 7, of Iňačovce.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-097",
+  "also": "DUS:D-006-12 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-9",
+  "batch": "DM-B-014",
+  "type": "Printed emigrant's transport contract, filled in by hand",
+  "title": "Canadian Pacific transport contract no. 15621, Prague, 8 November 1937: Maria Dušková and Štefan Duška, by rail and by the Montrose to Montréal",
+  "extract": "Contract no. 15621 with the Canadian Pacific office in Prague, 8 November 1937. Maria Dušková, 31, married, farm labourer, of Iňačovce, and Štefan Duška, 8: by train from Prague that day, third class, and by the ship Montrose from Antwerp on 11 November to Montréal. Insurance of 20 crowns paid on 6 November. Signed 'Marja Duškova'.",
+  "reliability": "Original document, photographed. Made at the time by an office or a company; the personal details were supplied by her or by her husband.",
+  "document": "DM-D-098",
+  "also": "DUS:D-006-14 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-10",
+  "batch": "DM-B-014",
+  "type": "Parish extract on a printed form, filled in by hand",
+  "title": "Baptismal certificate of Štefan Duška, issued at Senné on 1 October 1955 from the entry of 1929",
+  "extract": "Extract no. 124 of 1955 from the Roman Catholic baptisms of Senné, volume IV, page 110, entry 43 of 1929: Štefan, born 21 October 1929, baptised the 26th, legitimate son of Michal Duška, cottar, Roman Catholic, of Senné, and Mária Demko, Greek Catholic, of Iňačovce; Senné no. 160. Godparents Jozef Macko-Kocák, student, of Michalovce, and Zuzana Bandura, born Han[..]ščák, of Senné. Issued 1 October 1955.",
+  "reliability": "A parish extract: a copy of the register entry made by the parish in 1955.",
+  "document": "DM-D-099",
+  "also": "DUS:D-006-21 @c1c3be2"
+ },
+ {
+  "id": "DM-S-014-11",
+  "batch": "DM-B-014",
+  "type": "Newspaper death notice, as a clipping printed from a newspaper-archive website",
+  "title": "Death notice of Mike Duska, Sr., husband of the late Mary Demko, The Montreal Star, 2 February 1974 (file held)",
+  "extract": "The Montreal Star, Saturday 2 February 1974: Mike Duska, Sr., died at Montreal General Hospital on 31 January 1974, aged 71; husband of the late Mary Demko; father of Steve and Mike; grandfather of Kevin. Service on 4 February from St. Cyril and Method Slovak Church; burial at Côte-des-Neiges.",
+  "reliability": "A family notice placed in a newspaper; reliable for the death and burial, family-supplied for age and kin.",
+  "document": "DM-D-100",
+  "also": "DUS:D-006-20 @c1c3be2"
  }
 ]

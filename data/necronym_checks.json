@@ -138,5 +138,15 @@
   "age_test": "Different rites, villages, wives and houses in every pair. The two Annas of János Kocsis and Anna Halász are two children: the first died in 1894, twelve years before the second was born.",
   "result": "Three pairs of namesakes four kilometres apart. None of the Senné people is attached to the line. A 'Mária Kocsis' or a 'Mihály Kocsis' from Senné is not to be given to Ahn 19 or to her candidate father without the rite and the spouse.",
   "logged": "2026-11-12T07:46:46Z"
+ },
+ {
+  "id": "DM-NC-018",
+  "rule": "X-017 rule 1",
+  "person": "P-009, Maria Demko, against the Mária registered on 23 August 1906",
+  "burials_searched": "none. No death register for Iňačovce after 1898 is known (PL-Q-006).",
+  "forward_search": "Her passport of 1937 gives her birth as 22 August 1906 at Iňačovce (DM-D-093). The contract of November 1937 gives her age as 31 (DM-D-098). Her husband's application of September 1937 made her 28 (DM-D-096).",
+  "age_test": "31 in November 1937 fits August 1906. '28' does not; it is her husband's figure, in a letter that also makes the boy 7 when he was nearly 8.",
+  "result": "The woman who emigrated carried the birth date of the 1906 entry. Still logged as unresolved, because the date on a passport comes from the register and a burial search has not been made; DM-H-024 is at 4.",
+  "logged": "2026-11-12T09:54:51Z"
  }
 ]

@@ -346,5 +346,29 @@
   "date": "2026-11-12",
   "decision": "Logged the owner's remark that the green 1906 registration is 'ostensibly from Uzhhorod' as prior DM-PR-6, and moved DM-H-018 to 70 and DM-H-005 to 10 on it, marked as given by him.",
   "why": "Ledger X-004 and the rubric, section 3: a thing the owner says is a prior, scored as given, and is not presented as rebuilt."
+ },
+ {
+  "id": "DM-DEC-059",
+  "date": "2026-11-12",
+  "decision": "Read the Demko pile at private commit c18bb44: eleven files. Ten are public. The death notice is held. The 1937 transport contract is public only as the Duska agent's cropped copy; the full photograph is held.",
+  "why": "The notice's page carries the owner's account name and names people of unknown living status. The contract photograph shows part of an envelope from a line outside this experiment (ledger X-020, X-022)."
+ },
+ {
+  "id": "DM-DEC-060",
+  "date": "2026-11-12",
+  "decision": "The second son named in the death notice of 1974 is entered by name only, living status unknown, with no date or place. The photograph on the passport is published.",
+  "why": "Ledger X-016 item 3 for the son. Both people in the passport photograph are dead (1950; 2018, stated), so X-015 item 1 applies."
+ },
+ {
+  "id": "DM-DEC-061",
+  "date": "2026-11-12",
+  "decision": "Report for the contamination log. (1) The Duska agent's note described eight of these files before this agent had read its own copies; they were then read from the images, and the readings are marked as not blind. (2) At the edge of the contract photograph this agent saw part of a name on an envelope, from a line outside the experiment; it is not recorded anywhere. (3) The listing of the Duska repo's pile folder shows a file name that carries the name of the owner's mother; the file was not opened.",
+  "why": "Ledger X-021 item 4 and X-019 item 5. None of the three was sought; each came with a file or a note this agent is required to read."
+ },
+ {
+  "id": "DM-DEC-062",
+  "date": "2026-11-12",
+  "decision": "The ledger is unchanged at v19 and is logged as read. The rest of the cross-review (census sheets of 1930, urbarial pages and 24 Senné strips routed here by the Duska agent) is left for the next batches.",
+  "why": "One folder, one batch. The pile came first because it is this line's own."
  }
 ]

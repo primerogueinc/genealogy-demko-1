@@ -732,5 +732,71 @@
   "priors_added": [
    "DM-PR-6"
   ]
+ },
+ {
+  "id": "DM-B-014",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T09:54:51Z",
+  "title": "The Demko pile: Maria Demko's passport and the papers of her emigration in 1937, a second parish extract, and her husband's death notice",
+  "folder": "F-08",
+  "files": 11,
+  "blurb": "The Sorter has put eleven files in this agent's pile. Eight are photographs of one bundle: the papers on which Maria Demko left Czechoslovakia in 1937. Her emigrant's passport names her Maria Dušková, born Demková, and gives her birth as 22 August 1906 at Iňačovce. That is the day and place of the birth registration this line has rested on since the fourth batch, so the link between the baby of 1906 and the woman who married a Duska now stands on a paper she carried herself. The passport describes her: oblong face, grey eyes, chestnut hair. It has her photograph with her son, and her signature, Marja Duškova. The other papers give the journey. Her husband, Mike Duska of 1196a St. George Street, Montréal, applied to bring her and the boy over; Ottawa answered on 11 September; he paid $178.50 on the 17th; the court at Michalovce let the boy go on 7 October; and on 8 November in Prague she signed a contract to sail from Antwerp on the 11th by the Montrose. The landing itself is not in hand. In 1937 she was living at Iňačovce, her own village. A second extract of her son's baptism, made in 1955, agrees with the one of 1947 and settles the godmother: Zuzana Bandura. A death notice of 1974 gives her husband's death and a second son, Mike, entered by name only. The notice is held; so is the full photograph of the contract, which shows something from outside this experiment at its edge. The Duska agent's note had described these papers before this agent read its own copies, so the readings here are not blind. The ledger is unchanged at v19. Curiosities: 5.",
+  "raised": [
+   "DM-H-038"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-024",
+   "DM-H-010",
+   "DM-H-007"
+  ],
+  "people_added": [
+   "DM-X-060"
+  ],
+  "sources_added": [
+   "DM-S-014-1",
+   "DM-S-014-2",
+   "DM-S-014-3",
+   "DM-S-014-4",
+   "DM-S-014-5",
+   "DM-S-014-6",
+   "DM-S-014-7",
+   "DM-S-014-8",
+   "DM-S-014-9",
+   "DM-S-014-10",
+   "DM-S-014-11"
+  ],
+  "documents_added": [
+   "DM-D-090",
+   "DM-D-091",
+   "DM-D-092",
+   "DM-D-093",
+   "DM-D-094",
+   "DM-D-095",
+   "DM-D-096",
+   "DM-D-097",
+   "DM-D-098",
+   "DM-D-099",
+   "DM-D-100"
+  ],
+  "curiosities_added": [
+   "DM-C-025",
+   "DM-C-026",
+   "DM-C-027",
+   "DM-C-028",
+   "DM-C-029"
+  ],
+  "curiosities": 5,
+  "read": [
+   "coordinator ledger v19, duska-coordinator @bcea4c8 (unchanged)",
+   "private repository @c18bb44: to-demko/ (eleven files) and to-both/ (unchanged) only",
+   "genealogu-duska-1 main @c1c3be2: its note to this agent (B-022 to B-036), and its copies of the same files",
+   "duska-and-demko-villages main @641ba53 (unchanged)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "c1c3be2",
+   "found": "Fifteen batches since the last pass. Its note to this agent describes the 1937 papers, the 1955 extract and the death notice, which it holds from its own pile with the same checksums; this agent had not yet read its own copies, so the readings here follow that note in time and are checked against the images. They agree, except the emigrants' register numbers on the contract (417 and 418 or 487 and 488 here; 487 and 488 there). Not yet taken, and left for the next batches: a 1930 census sheet for Senné that names Maria; census sheets for Iňačovce and Vysoká; three urbarial pages; 24 strips from the Senné Roman Catholic book."
+  }
  }
 ]

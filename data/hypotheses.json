@@ -190,7 +190,7 @@
  {
   "id": "DM-H-007",
   "statement": "Mihaly Duska and Maria Demko married in the old country between 1908 and 1935, and the entry names her father.",
-  "confidence": 85,
+  "confidence": 90,
   "basis": "DM-H-001 window plus a usual bride's age of 17 to 25. Parish and civil marriage entries of the period normally name both fathers.",
   "test": "Marriage entry in the Senné Roman Catholic book (DM-L-007), the Iňačovce books (DM-L-001), or the civil register.",
   "status": "supported",
@@ -203,6 +203,12 @@
     "from": 65,
     "to": 85,
     "why": "Štefan was born legitimate at Senné in October 1929 (DM-S-004-8), so the marriage was in the old country before then; with Maria born in 1906 that leaves about 1923 to 1929. The entry itself is not in hand."
+   },
+   {
+    "batch": "DM-B-014",
+    "from": 85,
+    "to": 90,
+    "why": "A passport of 1937 in her married name, with a son born at Senné in 1929, and a court paper calling Michal Duško the boy's father in Canada (DM-D-092 to DM-D-095). The marriage entry itself is still not in hand."
    }
   ]
  },
@@ -285,12 +291,18 @@
     "from": 70,
     "to": 70,
     "why": "Ledger v19, X-009: a link resting on two capped links is shown at the cap, with what it rests on listed. The two links are now in 'depends_on'. No new evidence."
+   },
+   {
+    "batch": "DM-B-014",
+    "from": 70,
+    "to": 70,
+    "why": "The first of its two links is now carried by her own passport (DM-D-093). The second, that the father of 1906 is the child of 1882, is unchanged. Still at the cap."
    }
   ],
   "question": "X-Q-03",
   "necronym_risk": "unresolved",
   "depends_on": [
-   "The Mária registered on 23 August 1906 is Ahn 9, and not an elder sister of the same name who died (the negation of DM-H-024)",
+   "The Mária registered on 23 August 1906 is Ahn 9, and not an elder sister of the same name who died (the negation of DM-H-024). Since DM-B-014 her passport of 1937 gives the same day and place of birth",
    "The father of 1906, Mihály Demkó born at Magasrév and aged 24, is the child baptised at Viszoka on 20 August 1882, and that child lived (DM-NC-001, DM-NC-007)"
   ]
  },
@@ -541,7 +553,7 @@
  {
   "id": "DM-H-024",
   "statement": "The Mária born on 22 August 1906 died young, and Ahn 9 is a later daughter of the same father who was given her name.",
-  "confidence": 8,
+  "confidence": 4,
   "necronym_risk": "unresolved",
   "basis": "Raised because ledger X-017 requires the possibility to be carried until the burials are searched. Against it: the gravestone's 'born 1906', which a later child would not match.",
   "test": "Burials and civil deaths at Solymos, 1906 to 1921; her age in the marriage entry.",
@@ -549,7 +561,14 @@
   "raised": "DM-B-006",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-014",
+    "from": 8,
+    "to": 4,
+    "why": "Her passport of 1937 gives her own birth as 22 August 1906 at Iňačovce (DM-D-093), the day and place of the registration, and the transport contract makes her 31 that November. A passport date was taken from a birth extract, so this is the office repeating the register and not a second witness to her birth; but it is her identity paper and she travelled on it. Not lower: the Duska agent reports a census sheet of 1930 that gives her a birthday a year later, which this agent has not yet read; and no burial book has been searched."
+   }
+  ]
  },
  {
   "id": "DM-H-025",
@@ -756,5 +775,17 @@
   "resolution": null,
   "history": [],
   "necronym_risk": "unresolved"
+ },
+ {
+  "id": "DM-H-038",
+  "statement": "Maria Demko and her son Štefan left Prague on 8 November 1937, sailed from Antwerp on the Montrose on 11 November and landed at Montréal that month, joining Mike Duska at 1196a St. George Street.",
+  "confidence": 85,
+  "basis": "The contract of 8 November names the train, the ship and the day, and she signed it (DM-D-098); her passport is stamped by Canadian immigration at Antwerp on 9 November (DM-D-094); her husband had paid the passage in Montréal on 17 September (DM-D-097); she died at Montréal in 1950. Against: nothing in hand shows the ship sailing as booked or the landing. The contract says Montréal; whether a ship could reach Montréal in the second half of November is not known to this agent.",
+  "test": "The Canadian passenger list or landing record of the Montrose, November 1937; a landing stamp on a later page of the passport.",
+  "status": "supported",
+  "raised": "DM-B-014",
+  "resolved": null,
+  "resolution": null,
+  "history": []
  }
 ]

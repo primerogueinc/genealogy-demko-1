@@ -887,7 +887,8 @@
    "A son of a Roman Catholic father and Greek Catholic mother, entered in the Roman Catholic book.",
    "The mother's maiden surname and home village are given in the form used for a wife of another rite: 'gr.kat., Iňačovce'.",
    "Shared with the Duska agent's line (Ahn 4 and Ahn 8).",
-   "Read again in DM-B-013 at the coordinator's request (ledger v19, X-S-004). The godmother's given name is a capital with a loop below the line, then five low letters: 'uzana'. There is no tall stroke for an l and no dot for an i, so 'Juliana' was wrong. The capital is like the J of 'Jozef' in the line above and could be a Z of the same build: Zuzana, or 'Juzana' as spelt. The ledger had told this agent that the Duska agent reads Zuzana; the letter count is this agent's own."
+   "Read again in DM-B-013 at the coordinator's request (ledger v19, X-S-004). The godmother's given name is a capital with a loop below the line, then five low letters: 'uzana'. There is no tall stroke for an l and no dot for an i, so 'Juliana' was wrong. The capital is like the J of 'Jozef' in the line above and could be a Z of the same build: Zuzana, or 'Juzana' as spelt. The ledger had told this agent that the Duska agent reads Zuzana; the letter count is this agent's own.",
+   "A second extract of the same entry, issued in 1955, is now in hand (DM-D-099). It writes the godmother clearly: Zuzana Bandura, born Han[..]ščák. That confirms the correction made in DM-B-013."
   ],
   "route": "duska",
   "provenance": {
@@ -7191,5 +7192,880 @@
   },
   "also_read_by": "DUS:D-009-21 / DUS:S-155 @54436a6",
   "taken_from": "primerogueinc/genealogu-duska-1 @54436a6 under ledger X-012"
+ },
+ {
+  "id": "DM-D-090",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-1",
+  "title": "Photograph of the gravestone of Mary Demko, wife of Mike Duska, dated 21 October 2016 by its file name",
+  "kind": "Photograph of a gravestone",
+  "language": "English",
+  "collector_label": "20161021 160358",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "DUSKA",
+    "english": "Duska",
+    "certainty": "clear"
+   },
+   {
+    "column": "Inscription",
+    "original": "IN LOVING MEMORY OF / MARY DEMKO / BORN 1906 DIED 1950 / BELOVED WIFE OF / MIKE DUSKA",
+    "english": "same",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "A dark stone headed DUSKA: in loving memory of Mary Demko, born 1906, died 1950, beloved wife of Mike Duska.",
+  "notes": [
+   "The same stone, the same fallen leaves and the same framing as DM-D-004, in a file with other bytes: a second copy of one photograph, or one taken a moment apart. The file name gives 21 October 2016.",
+   "Adds nothing to the inscription. Mike Duska's own name and dates are not on the stone, though his death notice of 1974 has him buried in the same cemetery (DM-D-100).",
+   "Stored sideways in the file. Also read by the Duska agent (DUS:D-006-02)."
+  ],
+  "provenance": {
+   "archive": "none: a photograph of a grave",
+   "fond_or_film": "not applicable",
+   "book": "not applicable",
+   "page_or_image": "photograph; the file carries the camera's make and model and no location",
+   "obtained": "From the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-007",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-02 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/20161021_160358.jpg",
+  "sha256": "16cd017fcca4507743576dff8f2e1c2ae5b89feeceb0410ae18c57880cdb2f42",
+  "image": {
+   "format": "JPEG",
+   "width": 2048,
+   "height": 1152
+  }
+ },
+ {
+  "id": "DM-D-091",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-2",
+  "title": "Passport of Maria Dušková, born Demková, 1937: front cover",
+  "kind": "Czechoslovak emigrant passport, cover",
+  "language": "Slovak and French",
+  "collector_label": "mariapassport1",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Cover",
+    "original": "REPUBLIKA ČESKOSLOVENSKÁ / République Tchécoslovaque / CESTOVNÝ PAS / Passeport",
+    "english": "Czechoslovak Republic. Passport",
+    "certainty": "clear"
+   },
+   {
+    "column": "Stamped",
+    "original": "1937 ; 3389",
+    "english": "Year 1937; book number 3389",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "The green cloth cover of a Czechoslovak passport, book no. 3389 of 1937.",
+  "notes": [
+   "Names nobody. It is the cover of the passport whose pages follow (DM-D-092 to DM-D-094)."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one photograph",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-15 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/mariapassport1.jpg",
+  "sha256": "18dc144b2edecd9750776809fdbf98497c295a39e1caeed6e19c509b0edaff3f",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-092",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-3",
+  "title": "Passport of Maria Dušková, born Demková, 1937: name page",
+  "kind": "Czechoslovak emigrant passport, name page",
+  "language": "Slovak and French",
+  "collector_label": "mariapassport2",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Printed and stamped",
+    "original": "1937 ; 3389 ; VYSŤAHOVALECKÝ / ÉMIGRANT ; revenue stamp of 8 korún",
+    "english": "Year 1937; book 3389; stamped 'emigrant's'; an 8-crown revenue stamp",
+    "certainty": "clear"
+   },
+   {
+    "column": "Číslo cestovného pasu",
+    "original": "305",
+    "english": "Passport number 305",
+    "certainty": "clear"
+   },
+   {
+    "column": "Meno majiteľa",
+    "original": "Maria Dušková rod. Demková",
+    "english": "Holder: Maria Dušková, born Demková",
+    "certainty": "clear"
+   },
+   {
+    "column": "Doprevádzaný svojou manželkou",
+    "original": "/",
+    "english": "Accompanied by his wife: struck through",
+    "certainty": "clear"
+   },
+   {
+    "column": "a svojimi ... deťmi",
+    "original": "1",
+    "english": "and by 1 child",
+    "certainty": "clear"
+   },
+   {
+    "column": "Štátna príslušnosť",
+    "original": "československá",
+    "english": "Nationality: Czechoslovak",
+    "certainty": "clear"
+   },
+   {
+    "column": "Domovská príslušnosť",
+    "original": "Senné, okr. V. Kapušany",
+    "english": "Home commune: Senné, district of Veľké Kapušany",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Emigrant's passport no. 305 of 1937. Holder: Maria Dušková, born Demková, with one child. Czechoslovak. Home commune: Senné, district of Veľké Kapušany.",
+  "notes": [
+   "Her maiden name in an official paper of her own: 'rod. Demková'.",
+   "Home commune here is a legal status, and a wife took her husband's: Senné is his village. Her own residence, on the next page, is Iňačovce. The rule is from recall and not checked here.",
+   "Read here after the Duska agent's note had described it (DUS:D-006-16); the reading is from the image and agrees."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one photograph",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-16 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/mariapassport2.jpg",
+  "sha256": "3b80bad83c1d2ce0da798b5fb984a9391652b7069102f37a2a37058a3a522381",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-093",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-4",
+  "title": "Passport of Maria Dušková, born Demková, 1937: personal description",
+  "kind": "Czechoslovak emigrant passport, description page",
+  "language": "Slovak and French",
+  "collector_label": "mariapassport3",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Zamestnanie",
+    "original": "roľníčka / fermière",
+    "english": "Occupation: farm woman",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rodisko a datum narodenia",
+    "original": "Iňačovce / 22. VIII. 1906",
+    "english": "Place and date of birth: Iňačovce, 22 August 1906",
+    "certainty": "clear"
+   },
+   {
+    "column": "Bydlisko",
+    "original": "Iňačovce",
+    "english": "Residence: Iňačovce",
+    "certainty": "clear"
+   },
+   {
+    "column": "Obličaj",
+    "original": "podlhovastá / oblong",
+    "english": "Face: oblong",
+    "certainty": "probable"
+   },
+   {
+    "column": "Barva očí",
+    "original": "sivé / grises",
+    "english": "Eyes: grey",
+    "certainty": "probable"
+   },
+   {
+    "column": "Barva vlasov",
+    "original": "gaštanové / châtains",
+    "english": "Hair: chestnut",
+    "certainty": "probable"
+   },
+   {
+    "column": "Zvláštne znamenie",
+    "original": "/",
+    "english": "Distinguishing marks: none",
+    "certainty": "clear"
+   },
+   {
+    "column": "Deti",
+    "original": "Štefan ; 23. X. 1929 ; mužské / mascul.",
+    "english": "Children: Štefan, 23 October 1929, male",
+    "certainty": "clear"
+   },
+   {
+    "column": "Stamp on the facing page",
+    "original": "CANADIAN [...] ANTWERP [...] NOV. 1937 [...] IMMIGRATION",
+    "english": "A Canadian immigration stamp, Antwerp, November 1937",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Occupation: farm woman. Born at Iňačovce on 22 August 1906. Living at Iňačovce. Face oblong, eyes grey, hair chestnut, no distinguishing marks. One child: Štefan, born 23 October 1929, male.",
+  "notes": [
+   "The date and place of birth are those of civil registration no. 45 of 1906 (DM-D-008): born at Solymos (Iňačovce) on 22 August 1906. So the woman who emigrated in 1937 was, on her own passport, the child of that entry. This is one of the two links DM-H-010 rests on.",
+   "In 1937 she lived in her own village, Iňačovce, not at Senné where her son was born.",
+   "Her son's birthday is 23 October here and in the court's consent (DM-D-095). The parish extracts of 1947 and 1955 say born 21 October, baptised the 26th (DM-D-011, DM-D-099). His date is the Duska agent's to settle.",
+   "The only description of her appearance in the file.",
+   "Read here after the Duska agent's note had described it (DUS:D-006-17); agrees."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one photograph",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-17 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/mariapassport3.jpg",
+  "sha256": "a94e4f5db4af04795f3feb50f219a9043ab4c31550817705cbc401aa53211442",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-094",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-5",
+  "title": "Passport of Maria Dušková, born Demková, 1937: photograph and signature",
+  "kind": "Czechoslovak emigrant passport, photograph page",
+  "language": "Slovak and French",
+  "collector_label": "mariapassport4",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Photograph",
+    "original": "(a woman with her hair drawn back, and a boy with a shaved head in front of her)",
+    "english": "Maria Demko, 31, and her son Štefan, 8",
+    "certainty": "clear"
+   },
+   {
+    "column": "Across the photograph",
+    "original": "Marja Duškova",
+    "english": "Her signature, written across the print",
+    "certainty": "clear"
+   },
+   {
+    "column": "Podpis majiteľa",
+    "original": "Marja Duškova",
+    "english": "Signature of the holder: Marja Duškova",
+    "certainty": "clear"
+   },
+   {
+    "column": "Stamps",
+    "original": "CANADIAN IMMIGRATION ANTWERP 9 - NOV. 1937 ; Okresný úrad v Michalovciach ; okresný náčelník",
+    "english": "Canadian immigration, Antwerp, 9 November 1937 (twice); District Office at Michalovce; signed for the district head",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The holder's photograph with her son, signed 'Marja Duškova' across the print and again below. Issued by the District Office at Michalovce. Stamped by Canadian immigration at Antwerp on 9 November 1937.",
+  "notes": [
+   "The only likeness of Maria Demko in the file. Both sitters are dead (1950; 2018, stated), so the image is public under ledger X-015 and X-016.",
+   "She writes her own name, with a j: Marja. Her father signed the registration of her birth in 1906 (DM-D-008).",
+   "The Canadian stamp is dated at Antwerp two days before the ship was to sail.",
+   "Read here after the Duska agent's note had described it (DUS:D-006-18); agrees."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one photograph",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-18 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/mariapassport4.jpg",
+  "sha256": "8531bb9be61505c8b162cda4012f1e0e5a071448365b6d4323ebb901d0dbb820",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-095",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-6",
+  "title": "Consent of the Michalovce district court for the minor Štefan Duško to emigrate with his mother, 7 October 1937",
+  "kind": "Court form, typed in: guardianship consent to a minor's emigration",
+  "language": "Slovak",
+  "collector_label": "maria-permission letter 1",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Heading",
+    "original": "Svolenie k vysťahovaniu sa nezletilca do cudzozemska.",
+    "english": "Consent to the emigration of a minor abroad",
+    "certainty": "clear"
+   },
+   {
+    "column": "Čís. jed.",
+    "original": "Nsl 446/37",
+    "english": "File number Nsl 446/37",
+    "certainty": "probable"
+   },
+   {
+    "column": "Operative part",
+    "original": "Poručenský úrad I. stolice [...] Okresný súd v Michalovciach svoluje, aby nezletilý Štefan Duško, narodený dňa 23. okt. 1929 v Sennom, sa vysťahoval v sprievode matky Márie Duškovej rod. Demkovej z Inačoviec až na miesto v pase určené do Kanady [...] k otcovi Michalovi Duškovi.",
+    "english": "The guardianship office of first instance, the District Court at Michalovce, consents that the minor Štefan Duško, born 23 October 1929 at Senné, emigrate in the company of his mother Mária Dušková, born Demková, of Iňačovce, to the place named in the passport, to Canada, to his father Michal Duško.",
+    "certainty": "probable"
+   },
+   {
+    "column": "Second paragraph",
+    "original": "[...] matka Mária Dušková r. Demková jako sprievodca je oprávnená právoplatne podpísať dopravnú [smluvu] za poručníka.",
+    "english": "The mother, as escort, is entitled to sign the transport contract validly in the guardian's place.",
+    "certainty": "probable"
+   },
+   {
+    "column": "Grounds",
+    "original": "[...] menovaná sprievodkyňa má výše 24 rokov, je úplne spoľahlivá a na doprevadenie nezletilého až na určené miesto písomne pod ťarchou hmotnej zodpovednosti sa zaviazala.",
+    "english": "The escort named is over 24 years of age, is wholly reliable, and has bound herself in writing, on her own liability, to take the minor to the place named.",
+    "certainty": "probable"
+   },
+   {
+    "column": "Date and office",
+    "original": "Okresný súd v Michalovciach, oddel. I., dňa 7. okt. 1937.",
+    "english": "District Court at Michalovce, division I, 7 October 1937",
+    "certainty": "clear"
+   },
+   {
+    "column": "Pencil, margin",
+    "original": "the mother",
+    "english": "In English, in pencil; a later hand",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "The District Court at Michalovce, as guardianship office, consents on 7 October 1937 that the minor Štefan Duško, born 23 October 1929 at Senné, emigrate with his mother Mária Dušková, born Demková, of Iňačovce, to his father Michal Duško in Canada. The mother may sign the transport contract. She is over 24 and wholly reliable.",
+  "notes": [
+   "A third paper, after the passport and the parish extracts, that names her as born Demko and as the boy's mother, and the second that puts her home at Iňačovce.",
+   "The typed entries are faint on the printed form; the reading is helped by the form's own wording.",
+   "A government envelope and a keyboard are in view behind the sheet; no name is legible on them.",
+   "Read here after the Duska agent's note had described it (DUS:D-006-13); agrees."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one photograph",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-13 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/maria-permission_letter_1.jpg",
+  "sha256": "8c071d8c03d7a5bc79671d7c52297a005745f93d56b3c5bfe08c04d62df74fcd",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-096",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-7",
+  "title": "Letter of the Immigration Branch, Ottawa, to Mike Duska of Montréal, 11 September 1937",
+  "kind": "Typed official letter",
+  "language": "English",
+  "collector_label": "maria-mike citizenship application",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Letterhead",
+    "original": "DEPARTMENT OF MINES AND RESOURCES / IMMIGRATION BRANCH / OTTAWA, September 11th, 1937.",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Text",
+    "original": "Referring to your application for the admission to Canada of your wife, Maria aged 28, and son, Stefan aged 7, citizens of Czechoslovakia, whose address is, Inacovce P.O. Mihalovce, Zupa xx, Kosicka, Czechoslovakia [...] a letter to facilitate entry under the usual conditions has today been addressed to Mrs. Duska and sent Mr. H. M. MacCallum [...] Canadian Pacific Steamships [...] Windsor Station, Montreal",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Addressee",
+    "original": "Mike Duska, Esq., 1196a St. George Street, Montreal, Quebec.",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Pencil",
+    "original": "age 7",
+    "english": "'aged' is ringed in the text and 'age 7' written below",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Ottawa, 11 September 1937, to Mike Duska, 1196a St. George Street, Montréal: on his application to admit his wife Maria, 'aged 28', and son Stefan, aged 7, of Iňačovce, a letter to ease their entry has been sent to her through the Canadian Pacific passenger agent at Windsor Station.",
+  "notes": [
+   "The owner's file name calls it a citizenship application. It is a letter about admission to Canada; the label is his (ledger X-004).",
+   "'Maria aged 28': she was 31 by her passport and by the contract two months later. The age came from her husband's application.",
+   "Her address in September 1937 is Iňačovce.",
+   "Read here after the Duska agent's note had described it (DUS:D-006-11); agrees."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one sheet",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-11 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/maria-mike_citizenship_application.jpg",
+  "sha256": "46e7308776e0240e56d0423bcd3b959b9e3a8734e697d77d40cd2757dd8d6558",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-097",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-8",
+  "title": "Canadian Pacific Steamships purchaser's receipt, Montréal, 17 September 1937: passage for Mrs. Maria Duska and Master Stefan Duska",
+  "kind": "Printed receipt, typed in",
+  "language": "English",
+  "collector_label": "maria boat receipt",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Form",
+    "original": "PURCHASER'S RECEIPT [...] Form A 4 No. 242299 ; stamped SEP 17 37",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Passengers",
+    "original": "Mrs. Maria Duska - A ; Master Stefan Duska - 7",
+    "english": "Mrs. Maria Duska, adult; Master Stefan Duska, 7",
+    "certainty": "clear"
+   },
+   {
+    "column": "From / to",
+    "original": "Prague, Czechoslovakia / Canadian Port",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Ocean passage",
+    "original": "One One 3rd 119. $ 178.50 ; One Hundred Seventy Eight 50/100",
+    "english": "One full and one half fare, third class, at 119: 178 dollars 50",
+    "certainty": "probable"
+   },
+   {
+    "column": "Paid by",
+    "original": "Mr. Mike Duska, 1196a St. George Street, Montreal Que.",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "European address",
+    "original": "Inacovce P.O. Mihalovce, Zupa xx, Kosicka, Czechoslovakia",
+    "english": "Iňačovce, post office Michalovce, Košice county (župa XX)",
+    "certainty": "clear"
+   },
+   {
+    "column": "Agent, place, date",
+    "original": "N. C. Strange ; Montreal ; Sept. 17th 1937",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Overprint",
+    "original": "NOT GOOD FOR PASSAGE",
+    "english": "same",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Receipt no. 242299 of Canadian Pacific Steamships, Montréal, 17 September 1937: Mike Duska of 1196a St. George Street paid $178.50 for a third-class passage from Prague to a Canadian port for Mrs. Maria Duska, adult, and Master Stefan Duska, 7, of Iňačovce.",
+  "notes": [
+   "Bought six days after the Ottawa letter (DM-D-096).",
+   "Pencilled notes on a sheet underneath are partly in view and are not part of the receipt; they are not transcribed.",
+   "Read here after the Duska agent's note had described it (DUS:D-006-12); agrees."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one sheet",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-12 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/maria_boat_receipt.jpg",
+  "sha256": "2a17c3464049d7738f7521c7b064723167c027d77d3f9fad91209f29fdc1c685",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-098",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-9",
+  "title": "Canadian Pacific transport contract no. 15621, Prague, 8 November 1937: Maria Dušková and Štefan Duška, by rail and by the Montrose to Montréal",
+  "kind": "Printed emigrant's transport contract, filled in by hand",
+  "language": "Czech",
+  "collector_label": "maria boat and train ticket",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "CANADIAN PACIFIC RAILWAY / PRAHA, POŘÍČ, PALÁC LEGIOBANKY / Dopravní smlouva čís. 15621",
+    "english": "Canadian Pacific Railway, Prague office. Transport contract no. 15621",
+    "certainty": "clear"
+   },
+   {
+    "column": "Čís. rejstř. vyst.",
+    "original": "4[1 or 8]7 / 4[1 or 8]8",
+    "english": "Emigrants' register nos. 417 and 418, or 487 and 488",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Journey",
+    "original": "z Prahy vlakem ve III. třídě dne 8/11 1937 [...] lodí Montrose, III. třídě, dne 11/11 1937 z Antverp do Montrealu [...] ve státě Kanada",
+    "english": "From Prague by train, third class, on 8 November 1937; by the ship Montrose, third class, on 11 November 1937 from Antwerp to Montréal, Canada",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 1",
+    "original": "Dušková / Maria / 31 / žen. / vdaná / zemědělský dělník / Československá / Iňačovce p. Michalovce",
+    "english": "Dušková, Maria, 31, female, married, farm labourer, Czechoslovak, last residence Iňačovce, post Michalovce",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Duška / Štefan / 8 / muž. / svob.",
+    "english": "Duška, Štefan, 8, male, single",
+    "certainty": "probable"
+   },
+   {
+    "column": "Insurance",
+    "original": "Pojištění osobní Kč 10 ; Pojištění zavazadel Kč 10 ; Úhrnem Kč 20 ; zaplacena dne 6./11.",
+    "english": "Personal insurance 10 crowns, luggage 10, total 20; paid 6 November",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date and signature",
+    "original": "V Praze, dne 8./11. 1937 ; Vystěhovalec: Marja Duškova",
+    "english": "Prague, 8 November 1937. Emigrant: Marja Duškova",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Contract no. 15621 with the Canadian Pacific office in Prague, 8 November 1937. Maria Dušková, 31, married, farm labourer, of Iňačovce, and Štefan Duška, 8: by train from Prague that day, third class, and by the ship Montrose from Antwerp on 11 November to Montréal. Insurance of 20 crowns paid on 6 November. Signed 'Marja Duškova'.",
+  "notes": [
+   "The public image is a cropped copy, the same file the Duska agent publishes: the full photograph shows, at its edge, part of an addressed envelope that belongs to a line outside this experiment (ledger X-020, X-022). The full photograph is held; its SHA-256 is in archive/WITHHELD.json.",
+   "Her age, 31, agrees with a birth in August 1906.",
+   "The contract shows what was booked. Nothing in hand shows the landing at Montréal.",
+   "The register numbers are read 487 and 488 by the Duska agent (DUS:D-006-14)."
+  ],
+  "provenance": {
+   "archive": "none: family papers. The owner told the Duska agent on 12 Nov 2026 that the 1937 papers are originals he found in his grandfather Štefan's basement (DUS:S-000-9 @c1c3be2, given, not checked here)",
+   "fond_or_film": "not applicable",
+   "book": "The 1937 emigration papers of Maria Dušková, born Demková",
+   "page_or_image": "one sheet; public copy cropped",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-014",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-14 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/maria_boat_and_train_ticket_cropped.jpg",
+  "sha256": "9c0790d86dc8b54cab04c86a061548cb54d279b7c57d449a6cbf658eb370db2d",
+  "image": {
+   "format": "JPEG",
+   "width": 1728,
+   "height": 1536
+  },
+  "original_sha256": "0864769695b2b24bdb344d0ae00239906ee3bb1e006bf201ca5cb41b146ea6f3",
+  "original_held": "the full photograph shows part of an envelope belonging to a line outside this experiment",
+  "public_copy": "cropped; the same file as in the Duska repo"
+ },
+ {
+  "id": "DM-D-099",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-10",
+  "title": "Baptismal certificate of Štefan Duška, issued at Senné on 1 October 1955 from the entry of 1929",
+  "kind": "Parish extract on a printed form, filled in by hand",
+  "language": "Latin and Slovak",
+  "collector_label": "steve baptism registry",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Number and purpose",
+    "original": "Nr. 124/1955 ; Pre cirkevné a súkromné potreby",
+    "english": "No. 124 of 1955; for church and private use",
+    "certainty": "probable"
+   },
+   {
+    "column": "Register",
+    "original": "Rom. Cath. in Senné, okres Veľké Kapušany ; tomo IV. pag. 110 ; 1929",
+    "english": "Roman Catholic parish of Senné, district of Veľké Kapušany; volume IV, page 110; year 1929",
+    "certainty": "clear"
+   },
+   {
+    "column": "Numerus currens",
+    "original": "43.",
+    "english": "Entry 43",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "21. októbra 1929 / 26. októbra 1929",
+    "english": "21 October 1929 / 26 October 1929",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Štefan / mužské / zákonitý",
+    "english": "Štefan / male / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Michal Duška, želiar, rk. Senné / Mária Demko, gk. Iňačovce",
+    "english": "Michal Duška, cottar, Roman Catholic, of Senné; Mária Demko, Greek Catholic, of Iňačovce",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Senné 160.",
+    "english": "Senné, house no. 160",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Jozef Macko-Kocák, študent, gk. Michalovce / Zuzana Bandura, rod. Han[..]ščák, rk. Senné",
+    "english": "Jozef Macko-Kocák, student, Greek Catholic, of Michalovce; Zuzana Bandura, born Han[..]ščák, Roman Catholic, of Senné",
+    "certainty": "probable"
+   },
+   {
+    "column": "Baptised by",
+    "original": "Ján Barna, farár",
+    "english": "Ján Barna, parish priest",
+    "certainty": "clear"
+   },
+   {
+    "column": "Issued",
+    "original": "Senné, dňa 1. októbra 1955 ; [...] adm.",
+    "english": "Senné, 1 October 1955; signed by the administrator of the parish",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Extract no. 124 of 1955 from the Roman Catholic baptisms of Senné, volume IV, page 110, entry 43 of 1929: Štefan, born 21 October 1929, baptised the 26th, legitimate son of Michal Duška, cottar, Roman Catholic, of Senné, and Mária Demko, Greek Catholic, of Iňačovce; Senné no. 160. Godparents Jozef Macko-Kocák, student, of Michalovce, and Zuzana Bandura, born Han[..]ščák, of Senné. Issued 1 October 1955.",
+  "notes": [
+   "A second extract of the entry already in hand as the certificate of 1947 (DM-D-011): same volume, page, number, dates, parents and house. Two extracts eight years apart agree, which is as near to the register as this file comes.",
+   "It settles the godmother. She is Zuzana, clearly written, and Bandura is her married name: 'Zuzana Bandura, rod. Han[..]ščák'. The 1947 extract has the same woman as 'Zuzana Han[..]ščák, wife of Ján Bandura'. The godfather is a student, which is the 1947 extract's 'gymnazista'.",
+   "Read here after the Duska agent's note had quoted the godparents (DUS:D-006-21); the reading is from the image and agrees."
+  ],
+  "provenance": {
+   "archive": "none: a family paper. The register it extracts is the Roman Catholic baptisms of Senné, volume IV",
+   "fond_or_film": "not applicable",
+   "book": "Parish extract (Litterae Baptismales / Krstný list), Senné, 1955",
+   "page_or_image": "the extract cites tomo IV, pag. 110, entry 43 of 1929",
+   "obtained": "A phone photograph of the paper original, from the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-017",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-21 @c1c3be2",
+  "file": "archive/unclassified-sorter-piles/steve_baptism_registry.jpg",
+  "sha256": "f71c1f3317033a3bfdd6be5e40ed9124b644d7fe3d47d9b8b4721b7beb660c0d",
+  "image": {
+   "format": "JPEG",
+   "width": 1536,
+   "height": 2048
+  }
+ },
+ {
+  "id": "DM-D-100",
+  "batch": "DM-B-014",
+  "folder": "F-08",
+  "source": "DM-S-014-11",
+  "title": "Death notice of Mike Duska, Sr., husband of the late Mary Demko, The Montreal Star, 2 February 1974 (file held)",
+  "kind": "Newspaper death notice, as a clipping printed from a newspaper-archive website",
+  "language": "English",
+  "collector_label": "Obituary of Mihaily Duska",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Newspaper",
+    "original": "The Montreal Star (Montreal, Quebec, Canada), 2 Feb 1974, Sat, Page 10",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "DUSKA, Mike, Sr.",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Death",
+    "original": "At Montreal General Hospital, on January 31, 1974, age 71",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Wife",
+    "original": "beloved husband of the late Mary Demko",
+    "english": "same",
+    "certainty": "clear"
+   },
+   {
+    "column": "Children and grandchild",
+    "original": "dearest father of Steve and Mike. Also grandfather of Kevin.",
+    "english": "Two sons, Steve and Mike, and a grandson Kevin",
+    "certainty": "clear"
+   },
+   {
+    "column": "Funeral",
+    "original": "[...] Service on Monday, February 4, at 10 a.m., from St. Cyril and Method Slovak Church. Interment Cote Des Neiges Cemetery.",
+    "english": "same",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "The Montreal Star, Saturday 2 February 1974: Mike Duska, Sr., died at Montreal General Hospital on 31 January 1974, aged 71; husband of the late Mary Demko; father of Steve and Mike; grandfather of Kevin. Service on 4 February from St. Cyril and Method Slovak Church; burial at Côte-des-Neiges.",
+  "notes": [
+   "The file is held and not published: the page around the clipping carries the owner's account name on the website it was printed from, and the notice names people whose living status is unknown (ledger X-016). The notice itself is abstracted here, not reproduced whole.",
+   "It gives Maria Demko a second son, Mike, not on any paper of 1937 and so born in Canada after her arrival. He is entered by name only, living status unknown (X-016 item 3).",
+   "The grandson Kevin of 1974 is Ahn 2, not the owner, who was born later.",
+   "Mike Duska outlived his wife by twenty-four years and, as the deed of 1966 says, did not remarry (DM-D-007). His age, 71, is the Duska agent's to weigh.",
+   "The owner's file name spells him 'Mihaily'; the notice says Mike. Read here after the Duska agent's note had quoted it (DUS:D-006-20)."
+  ],
+  "provenance": {
+   "archive": "none: a newspaper. The Montreal Star, 2 February 1974, page 10",
+   "fond_or_film": "not applicable",
+   "book": "newspaper",
+   "page_or_image": "page 10",
+   "obtained": "A one-page PDF printed by the owner in February 2022 from a newspaper-archive website, from his folder 'AAAA Unclassified', through the Sorter's pile 'to-demko' in the private repository at commit c18bb44"
+  },
+  "pile": "to-demko",
+  "sorter_batch": "S-B-017",
+  "private_commit": "c18bb44",
+  "sorters_label": "to-demko (also in to-duska)",
+  "also_read_by": "DUS:D-006-20 @c1c3be2",
+  "file": null,
+  "withheld": true,
+  "sha256": "010b1c4a6fd27cb09f3eddc851228896294f0aa2f53a923dbc59653652174f49",
+  "held": "names people of unknown living status and shows the owner's account name on a website"
  }
 ]

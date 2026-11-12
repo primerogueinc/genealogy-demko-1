@@ -29,9 +29,10 @@
   },
   "proof": "stated",
   "sources": [
-   "DM-S-000-1"
+   "DM-S-000-1",
+   "DM-S-014-11"
   ],
-  "note": "Link in the chain only. Living status unknown (Kevin, ledger X-016): shown by name and year only."
+  "note": "Link in the chain only. Living status unknown (Kevin, ledger X-016): shown by name and year only. A grandson 'Kevin' is named in the death notice of Mike Duska, Sr., in 1974 (DM-D-100)."
  },
  {
   "id": "P-004",
@@ -48,9 +49,12 @@
   "sources": [
    "DM-S-000-1",
    "DM-S-004-8",
-   "DM-S-004-3"
+   "DM-S-004-3",
+   "DM-S-014-4",
+   "DM-S-014-6",
+   "DM-S-014-10"
   ],
-  "note": "Son of Michal Duska and Maria Demko by the 1947 certificate. Died 2018 and was known as Steve: stated by Kevin (ledger C-11), not documented. The Duska agent owns this entry.",
+  "note": "Son of Michal Duska and Maria Demko by the parish extracts of 1947 and 1955, both from volume IV, page 110, entry 43. Those give his birth as 21 October 1929; his mother's passport and the court's consent of 1937 give 23 October. Emigrated with his mother in November 1937, aged 8. Died 2018 and was known as Steve: stated by Kevin (ledger C-11); 'Steve' is also in his father's death notice of 1974. The Duska agent owns this entry.",
   "baptism": {
    "date": "26 Oct 1929",
    "place": "Roman Catholic parish of Senné"
@@ -71,19 +75,31 @@
    "date": null,
    "place": null
   },
-  "proof": "stated",
+  "proof": "documented",
   "sources": [
    "DM-S-000-1",
    "DM-S-004-8",
    "DM-S-004-2",
-   "DM-S-004-5"
+   "DM-S-004-5",
+   "DM-S-014-6",
+   "DM-S-014-7",
+   "DM-S-014-8",
+   "DM-S-014-11"
   ],
-  "note": "Roman Catholic cottar of Senné in 1929; 'Mike Duska' in Montréal; married once, to Maria Demko; alive in November 1966. The Duska agent owns this entry. Not to be confused with Mihály Demkó, his father-in-law (ledger X-002)."
+  "note": "Roman Catholic cottar of Senné in 1929; 'Michal Duško' in Canada by 1937, when the Michalovce court let his son join him; 'Mike Duska' of 1196a St. George Street, Montréal, who paid his wife's and son's passage that September; married once, to Maria Demko; died 31 January 1974, 'age 71', by his death notice. The Duska agent owns this entry and his parentage. Not to be confused with Mihály Demkó, his father-in-law (ledger X-002).",
+  "death": {
+   "date": "31 Jan 1974",
+   "place": "Montréal General Hospital, Montréal"
+  },
+  "burial": {
+   "date": "Feb 1974",
+   "place": "Côte-des-Neiges cemetery, Montréal (by the notice)"
+  }
  },
  {
   "id": "P-009",
   "ahnentafel": 9,
-  "name": "Maria Demko (Mária Demkó, Mary Demko)",
+  "name": "Maria Demko (Mária Demkó, Marja Dušková, Mary Demko)",
   "role": "Great-grandmother. Head of this repo's line",
   "living": false,
   "owner": "demko",
@@ -97,9 +113,16 @@
    "DM-S-004-8",
    "DM-S-004-2",
    "DM-S-004-5",
-   "DM-S-004-6"
+   "DM-S-004-6",
+   "DM-S-014-3",
+   "DM-S-014-4",
+   "DM-S-014-5",
+   "DM-S-014-6",
+   "DM-S-014-9",
+   "DM-S-014-10",
+   "DM-S-014-11"
   ],
-  "note": "Wife of Michal (Mike) Duska and mother of Štefan: documented by the 1947 certificate, the gravestone and the 1966 deed. Greek Catholic, of Iňačovce. Died 9 Sep 1950. The birth date and parents come from the 1906 civil registration; that she is the child in it rests on three points agreeing (name, Iňačovce, 1906) and not yet on a record that states it. See DM-H-010 and DM-H-015. Ledger X-017: no burial or death register for Iňačovce after 1906 is in hand, so it is not shown that the child of 1906 lived to marry; see data/necronym_checks.json.",
+  "note": "Wife of Michal (Mike) Duska and mother of Štefan: the parish extracts of 1947 and 1955, the court's consent of 1937, the gravestone, the deed of 1966 and her husband's death notice of 1974 all say so. Greek Catholic, of Iňačovce. Her emigrant's passport of 1937 gives her birth as 22 August 1906 at Iňačovce, the day and place of civil registration no. 45 of 1906, so the link to that entry now rests on a paper of her own and not only on name, village and year. Its description: face oblong, eyes grey, hair chestnut; a farm woman; she signs 'Marja Duškova'. She lived at Iňačovce in 1937 while her husband was in Montréal. He paid her passage on 17 September 1937; she signed a contract in Prague on 8 November to sail from Antwerp on the 11th by the Montrose with her son, aged 8. Died at Montréal on 9 September 1950. A second son, Mike, is named in 1974. Ledger X-017: no burial register for Iňačovce after 1906 has been searched, so the check is logged as unresolved; see DM-H-024, now at 4.",
   "death": {
    "date": "9 Sep 1950",
    "place": "Montréal, Québec"
@@ -108,7 +131,22 @@
    "date": null,
    "place": "Notre-Dame-des-Neiges, Montréal (per the collector's label)"
   },
-  "necronym_risk": "unresolved"
+  "necronym_risk": "unresolved",
+  "emigration": {
+   "date": "November 1937",
+   "place": "Prague to Antwerp to Montréal, by the Montrose (as booked; the landing is not documented)"
+  },
+  "residence": [
+   {
+    "date": "1937",
+    "place": "Iňačovce"
+   },
+   {
+    "date": "1950",
+    "place": "Montréal"
+   }
+  ],
+  "description": "1937 passport: face oblong, eyes grey, hair chestnut, no distinguishing marks"
  },
  {
   "id": "P-018",
@@ -1255,5 +1293,22 @@
    "DM-S-013-1"
   ],
   "note": "Daughter Catharina baptised and confirmed in the Greek Catholic church of Eperjes. No link shown or expected."
+ },
+ {
+  "id": "DM-X-060",
+  "ahnentafel": null,
+  "name": "Mike Duska, second son",
+  "role": "Son of Michal Duska and Maria Demko; brother of Ahn 4",
+  "living": "unknown",
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-014-11"
+  ],
+  "note": "Named with his brother Steve in their father's death notice of 1974. Not on any of the 1937 papers, which give his mother one child, so born after her arrival in Canada. Living status unknown: name only (ledger X-016 item 3)."
  }
 ]

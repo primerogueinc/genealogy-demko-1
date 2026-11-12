@@ -16,5 +16,23 @@
     "bytes": 550616,
     "reason": "A compiled family-tree chart showing living third parties with dates of birth and photographs. Held under ledger X-013 and X-016. The file is in the private repository, pile to-both, commit 9bf2c7a.",
     "held": "shows living third parties with their birth dates"
+  },
+  {
+    "folder": "F-08",
+    "document": "DM-D-098",
+    "original_name": "maria_boat_and_train_ticket.jpg",
+    "sha256": "0864769695b2b24bdb344d0ae00239906ee3bb1e006bf201ca5cb41b146ea6f3",
+    "bytes": 336227,
+    "reason": "The full photograph of the 1937 transport contract shows, at its edge, part of an addressed envelope belonging to a line outside this experiment (ledger X-020, X-022). A cropped copy is public. The full file is in the private repository, pile to-demko, commit c18bb44.",
+    "held": "outside this experiment (edge of the photograph)"
+  },
+  {
+    "folder": "F-08",
+    "document": "DM-D-100",
+    "original_name": "Obituary_of_Mihaily_Duska.pdf",
+    "sha256": "010b1c4a6fd27cb09f3eddc851228896294f0aa2f53a923dbc59653652174f49",
+    "bytes": 88304,
+    "reason": "A newspaper death notice of 1974 printed from a newspaper-archive website. The page carries the owner's account name and the notice names people of unknown living status. Held under ledger X-016. In the private repository, pile to-demko, commit c18bb44.",
+    "held": "names people of unknown living status and shows the owner's account name on a website"
   }
 ]

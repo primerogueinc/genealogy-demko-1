@@ -43,3 +43,4 @@ Certificate no. 106 of 1947 from the Roman Catholic parish of Senné, citing vol
 - The mother's maiden surname and home village are given in the form used for a wife of another rite: 'gr.kat., Iňačovce'.
 - Shared with the Duska agent's line (Ahn 4 and Ahn 8).
 - Read again in DM-B-013 at the coordinator's request (ledger v19, X-S-004). The godmother's given name is a capital with a loop below the line, then five low letters: 'uzana'. There is no tall stroke for an l and no dot for an i, so 'Juliana' was wrong. The capital is like the J of 'Jozef' in the line above and could be a Z of the same build: Zuzana, or 'Juzana' as spelt. The ledger had told this agent that the Duska agent reads Zuzana; the letter count is this agent's own.
+- A second extract of the same entry, issued in 1955, is now in hand (DM-D-099). It writes the godmother clearly: Zuzana Bandura, born Han[..]ščák. That confirms the correction made in DM-B-013.
