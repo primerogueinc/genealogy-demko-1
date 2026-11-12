@@ -356,7 +356,7 @@
       "width": 1429,
       "height": 196
     },
-    "title": "Baptism register entry no. 44: Mária, daughter of Mihály Demkó and Anna, born 24 February, year not shown",
+    "title": "Baptism register entry no. 44: Mária, daughter of Mihály Demkó and Anna Batronszki (?), born 24 February [1892]",
     "kind": "Parish baptism register, one entry cut from a page",
     "language": "Hungarian",
     "collector_label": "Maria Demko Baptism maybe",
@@ -407,8 +407,8 @@
       },
       {
         "column": "Mother",
-        "original": "Latnoszki (?) Anna r.k.",
-        "english": "Anna Latnoszki (?), Roman Catholic (?)",
+        "original": "Batronszki (?) Anna r.k.",
+        "english": "Anna Batronszki (?), Roman Catholic (?)",
         "certainty": "uncertain",
         "note": "Surname begins with an ornate L or B: Latnoszki, Batronszki and Latvoszki are all possible."
       }
@@ -416,7 +416,8 @@
     "translation": "No. 44. Born 24 February, baptised 27 February: Mária. Father Mihály Demkó, cottar. Mother Anna, surname uncertain. The strip is cut before the residence, godparents and priest, and shows no year or parish.",
     "notes": [
       "The collector's own label says 'maybe'.",
-      "It disagrees with the civil record DM-D-008 on the day of birth (24 February against 22 August) and on the mother (Anna against Mária Kocsis). It is a different child unless the year proves otherwise. See DM-H-015."
+      "It disagrees with the civil record DM-D-008 on the day of birth (24 February against 22 August) and on the mother (Anna against Mária Kocsis). It is a different child unless the year proves otherwise. See DM-H-015.",
+      "Added at DM-B-007: a second copy of this strip arrived in folder F-06 named '... 1892 - maybe' (DM-D-042), and a strip in the same hand for the same parents, dated [1887] by its label, gives their residence as Sztrajnyán (?) (DM-D-040). The mother's surname is now read Batronszki (?) in both."
     ],
     "provenance": {
       "archive": "unknown",
@@ -3085,6 +3086,215 @@
       "archive": "unknown",
       "fond_or_film": "unknown",
       "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-040",
+    "batch": "DM-B-007",
+    "folder": "F-06",
+    "source": "DM-S-007-1",
+    "file": "archive/demko-hints/anna_demko_baptism_1887.png",
+    "sha256": "b7e9fb4d6a0d66e05a0e37931f14d4ae262bd99f7ef3723b21db6e0b4543218b",
+    "image": {
+      "format": "PNG",
+      "width": 1358,
+      "height": 87
+    },
+    "title": "Baptism entry no. 99: Anna, daughter of Mihály Demkó and Anna Batronszki (?), born 19 September [1887], entered by mistake",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "anna demko baptism 1887",
+    "register": {
+      "parish": "Not visible",
+      "denomination": "Not visible",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "99",
+        "english": "99",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "Sept. 19. / Sept. 20.",
+        "english": "19 September / 20 September",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name",
+        "original": "Anna",
+        "english": "Anna",
+        "certainty": "clear"
+      },
+      {
+        "column": "Sex and legitimacy",
+        "original": "marks; 'tör. vén.'",
+        "english": "legitimate; the sex marks are not read without the headings",
+        "certainty": "probable"
+      },
+      {
+        "column": "Father",
+        "original": "Demkó Mihály g.k. napszám.",
+        "english": "Mihály Demkó, Greek Catholic, day-labourer",
+        "certainty": "probable"
+      },
+      {
+        "column": "Mother",
+        "original": "Batronszki (?) Anna r.k.",
+        "english": "Anna Batronszki (?), Roman Catholic",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Residence",
+        "original": "Sztrajnyán (?)",
+        "english": "Sztrajnyán (?)",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Godparents, officiant",
+        "original": "— / —",
+        "english": "left blank",
+        "certainty": "clear"
+      },
+      {
+        "column": "Remark",
+        "original": "Tévedésből vezettetett ide, lásd a [...] könyvébe, a 95. folyó szám alatt.",
+        "english": "Entered here by mistake; see the book of [...], under running number 95.",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "No. 99. Born 19 September, baptised 20 September: Anna, legitimate daughter of Mihály Demkó, Greek Catholic day-labourer, and Anna Batronszki (?), Roman Catholic, of Sztrajnyán (?). The clerk notes that the entry was put in this book by mistake and belongs in another, as number 95. No godparents or priest are entered.",
+    "notes": [
+      "Year 1887 from the collector's file name; not on the strip.",
+      "Same hand, same printed form and same parents as the 'maybe' strip (DM-D-006, DM-D-042). The mother's surname is the same word in both; its first letter is an ornate B or L.",
+      "The word naming the other book is not read. The entry belongs to another parish or another rite's register.",
+      "'Sztrajnyán' is taken as Stráňany by Michalovce, from training; flagged to the Places agent."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "unknown; a baptism register on a printed Hungarian form",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-041",
+    "batch": "DM-B-007",
+    "folder": "F-06",
+    "source": "DM-S-007-2",
+    "file": "archive/demko-hints/Anna_Demko_Baptism_1887b.png",
+    "sha256": "fc0152a7e93aa6235d4c20ae0012180fdede9f2d1c0d9c42638dba541734eba0",
+    "image": {
+      "format": "PNG",
+      "width": 1619,
+      "height": 84
+    },
+    "title": "Baptism entry no. 26: Anna, illegitimate daughter of Ilona Demkó, Lasztomér, [1887]",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Anna Demko Baptism 1887b",
+    "register": {
+      "parish": "Not visible",
+      "denomination": "Not visible",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "26",
+        "english": "26",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "11 / 12",
+        "english": "Born the 11th, baptised the 12th; month not on the strip",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex",
+        "original": "Anna / leány",
+        "english": "Anna, girl",
+        "certainty": "clear"
+      },
+      {
+        "column": "Legitimacy",
+        "original": "törvénytelen",
+        "english": "illegitimate",
+        "certainty": "probable"
+      },
+      {
+        "column": "Mother",
+        "original": "Demkó Ilona G.kath. sellér",
+        "english": "Ilona Demkó, Greek Catholic, cottar",
+        "certainty": "probable"
+      },
+      {
+        "column": "Residence",
+        "original": "Lasztomér",
+        "english": "Lasztomér (Lastomír)",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Kocsó (?) György G.kath. sellér / Feczák Mária G.kath.",
+        "english": "György Kocsó (?), Greek Catholic, cottar; Mária Feczák, Greek Catholic",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "No. 26. Born the 11th, baptised the 12th: Anna, illegitimate daughter of Ilona Demkó, Greek Catholic cottar, of Lasztomér. Godparents György Kocsó (?) and Mária Feczák.",
+    "notes": [
+      "Year 1887 from the collector's file name. No father is entered.",
+      "A different hand and form from DM-D-040: a different book.",
+      "'Lasztomér' is taken as Lastomír, near Michalovce, from training; flagged to the Places agent."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "unknown; a baptism register on a printed Hungarian form",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-042",
+    "batch": "DM-B-007",
+    "folder": "F-06",
+    "source": "DM-S-004-4",
+    "file": "archive/demko-hints/maria_demko_baptism_1892_-_maybe.png",
+    "sha256": "216a05f8cf5e49d542e96d169fb1d7f87e0e2be3f178a8ce5d301a8619285716",
+    "image": {
+      "format": "PNG",
+      "width": 1429,
+      "height": 196
+    },
+    "title": "Baptism entry no. 44: Mária, daughter of Mihály Demkó and Anna Batronszki (?), born 24 February [1892] (second copy of DM-D-006)",
+    "kind": "Second copy of a file already held, different encoding",
+    "language": "Hungarian",
+    "collector_label": "maria demko baptism 1892 - maybe",
+    "register": {
+      "parish": "Not visible",
+      "denomination": "Not visible",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [],
+    "translation": "The same strip as DM-D-006, given again as a PNG under a file name that adds the year 1892. See DM-D-006 for the reading.",
+    "notes": [
+      "Not the same bytes as DM-D-006 (that file is a JPEG), but the same image: the pixels differ only by compression noise.",
+      "The year 1892 is the collector's label. It is the first indication of the strip's year."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "unknown; a baptism register on a printed Hungarian form",
       "page_or_image": "unknown; entry number as transcribed",
       "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
     }

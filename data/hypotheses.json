@@ -347,10 +347,10 @@
   {
     "id": "DM-H-015",
     "statement": "The 'maybe' baptism (DM-S-004-4: Mária, born 24 February, father Mihály Demkó, cottar, mother Anna) is not Ahn 9.",
-    "confidence": 80,
+    "confidence": 92,
     "basis": "Different birthday and different mother from the civil record, and the collector's own doubt. Against: if this strip is from 1906 and from Iňačovce, there were two Mária Demkós born there that year to fathers called Mihály, and the gravestone's 'born 1906' would fit either.",
     "test": "The year and parish of the strip. A baptism of Mária Demkó in late August 1906 in the Iňačovce Greek Catholic book.",
-    "status": "open",
+    "status": "supported",
     "raised": "DM-B-004",
     "resolved": null,
     "resolution": null,
@@ -360,6 +360,12 @@
         "from": 85,
         "to": 80,
         "why": "A Mihály Demkó, cottar, with a wife called Anna is now documented at Jesztreb in [1889] (DM-D-034). The 'maybe' strip, with the same father's name and standing and a mother Anna, is most simply a later child of that couple. Whether Ahn 9 could be that child still turns on the strip's year."
+      },
+      {
+        "batch": "DM-B-007",
+        "from": 80,
+        "to": 92,
+        "why": "The collector's second copy of the strip dates it 1892 (a label, so a prior), and a strip in the same hand shows the same parents with a child in [1887] at Sztrajnyán (?). A Mária born in 1892 to a couple of another village does not fit the gravestone's 1906 or the certificate's 'Iňačovce'."
       }
     ],
     "necronym_risk": "unresolved"
@@ -469,14 +475,21 @@
   {
     "id": "DM-H-023",
     "statement": "The 'maybe' baptism (DM-D-006) is a child of Mihály Demkó the younger and his wife Anna, of Jesztreb, and comes from the Iňačovce Greek Catholic book.",
-    "confidence": 55,
+    "confidence": 8,
     "basis": "Same father's name, rite and standing (zsellér) and a mother Anna, as in DM-D-034. Against: the mother's surname is Jaros there and reads Latnoszki, Batronszki or similar on the strip; the strip shows no place.",
     "test": "The year and page of the strip; the residence column that was cut off.",
-    "status": "open",
+    "status": "refuted",
     "raised": "DM-B-006",
-    "resolved": null,
-    "resolution": null,
-    "history": []
+    "resolved": "DM-B-007",
+    "resolution": "Refuted at DM-B-007: the 'maybe' Mária belongs to Mihály Demkó and Anna Batronszki (?) of Sztrajnyán (?), a different couple from Mihály Demkó the younger and Anna Jaros of Jesztreb.",
+    "history": [
+      {
+        "batch": "DM-B-007",
+        "from": 55,
+        "to": 8,
+        "why": "The 1887 strip gives the mother's surname again, in the same form as on the 'maybe' strip, and a residence that is not Jesztreb. The Jesztreb Mihály's wife is Anna Jaros in [1889], between the two. These are two couples."
+      }
+    ]
   },
   {
     "id": "DM-H-024",
@@ -511,6 +524,18 @@
     "test": "Where Michael Demko of Jesztreb was born; marriages of Demkos in the Iňačovce book before 1870.",
     "status": "open",
     "raised": "DM-B-006",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-027",
+    "statement": "The Demkos of the three 'hint' strips (Mihály and Anna Batronszki at Sztrajnyán, Ilona at Lasztomér) are not ancestors of Maria Demko, Ahn 9.",
+    "confidence": 85,
+    "basis": "Neither village is Viszoka, Solymos or Senné, and neither household matches the parents named in the 1906 record. Demko is a common surname across the district; three different men called Mihály Demkó are now on record within a day's walk of one another between 1882 and 1906. Against: the collector kept them, and the Viszoka Demkos' wider kin are unknown.",
+    "test": "The parish and year of each strip; any record naming the parents of Mihály Demkó of Sztrajnyán.",
+    "status": "open",
+    "raised": "DM-B-007",
     "resolved": null,
     "resolution": null,
     "history": []

@@ -50,5 +50,12 @@
     "person": "DUS:K-004 György Demko (1895, Gönyű) and DUS:K-007 Mária Hriczko ([1894], Szina)",
     "result": "Neither is attached to anyone on this line or used for any inference here.",
     "logged": "2026-11-12T06:16:34Z"
+  },
+  {
+    "id": "DM-NC-007",
+    "rule": "X-017 rules 2 and 6",
+    "person": "Three men named Mihály Demkó: P-018 (born Viszoka 1882), DM-X-029 (the younger, of Jesztreb, a father in 1889), DM-X-008 (of Sztrajnyán (?), a father in 1887 and 1892)",
+    "result": "Kept as three people. Each is tied to his own wife's name and village; only P-018 is tied to Ahn 9, by the birthplace and age written in 1906.",
+    "logged": "2026-11-12T06:23:02Z"
   }
 ]

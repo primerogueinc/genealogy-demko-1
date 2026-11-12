@@ -292,20 +292,21 @@
     "living": false,
     "owner": "demko",
     "birth": {
-      "date": "24 Feb, year not shown",
+      "date": "24 Feb [1892]",
       "place": null
     },
     "proof": "documented",
     "sources": [
-      "DM-S-004-4"
+      "DM-S-004-4",
+      "DM-S-007-1"
     ],
-    "note": "Daughter of a Mihály Demkó, cottar, and an Anna. Baptised 27 Feb. See DM-H-015."
+    "note": "Daughter of Mihály Demkó, cottar, and Anna Batronszki (?). Year from the collector's second file name. Fourteen years older than the gravestone makes Ahn 9. See DM-H-015."
   },
   {
     "id": "DM-X-008",
     "ahnentafel": null,
-    "name": "Mihály Demkó, cottar",
-    "role": "Father in the 'maybe' baptism",
+    "name": "Mihály Demkó, of Sztrajnyán (?)",
+    "role": "A third Mihály Demkó: father in the 'maybe' strip",
     "living": false,
     "owner": "demko",
     "birth": {
@@ -314,14 +315,15 @@
     },
     "proof": "documented",
     "sources": [
-      "DM-S-004-4"
+      "DM-S-004-4",
+      "DM-S-007-1"
     ],
-    "note": "Not shown to be the same man as P-018. A second Mihály Demkó, or the same man with another wife in another year."
+    "note": "Greek Catholic day-labourer or cottar, a father in [1887] and [1892], wife Anna Batronszki (?). Not the Mihály born at Viszoka in 1882, who was a child then. Not shown to be the Mihály 'the younger' of Jesztreb, whose wife in [1889] is Anna Jaros."
   },
   {
     "id": "DM-X-009",
     "ahnentafel": null,
-    "name": "Anna Latnoszki (?)",
+    "name": "Anna Batronszki (?)",
     "role": "Mother in the 'maybe' baptism",
     "living": false,
     "owner": "demko",
@@ -331,9 +333,10 @@
     },
     "proof": "documented",
     "sources": [
-      "DM-S-004-4"
+      "DM-S-004-4",
+      "DM-S-007-1"
     ],
-    "note": "Surname uncertain."
+    "note": "Roman Catholic. Surname read with doubt: Batronszki or Latronszki."
   },
   {
     "id": "DM-X-010",
@@ -676,7 +679,7 @@
     "id": "DM-X-029",
     "ahnentafel": null,
     "name": "Mihály Demkó the younger, of Jesztreb",
-    "role": "A second Mihály Demkó in the Iňačovce parish; probably the father in the 'maybe' strip",
+    "role": "A second Mihály Demkó in the Iňačovce parish",
     "living": false,
     "owner": "demko",
     "birth": {
@@ -687,7 +690,7 @@
     "sources": [
       "DM-S-006-1"
     ],
-    "note": "Greek Catholic cottar at Jesztreb no. 71 in [1889], wife Anna Jaros. Born before about 1868. Not the Mihály born at Viszoka in 1882. See DM-H-023 and DM-H-026."
+    "note": "Greek Catholic cottar at Jesztreb no. 71 in [1889], wife Anna Jaros. Born before about 1868. Not the Mihály born at Viszoka in 1882. See DM-H-026."
   },
   {
     "id": "DM-X-030",
@@ -794,5 +797,56 @@
       "DM-S-006-6"
     ],
     "note": "Daughter Anna born 18 Mar [1875], Solymos. Surname read with doubt. See DM-H-025."
+  },
+  {
+    "id": "DM-X-036",
+    "ahnentafel": null,
+    "name": "Anna Demkó",
+    "role": "Sister of the 'maybe' Mária",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "19 Sep [1887]",
+      "place": "Sztrajnyán (?)"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-007-1"
+    ],
+    "note": "Daughter of Mihály Demkó and Anna Batronszki (?)."
+  },
+  {
+    "id": "DM-X-037",
+    "ahnentafel": null,
+    "name": "Ilona Demkó, of Lasztomér",
+    "role": "Unplaced Demko",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-007-2"
+    ],
+    "note": "Greek Catholic cottar. Mother of an illegitimate daughter Anna, [1887]."
+  },
+  {
+    "id": "DM-X-038",
+    "ahnentafel": null,
+    "name": "Anna Demkó, daughter of Ilona",
+    "role": "Unplaced Demko",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "11th of a month, [1887]",
+      "place": "Lasztomér"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-007-2"
+    ],
+    "note": "Illegitimate; carries her mother's surname."
   }
 ]

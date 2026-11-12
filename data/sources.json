@@ -366,5 +366,23 @@
     "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
     "document": "DM-D-039",
     "also": "DUS:S-037 @3ac9629"
+  },
+  {
+    "id": "DM-S-007-1",
+    "batch": "DM-B-007",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism entry no. 99: Anna, daughter of Mihály Demkó and Anna Batronszki (?), 19 September [1887], Sztrajnyán (?)",
+    "extract": "Same parents as the 'maybe' Mária. Entered by mistake; belongs in another book.",
+    "reliability": "Original entry, cropped. Year, parish and book rest on the file name or are unknown.",
+    "document": "DM-D-040"
+  },
+  {
+    "id": "DM-S-007-2",
+    "batch": "DM-B-007",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism entry no. 26: Anna, illegitimate daughter of Ilona Demkó, Lasztomér, [1887]",
+    "extract": "A Demko woman at Lasztomér with no father named for the child.",
+    "reliability": "Original entry, cropped. Year from the file name.",
+    "document": "DM-D-041"
   }
 ]

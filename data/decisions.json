@@ -154,5 +154,23 @@
     "date": "2026-11-12",
     "decision": "Anna Szlekár and Mária Szlekár are entered as two women.",
     "why": "Ledger X-017 rule 7."
+  },
+  {
+    "id": "DM-DEC-027",
+    "date": "2026-11-12",
+    "decision": "Asks for material outside the Demko folders stay held and are not pressed.",
+    "why": "Kevin, 12 Nov: this agent gets what is in his Demko folders only."
+  },
+  {
+    "id": "DM-DEC-028",
+    "date": "2026-11-12",
+    "decision": "The year 1892 on the second copy of the 'maybe' strip is entered in brackets as the collector's label.",
+    "why": "Ledger X-004: a file name is a prior."
+  },
+  {
+    "id": "DM-DEC-029",
+    "date": "2026-11-12",
+    "decision": "Read ledger v10 and checked this repo against the corrected X-017 item 6. No entry here treats name reuse as something Kevin said about this family. The reused names recorded (Mihály 1873 and 1882, János 1873 and 1875) are read from the strips, and DM-H-024 is scored on the records alone.",
+    "why": "Ledger v10: name reuse is working knowledge of the craft, not a prior about the line."
   }
 ]

@@ -222,5 +222,14 @@
       "DM-H-010",
       "DM-H-021"
     ]
+  },
+  {
+    "id": "DM-L-027",
+    "text": "Place names as written in folder F-06, flagged to the Places agent: 'Sztrajnyán' (read with doubt; taken as Stráňany by Michalovce) and 'Lasztomér' (taken as Lastomír). Both identifications are from training. If right, both lie in old Zemplén county, outside the Csicser and Iňačovce parishes.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-027",
+      "DM-H-015"
+    ]
   }
 ]

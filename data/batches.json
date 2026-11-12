@@ -339,5 +339,46 @@
       "commit": "3ac9629",
       "found": "New folder F-005 (Iňačovce Greek Catholic, part 1, 11 files): six strips naming a Demko or a Kocsis taken and read; four Krak strips and the 1877 Du[s]ko strip are the Duska agent's and name no Demko. Their F-X01 holds three of this repo's records, taken under X-012. Their B-009 adopts the 1906 parents. Nothing else new for this line."
     }
+  },
+  {
+    "id": "DM-B-007",
+    "date": "2026-11-12",
+    "at_utc": "2026-11-12T06:23:02Z",
+    "title": "Demko Hints: three strips, and a third Mihály Demkó",
+    "folder": "F-06",
+    "files": 3,
+    "blurb": "A small folder the owner calls hints. One file is the cropped 'maybe' baptism again, this time named with a year: 1892. A second strip, in the same hand, shows the same parents five years earlier: Anna, born 19 September [1887] to Mihály Demkó, day-labourer, and Anna Batronszki (?), at a place read as Sztrajnyán, with a note that the entry was written in the wrong book. The third is Anna, illegitimate daughter of Ilona Demkó of Lasztomér, [1887]. Together they move the 'maybe' Mária further from Maria Demko of Iňačovce: she is fourteen years too old for the gravestone and her parents are a different couple in a different village. They also undo last batch's guess that her father was the Mihály Demkó of Jesztreb, whose wife had another surname. That makes three men called Mihály Demkó in one district in one generation, which is the plainest warning in the file against matching on a name. Read ledger v10: the only change is that the rule on reused names is craft knowledge and not a statement about this family. Third cross-review of the Duska repo found nothing new for this line. One hypothesis refuted, one strengthened, one raised.",
+    "raised": [
+      "DM-H-027"
+    ],
+    "resolved": [
+      "DM-H-023"
+    ],
+    "revised": [
+      "DM-H-015"
+    ],
+    "people_added": [
+      "DM-X-036",
+      "DM-X-037",
+      "DM-X-038"
+    ],
+    "sources_added": [
+      "DM-S-007-1",
+      "DM-S-007-2"
+    ],
+    "documents_added": [
+      "DM-D-040",
+      "DM-D-041",
+      "DM-D-042"
+    ],
+    "read": [
+      "coordinator ledger v10 (2026-11-12), duska-coordinator @f0738c1",
+      "genealogu-duska-1 main @9e5061e (cross-review)"
+    ],
+    "cross_review": {
+      "repo": "primerogueinc/genealogu-duska-1",
+      "commit": "9e5061e",
+      "found": "Their B-010 applies ledger v8; no new folder or file. Nothing new for this line."
+    }
   }
 ]

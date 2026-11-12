@@ -1,4 +1,4 @@
-# DM-D-006 · Baptism register entry no. 44: Mária, daughter of Mihály Demkó and Anna, born 24 February, year not shown
+# DM-D-006 · Baptism register entry no. 44: Mária, daughter of Mihály Demkó and Anna Batronszki (?), born 24 February [1892]
 
 - **File:** `archive/demko-documents/Maria_Demko_Baptism_maybe.jpg`
 - **SHA-256:** `a688dd3b5ec07c7c9f0db926aec00dba00ce86627c15e89ab8a6cd59a1b62549`
@@ -20,7 +20,7 @@
 | Name | Mária | Mária | clear |
 | Sex and legitimacy | marks only | Not read *(Five narrow columns hold ditto marks, a stroke and a short word. Without the column headings they cannot be assigned.)* | uncertain |
 | Father | Demkó Mihály g.k. zsellér | Mihály Demkó, Greek Catholic (?), cottar *(The rite abbreviation after the name is unclear. zsellér = a cottar, a peasant without a holding.)* | probable |
-| Mother | Latnoszki (?) Anna r.k. | Anna Latnoszki (?), Roman Catholic (?) *(Surname begins with an ornate L or B: Latnoszki, Batronszki and Latvoszki are all possible.)* | uncertain |
+| Mother | Batronszki (?) Anna r.k. | Anna Batronszki (?), Roman Catholic (?) *(Surname begins with an ornate L or B: Latnoszki, Batronszki and Latvoszki are all possible.)* | uncertain |
 
 ## Translation
 
@@ -30,3 +30,4 @@ No. 44. Born 24 February, baptised 27 February: Mária. Father Mihály Demkó, c
 
 - The collector's own label says 'maybe'.
 - It disagrees with the civil record DM-D-008 on the day of birth (24 February against 22 August) and on the mother (Anna against Mária Kocsis). It is a different child unless the year proves otherwise. See DM-H-015.
+- Added at DM-B-007: a second copy of this strip arrived in folder F-06 named '... 1892 - maybe' (DM-D-042), and a strip in the same hand for the same parents, dated [1887] by its label, gives their residence as Sztrajnyán (?) (DM-D-040). The mother's surname is now read Batronszki (?) in both.

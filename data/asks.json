@@ -71,10 +71,11 @@
   },
   {
     "id": "DM-A-009",
-    "status": "held",
+    "status": "answered",
     "ask": "The year and parish of the 'maybe' baptism strip, or the full page.",
     "why": "Settles DM-H-015.",
-    "raised": "DM-B-004"
+    "raised": "DM-B-004",
+    "answer": "Year given as 1892 by the label of a second copy (DM-D-042). The parish is still unknown."
   },
   {
     "id": "DM-A-010",

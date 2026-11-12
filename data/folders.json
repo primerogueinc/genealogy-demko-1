@@ -75,5 +75,18 @@
     ],
     "archive_path": "archive/duska-baptisms/inacovce-solymos-greek-catholic/",
     "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629, their F-005"
+  },
+  {
+    "id": "F-06",
+    "path": "Demko Hints",
+    "described_by_kevin": "\"Demko Hints - Full - no idea why they're hints tbh\". Given with the remark that this agent gets what is in his Demko folders only.",
+    "received": "2026-11-12",
+    "files_received": 3,
+    "complete": true,
+    "shared_with": [],
+    "batches": [
+      "DM-B-007"
+    ],
+    "archive_path": "archive/demko-hints/"
   }
 ]
