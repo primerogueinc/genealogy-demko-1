@@ -13,5 +13,19 @@
       "DM-B-001"
     ],
     "archive_path": "archive/duska-and-demko-leads/cicarovce/"
+  },
+  {
+    "id": "F-02",
+    "path": "DEMKO DOCUMENTS (as named by Kevin; full path not given)",
+    "described_by_kevin": "\"DEMKO DOCUMENTS FULL\": the whole folder, given after he asked whether this agent was ready for more Demko records.",
+    "received": "2026-11-12",
+    "files_received": 10,
+    "complete": true,
+    "shared_with": [],
+    "batches": [
+      "DM-B-004"
+    ],
+    "archive_path": "archive/demko-documents/",
+    "note": "Nine files archived, one withheld (a photograph of living people). Two of the nine are the same file under two names."
   }
 ]

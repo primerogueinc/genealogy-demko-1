@@ -36,24 +36,30 @@
   {
     "id": "P-004",
     "ahnentafel": 4,
-    "name": "Stefan Duska",
+    "name": "Stefan (Štefan) Duska",
     "role": "Paternal grandfather",
-    "living": null,
+    "living": false,
     "owner": "duska",
     "birth": {
-      "date": null,
-      "place": null
+      "date": "21 Oct 1929",
+      "place": "Senné no. 160"
     },
-    "proof": "stated",
+    "proof": "documented",
     "sources": [
-      "DM-S-000-1"
+      "DM-S-000-1",
+      "DM-S-004-8",
+      "DM-S-004-3"
     ],
-    "note": "Son of Mihaly Duska and Maria Demko, per Kevin's statement. No record in hand. His baptism entry is the first document expected to name Maria Demko as a mother. Living status not stated: left empty in step with the Duska agent's entry, which the site treats as living."
+    "note": "Son of Michal Duska and Maria Demko by the 1947 certificate. Marked as dead on the strength of the burial photograph's label (a prior). The Duska agent owns this entry.",
+    "baptism": {
+      "date": "26 Oct 1929",
+      "place": "Roman Catholic parish of Senné"
+    }
   },
   {
     "id": "P-008",
     "ahnentafel": 8,
-    "name": "Mihaly Duska",
+    "name": "Mihaly (Michal, Mike) Duska",
     "role": "Great-grandfather, husband of Maria Demko",
     "living": false,
     "owner": "duska",
@@ -63,33 +69,82 @@
     },
     "proof": "stated",
     "sources": [
-      "DM-S-000-1"
+      "DM-S-000-1",
+      "DM-S-004-8",
+      "DM-S-004-2",
+      "DM-S-004-5"
     ],
-    "note": "Name given in its Hungarian form (Mihály). Belongs to the Duska agent's line. Shared interest: the marriage to Maria Demko."
+    "note": "Roman Catholic cottar of Senné in 1929; 'Mike Duska' in Montréal; married once, to Maria Demko; alive in November 1966. The Duska agent owns this entry. Not to be confused with Mihály Demkó, his father-in-law (ledger X-002)."
   },
   {
     "id": "P-009",
     "ahnentafel": 9,
-    "name": "Maria Demko",
+    "name": "Maria Demko (Mária Demkó, Mary Demko)",
     "role": "Great-grandmother. Head of this repo's line",
     "living": false,
     "owner": "demko",
     "birth": {
-      "date": null,
-      "place": null
+      "date": "22 Aug 1906",
+      "place": "Solymos (Iňačovce), Ung county"
     },
-    "proof": "stated",
+    "proof": "documented",
     "sources": [
       "DM-S-000-1",
-      "DM-PR-1"
+      "DM-S-004-8",
+      "DM-S-004-2",
+      "DM-S-004-5",
+      "DM-S-004-6"
     ],
-    "note": "Wife of Mihaly Duska, mother of Stefan. Birth record said to be in the Uzhhorod archives and not yet located. No birth year, village, parents or denomination known."
+    "note": "Wife of Michal (Mike) Duska and mother of Štefan: documented by the 1947 certificate, the gravestone and the 1966 deed. Greek Catholic, of Iňačovce. Died 9 Sep 1950. The birth date and parents come from the 1906 civil registration; that she is the child in it rests on three points agreeing (name, Iňačovce, 1906) and not yet on a record that states it. See DM-H-010 and DM-H-015.",
+    "death": {
+      "date": "9 Sep 1950",
+      "place": "Montréal, Québec"
+    },
+    "burial": {
+      "date": null,
+      "place": "Notre-Dame-des-Neiges, Montréal (per the collector's label)"
+    }
   },
   {
     "id": "P-018",
     "ahnentafel": 18,
-    "name": "[given name unknown] Demko",
+    "name": "Mihály Demkó",
     "role": "Father of Maria Demko",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "c. 1882 (19 Aug 1882 if he is DM-X-001)",
+      "place": "Magasrév (Viszoka, Vysoká nad Uhom)"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-004-6",
+      "DM-S-001-1"
+    ],
+    "note": "Greek Catholic agricultural day-labourer living at Solymos in August 1906, born at Magasrév, aged 24; signs his own name. Father of the Mária born 22 Aug 1906. Taken to be the Mihály baptised at Viszoka no. 132 on 20 Aug 1882 (DM-X-001): same name, rite, birthplace and age to the week. That identification is an inference until his marriage entry is found (DM-H-017)."
+  },
+  {
+    "id": "P-019",
+    "ahnentafel": 19,
+    "name": "Mária Kocsis",
+    "role": "Mother of Maria Demko",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "c. 1886",
+      "place": "Solymos (Iňačovce)"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-004-6"
+    ],
+    "note": "Greek Catholic, born and living at Solymos, aged 20 in August 1906. Wife of Mihály Demkó. Opens the Kocsis line at Iňačovce."
+  },
+  {
+    "id": "P-036",
+    "ahnentafel": 36,
+    "name": "György Demkó",
+    "role": "Father of Mihály Demkó, if Mihály is the child of 1882",
     "living": false,
     "owner": "demko",
     "birth": {
@@ -97,29 +152,33 @@
       "place": null
     },
     "proof": "inferred",
-    "sources": [],
-    "note": "Inferred only: Maria carries the surname Demko, so her father is presumed to be a Demko. An illegitimate birth registered under the mother's surname would break this inference."
+    "sources": [
+      "DM-S-001-1"
+    ],
+    "note": "Greek Catholic farmer at Viszoka no. 132 in 1882 (same man as DM-X-002). On the line only through the inference at P-018."
   },
   {
-    "id": "P-019",
-    "ahnentafel": 19,
-    "name": "[unknown]",
-    "role": "Mother of Maria Demko",
+    "id": "P-037",
+    "ahnentafel": 37,
+    "name": "Mária Hreskó",
+    "role": "Mother of Mihály Demkó, if Mihály is the child of 1882",
     "living": false,
     "owner": "demko",
     "birth": {
       "date": null,
       "place": null
     },
-    "proof": "unknown",
-    "sources": [],
-    "note": "Nothing known. Her maiden surname opens the next line."
+    "proof": "inferred",
+    "sources": [
+      "DM-S-001-1"
+    ],
+    "note": "Roman Catholic (same woman as DM-X-003). On the line only through the inference at P-018."
   },
   {
     "id": "DM-X-001",
     "ahnentafel": null,
     "name": "Mihály Demkó",
-    "role": "Candidate: brother or father of Maria Demko, or unrelated",
+    "role": "Probably the same man as P-018, father of Maria Demko",
     "living": false,
     "owner": "demko",
     "birth": {
@@ -130,13 +189,13 @@
     "sources": [
       "DM-S-001-1"
     ],
-    "note": "Baptised 20 Aug 1882. Link to the direct line unproven: see DM-H-009 and DM-H-010."
+    "note": "Baptised 20 Aug 1882. The 1906 civil record gives Maria's father as Mihály Demkó, born Magasrév, aged 24: see P-018 and DM-H-010."
   },
   {
     "id": "DM-X-002",
     "ahnentafel": null,
     "name": "György Demkó",
-    "role": "Candidate: Ahn 18 or Ahn 36",
+    "role": "Probably Ahn 36 (see P-036)",
     "living": false,
     "owner": "demko",
     "birth": {
@@ -153,7 +212,7 @@
     "id": "DM-X-003",
     "ahnentafel": null,
     "name": "Mária Hreskó",
-    "role": "Candidate: Ahn 19 or Ahn 37",
+    "role": "Probably Ahn 37 (see P-037)",
     "living": false,
     "owner": "demko",
     "birth": {
@@ -199,5 +258,73 @@
       "DM-S-001-1"
     ],
     "note": "Roman Catholic. The child may be named for him."
+  },
+  {
+    "id": "DM-X-006",
+    "ahnentafel": null,
+    "name": "Joannes Demko",
+    "role": "Candidate forefather at Viszoka",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-004-1"
+    ],
+    "note": "An adult householder of Viszoka on 27 Jan 1803, named in the chapel petition. Born before about 1780. Link to György Demkó of Viszoka no. 132 unproven (DM-H-016)."
+  },
+  {
+    "id": "DM-X-007",
+    "ahnentafel": null,
+    "name": "Mária Demkó (the 'maybe' baptism)",
+    "role": "Probably a different child from Ahn 9",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "24 Feb, year not shown",
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-004-4"
+    ],
+    "note": "Daughter of a Mihály Demkó, cottar, and an Anna. Baptised 27 Feb. See DM-H-015."
+  },
+  {
+    "id": "DM-X-008",
+    "ahnentafel": null,
+    "name": "Mihály Demkó, cottar",
+    "role": "Father in the 'maybe' baptism",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-004-4"
+    ],
+    "note": "Not shown to be the same man as P-018. A second Mihály Demkó, or the same man with another wife in another year."
+  },
+  {
+    "id": "DM-X-009",
+    "ahnentafel": null,
+    "name": "Anna Latnoszki (?)",
+    "role": "Mother in the 'maybe' baptism",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-004-4"
+    ],
+    "note": "Surname uncertain."
   }
 ]

@@ -108,5 +108,705 @@
       "The child was born at Viszoka, not at Čičarovce. If the label is right, Čičarovce is where the book was kept.",
       "Added at DM-B-003 on a second look: the entry below, of which only the top line shows, has the residence 'Vaján' (Vojany) and the officiant 'Polányi Endre'. Two different priests officiate on one page."
     ]
+  },
+  {
+    "id": "DM-D-002",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-1",
+    "file": "archive/demko-documents/Demko_Document_form_Martin_Part_1_1803.jpg",
+    "sha256": "4c51b09eaf87f04d8515b07bb885d00745b12f1ad05ff6f4f420445679a44ecf",
+    "image": {
+      "format": "JPEG",
+      "width": 1558,
+      "height": 2576
+    },
+    "title": "Petition to the bishop for leave to build a wooden chapel, 27 January 1803, page 1",
+    "kind": "Manuscript petition, photographed original",
+    "language": "Latin",
+    "collector_label": "Demko Document form Martin Part 1 1803",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Address",
+        "original": "Excellentissime Domine Praesul!",
+        "english": "Most Excellent Lord Bishop!",
+        "certainty": "clear"
+      },
+      {
+        "column": "Body",
+        "original": "Conspiciendo nosmet ipsos tam miseram, et non stabilem Capellam habere, ideo supplices ad Dominum Nostrum Terrestrem Antonium K. Mihályi concurrimus, qui etiam videndo rectam nostram petitionem, nobis locum pro capella in proprio fundo donavit, quemadmodum ejus Manuscriptum hic involutum exhibet. Ideo nunc unice ad Excellentiam Vestram Praesuleam devotissimi veniendo flexis genibus oramus, quatenus gratioso indultu Excellentiae Vestrae, in eodem loco donato, ligneam Capellam nobis exstruere valeremus. In reliquo Altissimis Praesularibus Gratiis nos commendantes perseveramus Excellentiae Vestrae Praesuleae",
+        "english": "Seeing that we have so poor and unsound a chapel, we went as petitioners to our landlord, Antonius K. Mihályi, who found our request just and gave us a site for a chapel on his own land, as his enclosed note shows. We now come most humbly to Your Episcopal Excellency alone and beg on bended knee that, by Your Excellency's gracious leave, we may build ourselves a wooden chapel on the site so given. Commending ourselves to your episcopal favour, we remain Your Excellency's",
+        "certainty": "probable",
+        "note": "Abbreviations expanded. The landlord's name is read 'K. Mihályi'; the initial is not expanded."
+      },
+      {
+        "column": "Place and date",
+        "original": "Sig. Tegy. Die 27a January 1803",
+        "english": "Signed at Tegenye, 27 January 1803",
+        "certainty": "probable",
+        "note": "'Tegy.' taken as Tegenye, a village beside Pálócz. Identification from training; flagged to the Places agent."
+      },
+      {
+        "column": "Subscription",
+        "original": "Infimi Clientes",
+        "english": "Your lowliest servants",
+        "certainty": "clear"
+      },
+      {
+        "column": "Signers, Pálócz",
+        "original": "Georgius Kicska, Haiduk Joannes, Stanko Joannes, Petrus Joannes et reliqui incolae Palocziensis",
+        "english": "Georgius Kicska, Joannes Haiduk, Joannes Stanko, Joannes Petrus and the other inhabitants of Pálócz (Pavlovce nad Uhom)",
+        "certainty": "probable",
+        "note": "Surnames Kicska and Petrus are doubtful readings."
+      },
+      {
+        "column": "Signers, Tegenye",
+        "original": "Michael Ochmir, Georgius Feterik, et reliqui incolae Tegenyienses",
+        "english": "Michael Ochmir, Georgius Feterik and the other inhabitants of Tegenye",
+        "certainty": "uncertain",
+        "note": "Both surnames doubtful."
+      }
+    ],
+    "translation": "To the bishop. The people of Pálócz, Tegenye, Viszoka and Mogyorós say their chapel is poor and unsound. Their landlord, Antonius K. Mihályi, has given them a site on his own land, and they ask the bishop's leave to build a wooden chapel there. Signed at Tegenye on 27 January 1803 by named men of each village 'and the other inhabitants'. The names for Viszoka and Mogyorós are on the second page (DM-D-003).",
+    "notes": [
+      "All names are in one hand: the scribe wrote them, the villagers did not sign.",
+      "No archive stamp, fond or folio number is visible on this page.",
+      "The addressee is not named. 'Praesul' is a bishop; the four villages and the request for a wooden chapel fit a petition from Greek Catholics to the bishop of Mukachevo. That is an inference."
+    ]
+  },
+  {
+    "id": "DM-D-003",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-1",
+    "file": "archive/demko-documents/Demko_Document_from_Martin_Part_2_1803.jpg",
+    "sha256": "b8fee4f43001a789242edda9b01007872528a517b0e16af19971214f2e21a972",
+    "image": {
+      "format": "JPEG",
+      "width": 1896,
+      "height": 1187
+    },
+    "title": "Petition to the bishop, 27 January 1803, page 2: signers for Viszoka and Mogyorós",
+    "kind": "Manuscript petition, photographed original",
+    "language": "Latin",
+    "collector_label": "Demko Document from Martin Part 2 1803",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Signers, Viszoka",
+        "original": "Michael Hrabik, Andreas Ivanov, Joannes Pikulics, Joannes Demko et reliqui incolae Possessionis Viszoka",
+        "english": "Michael Hrabik, Andreas Ivanov, Joannes Pikulics, Joannes Demko and the other inhabitants of the village of Viszoka",
+        "certainty": "probable",
+        "note": "'Joannes Demko' and 'Viszoka' are clear. Hrabik, Ivanov and Pikulics are doubtful."
+      },
+      {
+        "column": "Signers, Mogyorós",
+        "original": "Joannes Darilo, Basilius Borisza et reliqui incolae possessionis Mogyorós",
+        "english": "Joannes Darilo, Basilius Borisza and the other inhabitants of the village of Mogyorós (Liesková)",
+        "certainty": "probable",
+        "note": "Darilo may be Davilo."
+      }
+    ],
+    "translation": "Continuation of the signatures: four named men of Viszoka, the last of them Joannes Demko, and two of Mogyorós, each group 'and the other inhabitants'.",
+    "notes": [
+      "Photo metadata: taken 19 Feb 2020 with a phone, location tag 48.207 N, 22.644 E, which is in Berehove, Ukraine. A branch of the Zakarpattia state archive is in that town (from training, to be confirmed by the Places agent). This is the only provenance the files carry.",
+      "The earliest Demko at Viszoka on paper so far: 79 years before the 1882 baptism at house 132."
+    ]
+  },
+  {
+    "id": "DM-D-004",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-2",
+    "file": "archive/demko-documents/Gravestone_of_Maria_Demko_1906_-_Notre_Dame_des_Neiges_Montreal.jpg",
+    "sha256": "617025cf310be5473023ac3a64ee98503052c168ff85aed03c72ffc9a8cf60ad",
+    "image": {
+      "format": "JPEG",
+      "width": 1152,
+      "height": 2048
+    },
+    "title": "Gravestone of Mary Demko, wife of Mike Duska, 1906-1950",
+    "kind": "Photograph of a gravestone",
+    "language": "English",
+    "collector_label": "Gravestone of Maria Demko 1906 - Notre Dame des Neiges Montreal",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Family name",
+        "original": "DUSKA",
+        "english": "DUSKA",
+        "certainty": "clear"
+      },
+      {
+        "column": "Inscription",
+        "original": "IN LOVING MEMORY OF MARY DEMKO BORN 1906 DIED 1950 BELOVED WIFE OF MIKE DUSKA",
+        "english": "In loving memory of Mary Demko, born 1906, died 1950, beloved wife of Mike Duska",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "DUSKA. In loving memory of Mary Demko, born 1906, died 1950, beloved wife of Mike Duska.",
+    "notes": [
+      "The cemetery is named only in the file name: Notre-Dame-des-Neiges, Montréal.",
+      "No other name is cut on this face of the stone.",
+      "A stone is made after the death from what the family says: good for the death year, second-hand for the birth year."
+    ]
+  },
+  {
+    "id": "DM-D-005",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-3",
+    "file": null,
+    "withheld": true,
+    "sha256": "938b80719db3c86fa0eaf9f6410dc518aebf5267d821b22a1311ae74b64f9e09",
+    "image": {
+      "format": "JPEG",
+      "width": 1536,
+      "height": 2048
+    },
+    "title": "Photograph at the DUSKA gravestone, said by its file name to be the burial of Stefan Duska",
+    "kind": "Photograph, withheld",
+    "language": "n/a",
+    "collector_label": "[owner] Left and [name withheld] Right at burial of Stefan Duska",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "n/a"
+    },
+    "fields": [
+      {
+        "column": "What it shows",
+        "original": "n/a",
+        "english": "Two men standing at the DUSKA stone of DM-D-004. The ground in front of the stone is freshly turned and flowers are laid on it. Summer foliage.",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "Not a text. The stone is the one in DM-D-004. The turned earth and flowers fit a recent interment in that plot.",
+    "notes": [
+      "Not published: it is a photograph of living people. Checksum kept in archive/WITHHELD.json.",
+      "The file carries no date. The file name supplies the occasion and the names; both are the collector's labels (X-004).",
+      "Evidence it gives: Stefan Duska is dead and is buried in his mother's plot, if the label is right."
+    ]
+  },
+  {
+    "id": "DM-D-006",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-4",
+    "file": "archive/demko-documents/Maria_Demko_Baptism_maybe.jpg",
+    "sha256": "a688dd3b5ec07c7c9f0db926aec00dba00ce86627c15e89ab8a6cd59a1b62549",
+    "image": {
+      "format": "JPEG",
+      "width": 1429,
+      "height": 196
+    },
+    "title": "Baptism register entry no. 44: Mária, daughter of Mihály Demkó and Anna, born 24 February, year not shown",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Maria Demko Baptism maybe",
+    "register": {
+      "parish": "Not visible",
+      "denomination": "Not visible",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry no.",
+        "original": "44",
+        "english": "44",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born",
+        "original": "Febr. 24",
+        "english": "24 February",
+        "certainty": "clear"
+      },
+      {
+        "column": "Baptised",
+        "original": "Febr. 27",
+        "english": "27 February",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name",
+        "original": "Mária",
+        "english": "Mária",
+        "certainty": "clear"
+      },
+      {
+        "column": "Sex and legitimacy",
+        "original": "marks only",
+        "english": "Not read",
+        "certainty": "uncertain",
+        "note": "Five narrow columns hold ditto marks, a stroke and a short word. Without the column headings they cannot be assigned."
+      },
+      {
+        "column": "Father",
+        "original": "Demkó Mihály g.k. zsellér",
+        "english": "Mihály Demkó, Greek Catholic (?), cottar",
+        "certainty": "probable",
+        "note": "The rite abbreviation after the name is unclear. zsellér = a cottar, a peasant without a holding."
+      },
+      {
+        "column": "Mother",
+        "original": "Latnoszki (?) Anna r.k.",
+        "english": "Anna Latnoszki (?), Roman Catholic (?)",
+        "certainty": "uncertain",
+        "note": "Surname begins with an ornate L or B: Latnoszki, Batronszki and Latvoszki are all possible."
+      }
+    ],
+    "translation": "No. 44. Born 24 February, baptised 27 February: Mária. Father Mihály Demkó, cottar. Mother Anna, surname uncertain. The strip is cut before the residence, godparents and priest, and shows no year or parish.",
+    "notes": [
+      "The collector's own label says 'maybe'.",
+      "It disagrees with the civil record DM-D-008 on the day of birth (24 February against 22 August) and on the mother (Anna against Mária Kocsis). It is a different child unless the year proves otherwise. See DM-H-015."
+    ]
+  },
+  {
+    "id": "DM-D-007",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-5",
+    "file": "archive/demko-documents/Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg",
+    "sha256": "57e158a05aa586a97944516a1ffdd112522130f0fa64c9c2962db6df4781a846",
+    "image": {
+      "format": "JPEG",
+      "width": 1536,
+      "height": 2048
+    },
+    "title": "Notarial deed of sale, 1966, one page: declaration that Mike Duska married once, to Maria Demko, who died 9 September 1950",
+    "kind": "Typed notarial deed, photographed page",
+    "language": "English",
+    "collector_label": "Maria Demko Notarial Document Regarding Guardianship of [name withheld] - establishes date of death",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Clause 3",
+        "original": "THAT all taxes and assessments, both general and special, imposed upon the said immoveable, have been paid to the First day of November, Nineteen Hundred and Sixty-six;",
+        "english": "same",
+        "certainty": "clear"
+      },
+      {
+        "column": "Clause 4",
+        "original": "THAT the said Mike Duska was married but once, namely, to the late Dame Maria Demko, who died at the City of Montreal, on the Ninth day of September, Nineteen Hundred and Fifty, and that he has not remarried since the date of the death of his late said wife.",
+        "english": "same",
+        "certainty": "clear"
+      },
+      {
+        "column": "Clause 5",
+        "original": "THAT the present sale shall be effective as of the First day of November, Nineteen Hundred and Sixty-six.",
+        "english": "same",
+        "certainty": "clear"
+      },
+      {
+        "column": "Possession and conditions",
+        "original": "By virtue of these presents, the Purchaser shall become the absolute owner of the immoveable hereby sold, with immediate possession thereof [...]",
+        "english": "same",
+        "certainty": "clear",
+        "note": "The page ends in the second condition."
+      }
+    ],
+    "translation": "A page from a deed of sale of a property, effective 1 November 1966. The seller declares that Mike Duska married only once, to Maria Demko, that she died in Montréal on 9 September 1950, and that he has not remarried.",
+    "notes": [
+      "Only this page was given. The notary, the parties, the property and the deed number are on other pages.",
+      "The file name speaks of a guardianship and names a living person; that name is withheld here and in the archived file name. Nothing on this page concerns a guardianship.",
+      "Mike Duska was alive on the date of the deed."
+    ]
+  },
+  {
+    "id": "DM-D-008",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-6",
+    "file": "archive/demko-documents/Screenshot_20220113-134619_Drive_1.jpg",
+    "sha256": "63ee80ca4856715009a902ebd6c45fe9cbf83fc26b1db0b854e140e3cee48e2a",
+    "image": {
+      "format": "JPEG",
+      "width": 793,
+      "height": 1842
+    },
+    "title": "Civil birth registration no. 45 of 1906: Mária, daughter of Mihály Demkó and Mária Kocsis, born at Solymos on 22 August 1906",
+    "kind": "State civil register of births, one entry, screenshot of a colour scan",
+    "language": "Hungarian",
+    "collector_label": "Screenshot 20220113-134619 Drive 1",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Page and entry",
+        "original": "320 / 45 szám",
+        "english": "Page 320, entry no. 45",
+        "certainty": "clear"
+      },
+      {
+        "column": "Registered at",
+        "original": "Kelt: Alsókányán",
+        "english": "Done at Alsókánya",
+        "certainty": "probable",
+        "note": "Read as Alsókánya, which I take to be Jastrabie pri Michalovciach (from training; flagged to the Places agent). The third-party transcription DM-D-010 reads 'Mokányán'."
+      },
+      {
+        "column": "Date of registration",
+        "original": "1906 (ezer kilenczszázhatodik) évi augusztus hó 23 (huszonharmadik) napján",
+        "english": "23 August 1906",
+        "certainty": "clear"
+      },
+      {
+        "column": "Informant",
+        "original": "Megjelent az alulírott anyakönyvvezető előtt az alább nevezett atya, a kit alantírt anyakönyvvezető személyesen ismer",
+        "english": "Appeared before the undersigned registrar: the father named below, whom the registrar knows personally",
+        "certainty": "clear"
+      },
+      {
+        "column": "Father",
+        "original": "Demkó Mihály",
+        "english": "Mihály Demkó",
+        "certainty": "clear"
+      },
+      {
+        "column": "Father's religion",
+        "original": "görög katholikus",
+        "english": "Greek Catholic",
+        "certainty": "clear"
+      },
+      {
+        "column": "Father's occupation",
+        "original": "földmívelésű napszámos",
+        "english": "agricultural day-labourer",
+        "certainty": "probable"
+      },
+      {
+        "column": "Father's residence",
+        "original": "Solymos",
+        "english": "Solymos (Iňačovce)",
+        "certainty": "clear"
+      },
+      {
+        "column": "Father's birthplace",
+        "original": "Magasrév",
+        "english": "Magasrév, the name then in use for Viszoka (Vysoká nad Uhom, PL-P-037)",
+        "certainty": "probable",
+        "note": "The third-party transcription reads 'Magaszóv???'."
+      },
+      {
+        "column": "Father's age",
+        "original": "24 (huszonnégy) éves",
+        "english": "24 years",
+        "certainty": "clear"
+      },
+      {
+        "column": "Mother",
+        "original": "Demkó Mihályné született Kocsis Mária",
+        "english": "Mrs Mihály Demkó, born Mária Kocsis",
+        "certainty": "clear"
+      },
+      {
+        "column": "Mother's religion",
+        "original": "görög katholikus",
+        "english": "Greek Catholic",
+        "certainty": "clear"
+      },
+      {
+        "column": "Mother's residence",
+        "original": "Solymos",
+        "english": "Solymos",
+        "certainty": "clear"
+      },
+      {
+        "column": "Mother's birthplace",
+        "original": "Solymos",
+        "english": "Solymos",
+        "certainty": "clear"
+      },
+      {
+        "column": "Mother's age",
+        "original": "20 (husz) éves",
+        "english": "20 years",
+        "certainty": "clear"
+      },
+      {
+        "column": "Place of birth",
+        "original": "Solymos",
+        "english": "Solymos (Iňačovce)",
+        "certainty": "clear"
+      },
+      {
+        "column": "Time of birth",
+        "original": "1906 (ezer kilenczszázhatodik) évi augusztus hó 22 (huszonkettedik) napjának délelőtt 9 (kilenczedik) órája",
+        "english": "22 August 1906, 9 in the morning",
+        "certainty": "clear"
+      },
+      {
+        "column": "Child",
+        "original": "neme: leány, vallása: görög katholikus, utóneve: Mária",
+        "english": "Sex: girl. Religion: Greek Catholic. Given name: Mária",
+        "certainty": "clear"
+      },
+      {
+        "column": "Remarks",
+        "original": "—",
+        "english": "none",
+        "certainty": "clear"
+      },
+      {
+        "column": "Closing",
+        "original": "Felolvastatván tót nyelven megmagyaráztatott, helybenhagyatott és aláíratott",
+        "english": "Read out, explained in the Slovak language, approved and signed",
+        "certainty": "clear",
+        "note": "'tót' is the Hungarian word of the time for Slovak."
+      },
+      {
+        "column": "Signatures",
+        "original": "[registrar, unread: ... József] anyakönyvvezető / Demko Mihály bejelentő",
+        "english": "Registrar: surname not read, given name József. Informant: Demko Mihály, in his own hand",
+        "certainty": "uncertain"
+      }
+    ],
+    "translation": "Entry 45, page 320. Registered at Alsókánya on 23 August 1906. The father came in person and is known to the registrar: Mihály Demkó, Greek Catholic, agricultural day-labourer, living at Solymos, born at Magasrév, aged 24. The mother: his wife, born Mária Kocsis, Greek Catholic, living and born at Solymos, aged 20. The child, a girl, Greek Catholic, named Mária, was born at Solymos on 22 August 1906 at nine in the morning. The entry was read out and explained in Slovak, approved and signed by the registrar and by Mihály Demkó.",
+    "notes": [
+      "A state register on printed security paper, made the day after the birth on the father's own word: an original record with a first-hand informant.",
+      "The image is a phone screenshot of a scan, dated 13 Jan 2022 in its metadata. The register's custodian, district and volume are not shown.",
+      "The father signs his own name. In 1882 terms he is the right age to the week: a Mihály Demkó born at Viszoka on 19 August 1882 turned 24 four days before this entry.",
+      "House numbers are not asked for on this form."
+    ]
+  },
+  {
+    "id": "DM-D-009",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-6",
+    "file": "archive/demko-documents/Screenshot_20220113-134619_Drive.jpg",
+    "sha256": "63ee80ca4856715009a902ebd6c45fe9cbf83fc26b1db0b854e140e3cee48e2a",
+    "image": {
+      "format": "JPEG",
+      "width": 793,
+      "height": 1842
+    },
+    "title": "Civil birth registration no. 45 of 1906 (second copy of the same file)",
+    "kind": "Duplicate file",
+    "language": "Hungarian",
+    "collector_label": "Screenshot 20220113-134619 Drive",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "Not visible"
+    },
+    "fields": [],
+    "translation": "Byte-for-byte the same file as DM-D-008.",
+    "notes": [
+      "Same SHA-256 as DM-D-008. Archived because it was in the folder."
+    ]
+  },
+  {
+    "id": "DM-D-010",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-7",
+    "file": "archive/demko-documents/Transcription_of_Maria_Demko_1906_birth_record_from_Czech_Origins.docx",
+    "sha256": "a34cf053cc7e7b2c430f387daf4fb96706b8ed23d66c15265134accb3fa64880",
+    "title": "Third-party transcription of the 1906 civil birth registration",
+    "kind": "Word document, transcription only, no translation",
+    "language": "Hungarian",
+    "collector_label": "Transcription of Maria Demko 1906 birth record from Czech Origins",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Registered at",
+        "original": "Kelt: Mokányán",
+        "english": "(this agent reads Alsókányán)",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Father's birthplace",
+        "original": "Magaszóv???",
+        "english": "(this agent reads Magasrév)",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Father's occupation",
+        "original": "[left blank]",
+        "english": "(this agent reads földmívelésű napszámos)",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Agreed readings",
+        "original": "Demkó Mihály; görög katholikus; Solymos; 24; Kocsis Mária; görög katholikus; Solymos; Solymos; 20; Solymos; 1906 augusztus 22; Mária; tót nyelven; Demko Mihaly",
+        "english": "Names, religions, residences, ages, date, child's name, the Slovak-language note and the informant's signature all agree with DM-D-008",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "A line-by-line Hungarian transcription of DM-D-008 by someone else. It agrees with this agent's reading on every name, age and date. It differs on the place of registration and the father's birthplace, both of which it marks as doubtful, and it leaves the father's occupation blank.",
+    "notes": [
+      "File metadata: created 13 Jan 2022, the same day as the screenshots. The file name credits 'Czech Origins'.",
+      "Read only after this agent had made its own transcription of DM-D-008."
+    ]
+  },
+  {
+    "id": "DM-D-011",
+    "batch": "DM-B-004",
+    "folder": "F-02",
+    "source": "DM-S-004-8",
+    "file": "archive/demko-documents/Stefan_Duska_original_baptism_certificate_establishing_Maria_Demko_as_mother.jpg",
+    "sha256": "986ea348678637a6efadbaf495ff06948643efc0f4442ea9ab4fb63f42e93f4a",
+    "image": {
+      "format": "JPEG",
+      "width": 2576,
+      "height": 1932
+    },
+    "title": "Baptism certificate issued 19 August 1947: Štefan, son of Michal Duska and Maria Demko, born at Senné on 21 October 1929",
+    "kind": "Parish extract on a printed Latin-Slovak form, photographed original",
+    "language": "Slovak and Latin",
+    "collector_label": "Stefan Duska original baptism certificate establishing Maria Demko as mother",
+    "register": {
+      "parish": "Roman Catholic parish of Senné",
+      "denomination": "Roman Catholic",
+      "page": "Volume IV, page 110, entry 43 of 1929",
+      "archive_reference": "Parish register; custodian not stated"
+    },
+    "fields": [
+      {
+        "column": "Form",
+        "original": "Litterae Baptismales - Krstný list",
+        "english": "Baptism certificate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parish",
+        "original": "in Matricula Baptisatorum Ecclesiae paroecialis Rom. Cath. in Sennom",
+        "english": "From the baptism register of the Roman Catholic parish church at Senné",
+        "certainty": "clear"
+      },
+      {
+        "column": "District and diocese",
+        "original": "districtus Veľ. Kapušany; dioecesi Satmárska Apošt. Admin. na Slov.",
+        "english": "District of Veľké Kapušany; Apostolic Administration of Szatmár in Slovakia",
+        "certainty": "probable"
+      },
+      {
+        "column": "Certificate no.",
+        "original": "106 / 1947",
+        "english": "No. 106 of 1947",
+        "certainty": "clear"
+      },
+      {
+        "column": "Volume and page",
+        "original": "tomo IV. pag. 110",
+        "english": "Volume IV, page 110",
+        "certainty": "clear"
+      },
+      {
+        "column": "Year",
+        "original": "1929 tisícdeväťstodvadsaťdeväť",
+        "english": "1929",
+        "certainty": "clear"
+      },
+      {
+        "column": "Entry no.",
+        "original": "43.",
+        "english": "43",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "21. 26. októbra 1929",
+        "english": "Born 21 October, baptised 26 October 1929",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name",
+        "original": "Štefan",
+        "english": "Štefan (Stephen)",
+        "certainty": "clear"
+      },
+      {
+        "column": "Sex, legitimacy",
+        "original": "muž. / zák.",
+        "english": "male, legitimate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Father",
+        "original": "Michal Duska, r.kat., želiar, Senné",
+        "english": "Michal Duska, Roman Catholic, cottar, of Senné",
+        "certainty": "clear"
+      },
+      {
+        "column": "Mother",
+        "original": "Maria Demko, gr.kat., Iňačovce",
+        "english": "Maria Demko, Greek Catholic, of Iňačovce",
+        "certainty": "clear"
+      },
+      {
+        "column": "Residence",
+        "original": "Senné 160.",
+        "english": "Senné, house no. 160",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Jozef Macko-Kocák (?), gr.k., gymnazista (?), Michalovce / Juliana Hanušcák (?), r.k., žena Jána Bandura (?), Senné",
+        "english": "Jozef Macko-Kocák (?), Greek Catholic, grammar-school pupil (?), of Michalovce; Juliana Hanušcák (?), Roman Catholic, wife of Ján Bandura (?), of Senné",
+        "certainty": "uncertain",
+        "note": "All four surnames are doubtful."
+      },
+      {
+        "column": "Baptised by",
+        "original": "Ján Barna, farár",
+        "english": "Ján Barna, parish priest",
+        "certainty": "probable"
+      },
+      {
+        "column": "Issued",
+        "original": "Senné, die 19. mensis Augusta anno 1947",
+        "english": "Senné, 19 August 1947",
+        "certainty": "clear"
+      },
+      {
+        "column": "Signature and seal",
+        "original": "[signature unread] / Rím. kat. farský úrad Senné",
+        "english": "Signature not read. Seal of the Roman Catholic parish office, Senné",
+        "certainty": "uncertain"
+      }
+    ],
+    "translation": "Certificate no. 106 of 1947 from the Roman Catholic parish of Senné, citing volume IV, page 110, entry 43 of 1929: Štefan, male, legitimate, born 21 October and baptised 26 October 1929. Father Michal Duska, Roman Catholic, cottar, of Senné. Mother Maria Demko, Greek Catholic, of Iňačovce. Residence Senné no. 160. Godparents Jozef Macko-Kocák (?) of Michalovce and Juliana Hanušcák (?), wife of Ján Bandura (?), of Senné. Baptised by Ján Barna, parish priest. Issued at Senné on 19 August 1947 under the parish seal.",
+    "notes": [
+      "A derivative: an extract made 18 years after the baptism from the parish's own book, with volume and page cited.",
+      "A son of a Roman Catholic father and Greek Catholic mother, entered in the Roman Catholic book.",
+      "The mother's maiden surname and home village are given in the form used for a wife of another rite: 'gr.kat., Iňačovce'.",
+      "Shared with the Duska agent's line (Ahn 4 and Ahn 8)."
+    ]
   }
 ]

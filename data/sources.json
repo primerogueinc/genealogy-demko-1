@@ -23,5 +23,77 @@
     "title": "Research pass 1 on the Demko surname in Ung county, 12 Nov 2026",
     "extract": "Identifies the Greek Catholic priest of Čičarovce in 1882-1886 as Ján Csurgovics and the Roman Catholic priest in 1868-1890 as Andrej (Endre) Polányi; places Vysoká nad Uhom as a Greek Catholic filial of Čičarovce from after 1806 to 1948; gives film numbers for the Čičarovce registers; quotes Act LIII of 1868, section 12; finds no Demko in a private transcription of the 1715 lists for the four villages; finds nothing in North American indexes.",
     "reliability": "Secondary throughout: municipal and parish web pages, reference works, a private transcription, catalogue numbers relayed by a finding list. Good for where to look, not for who anyone was. Two statements in it came from the owner's private correspondence and are set aside (DM-DEC-010). The report text is not archived here for that reason; the findings used are in leads DM-L-014 to DM-L-021."
+  },
+  {
+    "id": "DM-S-004-1",
+    "batch": "DM-B-004",
+    "type": "Original manuscript, photographed",
+    "title": "Petition of the inhabitants of Pálócz, Tegenye, Viszoka and Mogyorós to the bishop, Tegenye, 27 January 1803",
+    "extract": "Names Joannes Demko among four men signing for Viszoka.",
+    "reliability": "Original and contemporary. Names written by the scribe. No archive reference on the images; a location tag in one photo points to Berehove.",
+    "document": "DM-D-002"
+  },
+  {
+    "id": "DM-S-004-2",
+    "batch": "DM-B-004",
+    "type": "Gravestone, photographed",
+    "title": "DUSKA stone: Mary Demko, 1906-1950, wife of Mike Duska",
+    "extract": "Born 1906, died 1950, beloved wife of Mike Duska.",
+    "reliability": "Original object. Death year near first-hand; birth year as the family gave it. Cemetery from the file name.",
+    "document": "DM-D-004"
+  },
+  {
+    "id": "DM-S-004-3",
+    "batch": "DM-B-004",
+    "type": "Photograph, withheld",
+    "title": "Photograph at the DUSKA stone, labelled as the burial of Stefan Duska",
+    "extract": "Fresh grave at the stone of DM-S-004-2.",
+    "reliability": "The image shows a recent burial at that stone. Whose burial, and who is present, rests on the file name.",
+    "document": "DM-D-005"
+  },
+  {
+    "id": "DM-S-004-4",
+    "batch": "DM-B-004",
+    "type": "Parish register image (derivative, cropped)",
+    "title": "Baptism entry no. 44: Mária, daughter of Mihály Demkó, cottar, and Anna, born 24 February, year and parish not shown",
+    "extract": "A Mária Demkó with a father Mihály, but a different mother and birthday from the 1906 civil record.",
+    "reliability": "Original entry, but cut so that year, place, residence and godparents are lost.",
+    "document": "DM-D-006"
+  },
+  {
+    "id": "DM-S-004-5",
+    "batch": "DM-B-004",
+    "type": "Notarial deed, one page, photographed",
+    "title": "Deed of sale effective 1 November 1966, declarations of the seller",
+    "extract": "Mike Duska married once, to Maria Demko, who died at Montréal on 9 September 1950.",
+    "reliability": "Sworn declaration in a notarial act, 16 years after the death, by or for the widower. Strong for the marriage and the death date.",
+    "document": "DM-D-007"
+  },
+  {
+    "id": "DM-S-004-6",
+    "batch": "DM-B-004",
+    "type": "State civil register of births (image of the original)",
+    "title": "Birth registration no. 45 of 1906, Alsókánya: Mária Demkó, born Solymos 22 August 1906",
+    "extract": "Father Mihály Demkó, Greek Catholic, day-labourer, of Solymos, born Magasrév, aged 24. Mother Mária Kocsis, Greek Catholic, born Solymos, aged 20. Explained in Slovak.",
+    "reliability": "Original, made the next day, informant the father in person. The strongest record in the file. Custodian and volume not shown.",
+    "document": "DM-D-008"
+  },
+  {
+    "id": "DM-S-004-7",
+    "batch": "DM-B-004",
+    "type": "Authored transcription by a third party",
+    "title": "Transcription of the 1906 birth registration, Word file dated 13 January 2022",
+    "extract": "Agrees with DM-S-004-6 as read here on all names, ages and dates.",
+    "reliability": "Derivative of DM-S-004-6 and weaker than the image: two place names doubted, one field skipped.",
+    "document": "DM-D-010"
+  },
+  {
+    "id": "DM-S-004-8",
+    "batch": "DM-B-004",
+    "type": "Parish extract (derivative), photographed original",
+    "title": "Baptism certificate no. 106/1947, Roman Catholic parish of Senné: Štefan Duska, born 21 October 1929",
+    "extract": "Parents Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce. Senné no. 160. Register volume IV, page 110, entry 43.",
+    "reliability": "Official extract under seal from the parish's own register, with volume and page. Direct evidence that Štefan's mother was Maria Demko of Iňačovce.",
+    "document": "DM-D-011"
   }
 ]

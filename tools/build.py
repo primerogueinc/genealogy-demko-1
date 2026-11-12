@@ -48,6 +48,8 @@ def validate(d):
         need(doc["batch"], ("batches",), doc["id"])
         need(doc["folder"], ("folders",), doc["id"])
         need(doc["source"], ("sources",), doc["id"])
+        if doc.get("withheld"):
+            continue
         f = ROOT / doc["file"]
         if not f.is_file():
             errs.append(f"{doc['id']}: missing file {doc['file']}")
@@ -82,9 +84,9 @@ def validate(d):
         for line in mf.read_text(encoding="utf-8").splitlines():
             digest, name = line.split(None, 1)
             manifest[name.strip().lstrip("./")] = digest
-    documented = {doc["file"] for doc in d["documents"]}
+    documented = {doc["file"] for doc in d["documents"] if doc.get("file")}
     for f in sorted((ROOT / "archive").rglob("*")):
-        if f.is_file() and f.name not in ("MANIFEST.sha256", ".gitkeep"):
+        if f.is_file() and f.name not in ("MANIFEST.sha256", "WITHHELD.json", ".gitkeep"):
             rel = f.relative_to(ROOT).as_posix()
             if rel not in documented:
                 errs.append(f"archived file has no document entry: {rel}")
@@ -106,14 +108,16 @@ def write_transcripts(d):
     out_root = ROOT / "transcripts"
     if out_root.exists():
         shutil.rmtree(out_root)  # generated; rebuilt from documents.json every run
+    folders = {f["id"]: f for f in d["folders"]}
     for doc in d["documents"]:
-        rel = Path(doc["file"]).parent.relative_to("archive")
-        out = out_root / rel / f"{doc['id']}_{slug(doc['title'])}.md"
+        base = Path(doc["file"]).parent if doc.get("file") else Path(folders[doc["folder"]]["archive_path"])
+        rel = base.relative_to("archive")
+        out = out_root / rel / f"{doc['id']}_{slug(doc['title'])[:70].strip('-')}.md"
         out.parent.mkdir(parents=True, exist_ok=True)
         r = doc["register"]
         lines = [
             f"# {doc['id']} · {doc['title']}", "",
-            f"- **File:** `{doc['file']}`",
+            f"- **File:** `{doc['file']}`" if doc.get("file") else "- **File:** withheld from publication (see `archive/WITHHELD.json`)",
             f"- **SHA-256:** `{doc['sha256']}`",
             f"- **Kind:** {doc['kind']}",
             f"- **Language:** {doc['language']}",
@@ -123,8 +127,11 @@ def write_transcripts(d):
             f"- **Page / reference:** {r['page']} / {r['archive_reference']}",
             f"- **Source id:** {doc['source']} · **Batch:** {doc['batch']} · **Folder:** {doc['folder']}",
             "", "## Transcription", "",
-            "| Column | As written | English | Reading |", "|---|---|---|---|",
         ]
+        if doc["fields"]:
+            lines += ["| Column | As written | English | Reading |", "|---|---|---|---|"]
+        else:
+            lines += ["None."]
         for f in doc["fields"]:
             eng = f["english"] + (f" *({f['note']})*" if f.get("note") else "")
             lines.append(f"| {f['column']} | {f['original']} | {eng} | {f['certainty']} |")
@@ -132,6 +139,8 @@ def write_transcripts(d):
         lines += [f"- {n}" for n in doc["notes"]]
         out.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
+
+MEDIA = {}
 
 CSS = """
 :root{--bg:#f6f3ec;--card:#fffdf8;--ink:#23201b;--mute:#6f685c;--line:#ddd6c6;--acc:#7a3b2e;--ok:#2f6b4f;--warn:#9a6a12;--bar:#e7e0d0}
@@ -168,12 +177,13 @@ nav a{color:var(--mute);text-decoration:none}nav a:hover{color:var(--acc)}
 .hist{font-size:.84rem;color:var(--mute);border-top:1px dashed var(--line);margin-top:8px;padding-top:8px}
 dl{margin:0;font-size:.92rem}dt{font:600 .72rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;color:var(--mute);margin-top:8px}dd{margin:0}
 .scan{overflow-x:auto;border:1px solid var(--line);border-radius:4px;background:#ddd;margin:10px 0}
-.scan img{display:block;height:157px;max-width:none}
+.scan img{display:block;max-width:none}
+.scan.page{overflow:visible;background:none;border:0}.scan.page img{max-width:min(100%,640px);height:auto;border:1px solid var(--line);border-radius:4px}
 .tw{overflow-x:auto}
 table{border-collapse:collapse;width:100%;font-size:.86rem}
 th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
 th{font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mute);font-weight:600}
-td.orig{font-family:Georgia,serif;font-style:italic;font-size:.95rem;white-space:nowrap}
+td.orig{font-family:Georgia,serif;font-style:italic;font-size:.95rem;min-width:13em;max-width:30em}
 td small{display:block;color:var(--mute)}
 code{font:.8rem ui-monospace,Menlo,Consolas,monospace;word-break:break-all}
 a{color:var(--acc)}
@@ -190,11 +200,6 @@ def render(d):
     open_h = [h for h in d["hypotheses"] if h["status"] == "open"]
     P = []
     add = P.append
-
-    def vital(p):
-        b = p["birth"]
-        bits = [x for x in (b.get("date"), b.get("place")) if x]
-        return "b. " + ", ".join(bits) if bits else ""
 
     add("<header><div class='id'>DEMKO LINE · AI REBUILD · AHNENTAFEL 9 AND ABOVE</div>")
     add("<h1>Maria Demko and her people</h1>")
@@ -214,6 +219,15 @@ def render(d):
         "<a href='#asks'>Asks</a><a href='#decisions'>Decisions</a><a href='#agents'>Agents</a></nav>")
 
     add("<h2 id='line'>The line</h2><ul class='chain'>")
+    def vital(p):
+        bits = []
+        for key, lab in (("birth", "b."), ("baptism", "bapt."), ("death", "d."), ("burial", "bur.")):
+            v = p.get(key) or {}
+            got = [x for x in (v.get("date"), v.get("place")) if x]
+            if got:
+                bits.append(lab + " " + ", ".join(got))
+        return "; ".join(bits)
+
     for p in direct:
         mine = " class='mine'" if p["owner"] == "demko" else ""
         add(f"<li{mine}><span class='id'>{e(p['id'])} · Ahn {p['ahnentafel']}</span><br>"
@@ -234,12 +248,14 @@ def render(d):
     if not d["documents"]:
         add("<p class='meta'>None yet.</p>")
     for doc in d["documents"]:
-        ext = Path(doc["file"]).suffix
         r = doc["register"]
+        media = MEDIA.get(doc["id"])
+        strip = doc.get("image", {}).get("height", 999) < 300
         add(f"<div class='card'><span class='id'>{e(doc['id'])} · source {e(doc['source'])} · {e(doc['batch'])}</span>"
             f"<h3>{e(doc['title'])}</h3><div class='meta'>{e(doc['kind'])} · {e(doc['language'])}</div>"
-            f"<div class='scan'><img src='media/{e(doc['id'])}{e(ext)}' alt='Scan of {e(doc['title'])}'></div>"
-            "<div class='tw'><table><tr><th>Column</th><th>As written</th><th>English</th><th>Reading</th></tr>")
+            + (f"<div class='scan{'' if strip else ' page'}'><img loading='lazy' src='media/{e(media)}' alt='Image of {e(doc['title'])}'></div>" if media else
+               ("<p class='meta'>Image withheld from publication.</p>" if doc.get("withheld") else ""))
+            + ("<div class='tw'><table><tr><th>Column</th><th>As written</th><th>English</th><th>Reading</th></tr>" if doc["fields"] else "<div><table>"))
         for f in doc["fields"]:
             note = f"<small>{e(f['note'])}</small>" if f.get("note") else ""
             add(f"<tr><td>{e(f['column'])}</td><td class='orig'>{e(f['original'])}</td>"
@@ -249,7 +265,7 @@ def render(d):
             + " Page: " + e(r["page"]) + ". Reference: " + e(r["archive_reference"]) + ".</dd>")
         add("<dt>Notes</dt><dd>" + "<br>".join(e(n) for n in doc["notes"]) + "</dd>")
         add(f"<dt>Collector's file name</dt><dd>{e(doc['collector_label'])}</dd>"
-            f"<dt>Archived as</dt><dd><code>{e(doc['file'])}</code><br><code>sha256 {e(doc['sha256'])}</code></dd></dl></div>")
+            f"<dt>Archived as</dt><dd><code>{e(doc['file'] or 'withheld')}</code><br><code>sha256 {e(doc['sha256'])}</code></dd></dl></div>")
 
     add("<h2 id='board'>Hypothesis board</h2><div class='grid'>")
     for h in sorted(d["hypotheses"], key=lambda h: (h["status"] != "open", h["id"])):
@@ -339,9 +355,30 @@ def main():
         print("\n".join("ERROR " + x for x in errs))
         sys.exit(1)
     media = DOCS / "media"
-    media.mkdir(parents=True, exist_ok=True)
+    if media.exists():
+        shutil.rmtree(media)
+    media.mkdir(parents=True)
+    seen = {}
     for doc in d["documents"]:
-        shutil.copyfile(ROOT / doc["file"], media / (doc["id"] + Path(doc["file"]).suffix))
+        if not doc.get("file") or Path(doc["file"]).suffix.lower() not in (".jpg", ".jpeg", ".png"):
+            continue
+        if doc["sha256"] in seen:               # duplicate file: reuse the first copy
+            MEDIA[doc["id"]] = seen[doc["sha256"]]
+            continue
+        src = ROOT / doc["file"]
+        name = doc["id"] + Path(doc["file"]).suffix.lower()
+        try:
+            from PIL import Image
+            im = Image.open(src)
+            if max(im.size) > 1400 and min(im.size) > 300:
+                im.thumbnail((1400, 1400))
+                name = doc["id"] + ".jpg"
+                im.convert("RGB").save(media / name, quality=78)   # viewing copy; no metadata carried over
+            else:
+                shutil.copyfile(src, media / name)
+        except ImportError:
+            shutil.copyfile(src, media / name)
+        MEDIA[doc["id"]] = seen[doc["sha256"]] = name
     write_transcripts(d)
     (DOCS / "index.html").write_text(render(d), encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")

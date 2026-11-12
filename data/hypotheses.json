@@ -2,22 +2,29 @@
   {
     "id": "DM-H-001",
     "statement": "Maria Demko was born between 1888 and 1912.",
-    "confidence": 70,
+    "confidence": 97,
     "basis": "Her grandson (Ahn 2) was born in the early 1960s per the Duska ledger. Two generations of 22 to 35 years each put her birth in this window.",
     "test": "Her age in any marriage, census, passenger or death record.",
-    "status": "open",
+    "status": "confirmed",
     "raised": "DM-B-000",
-    "resolved": null,
-    "resolution": null,
-    "history": []
+    "resolved": "DM-B-004",
+    "resolution": "Born 1906 by her gravestone; 22 Aug 1906 if she is the child of the civil record DM-S-004-6.",
+    "history": [
+      {
+        "batch": "DM-B-004",
+        "from": 70,
+        "to": 97,
+        "why": "The gravestone gives 'born 1906' (DM-S-004-2)."
+      }
+    ]
   },
   {
     "id": "DM-H-002",
     "statement": "Maria Demko was baptised Greek Catholic.",
-    "confidence": 55,
+    "confidence": 88,
     "basis": "DM-PR-3 (Rusyn lean), DM-PR-1 (Uzhhorod was the seat of the Mukachevo Greek Catholic eparchy) and DM-L-002 (Iňačovce was a Greek Catholic parish).",
     "test": "Denomination column in her baptism, her marriage entry, or her children's baptisms.",
-    "status": "open",
+    "status": "supported",
     "raised": "DM-B-000",
     "resolved": null,
     "resolution": null,
@@ -33,35 +40,47 @@
         "from": 50,
         "to": 55,
         "why": "Ledger v2, X-A-001 as amended: the 1868 rule is withdrawn as a constraint between the two Catholic rites. DUS:S-004 @53bf7f0 shows a daughter of a Greek Catholic father and Roman Catholic mother entered in a book labelled Greek Catholic. Half of the DM-B-001 cut is restored."
+      },
+      {
+        "batch": "DM-B-004",
+        "from": 55,
+        "to": 88,
+        "why": "The 1947 certificate calls Štefan's mother 'gr.kat.' in 1929 (DM-S-004-8), and the 1906 civil record gives the child's religion as Greek Catholic with both parents Greek Catholic (DM-S-004-6). Her baptism entry itself is not in hand."
       }
     ]
   },
   {
     "id": "DM-H-003",
     "statement": "The Demkos are the Iňačovce (Solymos) side of the family: Maria was born there and married into a Duska household in Senné.",
-    "confidence": 30,
+    "confidence": 85,
     "basis": "DM-PR-2 names two villages 4 km apart, and the Duska agent's H-004 places the Duska male line in Senné. The alternative readings (Demko from Senné, or from a third village) are each plausible.",
     "test": "Bride's residence and house number in the Duska-Demko marriage entry.",
-    "status": "open",
+    "status": "confirmed",
     "raised": "DM-B-000",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "DM-B-004",
+    "resolution": "Confirmed for Maria: born at Solymos (Iňačovce) and married into Senné. Corrected for the surname: her father came to Solymos from Viszoka, and it is her mother, Mária Kocsis, who was Solymos-born.",
     "history": [
       {
         "batch": "DM-B-001",
         "from": 40,
         "to": 30,
         "why": "The only Demko household documented so far is at Viszoka (Vysoká nad Uhom) no. 132, a third village not named in the priors."
+      },
+      {
+        "batch": "DM-B-004",
+        "from": 30,
+        "to": 85,
+        "why": "DM-S-004-8: Maria Demko 'of Iňačovce' married to Michal Duska of Senné, living at Senné no. 160."
       }
     ]
   },
   {
     "id": "DM-H-004",
     "statement": "Maria Demko was born in a village that is now in Slovakia, not in Ukraine.",
-    "confidence": 65,
+    "confidence": 92,
     "basis": "Both named villages are on the Slovak side. Against it: a birth record held in Uzhhorod is what one would expect for a village now in Zakarpattia, and Ung county straddled the present border.",
     "test": "Birthplace as written in the marriage entry or in any census sheet.",
-    "status": "open",
+    "status": "supported",
     "raised": "DM-B-000",
     "resolved": null,
     "resolution": null,
@@ -71,6 +90,12 @@
         "from": 60,
         "to": 65,
         "why": "Viszoka is on the Slovak side of the present border. Only counts if the Viszoka household is hers."
+      },
+      {
+        "batch": "DM-B-004",
+        "from": 65,
+        "to": 92,
+        "why": "Her home village is Iňačovce by the 1947 certificate; her birthplace is Solymos by the civil record."
       }
     ],
     "question": "X-Q-01"
@@ -78,7 +103,7 @@
   {
     "id": "DM-H-005",
     "statement": "The Uzhhorod record is a Greek Catholic register or register duplicate of the Mukachevo eparchy, and not a civil register.",
-    "confidence": 50,
+    "confidence": 30,
     "basis": "DM-L-003 catalogues exactly such a series for the Ung district. DM-L-001 shows the Iňačovce Greek Catholic books held at Prešov stop at 1898, which would leave a later baptism outside the Slovak holdings.",
     "test": "Whatever told Kevin the record is in Uzhhorod: an archive reply, a catalogue entry, or a fond and file number.",
     "status": "open",
@@ -97,6 +122,12 @@
         "from": 45,
         "to": 50,
         "why": "Same reason as DM-H-002: a daughter of the Viszoka couple need not have been baptised Roman Catholic, so the Greek Catholic series stays a fair place to look."
+      },
+      {
+        "batch": "DM-B-004",
+        "from": 50,
+        "to": 30,
+        "why": "The birth record now in hand is a state civil registration, not a church book. A Greek Catholic baptism entry for August 1906 should also exist; nothing yet says where."
       }
     ],
     "question": "X-Q-01"
@@ -104,26 +135,40 @@
   {
     "id": "DM-H-006",
     "statement": "If Maria was born after 1 October 1895, a second, civil birth registration exists for her that does not depend on the Uzhhorod church book.",
-    "confidence": 60,
+    "confidence": 70,
     "basis": "From training, not yet checked against a source: Hungary introduced state civil registration on that date, kept separately from the churches.",
     "test": "Confirm the start date and the present custodian of Ung county civil registers for the birth village, then search the birth year.",
-    "status": "open",
+    "status": "supported",
     "raised": "DM-B-000",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-004",
+        "from": 60,
+        "to": 70,
+        "why": "A civil registration of 1906 is in hand (DM-S-004-6). Held at the X-009 cap because the link from that child to Ahn 9 is by agreement of name, village and year."
+      }
+    ]
   },
   {
     "id": "DM-H-007",
     "statement": "Mihaly Duska and Maria Demko married in the old country between 1908 and 1935, and the entry names her father.",
-    "confidence": 65,
+    "confidence": 85,
     "basis": "DM-H-001 window plus a usual bride's age of 17 to 25. Parish and civil marriage entries of the period normally name both fathers.",
     "test": "Marriage entry in the Senné Roman Catholic book (DM-L-007), the Iňačovce books (DM-L-001), or the civil register.",
-    "status": "open",
+    "status": "supported",
     "raised": "DM-B-000",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-004",
+        "from": 65,
+        "to": 85,
+        "why": "Štefan was born legitimate at Senné in October 1929 (DM-S-004-8), so the marriage was in the old country before then; with Maria born in 1906 that leaves about 1923 to 1929. The entry itself is not in hand."
+      }
+    ]
   },
   {
     "id": "DM-H-008",
@@ -141,25 +186,37 @@
         "from": 70,
         "to": 75,
         "why": "One household, two rites (DM-S-001-1). Denomination was crossing family lines by 1882, so it is a poor proxy for origin."
+      },
+      {
+        "batch": "DM-B-004",
+        "from": 75,
+        "to": 75,
+        "why": "Unchanged in strength, but the first language datum has arrived: see DM-H-014."
       }
     ]
   },
   {
     "id": "DM-H-009",
     "statement": "György Demkó and Mária Hreskó of Viszoka no. 132 are Maria Demko's parents (Ahn 18 and 19). The Mihály baptised in 1882 is her brother.",
-    "confidence": 30,
+    "confidence": 3,
     "basis": "Same surname in the same county, and Maria shares her given name with the mother. The collector's label is a prior only (X-004). Against: no document links the two, and Viszoka is not one of the villages in DM-PR-2.",
     "test": "A baptism of a Mária to this couple at Viszoka 132, or a marriage entry naming Maria's father as György and her home as Viszoka.",
-    "status": "open",
+    "status": "refuted",
     "raised": "DM-B-001",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "DM-B-004",
+    "resolution": "Refuted by DM-S-004-6, subject to the identity link discussed at DM-H-010.",
     "history": [
       {
         "batch": "DM-B-002",
         "from": 35,
         "to": 30,
         "why": "Ruling X-004: the collector's file name and folder are priors and cannot carry weight. That was part of the DM-B-001 basis."
+      },
+      {
+        "batch": "DM-B-004",
+        "from": 30,
+        "to": 3,
+        "why": "The 1906 civil record makes Maria a daughter of Mihály, born at Magasrév and aged 24, not his sister."
       }
     ],
     "question": "X-Q-03"
@@ -167,14 +224,21 @@
   {
     "id": "DM-H-010",
     "statement": "The Mihály Demkó baptised in 1882 is Maria Demko's father (Ahn 18). György Demkó and Mária Hreskó are then Ahn 36 and 37.",
-    "confidence": 20,
+    "confidence": 70,
     "basis": "Competes with DM-H-009. Needs Maria born after about 1902, which is inside the DM-H-001 window. Nothing in the entry favours this reading over the sibling one.",
     "test": "Maria's age at marriage or death, and her father's name in her marriage entry.",
-    "status": "open",
+    "status": "supported",
     "raised": "DM-B-001",
     "resolved": null,
     "resolution": null,
-    "history": [],
+    "history": [
+      {
+        "batch": "DM-B-004",
+        "from": 20,
+        "to": 70,
+        "why": "DM-S-004-6: Maria's father is Mihály Demkó, Greek Catholic, born at Magasrév (Viszoka), aged 24 on 23 Aug 1906. The Mihály of DM-S-001-1 was born at Viszoka on 19 Aug 1882: same name, rite, village and age to the week. Two links are still by agreement and not by statement: that Ahn 9 is the child of 1906, and that the father of 1906 is the child of 1882. Held at the X-009 cap of 70; this agent's own estimate without the cap is about 85."
+      }
+    ],
     "question": "X-Q-03"
   },
   {
@@ -201,9 +265,29 @@
     "id": "DM-H-012",
     "question": "X-Q-03",
     "statement": "Maria Demko is not of the Viszoka no. 132 household: neither a daughter of György Demkó and Mária Hreskó nor a daughter of their son Mihály.",
-    "confidence": 50,
+    "confidence": 10,
     "basis": "Carried from the coordinator's X-H-001. Demko is a common surname across the region, the only link so far is the collector's choice to keep the image (a prior, X-004), and the priors name Senné and Iňačovce, not Viszoka. Rival of DM-H-009 and DM-H-010; the three sum to 100.",
     "test": "Maria's father's name and home village in her marriage entry or in a child's baptism.",
+    "status": "open",
+    "raised": "DM-B-002",
+    "resolved": null,
+    "resolution": null,
+    "history": [
+      {
+        "batch": "DM-B-004",
+        "from": 50,
+        "to": 10,
+        "why": "See DM-H-010. What is left is the chance that either identity link fails."
+      }
+    ]
+  },
+  {
+    "id": "DM-H-013",
+    "question": "X-Q-04",
+    "statement": "György Demko of Gönyű no. 24 (DUS:S-003, 1895, wife Katalin Jobbágy) is the same man as György Demkó of Viszoka no. 132 (DM-S-001-1, 1882, wife Mária Hreskó), widowed, remarried and moved.",
+    "confidence": 5,
+    "basis": "For: same name, same rite, both landholders, both records kept by the same collector. Against: a landholding peasant rarely left his holding, the two villages are in different counties (distance per the Duska agent's note, not yet tied to a PL- id), and György Demko is a very common name. The Belža images have not been given to this agent; this rests on DUS:S-003 @53bf7f0 as relayed. Unchanged by DM-B-004.",
+    "test": "A burial of Mária Hreskó before 1895; the marriage entry of György Demko and Katalin Jobbágy with the groom's age, status and origin.",
     "status": "open",
     "raised": "DM-B-002",
     "resolved": null,
@@ -211,14 +295,74 @@
     "history": []
   },
   {
-    "id": "DM-H-013",
-    "question": "X-Q-04",
-    "statement": "György Demko of Gönyű no. 24 (DUS:S-003, 1895, wife Katalin Jobbágy) is the same man as György Demkó of Viszoka no. 132 (DM-S-001-1, 1882, wife Mária Hreskó), widowed, remarried and moved.",
-    "confidence": 5,
-    "basis": "For: same name, same rite, both landholders, both records kept by the same collector. Against: a landholding peasant rarely left his holding, the two villages are in different counties (distance per the Duska agent's note, not yet tied to a PL- id), and György Demko is a very common name. The Belža images have not been given to this agent; this rests on DUS:S-003 @53bf7f0 as relayed.",
-    "test": "A burial of Mária Hreskó before 1895; the marriage entry of György Demko and Katalin Jobbágy with the groom's age, status and origin.",
+    "id": "DM-H-014",
+    "statement": "Slovak was the working language of Maria Demko's parents' household at Solymos in 1906. No record in hand shows the family as Rusyn-speaking.",
+    "confidence": 65,
+    "basis": "The registrar wrote that the entry was explained 'tót nyelven', in Slovak, to the father (DM-S-004-6). One clerk's word on one day; clerks did not always distinguish the local Slavic dialects. DM-L-019 has Slovak as the recorded majority tongue of these villages by 1910.",
+    "test": "Mother-tongue columns in the 1910, 1921 and 1930 census sheets for the household; the language of any Greek Catholic entry for the family.",
     "status": "open",
-    "raised": "DM-B-002",
+    "raised": "DM-B-004",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-015",
+    "statement": "The 'maybe' baptism (DM-S-004-4: Mária, born 24 February, father Mihály Demkó, cottar, mother Anna) is not Ahn 9.",
+    "confidence": 85,
+    "basis": "Different birthday and different mother from the civil record, and the collector's own doubt. Against: if this strip is from 1906 and from Iňačovce, there were two Mária Demkós born there that year to fathers called Mihály, and the gravestone's 'born 1906' would fit either.",
+    "test": "The year and parish of the strip. A baptism of Mária Demkó in late August 1906 in the Iňačovce Greek Catholic book.",
+    "status": "open",
+    "raised": "DM-B-004",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-016",
+    "statement": "Joannes Demko of Viszoka (1803) is a forefather of György Demkó of Viszoka no. 132 (1882) in the male line.",
+    "confidence": 45,
+    "basis": "Same surname, same village, same church community, about three generations apart. DM-L-018 reports no Demko at Viszoka in 1715, so the name may have arrived with one man. Nothing joins the two yet.",
+    "test": "The Čičarovce Greek Catholic registers for Viszoka entries, 1806 to 1882 (DM-L-016); the 1828 land census and the 1869 census for Viszoka.",
+    "status": "open",
+    "raised": "DM-B-004",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-017",
+    "statement": "Mihály Demkó married Mária Kocsis at Solymos between 1903 and mid-1906 and settled in her village; the entry names his parents as György Demkó and Mária Hreskó.",
+    "confidence": 60,
+    "basis": "She was Solymos-born and 20 at the birth of a child there; he was born elsewhere and is a day-labourer without a holding, which fits a man who married into his wife's village. Civil marriage entries of the period name both sets of parents.",
+    "test": "The civil marriage register of the Alsókánya district and the Iňačovce Greek Catholic marriages, 1903 to 1906. This is the record that would close the link between the 1882 baptism and the 1906 birth.",
+    "status": "open",
+    "raised": "DM-B-004",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-018",
+    "question": "X-Q-01",
+    "statement": "The record said to be in Uzhhorod is the county's second copy of the civil registration of 1906, the entry now in hand as DM-S-004-6.",
+    "confidence": 40,
+    "basis": "The prior (DM-PR-1) says a birth record is in Uzhhorod and unfound; the only birth record in the file is a civil one, obtained in January 2022 from a source not stated. Rival of DM-H-005 under X-Q-01.",
+    "test": "Where the scan in DM-D-008 came from (DM-A-007).",
+    "status": "open",
+    "raised": "DM-B-004",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-019",
+    "statement": "Maria Demko left Slovakia for Canada between August 1947 and September 1950, and her son's baptism certificate was drawn for that journey.",
+    "confidence": 80,
+    "basis": "The certificate was issued at Senné on 19 Aug 1947 (DM-S-004-8) and she died in Montréal on 9 Sep 1950 (DM-S-004-5). Whether she and Štefan travelled together, and when Mike Duska went, belongs to the Duska agent.",
+    "test": "Canadian immigration records for 1947 to 1950; her burial entry.",
+    "status": "open",
+    "raised": "DM-B-004",
     "resolved": null,
     "resolution": null,
     "history": []

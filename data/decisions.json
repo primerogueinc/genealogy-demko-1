@@ -64,5 +64,29 @@
     "date": "2026-11-12",
     "decision": "Web pages found by the research pass are logged as leads marked 'as reported', not as sources read by this agent.",
     "why": "The agent could not open the pages itself in this session. A lead says where to look; it proves nothing."
+  },
+  {
+    "id": "DM-DEC-012",
+    "date": "2026-11-12",
+    "decision": "One file of folder F-02 is not published: a photograph of living people. Its checksum and a description are kept. A second file is archived with a living person's name removed from its file name; its content is unchanged and its checksum is the original's.",
+    "why": "The repo and the site are public. Site rules: no photographs of living people, no living third parties."
+  },
+  {
+    "id": "DM-DEC-013",
+    "date": "2026-11-12",
+    "decision": "P-004 (Stefan Duska) set to not living in this repo's copy, and his birth date entered in full.",
+    "why": "The burial photograph and its label. The label is a prior, but the cost of being wrong is low and the Duska agent's entry leads on the site."
+  },
+  {
+    "id": "DM-DEC-014",
+    "date": "2026-11-12",
+    "decision": "DM-H-010 entered at 70 and marked supported, not solved.",
+    "why": "Ledger X-009: without an archive reference the cap is 70. The agent's uncapped estimate is recorded in the entry."
+  },
+  {
+    "id": "DM-DEC-015",
+    "date": "2026-11-12",
+    "decision": "The third-party transcription (DM-D-010) was opened only after this agent had finished its own reading of the image.",
+    "why": "So the two readings are independent."
   }
 ]

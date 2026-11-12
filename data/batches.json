@@ -113,5 +113,66 @@
       "DM-S-003-1"
     ],
     "documents_added": []
+  },
+  {
+    "id": "DM-B-004",
+    "date": "2026-11-12",
+    "title": "Demko Documents: ten files, 1803 to 1966",
+    "folder": "F-02",
+    "files": 10,
+    "blurb": "The folder that puts Maria Demko on paper. A parish certificate issued at Senné in 1947 names the parents of Štefan Duska, born there on 21 October 1929, as Michal Duska of Senné and Maria Demko, Greek Catholic, of Iňačovce. A gravestone in Montréal reads Mary Demko, born 1906, died 1950, wife of Mike Duska, and a 1966 deed gives her death as 9 September 1950. A state birth registration of 1906 records a Mária born at Solymos, the Hungarian name of Iňačovce, on 22 August 1906 to Mihály Demkó and Mária Kocsis, both Greek Catholic. The father is a day-labourer born at Magasrév, aged 24. Magasrév is Viszoka, and a Mihály Demkó was baptised there on 20 August 1882, so the man in the first file given to this agent is very probably Maria's father, not her brother. Two links in that chain rest on names, places and ages agreeing and not on a record that says so; the marriage of Mihály Demkó and Mária Kocsis would close one of them. The registrar explained the entry to the father in Slovak. A petition of 1803 puts a Joannes Demko at Viszoka. A cropped baptism the collector marked 'maybe' has the wrong birthday and the wrong mother and is probably another child. Three hypotheses are confirmed, one refuted, six raised.",
+    "raised": [
+      "DM-H-014",
+      "DM-H-015",
+      "DM-H-016",
+      "DM-H-017",
+      "DM-H-018",
+      "DM-H-019"
+    ],
+    "resolved": [
+      "DM-H-001",
+      "DM-H-003",
+      "DM-H-009"
+    ],
+    "revised": [
+      "DM-H-002",
+      "DM-H-004",
+      "DM-H-005",
+      "DM-H-006",
+      "DM-H-007",
+      "DM-H-008",
+      "DM-H-010",
+      "DM-H-012"
+    ],
+    "people_added": [
+      "P-036",
+      "P-037",
+      "DM-X-006",
+      "DM-X-007",
+      "DM-X-008",
+      "DM-X-009"
+    ],
+    "sources_added": [
+      "DM-S-004-1",
+      "DM-S-004-2",
+      "DM-S-004-3",
+      "DM-S-004-4",
+      "DM-S-004-5",
+      "DM-S-004-6",
+      "DM-S-004-7",
+      "DM-S-004-8"
+    ],
+    "documents_added": [
+      "DM-D-002",
+      "DM-D-003",
+      "DM-D-004",
+      "DM-D-005",
+      "DM-D-006",
+      "DM-D-007",
+      "DM-D-008",
+      "DM-D-009",
+      "DM-D-010",
+      "DM-D-011"
+    ]
   }
 ]
