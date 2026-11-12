@@ -240,5 +240,33 @@
       "DM-H-028",
       "DM-H-029"
     ]
+  },
+  {
+    "id": "DM-L-029",
+    "text": "From the Places agent @c5044e4: the Csicser Greek Catholic deaths are in Prešov church-register catalogue no. 182 (to 1886) and no. 182/1 (1887-1907, microfilm 432), both covering Vysoká (PL-R-050). These are the volumes for the burial search that ledger X-017 requires on Mihály Demkó of 1882 (DM-NC-001). Not opened by anyone yet.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-010",
+      "DM-H-016",
+      "DM-H-020"
+    ]
+  },
+  {
+    "id": "DM-L-030",
+    "text": "From the Places agent @c5044e4: Roman Catholics of Viszoka belonged to Pavlovce nad Uhom, not to Čičarovce. Mária Hreskó's own baptism and burial would be in the Pavlovce Roman Catholic book, filmed 1818-1907 (PL-R-052).",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-020",
+      "DM-H-010"
+    ]
+  },
+  {
+    "id": "DM-L-031",
+    "text": "From the Places agent @c5044e4: no Iňačovce Greek Catholic volume after 1898 is listed at Prešov (PL-Q-006, open); the Belža Greek Catholic register for 1791-1896 is in the Košice state archive (PL-R-053); Vysoká stayed on the Slovak side in 1939-1944 while Čičarovce, its parish seat, went to Hungary (PL-H-012, 80).",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-005",
+      "DM-H-029"
+    ]
   }
 ]

@@ -269,7 +269,7 @@
   {
     "id": "DM-H-011",
     "statement": "The strip is cut from a Greek Catholic baptism register: the boy followed his father's rite, and 'Cicarovce' in the file name is the parish seat or the collector's label, not his birthplace.",
-    "confidence": 92,
+    "confidence": 93,
     "basis": "From training, not yet checked against a source: Hungarian law of 1868 had children of mixed marriages follow the parent of the same sex. The priest's name may read Csurgovich, a surname I associate with Greek Catholic clergy; the reading is uncertain. Against: both godparents and the mother are Roman Catholic, and the strip shows no page header. Ledger v2 (X-Q-02, X-010): not to be moved further on the priest's name alone until he is identified from a source.",
     "test": "The full page with its printed header, and the film or DGS number of the image.",
     "status": "supported",
@@ -288,6 +288,12 @@
         "from": 65,
         "to": 92,
         "why": "Records in hand now say so. The 1875 and 1879 strips from the same book name the officiant as 'Kubek József csicseri g.k. lelkész', and a second copy of the 1882 strip sits in the same folder. The January 1883 strip, in the same hand and layout as 1882, writes 'Csurgovich János ... lelkész' in full. The Polányi entry is then a Roman Catholic priest baptising in the Greek Catholic pastor's stead. No page header or archive reference yet."
+      },
+      {
+        "batch": "DM-B-009",
+        "from": 92,
+        "to": 93,
+        "why": "The Places agent, who owns the question, rules the same way (PL-H-009 @c5044e4, supported, 93): Greek Catholic register of Čičarovce, Prešov state archive, church registers catalogue no. 182, film 40-41, with the priests Kubek 1847-1881, Csurgovics 1882-1886 and Azary 1886-1901 in the order of the signatures on DM-D-014, DM-D-018 and DM-D-019. Short of solved until the page header or the entry in the volume is seen."
       }
     ],
     "question": "X-Q-02"
@@ -329,6 +335,12 @@
         "from": 5,
         "to": 3,
         "why": "The Viszoka György was still having children with Mária Hreskó in 1882; a move to Gönyű with a new wife and a holding by 1895 is possible but asks a lot."
+      },
+      {
+        "batch": "DM-B-009",
+        "from": 3,
+        "to": 3,
+        "why": "Unchanged. Places puts Gönyű and Viszoka about 60 km apart, in two counties and two eparchies, with no estate or migration link found (PL-N-022 @c5044e4)."
       }
     ]
   },

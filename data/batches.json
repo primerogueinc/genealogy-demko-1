@@ -442,5 +442,33 @@
       "commit": "0200bec",
       "found": "Their B-011 adds part 2 of F-005 (11 files). Seven strips naming a Demko or a Kocsis are taken and read here; readings agree with theirs apart from doubtful surnames and one house number. The Krak, Nyemcsik and Duska strips are theirs. One godmother to the Demko twins of 1877 is 'Krak[o] Anna', which may be why Krak strips are in the owner's archive; noted for the Duska agent."
     }
+  },
+  {
+    "id": "DM-B-009",
+    "date": "2026-11-12",
+    "at_utc": "2026-11-12T06:36:52Z",
+    "title": "Ledger v12: ready to take in the unclassified folder",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new file. Read ledger versions 11 and 12. The coordinator has made this agent the intake for a mixed folder the owner calls 'AAAA Unclassified', which holds Demko material beside records of other lines. Each file will get a route decided from the document itself: Demko files are worked in full; Duska and shared files are abstracted and passed to the Duska agent; files on the owner's Irish grandmother's line are parked with a name, a checksum and one line; files on his mother's side are recorded by checksum only. The registers for that are set up and empty. The Places agent's latest note is also taken in. It rules, as owner of the question, that the 1882 strip is from the Greek Catholic register of Čičarovce, and it names the volumes that hold that parish's burials for 1882 to 1907, which are the books needed to show that the Mihály of 1882 lived. Nobody has opened them. One confidence moved by a point; nothing was raised or resolved.",
+    "raised": [],
+    "resolved": [],
+    "revised": [
+      "DM-H-011",
+      "DM-H-013"
+    ],
+    "people_added": [],
+    "sources_added": [],
+    "documents_added": [],
+    "read": [
+      "coordinator ledger v11 and v12 (2026-11-12), duska-coordinator @800d3cc",
+      "duska-and-demko-villages main @c5044e4: note to the Demko agent after PL-B-003",
+      "genealogu-duska-1 main @0200bec (cross-review)"
+    ],
+    "cross_review": {
+      "repo": "primerogueinc/genealogu-duska-1",
+      "commit": "0200bec",
+      "found": "No commit since the last pass. Nothing new."
+    }
   }
 ]

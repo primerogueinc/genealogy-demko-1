@@ -184,5 +184,23 @@
     "date": "2026-11-12",
     "decision": "Seven strips from part 2 of the Duska repo's F-005 were taken. This agent had read the Duska agent's batch summary before reading the strips, but not its transcriptions.",
     "why": "Ledger X-012. The cross-review requires reading the other repo first, so full independence is not possible; the order is stated."
+  },
+  {
+    "id": "DM-DEC-032",
+    "date": "2026-11-12",
+    "decision": "Read ledger v12 and set up the intake for the folder 'AAAA Unclassified' before it arrives: data/intake.json (one row per file: route, confidence, reason from the document), data/parked_irish.json, and the handling rules in AGENT.md.",
+    "why": "Ledger v12, X-019: this agent is the intake for that folder."
+  },
+  {
+    "id": "DM-DEC-033",
+    "date": "2026-11-12",
+    "decision": "Routing will be decided from what each document says, never from the folder or file name. No confidence is raised because a file came from that folder.",
+    "why": "Ledger X-019 items 8 and 9; X-004."
+  },
+  {
+    "id": "DM-DEC-034",
+    "date": "2026-11-12",
+    "decision": "For 'maternal' files only a neutral label, the SHA-256 and the route are recorded. For parked 'irish' files: file name, SHA-256 and one line; no image in the repo. Anything about Kevin or a person of unknown living status is held with its hash only.",
+    "why": "Ledger X-019 items 5, 5a and 7."
   }
 ]

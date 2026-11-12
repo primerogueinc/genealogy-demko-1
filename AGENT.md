@@ -28,6 +28,20 @@ Added 12 Nov 2026 from ledger v8:
 - **Times (X-018).** ISO 8601 UTC with a trailing Z; a date alone where only the date is known.
 - **Cross-review (X-012).** The Duska repo is read at the start of every batch and the pass is logged.
 
+Added 12 Nov 2026 from ledger v12 (X-019): intake of the folder `AAAA Unclassified`.
+
+This agent receives the whole folder, unsorted. Every file gets a row in `data/intake.json` with a `route`, a confidence and a reason taken from the document itself.
+
+| Route | What is done |
+|---|---|
+| `demko` | Archived and worked in full, like any batch. |
+| `duska`, `shared` | Archived. Abstract only. Named in the note to the Duska agent in the same batch, who makes its own transcription. A record of Ahn 5's line that also names a Duska is `shared`. |
+| `irish` | The owner's paternal grandmother (Ahn 5) and her ancestors. Parked in `data/parked_irish.json`: file name, SHA-256, one line. No transcription, no image in the repo, nobody added to a tree. |
+| `maternal` | The owner's mother's side. A neutral label (`maternal-001`), the SHA-256 and the route. Nothing else. |
+| `unknown` | Archived and abstracted. Place names go to the Places agent. Attached to nobody. |
+
+Anything about the owner himself, or about a person born less than 100 years ago with no death stated or documented, is held with its hash only. The folder's name and the owner's remark that it holds important Demko documents raise no confidence.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.
