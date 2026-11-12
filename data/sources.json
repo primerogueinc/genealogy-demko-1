@@ -960,5 +960,45 @@
   "reliability": "A family notice placed in a newspaper; reliable for the death and burial, family-supplied for age and kin.",
   "document": "DM-D-100",
   "also": "DUS:D-006-20 @c1c3be2"
+ },
+ {
+  "id": "DM-S-015-1",
+  "batch": "DM-B-015",
+  "type": "State census household sheet (Popisný hárok)",
+  "title": "Census of 1 December 1930, Senné, house 145: Andrej Duška, his wife, a son, his daughter-in-law Maria and grandson Štefan",
+  "extract": "Senné, house 145, on the night of 1 December 1930. Andrej Duška, householder, born 1868; his wife Anna, born 1872; their son Juraj, born 1910; their daughter-in-law Maria Dušková, born 15 August 1907 at Iňačovce, married on 30 January 1927 and living at Senné since that day, Greek Catholic, Slovak by nationality, able to read and write, mother of one child; and her son Štefan, born 23 October 1929.",
+  "reliability": "A state census sheet filled in for the household; dates of birth are as the household gave them.",
+  "document": "DM-D-101",
+  "also": "DUS:D-011-24 @c1c3be2"
+ },
+ {
+  "id": "DM-S-015-2",
+  "batch": "DM-B-015",
+  "type": "Urbarial table, one page",
+  "title": "Urbarial table of Viszoka (Vysoká nad Uhom), the whole village on one page: Michael Demko, serf of the convent of Lelesz",
+  "extract": "Viszoka, a village of the first class, all of it under the convent of Lelesz. Fifteen serfs, three housed cottars and seven sub-cottars. Serf no. 6 is Michael Demko, with one whole holding: 20 units of arable, 10 of meadow, and 52 days of labour with a team or 104 by hand each year.",
+  "reliability": "An official table of holdings and dues. Small image; undated on its face.",
+  "document": "DM-D-102",
+  "also": "DUS:D-011-06 @c1c3be2"
+ },
+ {
+  "id": "DM-S-015-3",
+  "batch": "DM-B-015",
+  "type": "Urbarial table, one page of several",
+  "title": "Urbarial table of Solymos (Iňačovce), first page, serfs 1 to 26: a Gergely Kocsis",
+  "extract": "Solymos, first page of the village's table: 26 serfs. No. 8 is Gergely Kocsis, with a whole holding. No. 4 is a Mihály whose surname begins Kn-.",
+  "reliability": "An official table of holdings and dues. Small image; undated on its face.",
+  "document": "DM-D-103",
+  "also": "DUS:D-011-04 @c1c3be2"
+ },
+ {
+  "id": "DM-S-015-4",
+  "batch": "DM-B-015",
+  "type": "Urbarial table, one page of several",
+  "title": "Urbarial table of Csicser (Čičarovce), one page: a Joannes Kocsis among the serfs free to move",
+  "extract": "Csicser, one page of the village's table. Under the landlord Gáspár Orosz, among the serfs free to move: no. 5, Joannes Kocsis, with half a holding.",
+  "reliability": "An official table of holdings and dues. Small image; undated on its face.",
+  "document": "DM-D-104",
+  "also": "DUS:D-011-05 @c1c3be2"
  }
 ]

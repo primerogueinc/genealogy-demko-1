@@ -1,6 +1,14 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-013. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-015. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+
+## DM→SITE-006 · 12 Nov 2026 · New fields (DM-B-014, DM-B-015)
+
+- `people.json`: `P-009` has `marriage`, `emigration` (`date`, `place`), `residence` (a list of `date`, `place`) and `description` (a sentence). `P-008` has `death`, `burial`, `marriage`. One new person with `living: "unknown"` and no dates: `DM-X-060`.
+- `documents.json`: 15 new entries. `DM-D-098` has a public `file` that is a cropped copy, with `original_sha256`, `original_held` and `public_copy`. `DM-D-100` is withheld (`file: null`). Pile documents carry `pile`, `sorter_batch`, `private_commit`, `sorters_label`.
+- `DM-D-094` is a passport page with a photograph of two people, both dead; it is public on purpose.
+- `folders.json`: `F-12`. No new file under `data/`.
+- Counts: 72 people, 104 documents, 40 hypotheses, 16 batches, 18 name checks, 32 curiosities.
 
 ## DM→SITE-005 · 12 Nov 2026 · Small changes (DM-B-013)
 

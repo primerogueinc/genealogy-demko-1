@@ -52,7 +52,8 @@
    "DM-S-004-3",
    "DM-S-014-4",
    "DM-S-014-6",
-   "DM-S-014-10"
+   "DM-S-014-10",
+   "DM-S-015-1"
   ],
   "note": "Son of Michal Duska and Maria Demko by the parish extracts of 1947 and 1955, both from volume IV, page 110, entry 43. Those give his birth as 21 October 1929; his mother's passport and the court's consent of 1937 give 23 October. Emigrated with his mother in November 1937, aged 8. Died 2018 and was known as Steve: stated by Kevin (ledger C-11); 'Steve' is also in his father's death notice of 1974. The Duska agent owns this entry.",
   "baptism": {
@@ -84,7 +85,8 @@
    "DM-S-014-6",
    "DM-S-014-7",
    "DM-S-014-8",
-   "DM-S-014-11"
+   "DM-S-014-11",
+   "DM-S-015-1"
   ],
   "note": "Roman Catholic cottar of Senné in 1929; 'Michal Duško' in Canada by 1937, when the Michalovce court let his son join him; 'Mike Duska' of 1196a St. George Street, Montréal, who paid his wife's and son's passage that September; married once, to Maria Demko; died 31 January 1974, 'age 71', by his death notice. The Duska agent owns this entry and his parentage. Not to be confused with Mihály Demkó, his father-in-law (ledger X-002).",
   "death": {
@@ -94,6 +96,10 @@
   "burial": {
    "date": "Feb 1974",
    "place": "Côte-des-Neiges cemetery, Montréal (by the notice)"
+  },
+  "marriage": {
+   "date": "30 Jan 1927",
+   "place": null
   }
  },
  {
@@ -120,9 +126,10 @@
    "DM-S-014-6",
    "DM-S-014-9",
    "DM-S-014-10",
-   "DM-S-014-11"
+   "DM-S-014-11",
+   "DM-S-015-1"
   ],
-  "note": "Wife of Michal (Mike) Duska and mother of Štefan: the parish extracts of 1947 and 1955, the court's consent of 1937, the gravestone, the deed of 1966 and her husband's death notice of 1974 all say so. Greek Catholic, of Iňačovce. Her emigrant's passport of 1937 gives her birth as 22 August 1906 at Iňačovce, the day and place of civil registration no. 45 of 1906, so the link to that entry now rests on a paper of her own and not only on name, village and year. Its description: face oblong, eyes grey, hair chestnut; a farm woman; she signs 'Marja Duškova'. She lived at Iňačovce in 1937 while her husband was in Montréal. He paid her passage on 17 September 1937; she signed a contract in Prague on 8 November to sail from Antwerp on the 11th by the Montrose with her son, aged 8. Died at Montréal on 9 September 1950. A second son, Mike, is named in 1974. Ledger X-017: no burial register for Iňačovce after 1906 has been searched, so the check is logged as unresolved; see DM-H-024, now at 4.",
+  "note": "Wife of Michal (Mike) Duska and mother of Štefan: the parish extracts of 1947 and 1955, the court's consent of 1937, the gravestone, the deed of 1966 and her husband's death notice of 1974 all say so. Greek Catholic, of Iňačovce. Her emigrant's passport of 1937 gives her birth as 22 August 1906 at Iňačovce, the day and place of civil registration no. 45 of 1906, so the link to that entry now rests on a paper of her own and not only on name, village and year. Its description: face oblong, eyes grey, hair chestnut; a farm woman; she signs 'Marja Duškova'. She lived at Iňačovce in 1937 while her husband was in Montréal. He paid her passage on 17 September 1937; she signed a contract in Prague on 8 November to sail from Antwerp on the 11th by the Montrose with her son, aged 8. Died at Montréal on 9 September 1950. A second son, Mike, is named in 1974. The census of 1930 has her at Senné no. 145 in her husband's father's house, married since 30 January 1927, Slovak by nationality, able to read and write; it gives her birthday as 15 August 1907, a year and a week from the passport's. Ledger X-017: no burial register for Iňačovce after 1906 has been searched, so the check is logged as unresolved; see DM-H-024, now at 7.",
   "death": {
    "date": "9 Sep 1950",
    "place": "Montréal, Québec"
@@ -138,6 +145,10 @@
   },
   "residence": [
    {
+    "date": "1 Dec 1930",
+    "place": "Senné no. 145, in her father-in-law's house"
+   },
+   {
     "date": "1937",
     "place": "Iňačovce"
    },
@@ -146,7 +157,11 @@
     "place": "Montréal"
    }
   ],
-  "description": "1937 passport: face oblong, eyes grey, hair chestnut, no distinguishing marks"
+  "description": "1937 passport: face oblong, eyes grey, hair chestnut, no distinguishing marks",
+  "marriage": {
+   "date": "30 Jan 1927",
+   "place": null
+  }
  },
  {
   "id": "P-018",
@@ -1310,5 +1325,56 @@
    "DM-S-014-11"
   ],
   "note": "Named with his brother Steve in their father's death notice of 1974. Not on any of the 1937 papers, which give his mother one child, so born after her arrival in Canada. Living status unknown: name only (ledger X-016 item 3)."
+ },
+ {
+  "id": "DM-X-061",
+  "ahnentafel": null,
+  "name": "Michael Demko, serf at Viszoka",
+  "role": "The earliest Demko in the file; perhaps an ancestor of the Viszoka Demkos",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-015-2"
+  ],
+  "note": "Serf no. 6 of the convent of Lelesz at Viszoka in the urbarial table, with a whole holding. The owner dates the table 1767; the image is undated. A Joannes Demko speaks for the village in 1803. Descent to Ahn 36 is not shown: DM-H-039."
+ },
+ {
+  "id": "DM-X-062",
+  "ahnentafel": null,
+  "name": "Gergely Kocsis, serf at Solymos",
+  "role": "The earliest Kocsis at Solymos in the file",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-015-3"
+  ],
+  "note": "Serf no. 8 at Solymos in the urbarial table, with a whole holding. No descent to the Kocsis farmers of the 1840s or to Ahn 19 is shown."
+ },
+ {
+  "id": "DM-X-063",
+  "ahnentafel": null,
+  "name": "Joannes Kocsis, of Csicser",
+  "role": "A Kocsis at Csicser in the urbarial table",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-015-4"
+  ],
+  "note": "Half a holding under Gáspár Orosz, among the serfs free to move. Not shown to be kin to the Kocsis of Solymos."
  }
 ]

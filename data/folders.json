@@ -169,5 +169,21 @@
   ],
   "archive_path": "archive/senne-roman-catholic/",
   "taken_from": "primerogueinc/genealogu-duska-1 @54436a6, its F-009"
+ },
+ {
+  "id": "F-12",
+  "path": "Duska Census",
+  "described_by_kevin": "Announced to the Duska agent as 'Beginning Duska Census'; 66 files so far and still open there. Urbarial tables (the owner's date: 1767) and household sheets of the census of 1930. Four pages are taken here under ledger X-012: the Senné sheet that names Maria Demko, and the urbarial pages of Viszoka, Solymos and Csicser. Four Senné sheets of Kocsis households and the sheets for Iňačovce and Vysoká are still to come.",
+  "received": "2026-11-12",
+  "files_received": 4,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-015"
+  ],
+  "archive_path": "archive/duska-census/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2, its F-011"
  }
 ]

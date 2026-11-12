@@ -190,7 +190,7 @@
  {
   "id": "DM-H-007",
   "statement": "Mihaly Duska and Maria Demko married in the old country between 1908 and 1935, and the entry names her father.",
-  "confidence": 90,
+  "confidence": 93,
   "basis": "DM-H-001 window plus a usual bride's age of 17 to 25. Parish and civil marriage entries of the period normally name both fathers.",
   "test": "Marriage entry in the Senné Roman Catholic book (DM-L-007), the Iňačovce books (DM-L-001), or the civil register.",
   "status": "supported",
@@ -209,6 +209,12 @@
     "from": 85,
     "to": 90,
     "why": "A passport of 1937 in her married name, with a son born at Senné in 1929, and a court paper calling Michal Duško the boy's father in Canada (DM-D-092 to DM-D-095). The marriage entry itself is still not in hand."
+   },
+   {
+    "batch": "DM-B-015",
+    "from": 90,
+    "to": 93,
+    "why": "The census of 1930 gives the date: married 30 January 1927, and at Senné from that day (DM-D-101). Told to the enumerator by the household; the entry of the marriage is still not in hand, so what it says of her father is untested."
    }
   ]
  },
@@ -234,6 +240,12 @@
     "from": 75,
     "to": 75,
     "why": "Unchanged in strength, but the first language datum has arrived: see DM-H-014."
+   },
+   {
+    "batch": "DM-B-015",
+    "from": 75,
+    "to": 75,
+    "why": "The column this hypothesis asked for has come in for Maria herself: nationality 'slovenská' in the census of 1930 (DM-D-101). See DM-H-040 for what it shows and does not."
    }
   ]
  },
@@ -553,7 +565,7 @@
  {
   "id": "DM-H-024",
   "statement": "The Mária born on 22 August 1906 died young, and Ahn 9 is a later daughter of the same father who was given her name.",
-  "confidence": 4,
+  "confidence": 7,
   "necronym_risk": "unresolved",
   "basis": "Raised because ledger X-017 requires the possibility to be carried until the burials are searched. Against it: the gravestone's 'born 1906', which a later child would not match.",
   "test": "Burials and civil deaths at Solymos, 1906 to 1921; her age in the marriage entry.",
@@ -567,6 +579,12 @@
     "from": 8,
     "to": 4,
     "why": "Her passport of 1937 gives her own birth as 22 August 1906 at Iňačovce (DM-D-093), the day and place of the registration, and the transport contract makes her 31 that November. A passport date was taken from a birth extract, so this is the office repeating the register and not a second witness to her birth; but it is her identity paper and she travelled on it. Not lower: the Duska agent reports a census sheet of 1930 that gives her a birthday a year later, which this agent has not yet read; and no burial book has been searched."
+   },
+   {
+    "batch": "DM-B-015",
+    "from": 4,
+    "to": 7,
+    "why": "Read for itself now: the census of 1930 gives her birthday as 15 August 1907 (DM-D-101). A daughter born in August 1907 to parents whose daughter was born in August 1906 is possible only if the births were a bare year apart, and it is exactly what a reused name would look like. Against it: the answer came from her father-in-law's house, not from her own papers; her passport, the contract and her gravestone all say 1906; and a household that misses by a year and a week is ordinary. Up a little, as the rule requires."
    }
   ]
  },
@@ -761,7 +779,14 @@
   "raised": "DM-B-012",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-015",
+    "from": 35,
+    "to": 35,
+    "why": "The urbarial page for Solymos has a Mihály whose surname begins Kn- at no. 4, which the owner's file name reads as Knyezso (DM-D-103). Too small to read; no move."
+   }
+  ]
  },
  {
   "id": "DM-H-037",
@@ -784,6 +809,30 @@
   "test": "The Canadian passenger list or landing record of the Montrose, November 1937; a landing stamp on a later page of the passport.",
   "status": "supported",
   "raised": "DM-B-014",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-039",
+  "statement": "The Demkos of Viszoka in the nineteenth century, and so Ahn 36 György Demkó, descend from Michael Demko, serf of the convent of Lelesz at Viszoka in the urbarial table.",
+  "confidence": 55,
+  "basis": "One Demko among fifteen serfs in a village of some twenty-five households (DM-D-102); a Joannes Demko among four men who speak for the same village in 1803 (DM-D-003); Demko households there in the 1830s and at nos. 79, 120, 121 and 132 from 1857 (the Csicser strips). A serf holding passed in the family. Against: no record ties any two of these generations; a second Demko family could have come in; the table is undated on its face.",
+  "test": "The Csicser Greek Catholic registers before 1831 (the Places agent's record sets for Čičarovce) for the baptisms and marriages between Michael and György; the conscription of 1828 for Viszoka.",
+  "status": "open",
+  "raised": "DM-B-015",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-040",
+  "statement": "In the records of their own time Maria Demko and her father were counted as Slovak, not Rusyn.",
+  "confidence": 70,
+  "basis": "The state form of 1906 was explained to her father 'in the Slovak language' (DM-D-008). The census of 1930 enters her nationality as 'slovenská' (DM-D-101). Both are Greek Catholics. Against: the 1930 answer was given in a Roman Catholic, Slovak household for a daughter-in-law, and an enumerator seldom split one house; 'tót' in 1906 names the language the registrar used, not what the family called itself. The owner leans to a Rusyn origin (DM-PR-3); this says only how offices wrote them down, and nothing about where the Demkos came from before Viszoka.",
+  "test": "The census sheets of 1930 for her parents' house at Iňačovce and for the Demkos of Vysoká, which the Duska agent says are coming; the mother-tongue column of 1900 or 1910.",
+  "status": "open",
+  "raised": "DM-B-015",
   "resolved": null,
   "resolution": null,
   "history": []

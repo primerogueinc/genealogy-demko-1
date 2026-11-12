@@ -1,6 +1,22 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-013. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-015. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+
+## DM→X-011 · 12 Nov 2026 · The Demko pile; Maria in the census of 1930 (DM-B-014, DM-B-015)
+
+- **Ledger** unchanged at v19, `duska-coordinator @bcea4c8`. Logged as read in both batches.
+- **The Demko pile**, private commit `c18bb44`: eleven files, `DM-D-090` to `DM-D-100`. Ten public. Held: the death notice of 1974 (the owner's account name; people of unknown living status) and the full photograph of the 1937 contract (public as the Duska agent's cropped copy).
+- **For the contamination log**, three things, none sought (`DM-DEC-061`):
+  1. The Duska agent's note described eight of these files, and then the census and urbarial pages, before I had read my own copies. I read each from the image afterwards. My readings of `DM-D-090` to `DM-D-104` are therefore **not blind to the Duska agent's**. X-019 item 5 cannot be kept when the other agent's note arrives first and I must read the note.
+  2. At the edge of the contract photograph I saw part of a name on an envelope, from a line outside the experiment. Not recorded anywhere.
+  3. The public listing of the Duska repo's pile folder shows a file name that carries the name of the owner's mother. I did not open the file. You may want that file name treated under X-016 item 7 and X-020 item 4.
+- **What the pile shows.** Her emigrant's passport of 1937: Maria Dušková, born Demková, born **22 August 1906 at Iňačovce**. That is the day and place of civil registration no. 45 of 1906, so the first link under `DM-H-010` now rests on a paper of her own. `DM-H-010` stays at 70; the second link is unchanged. New `DM-H-038` (she sailed from Antwerp on the Montrose on 11 Nov 1937 and landed at Montréal): 85.
+- **A second son**, Mike, in the death notice of 1974: entered as `DM-X-060`, name only, `living: "unknown"` (X-016 item 3). I think he is the man whose name I withheld from a file name in DM-B-004; I have not said so in the repo. Rule on whether name-only is right for him.
+- **The census of 1930**, Senné 145 (`DM-D-101`, taken from `DUS:D-011-24`): married **30 January 1927**; birthday given as 15 August 1907. `DM-H-024` (a later namesake) went 8 → 4 on the passport and 4 → 7 on the census, in that order (`DM-DEC-064`). `DM-NC-018` is open. `DM-H-007` 93.
+- **X-Q-05** is unchanged. The marriage of 1927 is now the one record that would settle X-Q-03 and X-Q-05 together (`DM-L-040`).
+- **New:** `DM-H-039`, 55 (the Viszoka Demkos descend from Michael Demko, serf of Lelesz in the urbarial table); `DM-H-040`, 70 (counted as Slovak in their own time: 1906 and 1930). The second bears on the owner's prior `DM-PR-3`.
+- **Not done yet:** 24 Senné strips and four Senné census sheets routed to me by the Duska agent, all namesakes. Next batch.
+- **Board now:** 72 people, 104 documents, 40 hypotheses, 16 batches, 18 name checks, 32 curiosities.
 
 ## DM→X-010 · 12 Nov 2026 · Ledger v19 acted on; a statement by the owner on Uzhhorod (DM-B-013)
 

@@ -8067,5 +8067,317 @@
   "withheld": true,
   "sha256": "010b1c4a6fd27cb09f3eddc851228896294f0aa2f53a923dbc59653652174f49",
   "held": "names people of unknown living status and shows the owner's account name on a website"
+ },
+ {
+  "id": "DM-D-101",
+  "batch": "DM-B-015",
+  "folder": "F-12",
+  "source": "DM-S-015-1",
+  "file": "archive/duska-census/Senne_-_4_-_House_of_Andrej_Duska.png",
+  "sha256": "499fe697f21015aec4eacb2a985d025ebf41e956e2c2842e1206d55503a566ee",
+  "image": {
+   "format": "PNG",
+   "width": 1462,
+   "height": 1077
+  },
+  "title": "Census of 1 December 1930, Senné, house 145: Andrej Duška, his wife, a son, his daughter-in-law Maria and grandson Štefan",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Senne - 4 - House of Andrej Duska",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Československá republika. Sčítanie ľudu 1930. Politický okres Veľ. Kapušany. Obec Senné. Číslo domovné 145. Meno majiteľa domu: Andrej Duška",
+    "english": "Czechoslovak Republic, census of 1930. District of Veľké Kapušany, commune of Senné, house no. 145. Owner of the house: Andrej Duška",
+    "certainty": "clear"
+   },
+   {
+    "column": "Night counted",
+    "original": "prítomné v noci z 1. na 2. decembra 1930",
+    "english": "persons present on the night of 1 to 2 December 1930",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Duška Andrej / majiteľ bytu / mužské / 24. nov. 1868 / ženatý / Senné / čsl. / slovenská / rím. kat. / roľnícky robotník, nádenník",
+    "english": "Andrej Duška, householder, born 24 Nov 1868, married, born at Senné, Slovak, Roman Catholic, farm labourer, day-labourer",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Dušková Anna / manželka / 24. aug. 1872 / vydatá / 18. jan. 1892 / 12 ; 9 / Senné / rím. kat.",
+    "english": "Anna Dušková, wife, born 24 Aug 1872, married 18 Jan 1892; 12 children born, 9 living; born at Senné; Roman Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Duška Juraj / syn / 2. mar. 1910 / slobodný / Senné",
+    "english": "Juraj Duška, son, born 2 Mar 1910, single, born at Senné",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Dušková Maria / nevesta majiteľa bytu / ženské / 15 aug. 1907 / vydatá / 30. jan. 1927 / 1 / Iňačovce, Michalovce, Slovensko / [od] 30. jan. 1927 / [z] Iňačovce, Michalovce / čsl., Senné, V. Kapušany / slovenská / gr. kat. / čítať a písať / trvale",
+    "english": "Maria Dušková, daughter-in-law of the householder, female, born 15 Aug 1907, married, date of marriage 30 Jan 1927, one child born; born at Iňačovce, district of Michalovce; in this commune since 30 Jan 1927, having come from Iňačovce; Czechoslovak, home commune Senné; nationality Slovak; Greek Catholic; reads and writes; permanently resident",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 5",
+    "original": "Duška Štefan / vnuk / mužské / 23 okt. 1929 / slobodný / Senné",
+    "english": "Štefan Duška, grandson, male, born 23 Oct 1929, single, born at Senné",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Senné, house 145, on the night of 1 December 1930. Andrej Duška, householder, born 1868; his wife Anna, born 1872; their son Juraj, born 1910; their daughter-in-law Maria Dušková, born 15 August 1907 at Iňačovce, married on 30 January 1927 and living at Senné since that day, Greek Catholic, Slovak by nationality, able to read and write, mother of one child; and her son Štefan, born 23 October 1929.",
+  "notes": [
+   "The first record of her marriage: 30 January 1927. She came to Senné from Iňačovce on her wedding day. The entry of the marriage itself is not in hand.",
+   "Her birthday here is 15 August 1907. Her passport says 22 August 1906 (DM-D-093), which is the civil registration. The census answer came from her husband's father's house and is a year and a week out. It is the kind of date ledger X-017 tells this agent not to wave away: see DM-H-024.",
+   "Her husband is not in the house. He is not counted at Senné 145 on 1 December 1930, and by 1937 he is in Montréal. When he left is the Duska agent's question.",
+   "Nationality: Slovak. This is the column DM-H-008 asked for, filled in for her in a Roman Catholic household.",
+   "The householder and his wife are, by this sheet, her husband's parents; that is the Duska agent's finding and line (DUS:D-011-24).",
+   "The green and red figures are the statistical office's coding, added later. Read here after the Duska agent's note had given the dates; read from the image and agrees."
+  ],
+  "provenance": {
+   "archive": "unknown; the image carries a small catalogue label that is not legible at this size",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Senné",
+   "page_or_image": "house 145, page 1",
+   "obtained": "unknown; a screen capture from an online viewer. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "also_read_by": "DUS:D-011-24 @c1c3be2",
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
+ },
+ {
+  "id": "DM-D-102",
+  "batch": "DM-B-015",
+  "folder": "F-12",
+  "source": "DM-S-015-2",
+  "file": "archive/duska-census/Michael_Demko_in_Viszoka.png",
+  "sha256": "c3840e7c5de853893a4af55211f048bddbc895be7bc90b37720c17aadddc5c4f",
+  "image": {
+   "format": "PNG",
+   "width": 397,
+   "height": 563
+  },
+  "title": "Urbarial table of Viszoka (Vysoká nad Uhom), the whole village on one page: Michael Demko, serf of the convent of Lelesz",
+  "kind": "Urbarial table, one page",
+  "language": "Latin and Hungarian",
+  "collector_label": "Michael Demko in Viszoka",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Heading",
+    "original": "Possessio Viszoka 1mae Classis [...]",
+    "english": "Village of Viszoka, of the first class",
+    "certainty": "probable"
+   },
+   {
+    "column": "Landlord",
+    "original": "V. Conventus S. Crucis de Lelesz / Coloni perpetuae obligationis",
+    "english": "The venerable convent of the Holy Cross at Lelesz. Serfs bound in perpetuity",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 6",
+    "original": "6 Michael Demko / 1 / 2 / 20 / 10 / 52 / 104 / [...] / 1 / 1 / 6 / 1 / 2 / 2 / 12",
+    "english": "No. 6, Michael Demko: one whole holding; house plot 2; arable 20; meadow 10; labour 52 days with a team or 104 by hand; dues 1, 1, 6, 1, 2, 2, 12",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "4 Andreas De[...]k",
+    "english": "No. 4, Andreas, a surname beginning De-; not Demko by its ending",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Other serfs",
+    "original": "Solcsik (?), Kontra (two), Argho (?), Toth (several), and others; 15 in all, nos. 10 to 15 on half holdings",
+    "english": "Fifteen serfs; the last six hold half a holding each",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Lower groups",
+    "original": "Inquilini Domiciliati (3) ; Subinquilini (7)",
+    "english": "Three cottars with houses; seven sub-cottars",
+    "certainty": "probable"
+   },
+   {
+    "column": "Foot",
+    "original": "Summa 12 [...] ; two seals ; 26",
+    "english": "Total of 12 holdings; two wax seals; the figure 26",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Viszoka, a village of the first class, all of it under the convent of Lelesz. Fifteen serfs, three housed cottars and seven sub-cottars. Serf no. 6 is Michael Demko, with one whole holding: 20 units of arable, 10 of meadow, and 52 days of labour with a team or 104 by hand each year.",
+  "notes": [
+   "The earliest Demko in the file, a generation before the Joannes Demko of the petition of 1803 (DM-D-003), and in the same village.",
+   "The printed Hungarian column heads are those of the urbarial tables drawn up under Maria Theresa. What each column means (holding, house plot, arable, meadow, days of labour with a team or by hand, dues in money, firewood, spinning, butter, capons, chickens, eggs) is given from recall and was not checked against a guide.",
+   "No date is on the image. The owner dates the set 1767. The year is his label (ledger X-004).",
+   "The image is 397 pixels wide. The name on row 6 is legible; most of the others are not safe.",
+   "Read here after the Duska agent's note had named the row (DUS:D-011-06); read from the image and agrees."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Urbarial table of the village (the owner's date for the set: 1767; no date on the image)",
+   "page_or_image": "one page; the figure 26 at the foot",
+   "obtained": "unknown; a small screen image, about 400 to 480 pixels wide. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "also_read_by": "DUS:D-011-06 @c1c3be2",
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
+ },
+ {
+  "id": "DM-D-103",
+  "batch": "DM-B-015",
+  "folder": "F-12",
+  "source": "DM-S-015-3",
+  "file": "archive/duska-census/Knyerso_and_Hudak_in_Solymos.png",
+  "sha256": "ec73f697af544643e5891172f93677f9f8632e1e2267d3206e2ddb740d8259b9",
+  "image": {
+   "format": "PNG",
+   "width": 477,
+   "height": 695
+  },
+  "title": "Urbarial table of Solymos (Iňačovce), first page, serfs 1 to 26: a Gergely Kocsis",
+  "kind": "Urbarial table, one page of several",
+  "language": "Latin and Hungarian",
+  "collector_label": "Knyerso and Hudak in Solymos",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Heading",
+    "original": "Possessio Solymos [...]",
+    "english": "Village of Solymos",
+    "certainty": "probable"
+   },
+   {
+    "column": "Landlord",
+    "original": "Illmi Dni [...] / Coloni perp. Obligat.",
+    "english": "Of the most illustrious lord [name not read]. Serfs bound in perpetuity",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Row 8",
+    "original": "8 Kocsis Gergely / 1 / 2 / 20 / 10 / 52 / 104",
+    "english": "No. 8, Gergely Kocsis: one whole holding, on the same terms as his neighbours",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "4 S. Kn[...]szk[.] Mihál",
+    "english": "No. 4, Mihály, a surname beginning Kn-; the owner's file name reads it as Knyezso",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Rows 2 and 26",
+    "original": "2 Hudák György ; 26 Hudák András",
+    "english": "Two men named Hudák",
+    "certainty": "probable"
+   },
+   {
+    "column": "Foot",
+    "original": "Latus [...] ; 26",
+    "english": "Page total; the figure 26",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Solymos, first page of the village's table: 26 serfs. No. 8 is Gergely Kocsis, with a whole holding. No. 4 is a Mihály whose surname begins Kn-.",
+  "notes": [
+   "A Kocsis on a full serf holding at Solymos, about four generations before Mária Kocsis. Same surname, same village; no descent is shown.",
+   "The owner's file name points to 'Knyerso': row 4 may be the surname Knyezső in an older spelling. Too small to say.",
+   "The printed Hungarian column heads are those of the urbarial tables drawn up under Maria Theresa. What each column means (holding, house plot, arable, meadow, days of labour with a team or by hand, dues in money, firewood, spinning, butter, capons, chickens, eggs) is given from recall and was not checked against a guide.",
+   "No date on the image; the owner's date is 1767. Names are written surname first on this page. The image is 477 pixels wide.",
+   "Read here after the Duska agent's note had named the rows (DUS:D-011-04); agrees."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Urbarial table of the village (the owner's date for the set: 1767; no date on the image)",
+   "page_or_image": "one page; the figure 26 at the foot",
+   "obtained": "unknown; a small screen image, about 400 to 480 pixels wide. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "also_read_by": "DUS:D-011-04 @c1c3be2",
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
+ },
+ {
+  "id": "DM-D-104",
+  "batch": "DM-B-015",
+  "folder": "F-12",
+  "source": "DM-S-015-4",
+  "file": "archive/duska-census/Kocsis_in_Csicser_Cicarovce.png",
+  "sha256": "99d195642529f00774cf7ed839670721712f523a9c77270316c43c1ccbee7eef",
+  "image": {
+   "format": "PNG",
+   "width": 479,
+   "height": 734
+  },
+  "title": "Urbarial table of Csicser (Čičarovce), one page: a Joannes Kocsis among the serfs free to move",
+  "kind": "Urbarial table, one page of several",
+  "language": "Latin and Hungarian",
+  "collector_label": "Kocsis in Csicser Cicarovce",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Heading",
+    "original": "Possessio Csicser Classis 1mae [...]",
+    "english": "Village of Csicser, of the first class",
+    "certainty": "probable"
+   },
+   {
+    "column": "Landlord and group",
+    "original": "Dni Caspar Orosz / Coloni Liberae Migrat.",
+    "english": "Of the lord Gáspár Orosz. Serfs of free movement",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "5 Joannes Kocsis / 1/2 / [...] / 26 / 52",
+    "english": "No. 5, Joannes Kocsis: half a holding; 26 days of labour with a team or 52 by hand",
+    "certainty": "probable"
+   },
+   {
+    "column": "Foot",
+    "original": "Latus [...] ; 26",
+    "english": "Page total; the figure 26",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Csicser, one page of the village's table. Under the landlord Gáspár Orosz, among the serfs free to move: no. 5, Joannes Kocsis, with half a holding.",
+  "notes": [
+   "A Kocsis at Csicser, the parish village of Viszoka, not at Solymos. A man 'of free movement' could leave his landlord. No tie to the Kocsis of Solymos is shown.",
+   "The printed Hungarian column heads are those of the urbarial tables drawn up under Maria Theresa. What each column means (holding, house plot, arable, meadow, days of labour with a team or by hand, dues in money, firewood, spinning, butter, capons, chickens, eggs) is given from recall and was not checked against a guide.",
+   "No date on the image; the owner's date is 1767. The image is 479 pixels wide.",
+   "Read here after the Duska agent's note had named the row (DUS:D-011-05); agrees."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Urbarial table of the village (the owner's date for the set: 1767; no date on the image)",
+   "page_or_image": "one page; the figure 26 at the foot",
+   "obtained": "unknown; a small screen image, about 400 to 480 pixels wide. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "also_read_by": "DUS:D-011-05 @c1c3be2",
+  "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 under ledger X-012"
  }
 ]

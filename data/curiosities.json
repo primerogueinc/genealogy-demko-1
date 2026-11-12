@@ -407,5 +407,47 @@
   "tone": "odd",
   "doc": "DM-D-093",
   "text": "His mother's passport and the court say he was born on 23 October. The parish book, copied out in 1947 and again in 1955, says the 21st, baptised the 26th. The state believed the mother and the church believed the priest."
+ },
+ {
+  "id": "DM-C-030",
+  "batch": "DM-B-015",
+  "found_in": "DM-B-015",
+  "source": "DM-S-015-1",
+  "document": "DM-D-101",
+  "title": "A birthday at St Mary's",
+  "original": "15 aug. 1907",
+  "translation": "15 August 1907",
+  "why": "Her passport says she was born on 22 August 1906. Her husband's family told the census 15 August 1907. From recall, not checked: 15 August is the feast of the Assumption of Mary in the Roman calendar. The house may have remembered only that Maria was born at St Mary's, and guessed the year.",
+  "tone": "odd",
+  "doc": "DM-D-101",
+  "text": "Her passport says she was born on 22 August 1906. Her husband's family told the census 15 August 1907. From recall, not checked: 15 August is the feast of the Assumption of Mary in the Roman calendar. The house may have remembered only that Maria was born at St Mary's, and guessed the year."
+ },
+ {
+  "id": "DM-C-031",
+  "batch": "DM-B-015",
+  "found_in": "DM-B-015",
+  "source": "DM-S-015-1",
+  "document": "DM-D-101",
+  "title": "Moved in on her wedding day",
+  "original": "30. jan. 1927 [...] 30. jan. 1927",
+  "translation": "[married] 30 January 1927 [...] [in this commune since] 30 January 1927",
+  "why": "The census asks every person when they came to live in the village. For Maria the answer is the date in the column before it: she left Iňačovce the day she married.",
+  "tone": "history",
+  "doc": "DM-D-101",
+  "text": "The census asks every person when they came to live in the village. For Maria the answer is the date in the column before it: she left Iňačovce the day she married."
+ },
+ {
+  "id": "DM-C-032",
+  "batch": "DM-B-015",
+  "found_in": "DM-B-015",
+  "source": "DM-S-015-2",
+  "document": "DM-D-102",
+  "title": "What Michael Demko owed",
+  "original": "6 Michael Demko 1 2 20 10 52 104 [...] 2 2 12",
+  "translation": "No. 6, Michael Demko: one holding; 52 days of labour with a team or 104 by hand; 2 capons, 2 chickens, 12 eggs",
+  "why": "The oldest Demko in the file is a line in a table of dues. Read by the printed column heads, from recall: a year of his life owed the convent of Lelesz fifty-two days with his own oxen, two capons, two chickens and a dozen eggs.",
+  "tone": "history",
+  "doc": "DM-D-102",
+  "text": "The oldest Demko in the file is a line in a table of dues. Read by the printed column heads, from recall: a year of his life owed the convent of Lelesz fifty-two days with his own oxen, two capons, two chickens and a dozen eggs."
  }
 ]

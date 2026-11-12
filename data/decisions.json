@@ -370,5 +370,17 @@
   "date": "2026-11-12",
   "decision": "The ledger is unchanged at v19 and is logged as read. The rest of the cross-review (census sheets of 1930, urbarial pages and 24 Senné strips routed here by the Duska agent) is left for the next batches.",
   "why": "One folder, one batch. The pile came first because it is this line's own."
+ },
+ {
+  "id": "DM-DEC-063",
+  "date": "2026-11-12",
+  "decision": "Took four pages from the Duska agent's folder 'Duska Census': the 1930 census sheet for Senné no. 145 and the urbarial pages of Viszoka, Solymos and Csicser. Left for a later batch: four Senné census sheets of Kocsis households and 24 strips from the Senné Roman Catholic book, all of them namesakes and none on the line.",
+  "why": "Ledger X-012. The pages that bear on Ahn 9 and on the Demkos of Viszoka come first."
+ },
+ {
+  "id": "DM-DEC-064",
+  "date": "2026-11-12",
+  "decision": "Moved DM-H-024 up from 4 to 7 one batch after moving it down.",
+  "why": "Each move followed a record read that batch: her passport, then the census. The board shows the order the evidence came in."
  }
 ]

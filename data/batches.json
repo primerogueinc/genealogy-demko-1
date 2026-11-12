@@ -798,5 +798,57 @@
    "commit": "c1c3be2",
    "found": "Fifteen batches since the last pass. Its note to this agent describes the 1937 papers, the 1955 extract and the death notice, which it holds from its own pile with the same checksums; this agent had not yet read its own copies, so the readings here follow that note in time and are checked against the images. They agree, except the emigrants' register numbers on the contract (417 and 418 or 487 and 488 here; 487 and 488 there). Not yet taken, and left for the next batches: a 1930 census sheet for Senné that names Maria; census sheets for Iňačovce and Vysoká; three urbarial pages; 24 strips from the Senné Roman Catholic book."
   }
+ },
+ {
+  "id": "DM-B-015",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T09:58:13Z",
+  "title": "Maria Demko in the census of 1930, with the date of her marriage; and a Demko at Viszoka in the urbarial table",
+  "folder": "F-12",
+  "files": 4,
+  "blurb": "Four pages from a folder the owner gave the Duska agent. The first is the household sheet of the 1930 census for Senné no. 145. Maria is there with her son, in her husband's father's house: Greek Catholic, Slovak by nationality, able to read and write, married on 30 January 1927 and living at Senné since that same day. Her husband is not in the house. That is the first date for her marriage; the entry itself is still missing, and it is the record that would name her parents. The sheet gives her birthday as 15 August 1907, where her passport says 22 August 1906. The census answer came from her in-laws and is the weaker of the two, but a second date a year later is what a reused name would look like, so the check stays open and that reading goes back up to 7. The other three pages are urbarial tables, small and undated on their face; the owner dates them 1767. At Viszoka, the village Maria's father came from, serf no. 6 of the convent of Lelesz is a Michael Demko with a whole holding. He is the earliest Demko in the file, a generation before the Joannes Demko of 1803. At Solymos a Gergely Kocsis holds a whole serf holding. Descent from either is not shown. Still to take: four Senné census sheets and 24 Senné baptism strips of Kocsis and Demko namesakes, and the Iňačovce and Vysoká census sheets when the Duska agent has them. Curiosities: 3.",
+  "raised": [
+   "DM-H-039",
+   "DM-H-040"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-024",
+   "DM-H-007"
+  ],
+  "people_added": [
+   "DM-X-061",
+   "DM-X-062",
+   "DM-X-063"
+  ],
+  "sources_added": [
+   "DM-S-015-1",
+   "DM-S-015-2",
+   "DM-S-015-3",
+   "DM-S-015-4"
+  ],
+  "documents_added": [
+   "DM-D-101",
+   "DM-D-102",
+   "DM-D-103",
+   "DM-D-104"
+  ],
+  "curiosities_added": [
+   "DM-C-030",
+   "DM-C-031",
+   "DM-C-032"
+  ],
+  "curiosities": 3,
+  "read": [
+   "coordinator ledger v19, duska-coordinator @bcea4c8 (unchanged)",
+   "genealogu-duska-1 main @c1c3be2 (cross-review; its folder F-011)",
+   "private repository @c18bb44 (no change since DM-B-014)",
+   "duska-and-demko-villages main @641ba53 (unchanged)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "c1c3be2",
+   "found": "Four pages taken from its F-011, checksums equal to its manifest. Its note had given the dates on the census sheet and the rows on the urbarial pages before this agent read them; each was then read from the image and agrees. It holds the householders of Senné 145 as the parents of its Ahn 8; that is its line. Not yet taken: its D-011-23, -27, -28, -31 (Senné census, Kocsis households) and 24 strips of its F-009, all routed here. It says the 1930 sheets for Iňačovce and Vysoká are coming."
+  }
  }
 ]
