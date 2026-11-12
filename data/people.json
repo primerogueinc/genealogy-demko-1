@@ -1312,19 +1312,19 @@
  {
   "id": "DM-X-060",
   "ahnentafel": null,
-  "name": "Mike Duska, second son",
+  "name": "Mike, second son of Michal Duska and Maria Demko",
   "role": "Son of Michal Duska and Maria Demko; brother of Ahn 4",
   "living": "unknown",
   "owner": "demko",
   "birth": {
    "date": null,
-   "place": null
+   "place": "Canada"
   },
   "proof": "documented",
   "sources": [
    "DM-S-014-11"
   ],
-  "note": "Named with his brother Steve in their father's death notice of 1974. Not on any of the 1937 papers, which give his mother one child, so born after her arrival in Canada. Living status unknown: name only (ledger X-016 item 3)."
+  "note": "Named with his brother Steve in their father's death notice of 1974. Born in Canada. Living status unknown: given name and country of birth only (ledger X-016 item 3, X-028)."
  },
  {
   "id": "DM-X-061",

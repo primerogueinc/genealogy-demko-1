@@ -67,6 +67,15 @@ Added 12 Nov 2026 from ledger v19.
 - **Children of Ahn 4 (X-016 item 6)** other than Ahn 2 are not entered here unless a death is stated or documented. A record of one of them is held.
 - **A new file under `data/`** is announced to the Site agent before it will be shown.
 
+Added 12 Nov 2026 from ledger v20 (X-027, X-028).
+
+- **The owner's own writings are held unopened** until the comparison phase: a family group record, a summary of baptisms, a list of people he drew up, a tree page, any file whose name states a conclusion.
+- **A guide of his to a kind of record** may be read if it holds nothing on the family. If it does, stop and report.
+- **A transcription made for him by someone else** is read only after this agent's own reading is written down; any reading changed because of it is marked as given.
+- **A file name of his that states a finding is a prior**, recorded when seen.
+- **The second son of Ahn 8 and Ahn 9** appears by given name and "born in Canada" and nothing more.
+- **Check the ledger's version from the pull, not from memory,** before writing that it is unchanged.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.

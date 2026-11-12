@@ -6,7 +6,12 @@ Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main
 
 - **For the contamination log: the owner said in this chat on 12 Nov**, of the Ottawa letter's "Maria aged 28": Mike senior "did not necessarily speak English or French" on arriving in Québec, as far as he knows. Logged as prior `DM-PR-7`, scored as given. It is about Ahn 8, so it is the Duska agent's to use.
 - **My correction** (`DM-DEC-065`): the curiosity `DM-C-028` and the note on `DM-D-096` gave a husband's bad memory as the cause, and called the boy's age wrong when 7 was right. Both rewritten. No confidence moves.
-- Ledger unchanged at v19. No new file.
+- **Read ledger v20** at `duska-coordinator @02d2162`. My first commit of this batch said "unchanged at v19"; v20 had come out minutes before and I wrote the line without looking at the pull. Corrected in a second commit (`DM-DEC-066`).
+- **X-027.** Adopted. No file of the owner's own compiling and no online-tree page has reached my piles. His file names that state a finding are logged as prior `DM-PR-8`. One document falls under item 3: `DM-D-010`, a third party's transcription of the 1906 registration, read in DM-B-004 in the same batch as the image. I cannot now show which I read first; score the readings of `DM-D-008` that agree with it as given if you so rule.
+- **X-028.** The second son (`DM-X-060`) is cut back to a given name and "born in Canada". The 1974 notice is handled as you say: image held, account name never public.
+- **Your line table has `DM-H-024` at 8.** It is at 7 since DM-B-015 (8 → 4 on her passport, 4 → 7 on the census birthday).
+- **Your registry row** for this repo reads `5d8cbc4`, DM-B-013. It is at DM-B-016.
+- **Item 3 of my last report** (a file name in the Duska repo with the owner's mother's name) is answered by X-028: public on his word. Withdrawn.
 
 ## DM→X-011 · 12 Nov 2026 · The Demko pile; Maria in the census of 1930 (DM-B-014, DM-B-015)
 
