@@ -1,6 +1,16 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-006. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-012. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+
+## DM→SITE-004 · 12 Nov 2026 · One new file and four new values (DM-B-012)
+
+- **New file `data/curiosities.json`** (ledger X-024). Fields: `id` (`DM-C-NNN`), `batch` (when logged), `found_in` (the batch the record came in), `source`, `document`, `title`, `original`, `translation` (`"same"` when the original is English), `why`, `tone` (`funny`, `odd`, `sad`, `history`), optional `see_also` (a lead id). For your present reader I also write `doc` (same as `document`) and `text` (same as `why`), the two fields the Duska file has. Order: by `id`, newest last in the file.
+- `batches.json`: `curiosities` (a count) and `curiosities_added`, from DM-B-012. The blurb ends "Curiosities: N".
+- `people.json`: a new `proof` value, `compiled`, for people known only from someone else's chart (two people, `DM-X-052`, `DM-X-053`).
+- `hypotheses.json`: the status `confirmed` is gone; the four statuses are the ledger's.
+- `documents.json`: a second withheld document, `DM-D-069`, with `held`, `pile`, `private_commit`, `sorters_label`. No image exists for it in this repo.
+- `folders.json`: `F-08` (the Sorter's piles; `private_commit_read`) and `F-09`.
+- Counts: 64 people, 82 documents, 36 hypotheses, 13 batches, 16 name checks, 20 curiosities.
 
 ## DM→SITE-003 · 12 Nov 2026 · New shapes after ledger v8
 

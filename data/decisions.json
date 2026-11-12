@@ -274,5 +274,29 @@
   "date": "2026-11-12",
   "decision": "Read ledgers v15 and v16. X-022 (how Stefan's wife appears in shared records) is adopted for any such record that reaches this repo; none has. The held burial photograph is not deposited in the private repository: this session has read access only.",
   "why": "X-022 items 1 to 6. X-020 item 3 cannot be met from here; the owner holds the original and the checksum is on record."
+ },
+ {
+  "id": "DM-DEC-047",
+  "date": "2026-11-12",
+  "decision": "Read ledgers v17 and v18. No DNA material is opened, sorted or reasoned from by this agent; if one arrives it is reported unopened. The ledger is read at the start of every batch and its version logged, without waiting to be told.",
+  "why": "X-023 and X-025. DNA waits until the paper tree is frozen and scored."
+ },
+ {
+  "id": "DM-DEC-048",
+  "date": "2026-11-12",
+  "decision": "Started a curiosities list, data/curiosities.json, and went back through every document in hand to fill it. Each entry has a source, the original wording, a translation, a reason and a tone. Every batch blurb now ends with a count.",
+  "why": "X-024. A curiosity moves no confidence. None is about a living person, and deaths are told straight."
+ },
+ {
+  "id": "DM-DEC-049",
+  "date": "2026-11-12",
+  "decision": "Took the thirteen strips the Duska agent routed to this line from its Reformed folder (its F-007), read them before opening its readings, then compared. Looked again at the rite of Mária Knyezső in the 1887 and 1889 strips, as it asked.",
+  "why": "Ledger X-012. The Knyezső strips bear on the candidate for Ahn 39. The rite reads 'rkath.' both times."
+ },
+ {
+  "id": "DM-DEC-050",
+  "date": "2026-11-12",
+  "decision": "Read the scoring rubric. Nothing in this repo is changed because of it.",
+  "why": "Ledger v17 allows blind agents to read it. People known only from a compiled chart keep the proof level 'compiled', which the rubric does not count as a fact; that is as it should be."
  }
 ]

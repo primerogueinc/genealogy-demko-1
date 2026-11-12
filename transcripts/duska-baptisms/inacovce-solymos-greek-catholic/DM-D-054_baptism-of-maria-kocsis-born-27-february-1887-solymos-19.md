@@ -34,3 +34,4 @@ No. 10. Born 27 February, baptised 28 February: Mária, legitimate daughter of M
 - Same couple and same house as the Anna of October [1889] (DM-D-048).
 - The remarks column is blank. This book notes infant deaths there ('meghalt ...') on eight of the strips in hand between 1875 and 1894, so a blank is weak evidence that she outlived infancy. It is not proof (ledger X-017).
 - Readings agree with DUS:D-005-43.
+- Read again in DM-B-012 at the Duska agent's request: the mother's rite is 'rkath.' (Roman Catholic), here and in the entry of 1889 (DM-D-048). The same hand writes 'ref.' for the godmother in this entry, so the two words are not confused.

@@ -584,5 +584,90 @@
    "commit": "93ca2f1",
    "found": "Two commits since the last pass. It took the same shared-pile file and holds the image too (its D-006-01). Its reading was opened after this agent's own: it has the death year as 1991 where this agent cannot fix the last figure, and it does not name Passaic; both leave Demko or Danko open. Its H-039 is DM-H-034. It has accepted all five differences this agent sent after the last pass, including the redating of two strips to 1847 and 1871. No new strip for this line."
   }
+ },
+ {
+  "id": "DM-B-012",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T07:31:56Z",
+  "title": "Ledgers v17 and v18; a curiosities list; thirteen strips from the Reformed book of Solymos, all but two of them Knyezső",
+  "folder": "F-09",
+  "files": 13,
+  "blurb": "Ledgers v17 and v18 are read. No agent handles DNA until the paper tree is frozen; the ledger is now read at the start of every batch without a version being quoted; and every batch looks for curiosities and ends with a count. A curiosities list is started and filled back through everything in hand. The cross-review brought thirteen strips from a folder the owner gave the Duska agent: baptisms from the Reformed register of Solymos, 1825 to 1921. Eleven are labelled Nyemcsik and every one reads Knyezső, the surname of the woman who may be Maria Demko's grandmother. They show nine Knyezső couples in the village, with several men called György and several called Mihály, so the name alone picks out nobody. None of them is shown to be kin to Mária Knyezső. She is the puzzle: her village namesakes are Reformed, and she is written Roman Catholic, twice, by a priest who knew the difference. The two strips labelled Kocsis have no Kocsis child; one has a Kocsis mother in 1825, the earliest of the name at Solymos. The private repository was checked again: this agent's two piles are unchanged, one held file. Curiosities: 20 (18 from earlier batches, logged now for the first time; 2 from this one).",
+  "raised": [
+   "DM-H-036"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-034"
+  ],
+  "people_added": [
+   "DM-X-054",
+   "DM-X-055"
+  ],
+  "sources_added": [
+   "DM-S-012-1",
+   "DM-S-012-2",
+   "DM-S-012-3",
+   "DM-S-012-4",
+   "DM-S-012-5",
+   "DM-S-012-6",
+   "DM-S-012-7",
+   "DM-S-012-8",
+   "DM-S-012-9",
+   "DM-S-012-10",
+   "DM-S-012-11",
+   "DM-S-012-12",
+   "DM-S-012-13"
+  ],
+  "documents_added": [
+   "DM-D-070",
+   "DM-D-071",
+   "DM-D-072",
+   "DM-D-073",
+   "DM-D-074",
+   "DM-D-075",
+   "DM-D-076",
+   "DM-D-077",
+   "DM-D-078",
+   "DM-D-079",
+   "DM-D-080",
+   "DM-D-081",
+   "DM-D-082"
+  ],
+  "curiosities_added": [
+   "DM-C-001",
+   "DM-C-002",
+   "DM-C-003",
+   "DM-C-004",
+   "DM-C-005",
+   "DM-C-006",
+   "DM-C-007",
+   "DM-C-008",
+   "DM-C-009",
+   "DM-C-010",
+   "DM-C-011",
+   "DM-C-012",
+   "DM-C-013",
+   "DM-C-014",
+   "DM-C-015",
+   "DM-C-016",
+   "DM-C-017",
+   "DM-C-018",
+   "DM-C-019",
+   "DM-C-020"
+  ],
+  "curiosities": 20,
+  "read": [
+   "coordinator ledger v17 and v18 (2026-11-12), duska-coordinator @677fcf5",
+   "scoring rubric v1, duska-coordinator @1223684",
+   "genealogu-duska-1 main @4d7a299 (cross-review; its B-017 and B-018)",
+   "duska-and-demko-villages main @641ba53 (unchanged)",
+   "private repository @15a7b72: to-demko/ and to-both/ only, unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "4d7a299",
+   "found": "Two commits since the last pass. Its B-017 is a new folder of 45 strips from the Reformed register of Solymos; thirteen are routed to this line and taken, checksums equal to its manifest, read here before its readings were opened. The parents agree in all thirteen. Differences are on doubtful words: a baptism day and a house number in 1887, the father's surname and the pastor in 1825, house numbers in 1890 and 1910, two godparents' surnames, the dates in 1921. One of its strips (its D-007-08) has a Knyezső row above a Duska row and stays with it. At its request the rite of Mária Knyezső was read again: Roman Catholic, in 1887 and in 1889. Its B-018 says the owner has no more folders."
+  }
  }
 ]

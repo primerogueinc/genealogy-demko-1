@@ -118,7 +118,23 @@
    "DM-B-011"
   ],
   "archive_path": "archive/unclassified-sorter-piles/",
-  "private_commit_read": "9bf2c7a",
+  "private_commit_read": "9bf2c7a; piles unchanged at 15a7b72",
   "archive_note": "No image here yet: the one file is held (archive/WITHHELD.json)."
+ },
+ {
+  "id": "F-09",
+  "path": "Inacovce - Reformed (the owner's name for it, as the Duska agent reports it: 'Reformed Catholic')",
+  "described_by_kevin": "Given to the Duska agent in four parts, 45 files; it lists the folder as complete. Baptisms from the Reformed register of Solymos, 1825 to 1921. Thirteen strips are routed to this line by the Duska agent and taken here under ledger X-012: eleven labelled Nyemcsik that read Knyezső, and two labelled Kocsis.",
+  "received": "2026-11-12",
+  "files_received": 13,
+  "complete": true,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-012"
+  ],
+  "archive_path": "archive/duska-baptisms/inacovce-reformed/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299, its F-007"
  }
 ]

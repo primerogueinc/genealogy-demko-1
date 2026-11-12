@@ -16,7 +16,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
 NAMES = ["people", "sources", "documents", "priors", "hypotheses",
-         "batches", "folders", "leads", "asks", "decisions", "necronym_checks"]
+         "batches", "folders", "leads", "asks", "decisions", "necronym_checks",
+         "curiosities"]
 
 
 def load():
@@ -77,6 +78,12 @@ def validate(d):
             need(ref, ("hypotheses",), l["id"])
     for a in d["asks"]:
         need(a["raised"], ("batches",), a["id"])
+    for c in d["curiosities"]:
+        need(c["source"], ("sources",), c["id"])
+        need(c["document"], ("documents",), c["id"])
+        need(c["batch"], ("batches",), c["id"])
+        if c["tone"] not in ("funny", "odd", "sad", "history"):
+            errs.append(f"{c['id']}: unknown tone {c['tone']!r}")
     # every archived file is in the manifest and in documents.json
     manifest = {}
     mf = ROOT / "archive" / "MANIFEST.sha256"
@@ -216,7 +223,7 @@ def render(d):
     add("<nav><a href='#line'>Line</a><a href='#batches'>Batch log</a><a href='#documents'>Documents</a>"
         "<a href='#board'>Hypotheses</a><a href='#candidates'>Candidates</a><a href='#priors'>Priors</a>"
         "<a href='#sources'>Sources</a><a href='#leads'>Leads</a><a href='#folders'>Folders</a>"
-        "<a href='#checks'>Name checks</a><a href='#asks'>Asks</a><a href='#decisions'>Decisions</a><a href='#agents'>Agents</a></nav>")
+        "<a href='#curiosities'>Curiosities</a><a href='#checks'>Name checks</a><a href='#asks'>Asks</a><a href='#decisions'>Decisions</a><a href='#agents'>Agents</a></nav>")
 
     add("<h2 id='line'>The line</h2><ul class='chain'>")
     def vital(p):
@@ -334,6 +341,11 @@ def render(d):
             f"<td><span class='pill {e(a['status'])}'>{e(a['status'])}</span></td></tr>")
     add("</table></div>")
 
+    add("<h2 id='curiosities'>Curiosities</h2><p class='meta'>Things worth repeating, newest first. Not evidence; they move no confidence. Deaths are told straight.</p>")
+    for c in reversed(d["curiosities"]):
+        add(f"<div class='card'><b>{e(c['title'])}</b> <span class='pill {e(c['tone'])}'>{e(c['tone'])}</span>"
+            f"<p><i>{e(c['original'])}</i>" + ("" if c['translation'] == 'same' else f"<br>{e(c['translation'])}") + "</p>"
+            f"<p>{e(c['why'])}</p><p class='meta'>{e(c['id'])} · source {e(c['source'])}, {e(c['document'])} · found in {e(c['found_in'])}</p></div>")
     add("<h2 id='checks'>Reused-name checks</h2><p class='meta'>Required by the coordinator before a baptism is attached to an adult.</p><div class='tw'><table><tr><th>Id</th><th>Person</th><th>What was checked</th><th>Result</th></tr>")
     for x in d["necronym_checks"]:
         what = " ".join(f"{k.replace('_', ' ').capitalize()}: {x[k]}" for k in ("burials_searched", "forward_search", "backward", "age_test", "cousin_test") if x.get(k))

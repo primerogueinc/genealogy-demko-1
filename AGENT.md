@@ -52,17 +52,25 @@ Added 12 Nov 2026 from ledgers v15 and v16.
 - **Stefan's wife (X-022).** If a record naming her reaches this repo, her name as written and everything on Stefan's side are public; her parents, birthplace, age and earlier residence are marked `[withheld: outside this experiment]`, and the image is held.
 - **The private repo is read with a sparse checkout** of `to-demko/` and `to-both/` only. This session has read access; it cannot write there.
 
+Added 12 Nov 2026 from ledgers v17 and v18.
+
+- **DNA (X-023).** Not handled here. A DNA file that arrives is not opened; the owner and the coordinator are told. Nothing from DNA enters this repo. DNA is a second phase, after the paper tree is frozen and scored.
+- **Curiosities (X-024).** In every batch, look for what a reader would repeat to someone else, and log it in `data/curiosities.json`: source, original wording, translation, one line on why, and a tone (`funny`, `odd`, `sad`, `history`). Every blurb ends "Curiosities: N", and 0 is an honest answer. Deaths are told straight. Nothing about a living person. A curiosity moves no confidence; if it bears on the line it is also a lead.
+- **The ledger (X-025)** is read at the start of every batch as it stands, and the version logged. "Read the latest ledger and act on it" means this.
+- **The scoring rubric** (`rubric.md` in the coordinator repo) may be read. It changes nothing here: evidence decides what is entered, not the score.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.
 
 ## Per-batch routine
 
+0. **Read the coordinator's ledger** as it stands and log its version; **cross-review** the Duska repo; check the two piles of the private repo.
 1. **Archive** every file unchanged under `archive/<folder>/`, original file names kept, and add its SHA-256 to `archive/MANIFEST.sha256`.
 2. **Transcribe and translate** each document into `data/documents.json`: column by column, original wording, English, and a certainty for each reading.
 3. **Extract** people and sources. People off the proven line get `DM-X-` ids and stay candidates.
 4. **Score the board.** Revise confidences with a dated reason, resolve what the batch settles, raise what it opens. Every hypothesis names the record that would test it.
-5. **Write the blurb** in `data/batches.json`: what came in, what it shows, what it does not.
+5. **Write the blurb** in `data/batches.json`: what came in, what it shows, what it does not. Log the batch's curiosities and end the blurb with "Curiosities: N".
 6. **Rebuild** with `python3 tools/build.py`. This validates every cross-reference and regenerates `docs/index.html` and `transcripts/`.
 7. **Leave notes** for the other agents in `interagent/` and in the matching Project docs.
 8. **Commit to `main`**: one batch, one commit, batch id first in the message. `.github/workflows/stamp.yml` hashes and timestamps each commit.
@@ -82,6 +90,8 @@ This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 
 | Folder | `F-NN` | Kevin's folders, in the order given. |
 | Ask | `DM-A-NNN` | Requests to Kevin. |
 | Decision | `DM-DEC-NNN` | |
+| Curiosity | `DM-C-NNN` | |
+| Name check | `DM-NC-NNN` | |
 
 ## Proof levels
 

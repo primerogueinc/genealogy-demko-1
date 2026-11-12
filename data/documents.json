@@ -4288,7 +4288,8 @@
    "The only baptism of a Mária Kocsis at Solymos in the folder. Maria Demko's mother was Mária Kocsis, Greek Catholic, born at Solymos, 'aged 20' on 23 August 1906 (DM-D-008). A girl born in February 1887 was 19 that day. One year out; ages given by an informant often are.",
    "Same couple and same house as the Anna of October [1889] (DM-D-048).",
    "The remarks column is blank. This book notes infant deaths there ('meghalt ...') on eight of the strips in hand between 1875 and 1894, so a blank is weak evidence that she outlived infancy. It is not proof (ledger X-017).",
-   "Readings agree with DUS:D-005-43."
+   "Readings agree with DUS:D-005-43.",
+   "Read again in DM-B-012 at the Duska agent's request: the mother's rite is 'rkath.' (Roman Catholic), here and in the entry of 1889 (DM-D-048). The same hand writes 'ref.' for the godmother in this entry, so the two words are not confused."
   ],
   "provenance": {
    "archive": "unknown",
@@ -5555,7 +5556,8 @@
    "The image is held and not published: it shows living third parties with their dates of birth and photographs (ledger X-013, X-016). Its name and checksum are in archive/WITHHELD.json. The file is in the private repository, pile 'to-both'.",
    "It reached this agent through the Sorter's pile 'to-both' at private commit 9bf2c7a. The pile is the sorter's label, a prior; it raises no confidence (X-019 item 4). The Sorter read one surname as 'Danko or Demko'.",
    "This Mary is not Maria Demko, Ahn 9. Both were born in 1906 and both may be Demkos tied to Vysoká nad Uhom. Ahn 9 was born at Solymos on 22 August 1906 (DM-D-008) and died at Montréal on 9 September 1950 (DM-D-004, DM-D-007); this woman was born in America, married a Javor and died in the 1990s. See DM-NC-015 and DM-H-035.",
-   "Read here before the Duska agent's reading was opened (X-019 item 5). It reads the death year as 1991 and does not name Passaic; otherwise the same (DUS:D-006-01 @93ca2f1)."
+   "Read here before the Duska agent's reading was opened (X-019 item 5). It reads the death year as 1991 and does not name Passaic; otherwise the same (DUS:D-006-01 @93ca2f1).",
+   "Added in DM-B-012: the place beginning with T in the boxes of Mary and of her son may be Ťahyňa, the Tegenye where the petition of 1803 was signed (DM-D-002). Not read; a guess from the shape of the word."
   ],
   "provenance": {
    "archive": "none: a compiled chart, not an archive record",
@@ -5569,5 +5571,1089 @@
   "private_commit": "9bf2c7a",
   "sorters_label": "to-both; also fits to-demko if the surname is Demko",
   "also_read_by": "DUS:D-006-01 / DUS:S-085 @93ca2f1"
+ },
+ {
+  "id": "DM-D-070",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-1",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Anna_Kocsis_1887.png",
+  "sha256": "41bf5fdd486f3e888b092a8f4483050fa20f32a148a6fd6279215d5b8c91d8ea",
+  "image": {
+   "format": "PNG",
+   "width": 1678,
+   "height": 191
+  },
+  "title": "Baptism of Anna Jossio, born 19 March [1887], Solymos (labelled Kocsis)",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Kocsis 1887",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "2.",
+    "english": "No. 2",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Márc. 19. / 20.",
+    "english": "19 March / 20 March (the Duska agent reads the baptism as the 23rd)",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Anna",
+    "english": "Anna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Jossio Pál földmíves / Kenderes Ilona",
+    "english": "Pál Jossio, farmer; Ilona Kenderes",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 81 (?)",
+    "english": "Solymos, house no. 81 (?)",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Knyezső Mihály ifj. / Estók Anna hajadon",
+    "english": "Mihály Knyezső the younger; Anna Estók, unmarried",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 2. Born 19 March, baptised 20 March: Anna, daughter of Pál Jossio, farmer, and Ilona Kenderes, of Solymos. Godparents Mihály Knyezső the younger and Anna Estók, unmarried.",
+  "notes": [
+   "Year 1887 from the collector's file name.",
+   "The file name says Kocsis. No Kocsis is in the entry: the child is a Jossio. Kept as a negative and for the godfather, a Mihály Knyezső 'the younger', which means there was an older one.",
+   "DUS:D-007-06 reads the house as 87 (?) and the baptism day as 23; otherwise the same."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-06 / DUS:S-091 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-071",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-2",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Borbala_Kocsis_1825.png",
+  "sha256": "4c23715087ff69d1f036b71b88f4a785256c4ae1965ddeace697980ed8f6c6d7",
+  "image": {
+   "format": "PNG",
+   "width": 1554,
+   "height": 290
+  },
+  "title": "Baptism of Borbála, daughter of Borbála Kótsis, 5 April [1825], Solymos",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Borbala Kocsis 1825",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "4.",
+    "english": "No. 4",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "5a April / 5a April",
+    "english": "5 April / 5 April",
+    "certainty": "probable"
+   },
+   {
+    "column": "Parents",
+    "original": "Ör. K[...] György / Kótsis Borbála",
+    "english": "György K[...] the elder; Borbála Kótsis. His surname is faint: Kendres or Kenderes here, Kudrócs in the Duska agent's reading",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Child",
+    "original": "L. Borbála",
+    "english": "Girl (leány): Borbála",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "H[...] János / D[...] Anna",
+    "english": "János H[...]; Anna D[...]; neither surname read",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Pastor",
+    "original": "R[...]ovits Mihály",
+    "english": "Mihály R[...]ovits",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "No. 4. Born and baptised 5 April: a girl, Borbála, daughter of György K[...] the elder and Borbála Kótsis.",
+  "notes": [
+   "Year 1825 from the collector's file name. Very faint.",
+   "The Kocsis here is the mother, by her maiden name, in a Reformed book. It puts the surname at Solymos two generations before Mária Kocsis, and outside the Greek Catholic church.",
+   "The form has no column for sex: the pastor writes 'L.' (leány, girl) before the name.",
+   "DUS:D-007-13 differs on every doubtful surname; both readings are guesses."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-13 / DUS:S-098 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-072",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-3",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Annna_Nyemcsik_1884.png",
+  "sha256": "25af153848f9270700d945ae57e0641843f4f998ff5981d8516ecbcf8c465609",
+  "image": {
+   "format": "PNG",
+   "width": 1733,
+   "height": 145
+  },
+  "title": "Baptism of Anna Knyezső, born 28 May [1884], Solymos 59",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Annna Nyemcsik 1884",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "3.",
+    "english": "No. 3",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Máj. 28. / 29.",
+    "english": "28 May / 29 May",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Anna",
+    "english": "Anna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály gazda / Sárik Erzsébet",
+    "english": "Mihály Knyezső, farmer; Erzsébet Sárik",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 59",
+    "english": "Solymos, house no. 59",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Kudrócs Mihály / Kudrócs Zsuzsanna",
+    "english": "Mihály Kudrócs; Zsuzsanna Kudrócs",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 3. Born 28 May, baptised 29 May: Anna, daughter of Mihály Knyezső, farmer, and Erzsébet Sárik, of Solymos no. 59.",
+  "notes": [
+   "Year 1884 from the collector's file name.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "Readings agree with DUS:D-007-11."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-11 / DUS:S-096 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-073",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-4",
+  "file": "archive/duska-baptisms/inacovce-reformed/Birth_of_Zsusanna_Nyemcsik_1888.png",
+  "sha256": "8d582163136d9ad83d4e9f3e2152ffd23826e125e8d03fa3b76ea063bb0eca75",
+  "image": {
+   "format": "PNG",
+   "width": 1604,
+   "height": 124
+  },
+  "title": "Baptism of Zsuzsanna Knyezső, born 29 September [1888], Solymos 41",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Birth of Zsusanna Nyemcsik 1888",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "5 (?)",
+    "english": "No. 5 (?)",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Szept. 29. / 30.",
+    "english": "29 September / 30 September",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Zsuzsánna",
+    "english": "Zsuzsánna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső György földmíves / Dzsurina Mária",
+    "english": "György Knyezső, farmer; Mária Dzsurina",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 41",
+    "english": "Solymos, house no. 41",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "[...] János / Kenderes Mihályné földmívesek",
+    "english": "János [...] (Perecs in the Duska agent's reading); the wife of Mihály Kenderes; farmers",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Born 29 September, baptised 30 September: Zsuzsanna, daughter of György Knyezső, farmer, and Mária Dzsurina, of Solymos no. 41.",
+  "notes": [
+   "Year 1888 from the collector's file name.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "The entry number is cut; the Duska agent reads 5. Otherwise the readings agree with DUS:D-007-45."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-45 / DUS:S-130 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-074",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-5",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Gyorgy_Nyemcsik_1890.png",
+  "sha256": "692e6d57594f05064cc9198f396eaf29e11a36cf705bf3e30dbaf25297f57684",
+  "image": {
+   "format": "PNG",
+   "width": 1639,
+   "height": 130
+  },
+  "title": "Baptism of György Knyezső, born 5 March 1890, Solymos 59",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Gyorgy Nyemcsik 1890",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Year heading",
+    "original": "1890-ik év",
+    "english": "The year 1890",
+    "certainty": "clear"
+   },
+   {
+    "column": "Entry",
+    "original": "1",
+    "english": "No. 1",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Márcz. 5. / 9.",
+    "english": "5 March / 9 March",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "György",
+    "english": "György",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső György földmíves / Tomócsik Anna",
+    "english": "György Knyezső, farmer; Anna Tomócsik",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 59",
+    "english": "Solymos, house no. 59",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Knyezső György / Kontra Anna",
+    "english": "György Knyezső; Anna Kontra",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The year 1890. No. 1. Born 5 March, baptised 9 March: György, son of György Knyezső, farmer, and Anna Tomócsik, of Solymos no. 59. Godparents György Knyezső and Anna Kontra.",
+  "notes": [
+   "The year is written on the strip.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "The godparents are the other György Knyezső and his wife. Four years later the favour is returned (DM-D-077).",
+   "The crop cuts the row; the name and dates are completed from the strip of the next entry (DM-D-075). DUS:D-007-21 reads the house as 5[6]."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-21 / DUS:S-106 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-075",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-6",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Mihaily_Nyemcsik_1890.png",
+  "sha256": "ba6f380721299dcd9fcc59e0f1aebb19f5b84c8cb165a02c4f64b61187c69953",
+  "image": {
+   "format": "PNG",
+   "width": 1672,
+   "height": 129
+  },
+  "title": "Baptism of Mihály Knyezső, born 9 March [1890], Solymos 82",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Mihaily Nyemcsik 1890",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "2",
+    "english": "No. 2",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Márcz. 9. / 11.",
+    "english": "9 March / 11 March",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Mihály",
+    "english": "Mihály",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály földmíves / Onderko Anna",
+    "english": "Mihály Knyezső, farmer; Anna Onderko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 82",
+    "english": "Solymos, house no. 82",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Drotár János / Jossio Pálné sz. Kenderes Anna",
+    "english": "János Drotár; the wife of Pál Jossio, born Anna Kenderes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 2. Born 9 March, baptised 11 March: Mihály, son of Mihály Knyezső, farmer, and Anna Onderko, of Solymos no. 82.",
+  "notes": [
+   "Year 1890: this is the entry after no. 1 of 1890 (DM-D-074).",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "Readings agree with DUS:D-007-31."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-31 / DUS:S-116 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-076",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-7",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Anna_Nyemcsik_1892.png",
+  "sha256": "1c2ad877de640c5dfd7ca4fb063072fd17fd03f8c8ae1b44e55fcd494877a199",
+  "image": {
+   "format": "PNG",
+   "width": 1883,
+   "height": 208
+  },
+  "title": "Baptism of Anna Knyezső, born 8 February [1892], Solymos 47",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Nyemcsik 1892",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "1",
+    "english": "No. 1",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Febr. 8. / 11.",
+    "english": "8 February / 11 February",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Anna",
+    "english": "Anna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső György / Kontra Anna",
+    "english": "György Knyezső; Anna Kontra",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 47",
+    "english": "Solymos, house no. 47",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Kenderes Mihály földmíves / Kudrócs Anna",
+    "english": "Mihály Kenderes, farmer; Anna Kudrócs",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 1. Born 8 February, baptised 11 February: Anna, daughter of György Knyezső and Anna Kontra, of Solymos no. 47.",
+  "notes": [
+   "Year 1892 from the collector's file name. The strip shows the printed column heads of the form.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "Readings agree with DUS:D-007-07."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-07 / DUS:S-092 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-077",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-8",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Gyorgy_Nyemcsik_1894.png",
+  "sha256": "11cd6f6334d56c66cfdd718b4bb771ce9fd656296eca83e1a0e60be59117c30a",
+  "image": {
+   "format": "PNG",
+   "width": 1762,
+   "height": 157
+  },
+  "title": "Baptism of György Knyezső, born 11 November [1894], Solymos 46 (?)",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Gyorgy Nyemcsik 1894",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "13",
+    "english": "No. 13",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Nov. 11. / 18.",
+    "english": "11 November / 18 November",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "György",
+    "english": "György",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső György földmíves / Kontra Anna",
+    "english": "György Knyezső, farmer; Anna Kontra",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 46 (?)",
+    "english": "Solymos, house no. 46 (?)",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "[...] Mihály / Knyezső Györgyné sz. Tomócsik Anna",
+    "english": "Mihály [...]; the wife of György Knyezső, born Anna Tomócsik",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 13. Born 11 November, baptised 18 November: György, son of György Knyezső, farmer, and Anna Kontra, of Solymos. Godmother: the wife of György Knyezső, born Anna Tomócsik.",
+  "notes": [
+   "Year 1894 from the collector's file name.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "The godmother is the wife of the other György Knyezső, whose own son György had this child's parents as godparents in 1890 (DM-D-074).",
+   "The godfather's surname is not read (Fedor? here, Jadlóczki? in DUS:D-007-22)."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-22 / DUS:S-107 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-078",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-9",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Zsussana_Nyemcsik_1897.png",
+  "sha256": "71430eafb920086a3e65f9dfe474069f5a5312d9d85419fa1378ed49c1d4ad9b",
+  "image": {
+   "format": "PNG",
+   "width": 1795,
+   "height": 123
+  },
+  "title": "Baptism of Zsuzsanna Knyezső, born 3 January 1897, Solymos 64",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Zsussana Nyemcsik 1897",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Year heading",
+    "original": "1897-ik év",
+    "english": "The year 1897",
+    "certainty": "clear"
+   },
+   {
+    "column": "Entry",
+    "original": "1.",
+    "english": "No. 1",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Jan. 3. / 6.",
+    "english": "3 January / 6 January",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Zsuzsanna",
+    "english": "Zsuzsanna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály, Onderko Anna földmívesek",
+    "english": "Mihály Knyezső and Anna Onderko, farmers",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 64",
+    "english": "Solymos, house no. 64",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Drotár János / Hreszán Mihályné földmívesek",
+    "english": "János Drotár; the wife of Mihály Hreszán; farmers",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The year 1897. No. 1. Born 3 January, baptised 6 January: Zsuzsanna, daughter of Mihály Knyezső and Anna Onderko, farmers, of Solymos no. 64.",
+  "notes": [
+   "The year is written on the strip.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "Same couple as in 1890 (DM-D-075), then at no. 82. Readings agree with DUS:D-007-42."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-42 / DUS:S-127 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-079",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-10",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Mihal_Nyemcsik_1904.png",
+  "sha256": "a4c247074e69c460d85d030e8129970d10640cb0a557207b50570588e44f51b3",
+  "image": {
+   "format": "PNG",
+   "width": 1547,
+   "height": 128
+  },
+  "title": "Baptism of Mihály Knyezső Estók, born 1 September [1904], Solymos 99",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Mihal Nyemcsik 1904",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "7 (?)",
+    "english": "No. 7 (?)",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Szept. 1. / 4.",
+    "english": "1 September / 4 September",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Mihály",
+    "english": "Mihály",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Estók Mihály / Dzsurina Zsuzsanna földm.",
+    "english": "Mihály Knyezső Estók; Zsuzsanna Dzsurina; farmers",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 99",
+    "english": "Solymos, house no. 99",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Onderko Pál / [...] Jánosné sz. Jossio Anna",
+    "english": "Pál Onderko; the wife of János [...], born Anna Jossio",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Born 1 September, baptised 4 September: Mihály, son of Mihály Knyezső Estók and Zsuzsanna Dzsurina, farmers, of Solymos no. 99.",
+  "notes": [
+   "Year 1904 from the collector's file name.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "The father carries a second name, Estók, which is a surname of the village. With several men called Mihály Knyezső in one small place, that is probably how he was told apart.",
+   "Each entry's parents are written half a line above the child's name; read against the next strip (DM-D-080), which shows the rows above. Agrees with DUS:D-007-32."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-32 / DUS:S-117 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-080",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-11",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Pal_Nyemscik_1904.png",
+  "sha256": "8124a5ddc7cede7e70f7130ec1bf102122115d649fc77fc993162544ba03de7b",
+  "image": {
+   "format": "PNG",
+   "width": 1659,
+   "height": 193
+  },
+  "title": "Baptism of Pál Knyezső, born 26 May [1904], Solymos 44",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Pal Nyemscik 1904",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "6.",
+    "english": "No. 6",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Máj. 26. / 29.",
+    "english": "26 May / 29 May",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Pál",
+    "english": "Pál",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály / Sipos Erzsébet",
+    "english": "Mihály Knyezső; Erzsébet Sipos",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 44",
+    "english": "Solymos, house no. 44",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Knyezső György / Jossio [...]né sz. [...] Erzsébet",
+    "english": "György Knyezső; the wife of a Jossio, born Erzsébet [...]",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 6. Born 26 May, baptised 29 May: Pál, son of Mihály Knyezső and Erzsébet Sipos, of Solymos no. 44.",
+  "notes": [
+   "Year 1904 from the collector's file name.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "A third wife's name for a Mihály Knyezső (Sárik in 1884, Onderko in 1890 and 1897, Sipos here), beside a fourth man with the by-name Estók. Whether these are four men or fewer is not shown (DM-NC-016).",
+   "Readings agree with DUS:D-007-37."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-37 / DUS:S-122 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-081",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-12",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Anna_Nyemcsik_1910.png",
+  "sha256": "93f50935569a94931c798702e7a61b88d6e8ddb564d4454a04f00f1e1fad850c",
+  "image": {
+   "format": "PNG",
+   "width": 1774,
+   "height": 116
+  },
+  "title": "Baptism of Anna Knyezső, born 30 October [1910], Solymos",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Nyemcsik 1910",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "7",
+    "english": "No. 7",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Okt. 30. / Nov. 1.",
+    "english": "30 October / 1 November",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Anna",
+    "english": "Anna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső György / Dzsurina Anna földmívesek",
+    "english": "György Knyezső and Anna Dzsurina, farmers",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos [.]6 or 6[.]",
+    "english": "Solymos, house no. [.]6 or 6[.]",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Perecsik (?) Mihály / Knyezső An[na] földmívesek",
+    "english": "Mihály Perecsik (?); Anna Knyezső; farmers",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "Szakal István",
+    "english": "Szakal István",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 7. Born 30 October, baptised 1 November: Anna, daughter of György Knyezső and Anna Dzsurina, farmers, of Solymos.",
+  "notes": [
+   "Year 1910 from the collector's file name.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "The house number is not safely read: 16 here, 6[.] in DUS:D-007-09."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-09 / DUS:S-094 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
+ },
+ {
+  "id": "DM-D-082",
+  "batch": "DM-B-012",
+  "folder": "F-09",
+  "source": "DM-S-012-13",
+  "file": "archive/duska-baptisms/inacovce-reformed/Baptism_of_Anna_Nyemcsyk_1921.png",
+  "sha256": "6324b18d68fea55dc47ae169968288dd280dcebceb3a993f0a3411eb83809789",
+  "image": {
+   "format": "PNG",
+   "width": 1742,
+   "height": 161
+  },
+  "title": "Baptism of Anna Knyezső, born January 1921, Solymos",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Anna Nyemcsyk 1921",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). No Greek Catholic or Roman Catholic officiant is named; the pastor of 1884 to 1910 is Szakal István. The owner's folder name says 'Reformed'.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Year",
+    "original": "1921",
+    "english": "1921",
+    "certainty": "clear"
+   },
+   {
+    "column": "Entry",
+    "original": "1",
+    "english": "No. 1",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Jan. 20. / 23. (?)",
+    "english": "20 January / 23 January; the Duska agent reads 24 and 28",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Anna",
+    "english": "Anna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső János [...] / Estók Mária ref. földmíve[sek]",
+    "english": "János Knyezső, with a word not read after his name; Mária Estók; Reformed; farmers",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos",
+    "english": "Solymos",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "ifj. Onderko György / Kudrócs [...]né sz. Gergely Zsuzsanna ref. földmívesek",
+    "english": "György Onderko the younger; the wife of a Kudrócs, born Zsuzsanna Gergely; Reformed; farmers",
+    "certainty": "probable"
+   },
+   {
+    "column": "Pastor",
+    "original": "[...] István (?) lelkész",
+    "english": "[...] István (?) lelkész",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "1921. No. 1. Born and baptised in January: Anna, daughter of János Knyezső and Mária Estók, Reformed, farmers, of Solymos.",
+  "notes": [
+   "The year is written on the strip. The printed column heads show.",
+   "The collector's file name says Nyemcsik. The entry reads Knyezső, as do all the strips so labelled (ledger X-004: the label is a prior).",
+   "The latest record in the archive on this side: after 1918, in Czechoslovakia, still on the Hungarian form.",
+   "Dates and three words differ from DUS:D-007-10; all are doubtful."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "also_read_by": "DUS:D-007-10 / DUS:S-095 @4d7a299",
+  "taken_from": "primerogueinc/genealogu-duska-1 @4d7a299 under ledger X-012"
  }
 ]

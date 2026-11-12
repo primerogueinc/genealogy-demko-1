@@ -678,14 +678,21 @@
  {
   "id": "DM-H-034",
   "statement": "The Mary of the Javor chart, born 1906, and her father Andrej are Demkos, not Dankos, and belong to the Demko families of Viszoka (Vysoká nad Uhom).",
-  "confidence": 50,
+  "confidence": 52,
   "basis": "The largest lettering on the chart, a photograph caption, reads Demko more easily than Danko, but not safely. Vysoká nad Uhom is the village of the Demkos of house 132 and of the house next door. The chart gives Andrej's parents as a Ján and an Anna S[...]; a János Demkó with a wife Anna Szlekár had a child at Viszoka in [1874] (DM-D-016). Against: Danko is also a surname of the district (a Danko stands godmother at Solymos in [1891], DM-D-058); the chart is a compilation with no sources; the wife of that János is Mária Szlekár from [1877] on. That the owner kept the file adds nothing (X-019 items 4 and 8). The Duska agent holds the same at 50 (DUS:H-039 @93ca2f1): one reading, not two.",
   "test": "A larger copy of the chart. Failing that, the baptism of an Andrej Demko at Viszoka in the 1880s in the Csicser Greek Catholic book, or the 1906 birth of a Mary Demko or Danko at Passaic, New Jersey.",
   "status": "open",
   "raised": "DM-B-011",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-012",
+    "from": 50,
+    "to": 52,
+    "why": "One small thing noticed, not read: the place in Mary's box and her son's begins with T, and the petition of 1803 in which a Demko of Viszoka is named was signed at Tegenye (Ťahyňa) with the people of Pavlovce (DM-D-002, DM-D-003). The chart and the petition would then concern the same four villages. A guess from the shape of a word."
+   }
+  ]
  },
  {
   "id": "DM-H-035",
@@ -695,6 +702,18 @@
   "test": "None needed beyond the records in hand; a larger copy of the chart would remove the doubt about its dates.",
   "status": "supported",
   "raised": "DM-B-011",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-036",
+  "statement": "Mária Knyezső, wife of Mihály Kocsis of Solymos no. 19 and candidate for Ahn 39, was born into one of the Knyezső families of Solymos that appear in the Reformed register.",
+  "confidence": 35,
+  "basis": "The surname is thick on the ground at Solymos: nine couples in the Reformed book between 1884 and 1921, one more in the Greek Catholic book (Gergely, no. 97, DM-D-065). Knyezsős stand godparent across the churches: a Mihály Knyezső for the Kocsis children of no. 13 in the Greek Catholic book, and Knyezsős for Duska children in the Reformed book from 1829 (the Duska agent's finding, not checked here). Her own daughter of 1887 had a Reformed godmother. Against: she is written 'rkath.' in 1887 and again in 1889, by a priest who writes 'ref.' for the godmother in the same entry. A Roman Catholic daughter in a Reformed family needs a Catholic mother. From recall, not checked here: under the Hungarian law of 1868 the children of a mixed marriage followed the parent of their own sex, which would allow exactly that, but a recalled rule only suggests the test. She may also have come from another village. The Duska agent holds the same question at 40 (DUS:H-044 @4d7a299).",
+  "test": "Her baptism, about 1850 to 1869, in the Roman Catholic book that served Solymos, or in the Reformed book if her rite changed; the marriage of Mihály Kocsis and Mária Knyezső, before 1887, which should give her age, rite and home village.",
+  "status": "open",
+  "raised": "DM-B-012",
   "resolved": null,
   "resolution": null,
   "history": []

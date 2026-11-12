@@ -875,7 +875,7 @@
    "DM-S-008-6",
    "DM-S-010-1"
   ],
-  "note": "He Greek Catholic, a farmer; she Roman Catholic. Daughters Mária, born 27 Feb [1887], and Anna, born 19 Oct [1889], both at house no. 19. See DM-H-030 and DM-H-031."
+  "note": "He Greek Catholic, a farmer; she Roman Catholic. Daughters Mária, born 27 Feb [1887], and Anna, born 19 Oct [1889], both at house no. 19. See DM-H-030 and DM-H-031. Her rite, read twice, is Roman Catholic, though most Knyezsős of Solymos are in the Reformed book (DM-X-054)."
  },
  {
   "id": "DM-X-040",
@@ -1140,5 +1140,49 @@
    "DM-S-011-1"
   ],
   "note": "She 1887 to 1979 by a photograph caption. His parents on the chart are a Ján D[..]ko and an Anna S[...] of the same village. A János Demkó with a wife Anna Szlekár is on record at Viszoka in [1874] (DM-X-015, DM-X-016); whether these are the same couple is not shown. See DM-H-034. From a compiled chart only."
+ },
+ {
+  "id": "DM-X-054",
+  "ahnentafel": null,
+  "name": "The Reformed Knyezső households of Solymos, 1884 to 1921",
+  "role": "The village families of the surname of Mária Knyezső, candidate for Ahn 39",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-012-3",
+   "DM-S-012-4",
+   "DM-S-012-5",
+   "DM-S-012-6",
+   "DM-S-012-7",
+   "DM-S-012-8",
+   "DM-S-012-9",
+   "DM-S-012-10",
+   "DM-S-012-11",
+   "DM-S-012-12",
+   "DM-S-012-13"
+  ],
+  "note": "From eleven baptisms in the Reformed book. Mihály and Erzsébet Sárik, no. 59 (Anna, 1884). György and Mária Dzsurina, no. 41 (Zsuzsanna, 1888). György and Anna Tomócsik, no. 59 (György, 1890). György and Anna Kontra, nos. 47 and 46 (Anna, 1892; György, 1894). Mihály and Anna Onderko, nos. 82 and 64 (Mihály, 1890; Zsuzsanna, 1897). Mihály and Erzsébet Sipos, no. 44 (Pál, 1904). Mihály Knyezső Estók and Zsuzsanna Dzsurina, no. 99 (Mihály, 1904). György and Anna Dzsurina (Anna, 1910). János and Mária Estók (Anna, 1921). How many men stand behind the names György and Mihály is not shown. No tie to Mária Knyezső, who is entered as Roman Catholic, is shown: DM-H-036."
+ },
+ {
+  "id": "DM-X-055",
+  "ahnentafel": null,
+  "name": "Borbála Kótsis, wife of György K[...] the elder",
+  "role": "A Kocsis woman at Solymos in 1825, in the Reformed book",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-012-2"
+  ],
+  "note": "Mother of a Borbála baptised 5 April [1825]. The earliest Kocsis at Solymos in hand. No link to the Kocsis farmers of the 1840s or to Ahn 19 is shown."
  }
 ]

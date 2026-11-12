@@ -122,5 +122,13 @@
   "age_test": "Same birth year. Deaths more than forty years apart; different husbands and parents.",
   "result": "Two women. A record of a 'Mary Demko, born 1906' from an American source must be placed by parents, husband or death before it is given to Ahn 9: there may have been a second one, born at Passaic.",
   "logged": "2026-11-12T07:08:14Z"
+ },
+ {
+  "id": "DM-NC-016",
+  "rule": "X-017 rule 6 (two people of one name)",
+  "person": "Men named György Knyezső and Mihály Knyezső at Solymos, 1884 to 1910",
+  "forward_search": "Wives' names in eleven baptisms: György with Dzsurina Mária, Tomócsik Anna, Kontra Anna and Dzsurina Anna; Mihály with Sárik Erzsébet, Onderko Anna and Sipos Erzsébet, and a Mihály 'Estók' with Dzsurina Zsuzsanna. Two Györgys are certainly alive together: each stands godparent to the other's son György (1890, 1894).",
+  "result": "At least two men of each name, probably more. A 'Mihály Knyezső' met as a godfather or a father cannot be given to a household by name; it needs the wife or the house. The same holds for any Mária Knyezső.",
+  "logged": "2026-11-12T07:31:00Z"
  }
 ]

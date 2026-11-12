@@ -650,5 +650,135 @@
   "reliability": "Low. A compiled chart with no sources shown, compiler not stated, read from a small preview image. Names are doubtful and most dates illegible. A lead, not evidence.",
   "document": "DM-D-069",
   "also": "DUS:S-085 @93ca2f1"
+ },
+ {
+  "id": "DM-S-012-1",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Jossio, born 19 March [1887], Solymos (labelled Kocsis)",
+  "extract": "No. 2. Born 19 March, baptised 20 March: Anna, daughter of Pál Jossio, farmer, and Ilona Kenderes, of Solymos. Godparents Mihály Knyezső the younger and Anna Estók, unmarried.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-070",
+  "also": "DUS:S-091 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-2",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Borbála, daughter of Borbála Kótsis, 5 April [1825], Solymos",
+  "extract": "No. 4. Born and baptised 5 April: a girl, Borbála, daughter of György K[...] the elder and Borbála Kótsis.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-071",
+  "also": "DUS:S-098 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-3",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Knyezső, born 28 May [1884], Solymos 59",
+  "extract": "No. 3. Born 28 May, baptised 29 May: Anna, daughter of Mihály Knyezső, farmer, and Erzsébet Sárik, of Solymos no. 59.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-072",
+  "also": "DUS:S-096 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-4",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Zsuzsanna Knyezső, born 29 September [1888], Solymos 41",
+  "extract": "Born 29 September, baptised 30 September: Zsuzsanna, daughter of György Knyezső, farmer, and Mária Dzsurina, of Solymos no. 41.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-073",
+  "also": "DUS:S-130 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-5",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of György Knyezső, born 5 March 1890, Solymos 59",
+  "extract": "The year 1890. No. 1. Born 5 March, baptised 9 March: György, son of György Knyezső, farmer, and Anna Tomócsik, of Solymos no. 59. Godparents György Knyezső and Anna Kontra.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-074",
+  "also": "DUS:S-106 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-6",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Mihály Knyezső, born 9 March [1890], Solymos 82",
+  "extract": "No. 2. Born 9 March, baptised 11 March: Mihály, son of Mihály Knyezső, farmer, and Anna Onderko, of Solymos no. 82.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-075",
+  "also": "DUS:S-116 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-7",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Knyezső, born 8 February [1892], Solymos 47",
+  "extract": "No. 1. Born 8 February, baptised 11 February: Anna, daughter of György Knyezső and Anna Kontra, of Solymos no. 47.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-076",
+  "also": "DUS:S-092 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-8",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of György Knyezső, born 11 November [1894], Solymos 46 (?)",
+  "extract": "No. 13. Born 11 November, baptised 18 November: György, son of György Knyezső, farmer, and Anna Kontra, of Solymos. Godmother: the wife of György Knyezső, born Anna Tomócsik.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-077",
+  "also": "DUS:S-107 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-9",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Zsuzsanna Knyezső, born 3 January 1897, Solymos 64",
+  "extract": "The year 1897. No. 1. Born 3 January, baptised 6 January: Zsuzsanna, daughter of Mihály Knyezső and Anna Onderko, farmers, of Solymos no. 64.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-078",
+  "also": "DUS:S-127 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-10",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Mihály Knyezső Estók, born 1 September [1904], Solymos 99",
+  "extract": "Born 1 September, baptised 4 September: Mihály, son of Mihály Knyezső Estók and Zsuzsanna Dzsurina, farmers, of Solymos no. 99.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-079",
+  "also": "DUS:S-117 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-11",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Pál Knyezső, born 26 May [1904], Solymos 44",
+  "extract": "No. 6. Born 26 May, baptised 29 May: Pál, son of Mihály Knyezső and Erzsébet Sipos, of Solymos no. 44.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-080",
+  "also": "DUS:S-122 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-12",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Knyezső, born 30 October [1910], Solymos",
+  "extract": "No. 7. Born 30 October, baptised 1 November: Anna, daughter of György Knyezső and Anna Dzsurina, farmers, of Solymos.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-081",
+  "also": "DUS:S-094 @4d7a299"
+ },
+ {
+  "id": "DM-S-012-13",
+  "batch": "DM-B-012",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Anna Knyezső, born January 1921, Solymos",
+  "extract": "1921. No. 1. Born and baptised in January: Anna, daughter of János Knyezső and Mária Estók, Reformed, farmers, of Solymos.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-082",
+  "also": "DUS:S-095 @4d7a299"
  }
 ]
