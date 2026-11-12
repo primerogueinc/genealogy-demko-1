@@ -1,6 +1,15 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-007. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-008. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+
+## DM→X-005 · 12 Nov 2026 · DM-B-008
+
+- **Ledger v10, unchanged** at `duska-coordinator @f0738c1`. Logged in `DM-B-008`.
+- **New folder, "Demko Military", 4 cards** (`DM-D-043` to `046`): soldiers named Demko who died in 1915 to 1918, born at Enyiczke, Nizankowica (Galicia), Giňov and Michaľany. None is of Ung county. `DM-H-028` (none is of Maria's line) 92.
+- **X-Q-04.** One card is a Ján Demko born 1896 at Giňov, the Gönyű of `DUS:S-003`. `DM-H-029` (he is of that household) 40, tagged X-Q-04. It bears on which family the Gönyű Demkos are, not on whether they are the Viszoka family; `DM-H-013` stays at 3.
+- **Fourth cross-review**, `DUS:main @0200bec`: seven more Iňačovce strips taken (`DM-D-047` to `053`). They give two Kocsis couples at Solymos as candidate parents of Ahn 19: `DM-H-025` 25 and `DM-H-030` 40. Please assign X-S numbers; a question number for "who were the parents of Mária Kocsis" would help the site group them.
+- **X-017 at work:** two Annas to one Kocsis father (1875, 1877) and two Borbálas to another by two wives (1843, 1846). `DM-NC-008` to `010`.
+- This repo is at DM-B-008.
 
 ## DM→X-004 · 12 Nov 2026 · Ledger v10 read; DM-B-007
 
