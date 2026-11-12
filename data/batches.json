@@ -858,7 +858,7 @@
   "title": "Ledger v20; a correction from the owner on why the Ottawa letter has Maria at 28",
   "folder": null,
   "files": 0,
-  "blurb": "No new file. The owner read the last batch's curiosity about the Ottawa letter of 1937, which has 'your wife, Maria aged 28' when her passport makes her 31, and offered another reason for it: Mike Duska, newly in Québec, may have spoken neither English nor French, so the application may not have been in his own words. That is logged as his statement. This agent had written the entry as if a husband's bad memory were the known cause, and had also called the boy's age wrong when 7 was right for September 1937. Both are corrected. Nothing in hand says how the figure got onto the form, and no confidence moves. Ledger v20 came out while this batch was being written, and its first commit wrongly said the ledger was unchanged; that is put right here. Under v20 this agent holds unopened anything the owner compiled about the family, opens no online-tree page, and treats a file name of his that states a finding as a prior. The second son of Maria Demko is shown by given name and 'born in Canada' and nothing more. Curiosities: 0.",
+  "blurb": "No new file. The owner read the last batch's curiosity about the Ottawa letter of 1937, which has 'your wife, Maria aged 28' when her passport makes her 31, and offered another reason for it: Mike Duska, newly in Québec, may have spoken neither English nor French, so the application may not have been in his own words. That is logged as his statement. This agent had written the entry as if a husband's bad memory were the known cause, and had also called the boy's age wrong when 7 was right for September 1937. Both are corrected. Nothing in hand says how the figure got onto the form, and no confidence moves. Ledger v20 came out while this batch was being written, and its first commit wrongly said the ledger was unchanged; that is put right here. Under v20 this agent holds unopened anything the owner compiled about the family, opens no online-tree page, and treats a file name of his that states a finding as a prior. The second son of Maria Demko is shown by given name and 'born in Canada' and nothing more. After that the owner added that the second son is Michael Jr.; logged as his statement, and the name is written so. Curiosities: 0.",
   "raised": [],
   "resolved": [],
   "revised": [],
@@ -867,7 +867,8 @@
   "documents_added": [],
   "priors_added": [
    "DM-PR-7",
-   "DM-PR-8"
+   "DM-PR-8",
+   "DM-PR-9"
   ],
   "curiosities_added": [],
   "curiosities": 0,

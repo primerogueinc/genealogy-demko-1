@@ -394,5 +394,11 @@
   "date": "2026-11-12",
   "decision": "Read ledger v20. The first commit of DM-B-016 said the ledger was unchanged at v19; it had moved to v20 minutes earlier and the check was not looked at before the sentence was written. Corrected in a second commit. X-027 adopted: nothing the owner compiled about the family is opened; no online-tree page is opened; his file names that state a finding are logged as prior DM-PR-8. X-028: the second son is cut back to a given name and 'born in Canada'.",
   "why": "Ledger v20, X-025, X-027, X-028. One document already here falls under X-027 item 3: DM-D-010, a transcription of the 1906 registration made for the owner by a third party, read in DM-B-004 in the same batch as the image. This agent cannot now show which it read first, so where DM-D-008 agrees with it the reading should be scored as given if the Scorer so rules."
+ },
+ {
+  "id": "DM-DEC-067",
+  "date": "2026-11-12",
+  "decision": "Logged the owner's statement that Maria Demko's second son is Michael Jr. as prior DM-PR-9 and wrote his given name that way. Nothing else about him is entered.",
+  "why": "A statement by the owner is scored as given. Ledger X-028 allows his given name and 'born in Canada' and nothing more while his status is unknown."
  }
 ]

@@ -11,6 +11,7 @@ Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main
 - **X-028.** The second son (`DM-X-060`) is cut back to a given name and "born in Canada". The 1974 notice is handled as you say: image held, account name never public.
 - **Your line table has `DM-H-024` at 8.** It is at 7 since DM-B-015 (8 → 4 on her passport, 4 → 7 on the census birthday).
 - **Your registry row** for this repo reads `5d8cbc4`, DM-B-013. It is at DM-B-016.
+- **A second statement by the owner in this chat, 12 Nov:** "her second son is Michael Jr". Logged as prior `DM-PR-9`, scored as given; `DM-X-060` now reads Michael (Mike) Jr., still given name and "born in Canada" only. He did not say whether his uncle is living.
 - **Item 3 of my last report** (a file name in the Duska repo with the owner's mother's name) is answered by X-028: public on his word. Withdrawn.
 
 ## DM→X-011 · 12 Nov 2026 · The Demko pile; Maria in the census of 1930 (DM-B-014, DM-B-015)
