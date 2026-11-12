@@ -1,206 +1,248 @@
 [
-  {
-    "id": "DM-DEC-001",
-    "date": "2026-11-11",
-    "decision": "Mirror the Duska agent's data files and use P-0NN = Ahnentafel for direct ancestors; prefix everything else DM-.",
-    "why": "So the two repos can be compared and merged without id collisions."
-  },
-  {
-    "id": "DM-DEC-002",
-    "date": "2026-11-11",
-    "decision": "Living people appear by name and relationship only.",
-    "why": "The repo is public."
-  },
-  {
-    "id": "DM-DEC-003",
-    "date": "2026-11-11",
-    "decision": "First push went to branch demko-agent/baseline, not main. Commit ee96990 holds both DM-B-000 and DM-B-001.",
-    "why": "No instruction to write to main had been given yet."
-  },
-  {
-    "id": "DM-DEC-004",
-    "date": "2026-11-12",
-    "decision": "Merged to main and work there from now on: one batch, one commit, batch id in the commit message.",
-    "why": "Kevin's standing approval (ledger X-005) and ruling X-006."
-  },
-  {
-    "id": "DM-DEC-005",
-    "date": "2026-11-12",
-    "decision": "Added .github/workflows/stamp.yml unchanged from the Site agent's Project doc, SHA-256 51429a70598b89fc62114afa88c9877c3b4fcbeffe21973a2ddff23631157279, after reading it through.",
-    "why": "Kevin's requirement that everything be checksummed and anchored. The file uses no secrets and writes only to a proofs branch."
-  },
-  {
-    "id": "DM-DEC-006",
-    "date": "2026-11-12",
-    "decision": "Lowered DM-H-009 from 35 to 30 and took the collector's label out of its basis.",
-    "why": "Ruling X-004."
-  },
-  {
-    "id": "DM-DEC-007",
-    "date": "2026-11-12",
-    "decision": "The Belža records are logged as leads citing DUS:S-003 and DUS:S-004 at 53bf7f0, not as sources or people here.",
-    "why": "This agent has not been given the images (rules 5 to 7, ledger gap 1)."
-  },
-  {
-    "id": "DM-DEC-008",
-    "date": "2026-11-12",
-    "decision": "P-004 living status left empty.",
-    "why": "Not stated to this agent. Kept in step with the Duska agent, who owns the entry. Asked of Kevin as DM-A-006."
-  },
-  {
-    "id": "DM-DEC-009",
-    "date": "2026-11-12",
-    "decision": "Began open research on the Demko surname. Excluded: anything authored by Kevin, his one-name study site, Prime Rogue pages, duska.si, the experiment's own repos, and the Scorer's output. Any exposure is reported to the coordinator.",
-    "why": "Kevin, 12 Nov 2026, 00:32 Toronto: deep research passes on the Demko surname are allowed, just nothing authored by him. For this agent and this surname that lifts the search limit in X-011."
-  },
-  {
-    "id": "DM-DEC-010",
-    "date": "2026-11-12",
-    "decision": "Two statements in the research report that came from the owner's private correspondence with a third party are set aside: not entered as leads, not used to score any hypothesis, and not published here. The exposure is reported to the coordinator for the contamination log. The report text is not archived in this repo.",
-    "why": "The research tool searched a connected mailbox, which the brief did not ask for. The correspondence is part of the owner's earlier research (blind rule, X-011) and names a private person."
-  },
-  {
-    "id": "DM-DEC-011",
-    "date": "2026-11-12",
-    "decision": "Web pages found by the research pass are logged as leads marked 'as reported', not as sources read by this agent.",
-    "why": "The agent could not open the pages itself in this session. A lead says where to look; it proves nothing."
-  },
-  {
-    "id": "DM-DEC-012",
-    "date": "2026-11-12",
-    "decision": "One file of folder F-02 is not published: a photograph of living people. Its checksum and a description are kept. A second file is archived with a living person's name removed from its file name; its content is unchanged and its checksum is the original's.",
-    "why": "The repo and the site are public. Site rules: no photographs of living people, no living third parties."
-  },
-  {
-    "id": "DM-DEC-013",
-    "date": "2026-11-12",
-    "decision": "P-004 (Stefan Duska) set to not living in this repo's copy, and his birth date entered in full.",
-    "why": "The burial photograph and its label. The label is a prior, but the cost of being wrong is low and the Duska agent's entry leads on the site."
-  },
-  {
-    "id": "DM-DEC-014",
-    "date": "2026-11-12",
-    "decision": "DM-H-010 entered at 70 and marked supported, not solved.",
-    "why": "Ledger X-009: without an archive reference the cap is 70. The agent's uncapped estimate is recorded in the entry."
-  },
-  {
-    "id": "DM-DEC-015",
-    "date": "2026-11-12",
-    "decision": "The third-party transcription (DM-D-010) was opened only after this agent had finished its own reading of the image.",
-    "why": "So the two readings are independent."
-  },
-  {
-    "id": "DM-DEC-016",
-    "date": "2026-11-12",
-    "decision": "Took folders F-003 and F-004 from the Duska repo at ce326b4: files archived under the same names, checksums matched against the Duska manifests, each strip read before the Duska agent's transcription was opened, differences logged in the document notes.",
-    "why": "Ledger v3, X-012 items 3 and 5. This agent had already seen the Duska agent's list of names (its candidates file) as part of the cross-review, so the readings are independent of its transcriptions but not of that list."
-  },
-  {
-    "id": "DM-DEC-017",
-    "date": "2026-11-12",
-    "decision": "Godparents and clergy from the 22 strips are not entered as people here; the Duska repo's entries are cited instead.",
-    "why": "Ledger rule 6: cite, do not copy. Only people who may be on the Demko line, or kin of it, are entered."
-  },
-  {
-    "id": "DM-DEC-018",
-    "date": "2026-11-12",
-    "decision": "The research report DM-S-003-1 and its leads carry proof level 'lead'.",
-    "why": "Ledger v3, X-011 item 4."
-  },
-  {
-    "id": "DM-DEC-019",
-    "date": "2026-11-12",
-    "decision": "Records DM-D-004, 005, 007 and 011 are marked route: duska.",
-    "why": "Ledger v3, X-012 item 4: they concern Ahn 4 and Ahn 8 as well as Ahn 9."
-  },
-  {
-    "id": "DM-DEC-020",
-    "date": "2026-11-12",
-    "decision": "Living status set by ledger X-016: P-002 'unknown'; P-004 not living, died 2018 as stated by Kevin. DM-DEC-013 is superseded by his statement.",
-    "why": "Ledger v8, X-016 and C-11."
-  },
-  {
-    "id": "DM-DEC-021",
-    "date": "2026-11-12",
-    "decision": "The burial photograph stays out of the repo and is marked held: about the subject. The other man in it stays unnamed, and his name stays out of the archived file name of DM-D-007.",
-    "why": "Ledger X-015 item 2 and X-016 item 5: he was alive when the photograph was taken, and nothing states a death."
-  },
-  {
-    "id": "DM-DEC-022",
-    "date": "2026-11-12",
-    "decision": "No record image was removed from this repo under ledger v4 or v5, so there is nothing to restore. Every document now has a provenance block with 'unknown' written out.",
-    "why": "Ledger v8, X-015 as reversed, item 4."
-  },
-  {
-    "id": "DM-DEC-023",
-    "date": "2026-11-12",
-    "decision": "Necronym checks are logged in data/necronym_checks.json. Links that cannot be checked against burials carry necronym_risk: unresolved and stay at or under 70.",
-    "why": "Ledger X-017 and the method note, section 3."
-  },
-  {
-    "id": "DM-DEC-024",
-    "date": "2026-11-12",
-    "decision": "Any further research pass will be told to use the open web only, with no mailbox, drive or other personal connector.",
-    "why": "Ledger X-011 item 6. The first pass, run before that rule, reached a mailbox (DM-DEC-010)."
-  },
-  {
-    "id": "DM-DEC-025",
-    "date": "2026-11-12",
-    "decision": "Times are stored as ISO 8601 UTC with a trailing Z from this batch on (at_utc on batches, logged on checks). Earlier entries hold dates only and are left as dates.",
-    "why": "Ledger X-018 item 2."
-  },
-  {
-    "id": "DM-DEC-026",
-    "date": "2026-11-12",
-    "decision": "Anna Szlekár and Mária Szlekár are entered as two women.",
-    "why": "Ledger X-017 rule 7."
-  },
-  {
-    "id": "DM-DEC-027",
-    "date": "2026-11-12",
-    "decision": "Asks for material outside the Demko folders stay held and are not pressed.",
-    "why": "Kevin, 12 Nov: this agent gets what is in his Demko folders only."
-  },
-  {
-    "id": "DM-DEC-028",
-    "date": "2026-11-12",
-    "decision": "The year 1892 on the second copy of the 'maybe' strip is entered in brackets as the collector's label.",
-    "why": "Ledger X-004: a file name is a prior."
-  },
-  {
-    "id": "DM-DEC-029",
-    "date": "2026-11-12",
-    "decision": "Read ledger v10 and checked this repo against the corrected X-017 item 6. No entry here treats name reuse as something Kevin said about this family. The reused names recorded (Mihály 1873 and 1882, János 1873 and 1875) are read from the strips, and DM-H-024 is scored on the records alone.",
-    "why": "Ledger v10: name reuse is working knowledge of the craft, not a prior about the line."
-  },
-  {
-    "id": "DM-DEC-030",
-    "date": "2026-11-12",
-    "decision": "The four soldiers' cards are entered as records of unplaced Demkos. The folder's 'WWII' is recorded as the owner's wording; the cards are of the 1914-1918 war.",
-    "why": "The dates on the cards. Ledger X-004."
-  },
-  {
-    "id": "DM-DEC-031",
-    "date": "2026-11-12",
-    "decision": "Seven strips from part 2 of the Duska repo's F-005 were taken. This agent had read the Duska agent's batch summary before reading the strips, but not its transcriptions.",
-    "why": "Ledger X-012. The cross-review requires reading the other repo first, so full independence is not possible; the order is stated."
-  },
-  {
-    "id": "DM-DEC-032",
-    "date": "2026-11-12",
-    "decision": "Read ledger v12 and set up the intake for the folder 'AAAA Unclassified' before it arrives: data/intake.json (one row per file: route, confidence, reason from the document), data/parked_irish.json, and the handling rules in AGENT.md.",
-    "why": "Ledger v12, X-019: this agent is the intake for that folder."
-  },
-  {
-    "id": "DM-DEC-033",
-    "date": "2026-11-12",
-    "decision": "Routing will be decided from what each document says, never from the folder or file name. No confidence is raised because a file came from that folder.",
-    "why": "Ledger X-019 items 8 and 9; X-004."
-  },
-  {
-    "id": "DM-DEC-034",
-    "date": "2026-11-12",
-    "decision": "For 'maternal' files only a neutral label, the SHA-256 and the route are recorded. For parked 'irish' files: file name, SHA-256 and one line; no image in the repo. Anything about Kevin or a person of unknown living status is held with its hash only.",
-    "why": "Ledger X-019 items 5, 5a and 7."
-  }
+ {
+  "id": "DM-DEC-001",
+  "date": "2026-11-11",
+  "decision": "Mirror the Duska agent's data files and use P-0NN = Ahnentafel for direct ancestors; prefix everything else DM-.",
+  "why": "So the two repos can be compared and merged without id collisions."
+ },
+ {
+  "id": "DM-DEC-002",
+  "date": "2026-11-11",
+  "decision": "Living people appear by name and relationship only.",
+  "why": "The repo is public."
+ },
+ {
+  "id": "DM-DEC-003",
+  "date": "2026-11-11",
+  "decision": "First push went to branch demko-agent/baseline, not main. Commit ee96990 holds both DM-B-000 and DM-B-001.",
+  "why": "No instruction to write to main had been given yet."
+ },
+ {
+  "id": "DM-DEC-004",
+  "date": "2026-11-12",
+  "decision": "Merged to main and work there from now on: one batch, one commit, batch id in the commit message.",
+  "why": "Kevin's standing approval (ledger X-005) and ruling X-006."
+ },
+ {
+  "id": "DM-DEC-005",
+  "date": "2026-11-12",
+  "decision": "Added .github/workflows/stamp.yml unchanged from the Site agent's Project doc, SHA-256 51429a70598b89fc62114afa88c9877c3b4fcbeffe21973a2ddff23631157279, after reading it through.",
+  "why": "Kevin's requirement that everything be checksummed and anchored. The file uses no secrets and writes only to a proofs branch."
+ },
+ {
+  "id": "DM-DEC-006",
+  "date": "2026-11-12",
+  "decision": "Lowered DM-H-009 from 35 to 30 and took the collector's label out of its basis.",
+  "why": "Ruling X-004."
+ },
+ {
+  "id": "DM-DEC-007",
+  "date": "2026-11-12",
+  "decision": "The Belža records are logged as leads citing DUS:S-003 and DUS:S-004 at 53bf7f0, not as sources or people here.",
+  "why": "This agent has not been given the images (rules 5 to 7, ledger gap 1)."
+ },
+ {
+  "id": "DM-DEC-008",
+  "date": "2026-11-12",
+  "decision": "P-004 living status left empty.",
+  "why": "Not stated to this agent. Kept in step with the Duska agent, who owns the entry. Asked of Kevin as DM-A-006."
+ },
+ {
+  "id": "DM-DEC-009",
+  "date": "2026-11-12",
+  "decision": "Began open research on the Demko surname. Excluded: anything authored by Kevin, his one-name study site, Prime Rogue pages, duska.si, the experiment's own repos, and the Scorer's output. Any exposure is reported to the coordinator.",
+  "why": "Kevin, 12 Nov 2026, 00:32 Toronto: deep research passes on the Demko surname are allowed, just nothing authored by him. For this agent and this surname that lifts the search limit in X-011."
+ },
+ {
+  "id": "DM-DEC-010",
+  "date": "2026-11-12",
+  "decision": "Two statements in the research report that came from the owner's private correspondence with a third party are set aside: not entered as leads, not used to score any hypothesis, and not published here. The exposure is reported to the coordinator for the contamination log. The report text is not archived in this repo.",
+  "why": "The research tool searched a connected mailbox, which the brief did not ask for. The correspondence is part of the owner's earlier research (blind rule, X-011) and names a private person."
+ },
+ {
+  "id": "DM-DEC-011",
+  "date": "2026-11-12",
+  "decision": "Web pages found by the research pass are logged as leads marked 'as reported', not as sources read by this agent.",
+  "why": "The agent could not open the pages itself in this session. A lead says where to look; it proves nothing."
+ },
+ {
+  "id": "DM-DEC-012",
+  "date": "2026-11-12",
+  "decision": "One file of folder F-02 is not published: a photograph of living people. Its checksum and a description are kept. A second file is archived with a living person's name removed from its file name; its content is unchanged and its checksum is the original's.",
+  "why": "The repo and the site are public. Site rules: no photographs of living people, no living third parties."
+ },
+ {
+  "id": "DM-DEC-013",
+  "date": "2026-11-12",
+  "decision": "P-004 (Stefan Duska) set to not living in this repo's copy, and his birth date entered in full.",
+  "why": "The burial photograph and its label. The label is a prior, but the cost of being wrong is low and the Duska agent's entry leads on the site."
+ },
+ {
+  "id": "DM-DEC-014",
+  "date": "2026-11-12",
+  "decision": "DM-H-010 entered at 70 and marked supported, not solved.",
+  "why": "Ledger X-009: without an archive reference the cap is 70. The agent's uncapped estimate is recorded in the entry."
+ },
+ {
+  "id": "DM-DEC-015",
+  "date": "2026-11-12",
+  "decision": "The third-party transcription (DM-D-010) was opened only after this agent had finished its own reading of the image.",
+  "why": "So the two readings are independent."
+ },
+ {
+  "id": "DM-DEC-016",
+  "date": "2026-11-12",
+  "decision": "Took folders F-003 and F-004 from the Duska repo at ce326b4: files archived under the same names, checksums matched against the Duska manifests, each strip read before the Duska agent's transcription was opened, differences logged in the document notes.",
+  "why": "Ledger v3, X-012 items 3 and 5. This agent had already seen the Duska agent's list of names (its candidates file) as part of the cross-review, so the readings are independent of its transcriptions but not of that list."
+ },
+ {
+  "id": "DM-DEC-017",
+  "date": "2026-11-12",
+  "decision": "Godparents and clergy from the 22 strips are not entered as people here; the Duska repo's entries are cited instead.",
+  "why": "Ledger rule 6: cite, do not copy. Only people who may be on the Demko line, or kin of it, are entered."
+ },
+ {
+  "id": "DM-DEC-018",
+  "date": "2026-11-12",
+  "decision": "The research report DM-S-003-1 and its leads carry proof level 'lead'.",
+  "why": "Ledger v3, X-011 item 4."
+ },
+ {
+  "id": "DM-DEC-019",
+  "date": "2026-11-12",
+  "decision": "Records DM-D-004, 005, 007 and 011 are marked route: duska.",
+  "why": "Ledger v3, X-012 item 4: they concern Ahn 4 and Ahn 8 as well as Ahn 9."
+ },
+ {
+  "id": "DM-DEC-020",
+  "date": "2026-11-12",
+  "decision": "Living status set by ledger X-016: P-002 'unknown'; P-004 not living, died 2018 as stated by Kevin. DM-DEC-013 is superseded by his statement.",
+  "why": "Ledger v8, X-016 and C-11."
+ },
+ {
+  "id": "DM-DEC-021",
+  "date": "2026-11-12",
+  "decision": "The burial photograph stays out of the repo and is marked held: about the subject. The other man in it stays unnamed, and his name stays out of the archived file name of DM-D-007.",
+  "why": "Ledger X-015 item 2 and X-016 item 5: he was alive when the photograph was taken, and nothing states a death."
+ },
+ {
+  "id": "DM-DEC-022",
+  "date": "2026-11-12",
+  "decision": "No record image was removed from this repo under ledger v4 or v5, so there is nothing to restore. Every document now has a provenance block with 'unknown' written out.",
+  "why": "Ledger v8, X-015 as reversed, item 4."
+ },
+ {
+  "id": "DM-DEC-023",
+  "date": "2026-11-12",
+  "decision": "Necronym checks are logged in data/necronym_checks.json. Links that cannot be checked against burials carry necronym_risk: unresolved and stay at or under 70.",
+  "why": "Ledger X-017 and the method note, section 3."
+ },
+ {
+  "id": "DM-DEC-024",
+  "date": "2026-11-12",
+  "decision": "Any further research pass will be told to use the open web only, with no mailbox, drive or other personal connector.",
+  "why": "Ledger X-011 item 6. The first pass, run before that rule, reached a mailbox (DM-DEC-010)."
+ },
+ {
+  "id": "DM-DEC-025",
+  "date": "2026-11-12",
+  "decision": "Times are stored as ISO 8601 UTC with a trailing Z from this batch on (at_utc on batches, logged on checks). Earlier entries hold dates only and are left as dates.",
+  "why": "Ledger X-018 item 2."
+ },
+ {
+  "id": "DM-DEC-026",
+  "date": "2026-11-12",
+  "decision": "Anna Szlekár and Mária Szlekár are entered as two women.",
+  "why": "Ledger X-017 rule 7."
+ },
+ {
+  "id": "DM-DEC-027",
+  "date": "2026-11-12",
+  "decision": "Asks for material outside the Demko folders stay held and are not pressed.",
+  "why": "Kevin, 12 Nov: this agent gets what is in his Demko folders only."
+ },
+ {
+  "id": "DM-DEC-028",
+  "date": "2026-11-12",
+  "decision": "The year 1892 on the second copy of the 'maybe' strip is entered in brackets as the collector's label.",
+  "why": "Ledger X-004: a file name is a prior."
+ },
+ {
+  "id": "DM-DEC-029",
+  "date": "2026-11-12",
+  "decision": "Read ledger v10 and checked this repo against the corrected X-017 item 6. No entry here treats name reuse as something Kevin said about this family. The reused names recorded (Mihály 1873 and 1882, János 1873 and 1875) are read from the strips, and DM-H-024 is scored on the records alone.",
+  "why": "Ledger v10: name reuse is working knowledge of the craft, not a prior about the line."
+ },
+ {
+  "id": "DM-DEC-030",
+  "date": "2026-11-12",
+  "decision": "The four soldiers' cards are entered as records of unplaced Demkos. The folder's 'WWII' is recorded as the owner's wording; the cards are of the 1914-1918 war.",
+  "why": "The dates on the cards. Ledger X-004."
+ },
+ {
+  "id": "DM-DEC-031",
+  "date": "2026-11-12",
+  "decision": "Seven strips from part 2 of the Duska repo's F-005 were taken. This agent had read the Duska agent's batch summary before reading the strips, but not its transcriptions.",
+  "why": "Ledger X-012. The cross-review requires reading the other repo first, so full independence is not possible; the order is stated."
+ },
+ {
+  "id": "DM-DEC-032",
+  "date": "2026-11-12",
+  "decision": "Read ledger v12 and set up the intake for the folder 'AAAA Unclassified' before it arrives: data/intake.json (one row per file: route, confidence, reason from the document), data/parked_irish.json, and the handling rules in AGENT.md.",
+  "why": "Ledger v12, X-019: this agent is the intake for that folder."
+ },
+ {
+  "id": "DM-DEC-033",
+  "date": "2026-11-12",
+  "decision": "Routing will be decided from what each document says, never from the folder or file name. No confidence is raised because a file came from that folder.",
+  "why": "Ledger X-019 items 8 and 9; X-004."
+ },
+ {
+  "id": "DM-DEC-034",
+  "date": "2026-11-12",
+  "decision": "For 'maternal' files only a neutral label, the SHA-256 and the route are recorded. For parked 'irish' files: file name, SHA-256 and one line; no image in the repo. Anything about Kevin or a person of unknown living status is held with its hash only.",
+  "why": "Ledger X-019 items 5, 5a and 7."
+ },
+ {
+  "id": "DM-DEC-035",
+  "date": "2026-11-12",
+  "decision": "Read ledger v13. The intake set up under v12 is withdrawn: data/intake.json and data/parked_irish.json, both empty, are removed, and DM-DEC-032 to 034 are superseded. The unclassified folder was never given to this agent and nothing from it was seen or processed.",
+  "why": "Ledger v13, X-019 as rewritten: a Sorter outside this Project sorts the folder; line agents take only their own piles."
+ },
+ {
+  "id": "DM-DEC-036",
+  "date": "2026-11-12",
+  "decision": "This agent will take only to-demko/ and to-both/ from the private repo, by a checkout limited to those paths, and will not list or open the other folders.",
+  "why": "Ledger v13, X-019 item 2 and X-020 items 1 and 2."
+ },
+ {
+  "id": "DM-DEC-037",
+  "date": "2026-11-12",
+  "decision": "The held burial photograph (DM-D-005) has not been moved to about-kevin/from-demko/. This session was refused access to the private repo; the owner has been asked. Until then it stays held here by checksum only.",
+  "why": "Ledger v13, X-020 item 3. Access to a private repo is the owner's to grant."
+ },
+ {
+  "id": "DM-DEC-038",
+  "date": "2026-11-12",
+  "decision": "Took fifteen more strips from the Duska agent's Iňačovce folder (its F-005, now complete at 58 files), read them before opening its readings, then compared.",
+  "why": "Ledger X-012. Chosen by file name: every remaining strip naming a Demko or a Kocsis, and one labelled Nyemcso that reads Knyezső."
+ },
+ {
+  "id": "DM-DEC-039",
+  "date": "2026-11-12",
+  "decision": "The candidate baptism for Mária Kocsis (Ahn 19) is not attached to her. Her parents are not given Ahnentafel entries; they stay listed as candidates.",
+  "why": "Ledger X-017: a baptism is not an identity. The burial search has not been done and the hypothesis stands at 58."
+ },
+ {
+  "id": "DM-DEC-040",
+  "date": "2026-11-12",
+  "decision": "Redated the Anna Demko strip from [1870] to [1871] and withdrew the 'two wives' reading for Pál Kocsis. Both were this agent's own earlier entries.",
+  "why": "New strips showed each to be wrong. Corrections are made in the open, with the old reading left in the batch log."
+ },
+ {
+  "id": "DM-DEC-041",
+  "date": "2026-11-12",
+  "decision": "Read ledger v14 (X-021). This line is blind. The McGee and Sorter chats, Project docs named claude/mcgee- or claude/sorter-, the closed folders of the private repo, and any memory note on the grandmother's line or the mother's side are not opened. No memory note is opened at all from here on, since a listing could itself show one.",
+  "why": "X-021 item 4. Exposure so far: none known. The private repo was never reachable from this session. All this agent holds on the grandmother's line is what the ledger itself prints: that it is Irish (v12) and the name of the agent that works it (v14). Reported to the coordinator."
+ }
 ]

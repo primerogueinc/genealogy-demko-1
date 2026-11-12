@@ -17,9 +17,9 @@
 | Born / baptised | 5 / 6 | Born the 5th, baptised the 6th; month not read | probable |
 | Officiant | Danilo[vics?] Josef Solym. lelk. | Josef Danilo[vics?], pastor of Solymos | uncertain |
 | Name | Borbála | Borbála | clear |
-| Parents | Kocsis Pál Gk. / Mária [Jevcsák or Ivancsák] Gk. | Pál Kocsis and Mária, surname doubtful; both Greek Catholic | uncertain |
+| Parents | Kocsis Pál Gk. / Mária Jevcsák Gk. | Pál Kocsis and Mária Jevcsák, both Greek Catholic | probable |
 | Status | telkes gazda | landholding farmer | clear |
-| Godparents | [Rafacs?] András / Mária [Palcsik?] | András Rafacs (?); Mária Palcsik (?) | uncertain |
+| Godparents | Rafacs András / Mária Palcsik | András Rafacs; Mária Palcsik | probable |
 | Residence | Solym[os] | Solymos | probable |
 
 ## Translation
@@ -29,5 +29,5 @@ Born the 5th, baptised the 6th: Borbála, daughter of Pál Kocsis, Greek Catholi
 ## Notes
 
 - Year 1846 from the collector's file name.
-- A second Borbála to Pál Kocsis three years after the first, with a different wife's name. Under ledger X-017: the first child and the first wife had probably died, and these are two girls.
-- Surnames here differ slightly from DUS:D-005-17 (Iv[a]ncsák, Rafacs, Palcsik); all are doubtful.
+- Read again in DM-B-010 at a larger size: the mother is Mária Jevcsák, not Anna Cservenyák. Anna Cservenyák is the mother before this entry, in [1843], and after it, in [1847 or 1848] (DM-D-059). So this is not a second wife. Either there were two men called Pál Kocsis, or the mother's name here is a slip. See DM-NC-013.
+- DUS:D-005-17 reads the mother's surname Iv[a]ncsák; doubtful in both readings.

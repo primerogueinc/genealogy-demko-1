@@ -1,106 +1,107 @@
 [
-  {
-    "id": "F-01",
-    "path": "Documents/Genealogy/Duska and Demko Leads/Cicarovce",
-    "described_by_kevin": "First folder given to the Demko agent, with no context on purpose. Also given to the Duska agent.",
-    "received": "2026-11-11",
-    "files_received": 1,
-    "complete": true,
-    "shared_with": [
-      "duska"
-    ],
-    "batches": [
-      "DM-B-001"
-    ],
-    "archive_path": "archive/duska-and-demko-leads/cicarovce/"
-  },
-  {
-    "id": "F-02",
-    "path": "DEMKO DOCUMENTS (as named by Kevin; full path not given)",
-    "described_by_kevin": "\"DEMKO DOCUMENTS FULL\": the whole folder, given after he asked whether this agent was ready for more Demko records.",
-    "received": "2026-11-12",
-    "files_received": 10,
-    "complete": true,
-    "shared_with": [],
-    "batches": [
-      "DM-B-004"
-    ],
-    "archive_path": "archive/demko-documents/",
-    "note": "Nine files archived, one withheld (a photograph of living people). Two of the nine are the same file under two names."
-  },
-  {
-    "id": "F-03",
-    "path": "Duska Baptisms/Belza (Kosice) - Greek Catholic",
-    "described_by_kevin": "Given to the Duska agent as a full folder. Taken from the Duska repo under ledger X-012, item 5; not handed to this agent by Kevin.",
-    "received": "2026-11-12",
-    "files_received": 2,
-    "complete": true,
-    "shared_with": [
-      "duska"
-    ],
-    "batches": [
-      "DM-B-005"
-    ],
-    "archive_path": "archive/duska-baptisms/belza-kosice-greek-catholic/",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4, their F-003"
-  },
-  {
-    "id": "F-04",
-    "path": "Duska Baptisms/Cicarovce",
-    "described_by_kevin": "Given to the Duska agent as a full folder. None of its twenty strips names a Duska; taken from the Duska repo under ledger X-012, item 3.",
-    "received": "2026-11-12",
-    "files_received": 20,
-    "complete": true,
-    "shared_with": [
-      "duska"
-    ],
-    "batches": [
-      "DM-B-005"
-    ],
-    "archive_path": "archive/duska-baptisms/cicarovce/",
-    "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4, their F-004"
-  },
-  {
-    "id": "F-05",
-    "path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
-    "described_by_kevin": "Given to the Duska agent in two parts so far, 22 files. Thirteen of them name a Demko or a Kocsis and are taken here under ledger X-012. The Krak, Duska and other strips stay with the Duska agent. The Duska agent lists the folder as still open.",
-    "received": "2026-11-12",
-    "files_received": 13,
-    "complete": false,
-    "shared_with": [
-      "duska"
-    ],
-    "batches": [
-      "DM-B-006",
-      "DM-B-008"
-    ],
-    "archive_path": "archive/duska-baptisms/inacovce-solymos-greek-catholic/",
-    "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629, their F-005"
-  },
-  {
-    "id": "F-06",
-    "path": "Demko Hints",
-    "described_by_kevin": "\"Demko Hints - Full - no idea why they're hints tbh\". Given with the remark that this agent gets what is in his Demko folders only.",
-    "received": "2026-11-12",
-    "files_received": 3,
-    "complete": true,
-    "shared_with": [],
-    "batches": [
-      "DM-B-007"
-    ],
-    "archive_path": "archive/demko-hints/"
-  },
-  {
-    "id": "F-07",
-    "path": "Demko Military",
-    "described_by_kevin": "\"Demko Military Full Folder Czech WWII Fallen Soldiers Cards\". The four cards are of deaths in 1915 to 1918.",
-    "received": "2026-11-12",
-    "files_received": 4,
-    "complete": true,
-    "shared_with": [],
-    "batches": [
-      "DM-B-008"
-    ],
-    "archive_path": "archive/demko-military/"
-  }
+ {
+  "id": "F-01",
+  "path": "Documents/Genealogy/Duska and Demko Leads/Cicarovce",
+  "described_by_kevin": "First folder given to the Demko agent, with no context on purpose. Also given to the Duska agent.",
+  "received": "2026-11-11",
+  "files_received": 1,
+  "complete": true,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-001"
+  ],
+  "archive_path": "archive/duska-and-demko-leads/cicarovce/"
+ },
+ {
+  "id": "F-02",
+  "path": "DEMKO DOCUMENTS (as named by Kevin; full path not given)",
+  "described_by_kevin": "\"DEMKO DOCUMENTS FULL\": the whole folder, given after he asked whether this agent was ready for more Demko records.",
+  "received": "2026-11-12",
+  "files_received": 10,
+  "complete": true,
+  "shared_with": [],
+  "batches": [
+   "DM-B-004"
+  ],
+  "archive_path": "archive/demko-documents/",
+  "note": "Nine files archived, one withheld (a photograph of living people). Two of the nine are the same file under two names."
+ },
+ {
+  "id": "F-03",
+  "path": "Duska Baptisms/Belza (Kosice) - Greek Catholic",
+  "described_by_kevin": "Given to the Duska agent as a full folder. Taken from the Duska repo under ledger X-012, item 5; not handed to this agent by Kevin.",
+  "received": "2026-11-12",
+  "files_received": 2,
+  "complete": true,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-005"
+  ],
+  "archive_path": "archive/duska-baptisms/belza-kosice-greek-catholic/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4, their F-003"
+ },
+ {
+  "id": "F-04",
+  "path": "Duska Baptisms/Cicarovce",
+  "described_by_kevin": "Given to the Duska agent as a full folder. None of its twenty strips names a Duska; taken from the Duska repo under ledger X-012, item 3.",
+  "received": "2026-11-12",
+  "files_received": 20,
+  "complete": true,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-005"
+  ],
+  "archive_path": "archive/duska-baptisms/cicarovce/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @ce326b4, their F-004"
+ },
+ {
+  "id": "F-05",
+  "path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
+  "described_by_kevin": "Given to the Duska agent in five parts, 58 files; it lists the folder as complete. Twenty-eight of them name a Demko, a Kocsis or a Knyezső, or were labelled so, and are taken here under ledger X-012. The other thirty (Krak, Duska and others) stay with the Duska agent.",
+  "received": "2026-11-12",
+  "files_received": 28,
+  "complete": true,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-006",
+   "DM-B-008",
+   "DM-B-010"
+  ],
+  "archive_path": "archive/duska-baptisms/inacovce-solymos-greek-catholic/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629, @0200bec and @66f89b1, their F-005"
+ },
+ {
+  "id": "F-06",
+  "path": "Demko Hints",
+  "described_by_kevin": "\"Demko Hints - Full - no idea why they're hints tbh\". Given with the remark that this agent gets what is in his Demko folders only.",
+  "received": "2026-11-12",
+  "files_received": 3,
+  "complete": true,
+  "shared_with": [],
+  "batches": [
+   "DM-B-007"
+  ],
+  "archive_path": "archive/demko-hints/"
+ },
+ {
+  "id": "F-07",
+  "path": "Demko Military",
+  "described_by_kevin": "\"Demko Military Full Folder Czech WWII Fallen Soldiers Cards\". The four cards are of deaths in 1915 to 1918.",
+  "received": "2026-11-12",
+  "files_received": 4,
+  "complete": true,
+  "shared_with": [],
+  "batches": [
+   "DM-B-008"
+  ],
+  "archive_path": "archive/demko-military/"
+ }
 ]

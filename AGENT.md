@@ -28,19 +28,23 @@ Added 12 Nov 2026 from ledger v8:
 - **Times (X-018).** ISO 8601 UTC with a trailing Z; a date alone where only the date is known.
 - **Cross-review (X-012).** The Duska repo is read at the start of every batch and the pass is logged.
 
-Added 12 Nov 2026 from ledger v12 (X-019): intake of the folder `AAAA Unclassified`.
+Added 12 Nov 2026 from ledger v13 (X-019 rewritten, X-020). This replaces the intake rules written under v12, which never came into use.
 
-This agent receives the whole folder, unsorted. Every file gets a row in `data/intake.json` with a `route`, a confidence and a reason taken from the document itself.
+- **The unclassified folder is not this agent's to sort.** A separate Sorter puts each file into a pile in the private repo `primerogueinc/kevin-js-duska-jr-genealogy-private`.
+- **This agent takes `to-demko/` and `to-both/` and opens nothing else in that repo.** If it opens another folder by mistake, it reports that to the coordinator.
+- What is taken is archived here as usual, with the SHA-256 from the pile's `MANIFEST.json`, and the commit of the private repo is logged.
+- The pile a file arrived in is the sorter's label: a prior. It raises no confidence. A file that looks misfiled is reported to the coordinator and still worked if it bears on this line.
+- A record in `to-both/` is transcribed here before the Duska agent's reading is opened.
+- Images about Kevin himself that are held here go to `about-kevin/from-demko/` in the private repo.
+- The owner's paternal grandmother's line and his mother's side are outside this experiment. Nothing about either goes into this repo.
 
-| Route | What is done |
-|---|---|
-| `demko` | Archived and worked in full, like any batch. |
-| `duska`, `shared` | Archived. Abstract only. Named in the note to the Duska agent in the same batch, who makes its own transcription. A record of Ahn 5's line that also names a Duska is `shared`. |
-| `irish` | The owner's paternal grandmother (Ahn 5) and her ancestors. Parked in `data/parked_irish.json`: file name, SHA-256, one line. No transcription, no image in the repo, nobody added to a tree. |
-| `maternal` | The owner's mother's side. A neutral label (`maternal-001`), the SHA-256 and the route. Nothing else. |
-| `unknown` | Archived and abstracted. Place names go to the Places agent. Attached to nobody. |
+Added 12 Nov 2026 from ledger v14 (X-021, blind lines and open lines).
 
-Anything about the owner himself, or about a person born less than 100 years ago with no death stated or documented, is held with its hash only. The folder's name and the owner's remark that it holds important Demko documents raise no confidence.
+- **This is a blind line.** It is scored against the owner's tree, and X-011 applies in full.
+- **Not read by this agent:** the McGee and Sorter chats; any Project doc whose name begins `claude/mcgee-` or `claude/sorter-`; the `mcgee/`, `irish/`, `maternal/`, `about-kevin/` and `unknown/` folders of the private repo; any memory note about the grandmother's line or the mother's side.
+- Putting a held image into `about-kevin/from-demko/` is a write. The folder is not listed or read when that is done.
+- A fact about Ahn 4 or his children reaches this agent only through the coordinator, logged and scored as given.
+- Any exposure is reported to the coordinator for the contamination log, in the same batch.
 
 ## Scope
 

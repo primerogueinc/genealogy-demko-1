@@ -1,474 +1,548 @@
 [
-  {
-    "id": "DM-B-000",
-    "date": "2026-11-11",
-    "title": "Baseline before any archive file",
-    "folder": null,
-    "files": 0,
-    "blurb": "No records yet. This line starts from one sentence: Maria Demko was the wife of Mihaly Duska and the mother of Stefan, Kevin's paternal grandfather. Nothing is known of her birth year, village, parents or church. What Kevin said before the rebuild began is logged as priors, not findings: her birth record is thought to be in Uzhhorod, the family villages are Senné and Iňačovce, and he leans toward a Rusyn origin. A first pass through public catalogues shows the Greek Catholic books for Iňačovce held at Prešov stop in 1898, which may be why a later baptism would have to be sought in Uzhhorod. Eight hypotheses are on the board, each with a confidence and a named test.",
-    "raised": [
-      "DM-H-001",
-      "DM-H-002",
-      "DM-H-003",
-      "DM-H-004",
-      "DM-H-005",
-      "DM-H-006",
-      "DM-H-007",
-      "DM-H-008"
-    ],
-    "resolved": [],
-    "people_added": [
-      "P-001",
-      "P-002",
-      "P-004",
-      "P-008",
-      "P-009",
-      "P-018",
-      "P-019"
-    ],
-    "sources_added": [
-      "DM-S-000-1"
-    ],
-    "revised": [],
-    "documents_added": []
-  },
-  {
-    "id": "DM-B-001",
-    "date": "2026-11-11",
-    "title": "Cicarovce: one baptism, 1882",
-    "folder": "F-01",
-    "files": 1,
-    "blurb": "One image, given with no context: a single line cut from a Hungarian-language baptism register. On 20 August 1882 a boy named Mihály was baptised, born the day before at Viszoka no. 132 to György Demkó, a Greek Catholic farmer, and Mária Hreskó, a Roman Catholic. This is the first Demko household on paper, and it sits in a village the priors never mentioned. Nothing in the entry ties it to Maria Demko. Mihály could be her brother, her father, or no relation, and the board now carries the first two as competing hypotheses with most of the weight still on 'unproven'. The mixed marriage matters either way: under the custom of the time a daughter of this couple would have been baptised Roman Catholic, which cuts against looking for Maria in a Greek Catholic book. No hypothesis is resolved. Five moved, three were raised.",
-    "raised": [
-      "DM-H-009",
-      "DM-H-010",
-      "DM-H-011"
-    ],
-    "resolved": [],
-    "revised": [
-      "DM-H-002",
-      "DM-H-003",
-      "DM-H-004",
-      "DM-H-005",
-      "DM-H-008"
-    ],
-    "people_added": [
-      "DM-X-001",
-      "DM-X-002",
-      "DM-X-003",
-      "DM-X-004",
-      "DM-X-005"
-    ],
-    "sources_added": [
-      "DM-S-001-1"
-    ],
-    "documents_added": [
-      "DM-D-001"
-    ]
-  },
-  {
-    "id": "DM-B-002",
-    "date": "2026-11-12",
-    "title": "Ledger v2 and notes from the other agents",
-    "folder": null,
-    "files": 0,
-    "blurb": "No new file. Read ledger v2, the common rules, and the notes from the Duska and Site agents; read the Duska repo at 53bf7f0. Three things changed on the board. First, the coordinator withdrew the 1868 mixed-marriage rule as a constraint, and the Duska agent holds a counter-example (DUS:S-004), so half of the cut made in DM-B-001 to a Greek Catholic baptism for Maria is restored. Second, the collector's file names are priors and nothing more (X-004), which takes five points off the reading that Maria is a daughter of the Viszoka household. Third, the question 'not of that household at all' is now carried here as DM-H-012 at 50, so the three rival answers sum to 100. The Duska agent also reports a second György Demko, at Gönyű in 1895 with a different wife; this agent has not been given those images and rates 'same man' at 5. The Duska agent's independent reading of the 1882 strip agrees with DM-D-001 on every field. Work now lives on main, with a stamping workflow, a role file and a decisions list. Kevin has allowed open research on the Demko surname, excluding anything he wrote.",
-    "raised": [
-      "DM-H-012",
-      "DM-H-013"
-    ],
-    "resolved": [],
-    "revised": [
-      "DM-H-002",
-      "DM-H-005",
-      "DM-H-009"
-    ],
-    "people_added": [],
-    "sources_added": [],
-    "documents_added": [],
-    "read": [
-      "coordinator ledger v2 (2026-11-11)",
-      "claude/ALL-AGENTS-READ-FIRST.md",
-      "claude/duska-agent-to-demko-agent.md (after DUS B-004)",
-      "claude/site-agent-to-all-agents.md",
-      "claude/site-agent-to-demko-agent.md",
-      "claude/site-agent-data-contract.md",
-      "genealogu-duska-1 main @53bf7f0"
-    ]
-  },
-  {
-    "id": "DM-B-003",
-    "date": "2026-11-12",
-    "title": "Research pass 1: the Demko surname",
-    "folder": null,
-    "files": 0,
-    "blurb": "No new file. Kevin allowed open research on the Demko surname, excluding anything he wrote, and one pass was run. Its useful result concerns the 1882 strip. A village history lists Ján Csurgovics as Greek Catholic priest of Čičarovce from 1882 to 1886, and the Greek Catholics of Viszoka were served from Čičarovce, so the collector's label is probably right about the parish and the book is probably the Greek Catholic one. A second look at the strip itself complicates that: the entry beneath is signed by Polányi Endre, whom the same history names as the village's Roman Catholic priest. The page was written by clergy of both rites, which fits a village with three churches but does not say whose book it is. The pass found no Demko in a transcription of the 1715 tax lists for the four villages and nothing in North American indexes. It also reached into the owner's private correspondence and repeated two statements from it; those are set aside and reported to the coordinator. One hypothesis moved; none was raised or resolved.",
-    "raised": [],
-    "resolved": [],
-    "revised": [
-      "DM-H-011"
-    ],
-    "people_added": [],
-    "sources_added": [
-      "DM-S-003-1"
-    ],
-    "documents_added": []
-  },
-  {
-    "id": "DM-B-004",
-    "date": "2026-11-12",
-    "title": "Demko Documents: ten files, 1803 to 1966",
-    "folder": "F-02",
-    "files": 10,
-    "blurb": "The folder that puts Maria Demko on paper. A parish certificate issued at Senné in 1947 names the parents of Štefan Duska, born there on 21 October 1929, as Michal Duska of Senné and Maria Demko, Greek Catholic, of Iňačovce. A gravestone in Montréal reads Mary Demko, born 1906, died 1950, wife of Mike Duska, and a 1966 deed gives her death as 9 September 1950. A state birth registration of 1906 records a Mária born at Solymos, the Hungarian name of Iňačovce, on 22 August 1906 to Mihály Demkó and Mária Kocsis, both Greek Catholic. The father is a day-labourer born at Magasrév, aged 24. Magasrév is Viszoka, and a Mihály Demkó was baptised there on 20 August 1882, so the man in the first file given to this agent is very probably Maria's father, not her brother. Two links in that chain rest on names, places and ages agreeing and not on a record that says so; the marriage of Mihály Demkó and Mária Kocsis would close one of them. The registrar explained the entry to the father in Slovak. A petition of 1803 puts a Joannes Demko at Viszoka. A cropped baptism the collector marked 'maybe' has the wrong birthday and the wrong mother and is probably another child. Three hypotheses are confirmed, one refuted, six raised.",
-    "raised": [
-      "DM-H-014",
-      "DM-H-015",
-      "DM-H-016",
-      "DM-H-017",
-      "DM-H-018",
-      "DM-H-019"
-    ],
-    "resolved": [
-      "DM-H-001",
-      "DM-H-003",
-      "DM-H-009"
-    ],
-    "revised": [
-      "DM-H-002",
-      "DM-H-004",
-      "DM-H-005",
-      "DM-H-006",
-      "DM-H-007",
-      "DM-H-008",
-      "DM-H-010",
-      "DM-H-012"
-    ],
-    "people_added": [
-      "P-036",
-      "P-037",
-      "DM-X-006",
-      "DM-X-007",
-      "DM-X-008",
-      "DM-X-009"
-    ],
-    "sources_added": [
-      "DM-S-004-1",
-      "DM-S-004-2",
-      "DM-S-004-3",
-      "DM-S-004-4",
-      "DM-S-004-5",
-      "DM-S-004-6",
-      "DM-S-004-7",
-      "DM-S-004-8"
-    ],
-    "documents_added": [
-      "DM-D-002",
-      "DM-D-003",
-      "DM-D-004",
-      "DM-D-005",
-      "DM-D-006",
-      "DM-D-007",
-      "DM-D-008",
-      "DM-D-009",
-      "DM-D-010",
-      "DM-D-011"
-    ]
-  },
-  {
-    "id": "DM-B-005",
-    "date": "2026-11-12",
-    "title": "Ledger v3 and first cross-review: 22 strips taken from the Duska repo",
-    "folder": "F-04",
-    "files": 22,
-    "blurb": "Read ledger v3 and made the first cross-review pass over the Duska repo at ce326b4. Kevin had filed two folders of Demko baptisms under Duska; under the coordinator's ruling they are archived here too, with matching checksums, and read afresh before comparing. Twenty strips are from one book, and the book now identifies itself: its entries of the 1870s are signed by the Greek Catholic pastor of Csicser, and the entry of January 1883 writes 'Csurgovich János' in full. They rebuild the household that Maria Demko's father was born into. György Demkó and Mária Hreskó were married by January 1857, lost a daughter that year and twin boys in 1873, and had János in 1875, Borbála in 1879 and Mihály in 1882, moving from house 79 to 121 to 132. A János Demkó, probably a brother, farmed next door. A generation earlier, a György Demko appears at Viszoka with three different wives' names in nine years. Two boys of the 1830s are candidates for the György who married Mária Hreskó. This agent's readings agree with the Duska agent's on all but two points: the mother's rite in the 1857 entry, and a residence in 1873 that this agent could not read. The two Belža strips are also read; they concern another Demko family near Košice. Three Kocsis strips show no link to Maria's mother. Four hypotheses moved, three were raised.",
-    "raised": [
-      "DM-H-020",
-      "DM-H-021",
-      "DM-H-022"
-    ],
-    "resolved": [],
-    "revised": [
-      "DM-H-002",
-      "DM-H-011",
-      "DM-H-013",
-      "DM-H-016"
-    ],
-    "people_added": [
-      "DM-X-010",
-      "DM-X-011",
-      "DM-X-012",
-      "DM-X-013",
-      "DM-X-014",
-      "DM-X-015",
-      "DM-X-016",
-      "DM-X-017",
-      "DM-X-018",
-      "DM-X-019",
-      "DM-X-020",
-      "DM-X-021",
-      "DM-X-022",
-      "DM-X-023",
-      "DM-X-024",
-      "DM-X-025",
-      "DM-X-026",
-      "DM-X-027"
-    ],
-    "sources_added": [
-      "DM-S-005-1",
-      "DM-S-005-2",
-      "DM-S-005-3",
-      "DM-S-005-4",
-      "DM-S-005-5",
-      "DM-S-005-6",
-      "DM-S-005-7",
-      "DM-S-005-8",
-      "DM-S-005-9",
-      "DM-S-005-10",
-      "DM-S-005-11",
-      "DM-S-005-12",
-      "DM-S-005-13",
-      "DM-S-005-14",
-      "DM-S-005-15",
-      "DM-S-005-16",
-      "DM-S-005-17",
-      "DM-S-005-18",
-      "DM-S-005-19",
-      "DM-S-005-20",
-      "DM-S-005-21"
-    ],
-    "documents_added": [
-      "DM-D-012",
-      "DM-D-013",
-      "DM-D-014",
-      "DM-D-015",
-      "DM-D-016",
-      "DM-D-017",
-      "DM-D-018",
-      "DM-D-019",
-      "DM-D-020",
-      "DM-D-021",
-      "DM-D-022",
-      "DM-D-023",
-      "DM-D-024",
-      "DM-D-025",
-      "DM-D-026",
-      "DM-D-027",
-      "DM-D-028",
-      "DM-D-029",
-      "DM-D-030",
-      "DM-D-031",
-      "DM-D-032",
-      "DM-D-033"
-    ],
-    "read": [
-      "coordinator ledger v3 (2026-11-12)",
-      "genealogu-duska-1 main @ce326b4: folder register, documents, candidates, sources (cross-review, X-012)"
-    ],
-    "cross_review": {
-      "repo": "primerogueinc/genealogu-duska-1",
-      "commit": "ce326b4",
-      "found": "Folders F-003 and F-004 belong to the Demko line: taken. F-001 (bishop's circulars, Senné) and the Duska people P-001 to P-008: nothing for this line. K-001 to K-097 checked: the Demko, Szlekár, Hreskó, Tirpák and Kocsis people are entered here as DM-X-010 to DM-X-027; the godparents and clergy are cited from the Duska repo and not copied.",
-      "routed_to_duska": [
-        "DM-D-004",
-        "DM-D-005",
-        "DM-D-007",
-        "DM-D-011"
-      ]
-    }
-  },
-  {
-    "id": "DM-B-006",
-    "date": "2026-11-12",
-    "at_utc": "2026-11-12T06:16:34Z",
-    "title": "Ledger v8: reused names, living status, provenance; second cross-review",
-    "folder": "F-05",
-    "files": 6,
-    "blurb": "Read ledger v8 and the coordinator's method note on epidemics and reused names, and applied them. The note bites on this line at once. The Mihály baptised at Viszoka in 1882 already carries the name of a twin brother who died in 1873, and nothing in hand shows that he himself lived: the burial books are not in the file. What speaks for him is the age his daughter's birth record gives her father in 1906, twenty-four, which fits the child of 1882 and not the dead twin. The link stays at 70 and is now marked as an unresolved necronym risk; so is the step from the Mária of 1906 to the Mary Demko who died in Montréal. The second cross-review of the Duska repo found a new folder, Iňačovce Greek Catholic, and six of its strips are taken here. They show Demkos already in that parish before the Viszoka Mihály arrived: a Michael Demko, cottar of Jesztreb, in 1870, and a 'Mihály Demkó the younger', cottar of Jesztreb, with a wife Anna in 1889. That second Mihály is very probably the father on the cropped 'maybe' baptism, which makes it another family's child. A Kocsis couple at Solymos in 1875 becomes the first candidate for the parents of Maria's mother. Living status now follows the coordinator's rule: Stefan Duska died in 2018, and his son's status is unknown. Every document carries a provenance block, mostly reading 'unknown'. The one photograph showing the subject of the tree is held, not published.",
-    "raised": [
-      "DM-H-023",
-      "DM-H-024",
-      "DM-H-025",
-      "DM-H-026"
-    ],
-    "resolved": [],
-    "revised": [
-      "DM-H-003",
-      "DM-H-005",
-      "DM-H-010",
-      "DM-H-015",
-      "DM-H-021"
-    ],
-    "people_added": [
-      "DM-X-028",
-      "DM-X-029",
-      "DM-X-030",
-      "DM-X-031",
-      "DM-X-032",
-      "DM-X-033",
-      "DM-X-034",
-      "DM-X-035"
-    ],
-    "sources_added": [
-      "DM-S-006-1",
-      "DM-S-006-2",
-      "DM-S-006-3",
-      "DM-S-006-4",
-      "DM-S-006-5",
-      "DM-S-006-6"
-    ],
-    "documents_added": [
-      "DM-D-034",
-      "DM-D-035",
-      "DM-D-036",
-      "DM-D-037",
-      "DM-D-038",
-      "DM-D-039"
-    ],
-    "read": [
-      "coordinator ledger v8 (2026-11-12)",
-      "claude/coordinator-method-note-epidemics-necronyms.md",
-      "claude/places-agent-to-demko-agent.md (after PL-B-001)",
-      "claude/duska-agent-to-demko-agent.md (after DUS B-008)",
-      "claude/site-agent-to-demko-agent.md (after SITE-B-005)",
-      "genealogu-duska-1 main @3ac9629 (cross-review)",
-      "duska-and-demko-villages main @6eab2b2"
-    ],
-    "cross_review": {
-      "repo": "primerogueinc/genealogu-duska-1",
-      "commit": "3ac9629",
-      "found": "New folder F-005 (Iňačovce Greek Catholic, part 1, 11 files): six strips naming a Demko or a Kocsis taken and read; four Krak strips and the 1877 Du[s]ko strip are the Duska agent's and name no Demko. Their F-X01 holds three of this repo's records, taken under X-012. Their B-009 adopts the 1906 parents. Nothing else new for this line."
-    }
-  },
-  {
-    "id": "DM-B-007",
-    "date": "2026-11-12",
-    "at_utc": "2026-11-12T06:23:02Z",
-    "title": "Demko Hints: three strips, and a third Mihály Demkó",
-    "folder": "F-06",
-    "files": 3,
-    "blurb": "A small folder the owner calls hints. One file is the cropped 'maybe' baptism again, this time named with a year: 1892. A second strip, in the same hand, shows the same parents five years earlier: Anna, born 19 September [1887] to Mihály Demkó, day-labourer, and Anna Batronszki (?), at a place read as Sztrajnyán, with a note that the entry was written in the wrong book. The third is Anna, illegitimate daughter of Ilona Demkó of Lasztomér, [1887]. Together they move the 'maybe' Mária further from Maria Demko of Iňačovce: she is fourteen years too old for the gravestone and her parents are a different couple in a different village. They also undo last batch's guess that her father was the Mihály Demkó of Jesztreb, whose wife had another surname. That makes three men called Mihály Demkó in one district in one generation, which is the plainest warning in the file against matching on a name. Read ledger v10: the only change is that the rule on reused names is craft knowledge and not a statement about this family. Third cross-review of the Duska repo found nothing new for this line. One hypothesis refuted, one strengthened, one raised.",
-    "raised": [
-      "DM-H-027"
-    ],
-    "resolved": [
-      "DM-H-023"
-    ],
-    "revised": [
-      "DM-H-015"
-    ],
-    "people_added": [
-      "DM-X-036",
-      "DM-X-037",
-      "DM-X-038"
-    ],
-    "sources_added": [
-      "DM-S-007-1",
-      "DM-S-007-2"
-    ],
-    "documents_added": [
-      "DM-D-040",
-      "DM-D-041",
-      "DM-D-042"
-    ],
-    "read": [
-      "coordinator ledger v10 (2026-11-12), duska-coordinator @f0738c1",
-      "genealogu-duska-1 main @9e5061e (cross-review)"
-    ],
-    "cross_review": {
-      "repo": "primerogueinc/genealogu-duska-1",
-      "commit": "9e5061e",
-      "found": "Their B-010 applies ledger v8; no new folder or file. Nothing new for this line."
-    }
-  },
-  {
-    "id": "DM-B-008",
-    "date": "2026-11-12",
-    "at_utc": "2026-11-12T06:28:32Z",
-    "title": "Demko Military: four soldiers' cards; seven more Iňačovce strips",
-    "folder": "F-07",
-    "files": 11,
-    "blurb": "Four index cards for soldiers named Demko who died in the First World War; the folder's name says the Second, but the deaths are of 1915 to 1918. Andreas, born 1896 at Enyiczke, fell on Monte Asolone in Italy in April 1918. Gregor, a Galician from near Przemyśl, died in the epidemic hospital at Košice in March 1915. One Ján, born 1896 at Giňov, was killed in Bukovina on New Year's Day 1916. Another Ján, from Šariš, died a prisoner in a camp hospital at Samarkand in September 1915. None was born in Ung county and none can be tied to Maria Demko's people; the Giňov man may belong to the other Demko family already met in the Belža strips. The cross-review of the Duska repo was more useful to this line. Seven further strips from the Iňačovce Greek Catholic book are taken here. They name two Kocsis couples at Solymos, the village and surname of Maria's mother: János Kocsis and Anna Kováts at house 13 in 1875 and 1877, and Mihály Kocsis and Mária Knyezső at house 19 in 1889. Either could be the parents of the Mária Kocsis born there about 1886; no baptism of hers is in hand. The strips also show the name of a dead child reused twice among the Kocsis, and carry the Demkos of Jesztreb back to the 1820s. Three hypotheses raised, two revised, none resolved.",
-    "raised": [
-      "DM-H-028",
-      "DM-H-029",
-      "DM-H-030"
-    ],
-    "resolved": [],
-    "revised": [
-      "DM-H-025",
-      "DM-H-026"
-    ],
-    "people_added": [
-      "DM-X-039",
-      "DM-X-040",
-      "DM-X-041",
-      "DM-X-042",
-      "DM-X-043",
-      "DM-X-044"
-    ],
-    "sources_added": [
-      "DM-S-008-1",
-      "DM-S-008-2",
-      "DM-S-008-3",
-      "DM-S-008-4",
-      "DM-S-008-5",
-      "DM-S-008-6",
-      "DM-S-008-7",
-      "DM-S-008-8",
-      "DM-S-008-9",
-      "DM-S-008-10",
-      "DM-S-008-11"
-    ],
-    "documents_added": [
-      "DM-D-043",
-      "DM-D-044",
-      "DM-D-045",
-      "DM-D-046",
-      "DM-D-047",
-      "DM-D-048",
-      "DM-D-049",
-      "DM-D-050",
-      "DM-D-051",
-      "DM-D-052",
-      "DM-D-053"
-    ],
-    "read": [
-      "coordinator ledger v10, unchanged at duska-coordinator @f0738c1",
-      "genealogu-duska-1 main @0200bec (cross-review)"
-    ],
-    "cross_review": {
-      "repo": "primerogueinc/genealogu-duska-1",
-      "commit": "0200bec",
-      "found": "Their B-011 adds part 2 of F-005 (11 files). Seven strips naming a Demko or a Kocsis are taken and read here; readings agree with theirs apart from doubtful surnames and one house number. The Krak, Nyemcsik and Duska strips are theirs. One godmother to the Demko twins of 1877 is 'Krak[o] Anna', which may be why Krak strips are in the owner's archive; noted for the Duska agent."
-    }
-  },
-  {
-    "id": "DM-B-009",
-    "date": "2026-11-12",
-    "at_utc": "2026-11-12T06:36:52Z",
-    "title": "Ledger v12: ready to take in the unclassified folder",
-    "folder": null,
-    "files": 0,
-    "blurb": "No new file. Read ledger versions 11 and 12. The coordinator has made this agent the intake for a mixed folder the owner calls 'AAAA Unclassified', which holds Demko material beside records of other lines. Each file will get a route decided from the document itself: Demko files are worked in full; Duska and shared files are abstracted and passed to the Duska agent; files on the owner's Irish grandmother's line are parked with a name, a checksum and one line; files on his mother's side are recorded by checksum only. The registers for that are set up and empty. The Places agent's latest note is also taken in. It rules, as owner of the question, that the 1882 strip is from the Greek Catholic register of Čičarovce, and it names the volumes that hold that parish's burials for 1882 to 1907, which are the books needed to show that the Mihály of 1882 lived. Nobody has opened them. One confidence moved by a point; nothing was raised or resolved.",
-    "raised": [],
-    "resolved": [],
-    "revised": [
-      "DM-H-011",
-      "DM-H-013"
-    ],
-    "people_added": [],
-    "sources_added": [],
-    "documents_added": [],
-    "read": [
-      "coordinator ledger v11 and v12 (2026-11-12), duska-coordinator @800d3cc",
-      "duska-and-demko-villages main @c5044e4: note to the Demko agent after PL-B-003",
-      "genealogu-duska-1 main @0200bec (cross-review)"
-    ],
-    "cross_review": {
-      "repo": "primerogueinc/genealogu-duska-1",
-      "commit": "0200bec",
-      "found": "No commit since the last pass. Nothing new."
-    }
+ {
+  "id": "DM-B-000",
+  "date": "2026-11-11",
+  "title": "Baseline before any archive file",
+  "folder": null,
+  "files": 0,
+  "blurb": "No records yet. This line starts from one sentence: Maria Demko was the wife of Mihaly Duska and the mother of Stefan, Kevin's paternal grandfather. Nothing is known of her birth year, village, parents or church. What Kevin said before the rebuild began is logged as priors, not findings: her birth record is thought to be in Uzhhorod, the family villages are Senné and Iňačovce, and he leans toward a Rusyn origin. A first pass through public catalogues shows the Greek Catholic books for Iňačovce held at Prešov stop in 1898, which may be why a later baptism would have to be sought in Uzhhorod. Eight hypotheses are on the board, each with a confidence and a named test.",
+  "raised": [
+   "DM-H-001",
+   "DM-H-002",
+   "DM-H-003",
+   "DM-H-004",
+   "DM-H-005",
+   "DM-H-006",
+   "DM-H-007",
+   "DM-H-008"
+  ],
+  "resolved": [],
+  "people_added": [
+   "P-001",
+   "P-002",
+   "P-004",
+   "P-008",
+   "P-009",
+   "P-018",
+   "P-019"
+  ],
+  "sources_added": [
+   "DM-S-000-1"
+  ],
+  "revised": [],
+  "documents_added": []
+ },
+ {
+  "id": "DM-B-001",
+  "date": "2026-11-11",
+  "title": "Cicarovce: one baptism, 1882",
+  "folder": "F-01",
+  "files": 1,
+  "blurb": "One image, given with no context: a single line cut from a Hungarian-language baptism register. On 20 August 1882 a boy named Mihály was baptised, born the day before at Viszoka no. 132 to György Demkó, a Greek Catholic farmer, and Mária Hreskó, a Roman Catholic. This is the first Demko household on paper, and it sits in a village the priors never mentioned. Nothing in the entry ties it to Maria Demko. Mihály could be her brother, her father, or no relation, and the board now carries the first two as competing hypotheses with most of the weight still on 'unproven'. The mixed marriage matters either way: under the custom of the time a daughter of this couple would have been baptised Roman Catholic, which cuts against looking for Maria in a Greek Catholic book. No hypothesis is resolved. Five moved, three were raised.",
+  "raised": [
+   "DM-H-009",
+   "DM-H-010",
+   "DM-H-011"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-002",
+   "DM-H-003",
+   "DM-H-004",
+   "DM-H-005",
+   "DM-H-008"
+  ],
+  "people_added": [
+   "DM-X-001",
+   "DM-X-002",
+   "DM-X-003",
+   "DM-X-004",
+   "DM-X-005"
+  ],
+  "sources_added": [
+   "DM-S-001-1"
+  ],
+  "documents_added": [
+   "DM-D-001"
+  ]
+ },
+ {
+  "id": "DM-B-002",
+  "date": "2026-11-12",
+  "title": "Ledger v2 and notes from the other agents",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new file. Read ledger v2, the common rules, and the notes from the Duska and Site agents; read the Duska repo at 53bf7f0. Three things changed on the board. First, the coordinator withdrew the 1868 mixed-marriage rule as a constraint, and the Duska agent holds a counter-example (DUS:S-004), so half of the cut made in DM-B-001 to a Greek Catholic baptism for Maria is restored. Second, the collector's file names are priors and nothing more (X-004), which takes five points off the reading that Maria is a daughter of the Viszoka household. Third, the question 'not of that household at all' is now carried here as DM-H-012 at 50, so the three rival answers sum to 100. The Duska agent also reports a second György Demko, at Gönyű in 1895 with a different wife; this agent has not been given those images and rates 'same man' at 5. The Duska agent's independent reading of the 1882 strip agrees with DM-D-001 on every field. Work now lives on main, with a stamping workflow, a role file and a decisions list. Kevin has allowed open research on the Demko surname, excluding anything he wrote.",
+  "raised": [
+   "DM-H-012",
+   "DM-H-013"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-002",
+   "DM-H-005",
+   "DM-H-009"
+  ],
+  "people_added": [],
+  "sources_added": [],
+  "documents_added": [],
+  "read": [
+   "coordinator ledger v2 (2026-11-11)",
+   "claude/ALL-AGENTS-READ-FIRST.md",
+   "claude/duska-agent-to-demko-agent.md (after DUS B-004)",
+   "claude/site-agent-to-all-agents.md",
+   "claude/site-agent-to-demko-agent.md",
+   "claude/site-agent-data-contract.md",
+   "genealogu-duska-1 main @53bf7f0"
+  ]
+ },
+ {
+  "id": "DM-B-003",
+  "date": "2026-11-12",
+  "title": "Research pass 1: the Demko surname",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new file. Kevin allowed open research on the Demko surname, excluding anything he wrote, and one pass was run. Its useful result concerns the 1882 strip. A village history lists Ján Csurgovics as Greek Catholic priest of Čičarovce from 1882 to 1886, and the Greek Catholics of Viszoka were served from Čičarovce, so the collector's label is probably right about the parish and the book is probably the Greek Catholic one. A second look at the strip itself complicates that: the entry beneath is signed by Polányi Endre, whom the same history names as the village's Roman Catholic priest. The page was written by clergy of both rites, which fits a village with three churches but does not say whose book it is. The pass found no Demko in a transcription of the 1715 tax lists for the four villages and nothing in North American indexes. It also reached into the owner's private correspondence and repeated two statements from it; those are set aside and reported to the coordinator. One hypothesis moved; none was raised or resolved.",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "DM-H-011"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "DM-S-003-1"
+  ],
+  "documents_added": []
+ },
+ {
+  "id": "DM-B-004",
+  "date": "2026-11-12",
+  "title": "Demko Documents: ten files, 1803 to 1966",
+  "folder": "F-02",
+  "files": 10,
+  "blurb": "The folder that puts Maria Demko on paper. A parish certificate issued at Senné in 1947 names the parents of Štefan Duska, born there on 21 October 1929, as Michal Duska of Senné and Maria Demko, Greek Catholic, of Iňačovce. A gravestone in Montréal reads Mary Demko, born 1906, died 1950, wife of Mike Duska, and a 1966 deed gives her death as 9 September 1950. A state birth registration of 1906 records a Mária born at Solymos, the Hungarian name of Iňačovce, on 22 August 1906 to Mihály Demkó and Mária Kocsis, both Greek Catholic. The father is a day-labourer born at Magasrév, aged 24. Magasrév is Viszoka, and a Mihály Demkó was baptised there on 20 August 1882, so the man in the first file given to this agent is very probably Maria's father, not her brother. Two links in that chain rest on names, places and ages agreeing and not on a record that says so; the marriage of Mihály Demkó and Mária Kocsis would close one of them. The registrar explained the entry to the father in Slovak. A petition of 1803 puts a Joannes Demko at Viszoka. A cropped baptism the collector marked 'maybe' has the wrong birthday and the wrong mother and is probably another child. Three hypotheses are confirmed, one refuted, six raised.",
+  "raised": [
+   "DM-H-014",
+   "DM-H-015",
+   "DM-H-016",
+   "DM-H-017",
+   "DM-H-018",
+   "DM-H-019"
+  ],
+  "resolved": [
+   "DM-H-001",
+   "DM-H-003",
+   "DM-H-009"
+  ],
+  "revised": [
+   "DM-H-002",
+   "DM-H-004",
+   "DM-H-005",
+   "DM-H-006",
+   "DM-H-007",
+   "DM-H-008",
+   "DM-H-010",
+   "DM-H-012"
+  ],
+  "people_added": [
+   "P-036",
+   "P-037",
+   "DM-X-006",
+   "DM-X-007",
+   "DM-X-008",
+   "DM-X-009"
+  ],
+  "sources_added": [
+   "DM-S-004-1",
+   "DM-S-004-2",
+   "DM-S-004-3",
+   "DM-S-004-4",
+   "DM-S-004-5",
+   "DM-S-004-6",
+   "DM-S-004-7",
+   "DM-S-004-8"
+  ],
+  "documents_added": [
+   "DM-D-002",
+   "DM-D-003",
+   "DM-D-004",
+   "DM-D-005",
+   "DM-D-006",
+   "DM-D-007",
+   "DM-D-008",
+   "DM-D-009",
+   "DM-D-010",
+   "DM-D-011"
+  ]
+ },
+ {
+  "id": "DM-B-005",
+  "date": "2026-11-12",
+  "title": "Ledger v3 and first cross-review: 22 strips taken from the Duska repo",
+  "folder": "F-04",
+  "files": 22,
+  "blurb": "Read ledger v3 and made the first cross-review pass over the Duska repo at ce326b4. Kevin had filed two folders of Demko baptisms under Duska; under the coordinator's ruling they are archived here too, with matching checksums, and read afresh before comparing. Twenty strips are from one book, and the book now identifies itself: its entries of the 1870s are signed by the Greek Catholic pastor of Csicser, and the entry of January 1883 writes 'Csurgovich János' in full. They rebuild the household that Maria Demko's father was born into. György Demkó and Mária Hreskó were married by January 1857, lost a daughter that year and twin boys in 1873, and had János in 1875, Borbála in 1879 and Mihály in 1882, moving from house 79 to 121 to 132. A János Demkó, probably a brother, farmed next door. A generation earlier, a György Demko appears at Viszoka with three different wives' names in nine years. Two boys of the 1830s are candidates for the György who married Mária Hreskó. This agent's readings agree with the Duska agent's on all but two points: the mother's rite in the 1857 entry, and a residence in 1873 that this agent could not read. The two Belža strips are also read; they concern another Demko family near Košice. Three Kocsis strips show no link to Maria's mother. Four hypotheses moved, three were raised.",
+  "raised": [
+   "DM-H-020",
+   "DM-H-021",
+   "DM-H-022"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-002",
+   "DM-H-011",
+   "DM-H-013",
+   "DM-H-016"
+  ],
+  "people_added": [
+   "DM-X-010",
+   "DM-X-011",
+   "DM-X-012",
+   "DM-X-013",
+   "DM-X-014",
+   "DM-X-015",
+   "DM-X-016",
+   "DM-X-017",
+   "DM-X-018",
+   "DM-X-019",
+   "DM-X-020",
+   "DM-X-021",
+   "DM-X-022",
+   "DM-X-023",
+   "DM-X-024",
+   "DM-X-025",
+   "DM-X-026",
+   "DM-X-027"
+  ],
+  "sources_added": [
+   "DM-S-005-1",
+   "DM-S-005-2",
+   "DM-S-005-3",
+   "DM-S-005-4",
+   "DM-S-005-5",
+   "DM-S-005-6",
+   "DM-S-005-7",
+   "DM-S-005-8",
+   "DM-S-005-9",
+   "DM-S-005-10",
+   "DM-S-005-11",
+   "DM-S-005-12",
+   "DM-S-005-13",
+   "DM-S-005-14",
+   "DM-S-005-15",
+   "DM-S-005-16",
+   "DM-S-005-17",
+   "DM-S-005-18",
+   "DM-S-005-19",
+   "DM-S-005-20",
+   "DM-S-005-21"
+  ],
+  "documents_added": [
+   "DM-D-012",
+   "DM-D-013",
+   "DM-D-014",
+   "DM-D-015",
+   "DM-D-016",
+   "DM-D-017",
+   "DM-D-018",
+   "DM-D-019",
+   "DM-D-020",
+   "DM-D-021",
+   "DM-D-022",
+   "DM-D-023",
+   "DM-D-024",
+   "DM-D-025",
+   "DM-D-026",
+   "DM-D-027",
+   "DM-D-028",
+   "DM-D-029",
+   "DM-D-030",
+   "DM-D-031",
+   "DM-D-032",
+   "DM-D-033"
+  ],
+  "read": [
+   "coordinator ledger v3 (2026-11-12)",
+   "genealogu-duska-1 main @ce326b4: folder register, documents, candidates, sources (cross-review, X-012)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "ce326b4",
+   "found": "Folders F-003 and F-004 belong to the Demko line: taken. F-001 (bishop's circulars, Senné) and the Duska people P-001 to P-008: nothing for this line. K-001 to K-097 checked: the Demko, Szlekár, Hreskó, Tirpák and Kocsis people are entered here as DM-X-010 to DM-X-027; the godparents and clergy are cited from the Duska repo and not copied.",
+   "routed_to_duska": [
+    "DM-D-004",
+    "DM-D-005",
+    "DM-D-007",
+    "DM-D-011"
+   ]
   }
+ },
+ {
+  "id": "DM-B-006",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T06:16:34Z",
+  "title": "Ledger v8: reused names, living status, provenance; second cross-review",
+  "folder": "F-05",
+  "files": 6,
+  "blurb": "Read ledger v8 and the coordinator's method note on epidemics and reused names, and applied them. The note bites on this line at once. The Mihály baptised at Viszoka in 1882 already carries the name of a twin brother who died in 1873, and nothing in hand shows that he himself lived: the burial books are not in the file. What speaks for him is the age his daughter's birth record gives her father in 1906, twenty-four, which fits the child of 1882 and not the dead twin. The link stays at 70 and is now marked as an unresolved necronym risk; so is the step from the Mária of 1906 to the Mary Demko who died in Montréal. The second cross-review of the Duska repo found a new folder, Iňačovce Greek Catholic, and six of its strips are taken here. They show Demkos already in that parish before the Viszoka Mihály arrived: a Michael Demko, cottar of Jesztreb, in 1870, and a 'Mihály Demkó the younger', cottar of Jesztreb, with a wife Anna in 1889. That second Mihály is very probably the father on the cropped 'maybe' baptism, which makes it another family's child. A Kocsis couple at Solymos in 1875 becomes the first candidate for the parents of Maria's mother. Living status now follows the coordinator's rule: Stefan Duska died in 2018, and his son's status is unknown. Every document carries a provenance block, mostly reading 'unknown'. The one photograph showing the subject of the tree is held, not published.",
+  "raised": [
+   "DM-H-023",
+   "DM-H-024",
+   "DM-H-025",
+   "DM-H-026"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-003",
+   "DM-H-005",
+   "DM-H-010",
+   "DM-H-015",
+   "DM-H-021"
+  ],
+  "people_added": [
+   "DM-X-028",
+   "DM-X-029",
+   "DM-X-030",
+   "DM-X-031",
+   "DM-X-032",
+   "DM-X-033",
+   "DM-X-034",
+   "DM-X-035"
+  ],
+  "sources_added": [
+   "DM-S-006-1",
+   "DM-S-006-2",
+   "DM-S-006-3",
+   "DM-S-006-4",
+   "DM-S-006-5",
+   "DM-S-006-6"
+  ],
+  "documents_added": [
+   "DM-D-034",
+   "DM-D-035",
+   "DM-D-036",
+   "DM-D-037",
+   "DM-D-038",
+   "DM-D-039"
+  ],
+  "read": [
+   "coordinator ledger v8 (2026-11-12)",
+   "claude/coordinator-method-note-epidemics-necronyms.md",
+   "claude/places-agent-to-demko-agent.md (after PL-B-001)",
+   "claude/duska-agent-to-demko-agent.md (after DUS B-008)",
+   "claude/site-agent-to-demko-agent.md (after SITE-B-005)",
+   "genealogu-duska-1 main @3ac9629 (cross-review)",
+   "duska-and-demko-villages main @6eab2b2"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "3ac9629",
+   "found": "New folder F-005 (Iňačovce Greek Catholic, part 1, 11 files): six strips naming a Demko or a Kocsis taken and read; four Krak strips and the 1877 Du[s]ko strip are the Duska agent's and name no Demko. Their F-X01 holds three of this repo's records, taken under X-012. Their B-009 adopts the 1906 parents. Nothing else new for this line."
+  }
+ },
+ {
+  "id": "DM-B-007",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T06:23:02Z",
+  "title": "Demko Hints: three strips, and a third Mihály Demkó",
+  "folder": "F-06",
+  "files": 3,
+  "blurb": "A small folder the owner calls hints. One file is the cropped 'maybe' baptism again, this time named with a year: 1892. A second strip, in the same hand, shows the same parents five years earlier: Anna, born 19 September [1887] to Mihály Demkó, day-labourer, and Anna Batronszki (?), at a place read as Sztrajnyán, with a note that the entry was written in the wrong book. The third is Anna, illegitimate daughter of Ilona Demkó of Lasztomér, [1887]. Together they move the 'maybe' Mária further from Maria Demko of Iňačovce: she is fourteen years too old for the gravestone and her parents are a different couple in a different village. They also undo last batch's guess that her father was the Mihály Demkó of Jesztreb, whose wife had another surname. That makes three men called Mihály Demkó in one district in one generation, which is the plainest warning in the file against matching on a name. Read ledger v10: the only change is that the rule on reused names is craft knowledge and not a statement about this family. Third cross-review of the Duska repo found nothing new for this line. One hypothesis refuted, one strengthened, one raised.",
+  "raised": [
+   "DM-H-027"
+  ],
+  "resolved": [
+   "DM-H-023"
+  ],
+  "revised": [
+   "DM-H-015"
+  ],
+  "people_added": [
+   "DM-X-036",
+   "DM-X-037",
+   "DM-X-038"
+  ],
+  "sources_added": [
+   "DM-S-007-1",
+   "DM-S-007-2"
+  ],
+  "documents_added": [
+   "DM-D-040",
+   "DM-D-041",
+   "DM-D-042"
+  ],
+  "read": [
+   "coordinator ledger v10 (2026-11-12), duska-coordinator @f0738c1",
+   "genealogu-duska-1 main @9e5061e (cross-review)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "9e5061e",
+   "found": "Their B-010 applies ledger v8; no new folder or file. Nothing new for this line."
+  }
+ },
+ {
+  "id": "DM-B-008",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T06:28:32Z",
+  "title": "Demko Military: four soldiers' cards; seven more Iňačovce strips",
+  "folder": "F-07",
+  "files": 11,
+  "blurb": "Four index cards for soldiers named Demko who died in the First World War; the folder's name says the Second, but the deaths are of 1915 to 1918. Andreas, born 1896 at Enyiczke, fell on Monte Asolone in Italy in April 1918. Gregor, a Galician from near Przemyśl, died in the epidemic hospital at Košice in March 1915. One Ján, born 1896 at Giňov, was killed in Bukovina on New Year's Day 1916. Another Ján, from Šariš, died a prisoner in a camp hospital at Samarkand in September 1915. None was born in Ung county and none can be tied to Maria Demko's people; the Giňov man may belong to the other Demko family already met in the Belža strips. The cross-review of the Duska repo was more useful to this line. Seven further strips from the Iňačovce Greek Catholic book are taken here. They name two Kocsis couples at Solymos, the village and surname of Maria's mother: János Kocsis and Anna Kováts at house 13 in 1875 and 1877, and Mihály Kocsis and Mária Knyezső at house 19 in 1889. Either could be the parents of the Mária Kocsis born there about 1886; no baptism of hers is in hand. The strips also show the name of a dead child reused twice among the Kocsis, and carry the Demkos of Jesztreb back to the 1820s. Three hypotheses raised, two revised, none resolved.",
+  "raised": [
+   "DM-H-028",
+   "DM-H-029",
+   "DM-H-030"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-025",
+   "DM-H-026"
+  ],
+  "people_added": [
+   "DM-X-039",
+   "DM-X-040",
+   "DM-X-041",
+   "DM-X-042",
+   "DM-X-043",
+   "DM-X-044"
+  ],
+  "sources_added": [
+   "DM-S-008-1",
+   "DM-S-008-2",
+   "DM-S-008-3",
+   "DM-S-008-4",
+   "DM-S-008-5",
+   "DM-S-008-6",
+   "DM-S-008-7",
+   "DM-S-008-8",
+   "DM-S-008-9",
+   "DM-S-008-10",
+   "DM-S-008-11"
+  ],
+  "documents_added": [
+   "DM-D-043",
+   "DM-D-044",
+   "DM-D-045",
+   "DM-D-046",
+   "DM-D-047",
+   "DM-D-048",
+   "DM-D-049",
+   "DM-D-050",
+   "DM-D-051",
+   "DM-D-052",
+   "DM-D-053"
+  ],
+  "read": [
+   "coordinator ledger v10, unchanged at duska-coordinator @f0738c1",
+   "genealogu-duska-1 main @0200bec (cross-review)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "0200bec",
+   "found": "Their B-011 adds part 2 of F-005 (11 files). Seven strips naming a Demko or a Kocsis are taken and read here; readings agree with theirs apart from doubtful surnames and one house number. The Krak, Nyemcsik and Duska strips are theirs. One godmother to the Demko twins of 1877 is 'Krak[o] Anna', which may be why Krak strips are in the owner's archive; noted for the Duska agent."
+  }
+ },
+ {
+  "id": "DM-B-009",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T06:36:52Z",
+  "title": "Ledger v12: ready to take in the unclassified folder",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new file. Read ledger versions 11 and 12. The coordinator has made this agent the intake for a mixed folder the owner calls 'AAAA Unclassified', which holds Demko material beside records of other lines. Each file will get a route decided from the document itself: Demko files are worked in full; Duska and shared files are abstracted and passed to the Duska agent; files on the owner's Irish grandmother's line are parked with a name, a checksum and one line; files on his mother's side are recorded by checksum only. The registers for that are set up and empty. The Places agent's latest note is also taken in. It rules, as owner of the question, that the 1882 strip is from the Greek Catholic register of Čičarovce, and it names the volumes that hold that parish's burials for 1882 to 1907, which are the books needed to show that the Mihály of 1882 lived. Nobody has opened them. One confidence moved by a point; nothing was raised or resolved.",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "DM-H-011",
+   "DM-H-013"
+  ],
+  "people_added": [],
+  "sources_added": [],
+  "documents_added": [],
+  "read": [
+   "coordinator ledger v11 and v12 (2026-11-12), duska-coordinator @800d3cc",
+   "duska-and-demko-villages main @c5044e4: note to the Demko agent after PL-B-003",
+   "genealogu-duska-1 main @0200bec (cross-review)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "0200bec",
+   "found": "No commit since the last pass. Nothing new."
+  }
+ },
+ {
+  "id": "DM-B-010",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T06:48:29Z",
+  "title": "Ledgers v13 and v14 acted on; fifteen more Iňačovce strips and a baptism that may be Mária Kocsis",
+  "folder": "F-05",
+  "files": 15,
+  "blurb": "Two things. First, ledger v13: the plan of the last batch is reversed. This agent is not the intake for the owner's unclassified folder. A separate Sorter will put each file into a pile in a private repository, and this agent takes only the piles marked for the Demko line and for both lines. The folder had never been given to this agent, so nothing from it was seen; the two empty registers set up for it are removed. This session was refused access to the private repository and the owner has been asked, so nothing has been taken from the piles and the one photograph held here stays held by its checksum. Ledger v14 adds one rule: this line is a blind test, and this agent does not read the chats, notes or folders of the agents that are not; none has been read. Second, the cross-review: the Duska agent finished its Iňačovce folder at 58 strips, and fifteen more of them belong here. One is a baptism of a Mária Kocsis at Solymos no. 19 on 28 February [1887], daughter of Mihály Kocsis and Mária Knyezső. Maria Demko's mother was a Mária Kocsis born at Solymos and said to be 20 in August 1906; this girl was 19. It is the first candidate baptism for her and it is not attached: no burial book has been searched, the folder is a selection, and nothing yet names the parents of Mihály Demkó's wife. The other strips fill out the Demkos of Jesztreb, a separate family: a son Michael of 1866 who is very probably the 'younger' Mihály, and a Mária Demkó of 1888 who must not be mistaken for Maria Demko. Two of this agent's earlier readings were wrong and are corrected: a strip filed under 1870 is of 1871, and the two wives given to Pál Kocsis do not hold.",
+  "raised": [
+   "DM-H-031",
+   "DM-H-032",
+   "DM-H-033"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-030",
+   "DM-H-025",
+   "DM-H-027"
+  ],
+  "people_added": [
+   "DM-X-045",
+   "DM-X-046",
+   "DM-X-047",
+   "DM-X-048",
+   "DM-X-049",
+   "DM-X-050",
+   "DM-X-051"
+  ],
+  "sources_added": [
+   "DM-S-010-1",
+   "DM-S-010-2",
+   "DM-S-010-3",
+   "DM-S-010-4",
+   "DM-S-010-5",
+   "DM-S-010-6",
+   "DM-S-010-7",
+   "DM-S-010-8",
+   "DM-S-010-9",
+   "DM-S-010-10",
+   "DM-S-010-11",
+   "DM-S-010-12",
+   "DM-S-010-13",
+   "DM-S-010-14",
+   "DM-S-010-15"
+  ],
+  "documents_added": [
+   "DM-D-054",
+   "DM-D-055",
+   "DM-D-056",
+   "DM-D-057",
+   "DM-D-058",
+   "DM-D-059",
+   "DM-D-060",
+   "DM-D-061",
+   "DM-D-062",
+   "DM-D-063",
+   "DM-D-064",
+   "DM-D-065",
+   "DM-D-066",
+   "DM-D-067",
+   "DM-D-068"
+  ],
+  "read": [
+   "coordinator ledger v13 (2026-11-12), duska-coordinator @d78ad24",
+   "coordinator ledger v14 (2026-11-12), duska-coordinator @b0b1a50",
+   "genealogu-duska-1 main @66f89b1 (its B-013; fifteen strips taken) and @ca93549 (its B-014; note to this agent, no new file)",
+   "duska-and-demko-villages main @208af51: note to the Demko agent after PL-B-004"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "ca93549",
+   "found": "Two commits since the last pass. Its folder F-005 is complete at 58 files (@66f89b1); its latest batch (@ca93549) adds no file and points this agent to the Mária Kocsis strip, which had been taken and read before that note was opened. Fifteen strips taken, checksums equal to its manifest. Read here first, then compared. Differences: house number of the Maria of [1864] (28 here, 38 there); day of birth of Michael 1866 (14 or 15 here, 14 there); a godmother's spelling in 1879. Added here and not there: the [1848] strip may be of 1847; the blank row of 1870 is a false start for Anna of 1871; the death note beside János 1885 belongs to the next row. Its H-038 is the same reading as DM-H-031."
+  }
+ }
 ]

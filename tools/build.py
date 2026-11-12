@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
 NAMES = ["people", "sources", "documents", "priors", "hypotheses",
-         "batches", "folders", "leads", "asks", "decisions", "necronym_checks", "intake", "parked_irish"]
+         "batches", "folders", "leads", "asks", "decisions", "necronym_checks"]
 
 
 def load():

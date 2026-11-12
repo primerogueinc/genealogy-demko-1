@@ -1,272 +1,299 @@
 [
-  {
-    "id": "DM-L-001",
-    "text": "Iňačovce (Solymos, Ung county). Registers listed at the Prešov state archive: Greek Catholic 1811-1898, Reformed 1747-1940, Roman Catholic 1863-1926. The Greek Catholic run ends in 1898.",
-    "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
-    "bears_on": [
-      "DM-H-002",
-      "DM-H-003",
-      "DM-H-005"
-    ]
-  },
-  {
-    "id": "DM-L-002",
-    "text": "Iňačovce has been a Greek Catholic parish since the mid-18th century, per the Slovak public-administration portal's village profile.",
-    "url": "https://www.slovensko.sk/sk/institucie/o-institucii/informacie-o-obci/_3fa364bb-c010-4003-be03-44f28eb0cdf2",
-    "bears_on": [
-      "DM-H-002",
-      "DM-H-003"
-    ]
-  },
-  {
-    "id": "DM-L-003",
-    "text": "FamilySearch catalogues Greek Catholic records of the Mukachevo eparchy for Ungvár / Užhorod and the Ung district, 1826-1938. Candidate home for the Maria Demko entry. Same item as the Duska agent's L-003.",
-    "url": "https://www.familysearch.org/search/catalog/1411329",
-    "bears_on": [
-      "DM-H-005"
-    ]
-  },
-  {
-    "id": "DM-L-004",
-    "text": "Demko is a diminutive of Demeter / Dymitr / Demyan and occurs as a Polish, Slovak and Ukrainian/Rusyn surname. The name alone does not identify the family's origin.",
-    "url": "https://en.wikipedia.org/wiki/Demko",
-    "bears_on": [
-      "DM-H-008"
-    ]
-  },
-  {
-    "id": "DM-L-005",
-    "text": "A FamilySearch community thread: a researcher was told that registers for some Ung county places are missing from Prešov and went looking in Ukraine; the thread also says Ung county is absent from the 1869 census images on FamilySearch. Shows the Uzhhorod route is a known one for Slovak-side Ung villages.",
-    "url": "https://community.familysearch.org/en/discussion/comment/379308",
-    "bears_on": [
-      "DM-H-004",
-      "DM-H-005"
-    ]
-  },
-  {
-    "id": "DM-L-006",
-    "text": "Hungaricana urbarial tables for Solymos (Ung) list the landlords and their villein counts. Useful for placing a Demko household under a landlord if the family is found at Iňačovce in the 18th century.",
-    "url": "https://archives.hungaricana.hu/en/urberi/ung-solymos",
-    "bears_on": [
-      "DM-H-003"
-    ]
-  },
-  {
-    "id": "DM-L-007",
-    "text": "Senné (Szenna, Ung) Roman Catholic register of births, marriages and deaths, 1831-1926, filmed from the Prešov state archive. Where a Duska-Demko marriage or their children's baptisms would be if the couple lived in Senné. Same item as the Duska agent's L-001.",
-    "url": "https://www.familysearch.org/en/search/catalog/710997",
-    "bears_on": [
-      "DM-H-007"
-    ]
-  },
-  {
-    "id": "DM-L-008",
-    "text": "Čičarovce (Csicser) was in Ung county and lies at about 48°33′N 22°02′E, south of Senné (48°40′N). Its register holdings were not retrieved in this pass.",
-    "url": "https://en.wikipedia.org/wiki/%C4%8Ci%C4%8Darovce",
-    "bears_on": [
-      "DM-H-011"
-    ]
-  },
-  {
-    "id": "DM-L-009",
-    "text": "Hungaricana urbarial tables exist for Csicser (Ung), listing seven landlords. A parallel table for Viszoka should be checked for a Demko villein.",
-    "url": "https://archives.hungaricana.hu/en/urberi/ung-csicser",
-    "bears_on": [
-      "DM-H-009"
-    ]
-  },
-  {
-    "id": "DM-L-010",
-    "text": "Hungarian Act LIII of 1868, section 12: of the children of mixed marriages, sons follow the father's religion and daughters the mother's; contrary agreements are void. Text now sourced (DM-S-003-1, statute collection). Whether it was applied between the Roman and Greek rites is not settled; see ledger X-A-001.",
-    "url": "https://net.jogtar.hu/ezer-ev-torveny?docid=86800053.TV",
-    "bears_on": [
-      "DM-H-002",
-      "DM-H-011"
-    ]
-  },
-  {
-    "id": "DM-L-011",
-    "text": "Relayed, not seen: DUS:S-003 @53bf7f0. Later hand copy of a baptism, entry 13 of 1895: György, born 29 Mar, son of György Demko, Greek Catholic landholder, and Katalin Jobbágy, Gönyű (Gyňov) no. 24. Parish (Belža) from a folder name only. Coordinator crosswalk X-S-002.",
-    "url": "https://github.com/primerogueinc/genealogu-duska-1",
-    "bears_on": [
-      "DM-H-013"
-    ]
-  },
-  {
-    "id": "DM-L-012",
-    "text": "Relayed, not seen: DUS:S-004 @53bf7f0. Later hand copy of a baptism, entry 33 of [1894]: Mária, daughter of József Hriczko, Greek Catholic, and Erzsébet Kocsis, Roman Catholic, Szina (Seňa) no. 182. A daughter of a mixed-rite couple in a book labelled Greek Catholic. The Duska agent holds Hriczko and Hreskó to be different surnames (DUS:H-017, 60). Crosswalk X-S-003.",
-    "url": "https://github.com/primerogueinc/genealogu-duska-1",
-    "bears_on": [
-      "DM-H-002",
-      "DM-H-005"
-    ]
-  },
-  {
-    "id": "DM-L-013",
-    "text": "Relayed from the Places agent, note to the coordinator of 11 Nov 2026: Vysoká nad Uhom is PL-P-037, 6.5 km from Senné and 9.3 km from Iňačovce, and was a Latin-rite filial of Pavlovce nad Uhom in a 1733 list (PL-S-010). Čičarovce is a different village further south and has a Greek Catholic parish today. The Places agent owns the question of which book the 1882 strip is from (X-Q-02, PL-H-008).",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-003",
-      "DM-H-011",
-      "DM-H-012"
-    ]
-  },
-  {
-    "id": "DM-L-014",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Čičarovce village site, church page: Greek Catholic parish priests Jozef Kubek 1847-1881, then Ján Csurgovics 1882-1886. Roman Catholic priest Andrej (Endre) Polányi 1868-1890. In 1825 the Greek Catholic parish had twelve filials, among them Pavlovce nad Uhom, Vysoká nad Uhom and Vojany. All three confessions had a parish in the village.",
-    "url": "https://www.obeccicarovce.sk/cirkev.html",
-    "bears_on": [
-      "DM-H-011"
-    ]
-  },
-  {
-    "id": "DM-L-015",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Vysoká nad Uhom Greek Catholic parish history: a filial of Bežovce after 1771, of Čičarovce after 1806, a parish of its own only from 26 Sep 1948. Names a Ján Čurgovič among priests who served it.",
-    "url": "https://grkatvysokanaduhom.webnode.sk/historia-farnosti/",
-    "bears_on": [
-      "DM-H-011"
-    ]
-  },
-  {
-    "id": "DM-L-016",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. FamilySearch image groups for Čičarovce, via a finding list: Greek Catholic baptisms, marriages and deaths 1875-1886 on DGS 4406715 and 4406819; Roman Catholic baptisms filmed only for 1781-1849 (DGS 4405885). If the 1882 strip is a FamilySearch image, only the Greek Catholic book covers its year.",
-    "url": "https://poosch.sk/en/slovak-church-records-search.html",
-    "bears_on": [
-      "DM-H-011"
-    ]
-  },
-  {
-    "id": "DM-L-017",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Parish geography: Greek Catholics of Senné, Jastrabie, Rebrín, Stretava and Stretavka belonged to the Greek Catholic parish of Iňačovce; Roman Catholics of Iňačovce, Palín, Stretava, Stretavka and Zemplínska Široká belonged to the Roman Catholic parish of Senné.",
-    "url": "https://lexikon.katolikus.hu/U/Ungszenna.html",
-    "bears_on": [
-      "DM-H-002",
-      "DM-H-003"
-    ]
-  },
-  {
-    "id": "DM-L-018",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. A private transcription of the 1715 tax lists shows no Demko at Viszoka, Senné, Čičarovce or Iňačovce. The Viszoka list has a 'Joannes Heress', which may or may not be an early Hreskó.",
-    "url": "https://www.cisarik.com/0_Vysoka_nad_Uhom_Michalovce_KI_Ung_Uzhorod.html",
-    "bears_on": [
-      "DM-H-012"
-    ]
-  },
-  {
-    "id": "DM-L-019",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Language and confession: Fényes (1851) describes Viszoka as Hungarian-Rusyn-Slovak with 331 Roman Catholics, 275 Greek Catholics and 182 Reformed, and Senné as Slovak-Rusyn-Hungarian. By 1910 Slovak was the recorded majority mother tongue in both.",
-    "url": "https://hu.wikipedia.org/wiki/Ungszenna",
-    "bears_on": [
-      "DM-H-008"
-    ]
-  },
-  {
-    "id": "DM-L-020",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Uzhhorod holdings: fond 151 of the Zakarpattia state archive is the board of the Mukachevo Greek Catholic eparchy. FamilySearch catalogue 1411329 films part of it; its inventories are catalogue 1411333, film 2376464 item 1. Whether it includes Čičarovce or Iňačovce was not checked.",
-    "url": "https://www.familysearch.org/search/catalog/1411329",
-    "bears_on": [
-      "DM-H-005"
-    ]
-  },
-  {
-    "id": "DM-L-021",
-    "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Surname: Demko is a pet form of Demeter in Slovak and Polish use and of Demjan in Rusyn and Ukrainian use; Demkó is the same name in Hungarian spelling.",
-    "url": "https://en.geneanet.org/surnames/DEMETER",
-    "bears_on": [
-      "DM-H-008"
-    ]
-  },
-  {
-    "id": "DM-L-022",
-    "text": "Places named in the Duska-repo strips and in folder F-02, flagged to the Places agent as written: Gönyű, Szina, Bölzse (Belža); Mogyorós; Tegenye; Pálócz; Bező; Lekárt; Vaján; a residence ending '-mező' (read as Feketemező by the Duska agent); Alsókánya; Magasrév.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-011",
-      "DM-H-013"
-    ]
-  },
-  {
-    "id": "DM-L-023",
-    "text": "From the Places agent @6eab2b2: Alsókánya is the Hungarian name of Jastrabie pri Michalovciach (PL-P-014), which the church books call Jesztreb. This confirms the reading 'Kelt: Alsókányán' in DM-D-008: the civil birth of 1906 at Solymos was registered at Jastrabie.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-006",
-      "DM-H-018"
-    ]
-  },
-  {
-    "id": "DM-L-024",
-    "text": "From the Places agent @6eab2b2: the Iňačovce Greek Catholic church archive was badly damaged by lightning on 6 July 1929 and by fire on 1 April 1930 (PL-S-046); the indexed register stops in 1898 (PL-R-003). Three birth volumes of a state register for 1895 to 1906 appear in an index of FamilySearch image groups (PL-S-047), not opened.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-005",
-      "DM-H-018",
-      "DM-H-025"
-    ]
-  },
-  {
-    "id": "DM-L-025",
-    "text": "From the Places agent @6eab2b2: Greek Catholics living in Senné, Jastrabie and Stretava were registered at Iňačovce (PL-H-001, supported, 90). The Reformed of Iňačovce were a filial of Lúčky (PL-R-005). Vysoká nad Uhom stayed on the Slovak side in April 1939 (PL-S-036).",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-002",
-      "DM-H-003",
-      "DM-H-026"
-    ]
-  },
-  {
-    "id": "DM-L-026",
-    "text": "From the coordinator's method note of 12 Nov 2026 (ledger X-017): cholera waves in Hungary in 1831-32, 1848-49, 1854-55, 1866-67, 1872-73 and 1892-93. In this file: twins born in May 1873 both marked dead (DM-D-013), a first child dead at six weeks in February 1857 (DM-D-012). No cause of death is written on any strip in hand.",
-    "url": "https://github.com/primerogueinc/duska-coordinator",
-    "bears_on": [
-      "DM-H-010",
-      "DM-H-021"
-    ]
-  },
-  {
-    "id": "DM-L-027",
-    "text": "Place names as written in folder F-06, flagged to the Places agent: 'Sztrajnyán' (read with doubt; taken as Stráňany by Michalovce) and 'Lasztomér' (taken as Lastomír). Both identifications are from training. If right, both lie in old Zemplén county, outside the Csicser and Iňačovce parishes.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-027",
-      "DM-H-015"
-    ]
-  },
-  {
-    "id": "DM-L-028",
-    "text": "Places as written on the four soldiers' cards, flagged to the Places agent: Enyiczke (Abaujtorna); Nizankowica (Přemyšl, Halič); Giňov (okr. Košice); Michaľany (okr. Sabinov) and Veľký Šariš (okr. Prešov); places of death Perdica u Mte Asolone and Col della Fratte (Italy), Barca u Košic, vrch Dolzok and Mahala (okr. Czernovice, Bukovina), Samarkand. The card index itself is taken, from training, to be the Czech military archive's index of the dead of 1914-1918.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-028",
-      "DM-H-029"
-    ]
-  },
-  {
-    "id": "DM-L-029",
-    "text": "From the Places agent @c5044e4: the Csicser Greek Catholic deaths are in Prešov church-register catalogue no. 182 (to 1886) and no. 182/1 (1887-1907, microfilm 432), both covering Vysoká (PL-R-050). These are the volumes for the burial search that ledger X-017 requires on Mihály Demkó of 1882 (DM-NC-001). Not opened by anyone yet.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-010",
-      "DM-H-016",
-      "DM-H-020"
-    ]
-  },
-  {
-    "id": "DM-L-030",
-    "text": "From the Places agent @c5044e4: Roman Catholics of Viszoka belonged to Pavlovce nad Uhom, not to Čičarovce. Mária Hreskó's own baptism and burial would be in the Pavlovce Roman Catholic book, filmed 1818-1907 (PL-R-052).",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-020",
-      "DM-H-010"
-    ]
-  },
-  {
-    "id": "DM-L-031",
-    "text": "From the Places agent @c5044e4: no Iňačovce Greek Catholic volume after 1898 is listed at Prešov (PL-Q-006, open); the Belža Greek Catholic register for 1791-1896 is in the Košice state archive (PL-R-053); Vysoká stayed on the Slovak side in 1939-1944 while Čičarovce, its parish seat, went to Hungary (PL-H-012, 80).",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-    "bears_on": [
-      "DM-H-005",
-      "DM-H-029"
-    ]
-  }
+ {
+  "id": "DM-L-001",
+  "text": "Iňačovce (Solymos, Ung county). Registers listed at the Prešov state archive: Greek Catholic 1811-1898, Reformed 1747-1940, Roman Catholic 1863-1926. The Greek Catholic run ends in 1898.",
+  "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
+  "bears_on": [
+   "DM-H-002",
+   "DM-H-003",
+   "DM-H-005"
+  ]
+ },
+ {
+  "id": "DM-L-002",
+  "text": "Iňačovce has been a Greek Catholic parish since the mid-18th century, per the Slovak public-administration portal's village profile.",
+  "url": "https://www.slovensko.sk/sk/institucie/o-institucii/informacie-o-obci/_3fa364bb-c010-4003-be03-44f28eb0cdf2",
+  "bears_on": [
+   "DM-H-002",
+   "DM-H-003"
+  ]
+ },
+ {
+  "id": "DM-L-003",
+  "text": "FamilySearch catalogues Greek Catholic records of the Mukachevo eparchy for Ungvár / Užhorod and the Ung district, 1826-1938. Candidate home for the Maria Demko entry. Same item as the Duska agent's L-003.",
+  "url": "https://www.familysearch.org/search/catalog/1411329",
+  "bears_on": [
+   "DM-H-005"
+  ]
+ },
+ {
+  "id": "DM-L-004",
+  "text": "Demko is a diminutive of Demeter / Dymitr / Demyan and occurs as a Polish, Slovak and Ukrainian/Rusyn surname. The name alone does not identify the family's origin.",
+  "url": "https://en.wikipedia.org/wiki/Demko",
+  "bears_on": [
+   "DM-H-008"
+  ]
+ },
+ {
+  "id": "DM-L-005",
+  "text": "A FamilySearch community thread: a researcher was told that registers for some Ung county places are missing from Prešov and went looking in Ukraine; the thread also says Ung county is absent from the 1869 census images on FamilySearch. Shows the Uzhhorod route is a known one for Slovak-side Ung villages.",
+  "url": "https://community.familysearch.org/en/discussion/comment/379308",
+  "bears_on": [
+   "DM-H-004",
+   "DM-H-005"
+  ]
+ },
+ {
+  "id": "DM-L-006",
+  "text": "Hungaricana urbarial tables for Solymos (Ung) list the landlords and their villein counts. Useful for placing a Demko household under a landlord if the family is found at Iňačovce in the 18th century.",
+  "url": "https://archives.hungaricana.hu/en/urberi/ung-solymos",
+  "bears_on": [
+   "DM-H-003"
+  ]
+ },
+ {
+  "id": "DM-L-007",
+  "text": "Senné (Szenna, Ung) Roman Catholic register of births, marriages and deaths, 1831-1926, filmed from the Prešov state archive. Where a Duska-Demko marriage or their children's baptisms would be if the couple lived in Senné. Same item as the Duska agent's L-001.",
+  "url": "https://www.familysearch.org/en/search/catalog/710997",
+  "bears_on": [
+   "DM-H-007"
+  ]
+ },
+ {
+  "id": "DM-L-008",
+  "text": "Čičarovce (Csicser) was in Ung county and lies at about 48°33′N 22°02′E, south of Senné (48°40′N). Its register holdings were not retrieved in this pass.",
+  "url": "https://en.wikipedia.org/wiki/%C4%8Ci%C4%8Darovce",
+  "bears_on": [
+   "DM-H-011"
+  ]
+ },
+ {
+  "id": "DM-L-009",
+  "text": "Hungaricana urbarial tables exist for Csicser (Ung), listing seven landlords. A parallel table for Viszoka should be checked for a Demko villein.",
+  "url": "https://archives.hungaricana.hu/en/urberi/ung-csicser",
+  "bears_on": [
+   "DM-H-009"
+  ]
+ },
+ {
+  "id": "DM-L-010",
+  "text": "Hungarian Act LIII of 1868, section 12: of the children of mixed marriages, sons follow the father's religion and daughters the mother's; contrary agreements are void. Text now sourced (DM-S-003-1, statute collection). Whether it was applied between the Roman and Greek rites is not settled; see ledger X-A-001.",
+  "url": "https://net.jogtar.hu/ezer-ev-torveny?docid=86800053.TV",
+  "bears_on": [
+   "DM-H-002",
+   "DM-H-011"
+  ]
+ },
+ {
+  "id": "DM-L-011",
+  "text": "Relayed, not seen: DUS:S-003 @53bf7f0. Later hand copy of a baptism, entry 13 of 1895: György, born 29 Mar, son of György Demko, Greek Catholic landholder, and Katalin Jobbágy, Gönyű (Gyňov) no. 24. Parish (Belža) from a folder name only. Coordinator crosswalk X-S-002.",
+  "url": "https://github.com/primerogueinc/genealogu-duska-1",
+  "bears_on": [
+   "DM-H-013"
+  ]
+ },
+ {
+  "id": "DM-L-012",
+  "text": "Relayed, not seen: DUS:S-004 @53bf7f0. Later hand copy of a baptism, entry 33 of [1894]: Mária, daughter of József Hriczko, Greek Catholic, and Erzsébet Kocsis, Roman Catholic, Szina (Seňa) no. 182. A daughter of a mixed-rite couple in a book labelled Greek Catholic. The Duska agent holds Hriczko and Hreskó to be different surnames (DUS:H-017, 60). Crosswalk X-S-003.",
+  "url": "https://github.com/primerogueinc/genealogu-duska-1",
+  "bears_on": [
+   "DM-H-002",
+   "DM-H-005"
+  ]
+ },
+ {
+  "id": "DM-L-013",
+  "text": "Relayed from the Places agent, note to the coordinator of 11 Nov 2026: Vysoká nad Uhom is PL-P-037, 6.5 km from Senné and 9.3 km from Iňačovce, and was a Latin-rite filial of Pavlovce nad Uhom in a 1733 list (PL-S-010). Čičarovce is a different village further south and has a Greek Catholic parish today. The Places agent owns the question of which book the 1882 strip is from (X-Q-02, PL-H-008).",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-003",
+   "DM-H-011",
+   "DM-H-012"
+  ]
+ },
+ {
+  "id": "DM-L-014",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Čičarovce village site, church page: Greek Catholic parish priests Jozef Kubek 1847-1881, then Ján Csurgovics 1882-1886. Roman Catholic priest Andrej (Endre) Polányi 1868-1890. In 1825 the Greek Catholic parish had twelve filials, among them Pavlovce nad Uhom, Vysoká nad Uhom and Vojany. All three confessions had a parish in the village.",
+  "url": "https://www.obeccicarovce.sk/cirkev.html",
+  "bears_on": [
+   "DM-H-011"
+  ]
+ },
+ {
+  "id": "DM-L-015",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Vysoká nad Uhom Greek Catholic parish history: a filial of Bežovce after 1771, of Čičarovce after 1806, a parish of its own only from 26 Sep 1948. Names a Ján Čurgovič among priests who served it.",
+  "url": "https://grkatvysokanaduhom.webnode.sk/historia-farnosti/",
+  "bears_on": [
+   "DM-H-011"
+  ]
+ },
+ {
+  "id": "DM-L-016",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. FamilySearch image groups for Čičarovce, via a finding list: Greek Catholic baptisms, marriages and deaths 1875-1886 on DGS 4406715 and 4406819; Roman Catholic baptisms filmed only for 1781-1849 (DGS 4405885). If the 1882 strip is a FamilySearch image, only the Greek Catholic book covers its year.",
+  "url": "https://poosch.sk/en/slovak-church-records-search.html",
+  "bears_on": [
+   "DM-H-011"
+  ]
+ },
+ {
+  "id": "DM-L-017",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Parish geography: Greek Catholics of Senné, Jastrabie, Rebrín, Stretava and Stretavka belonged to the Greek Catholic parish of Iňačovce; Roman Catholics of Iňačovce, Palín, Stretava, Stretavka and Zemplínska Široká belonged to the Roman Catholic parish of Senné.",
+  "url": "https://lexikon.katolikus.hu/U/Ungszenna.html",
+  "bears_on": [
+   "DM-H-002",
+   "DM-H-003"
+  ]
+ },
+ {
+  "id": "DM-L-018",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. A private transcription of the 1715 tax lists shows no Demko at Viszoka, Senné, Čičarovce or Iňačovce. The Viszoka list has a 'Joannes Heress', which may or may not be an early Hreskó.",
+  "url": "https://www.cisarik.com/0_Vysoka_nad_Uhom_Michalovce_KI_Ung_Uzhorod.html",
+  "bears_on": [
+   "DM-H-012"
+  ]
+ },
+ {
+  "id": "DM-L-019",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Language and confession: Fényes (1851) describes Viszoka as Hungarian-Rusyn-Slovak with 331 Roman Catholics, 275 Greek Catholics and 182 Reformed, and Senné as Slovak-Rusyn-Hungarian. By 1910 Slovak was the recorded majority mother tongue in both.",
+  "url": "https://hu.wikipedia.org/wiki/Ungszenna",
+  "bears_on": [
+   "DM-H-008"
+  ]
+ },
+ {
+  "id": "DM-L-020",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Uzhhorod holdings: fond 151 of the Zakarpattia state archive is the board of the Mukachevo Greek Catholic eparchy. FamilySearch catalogue 1411329 films part of it; its inventories are catalogue 1411333, film 2376464 item 1. Whether it includes Čičarovce or Iňačovce was not checked.",
+  "url": "https://www.familysearch.org/search/catalog/1411329",
+  "bears_on": [
+   "DM-H-005"
+  ]
+ },
+ {
+  "id": "DM-L-021",
+  "text": "As reported by the research pass DM-S-003-1; the page itself was not opened by this agent. Surname: Demko is a pet form of Demeter in Slovak and Polish use and of Demjan in Rusyn and Ukrainian use; Demkó is the same name in Hungarian spelling.",
+  "url": "https://en.geneanet.org/surnames/DEMETER",
+  "bears_on": [
+   "DM-H-008"
+  ]
+ },
+ {
+  "id": "DM-L-022",
+  "text": "Places named in the Duska-repo strips and in folder F-02, flagged to the Places agent as written: Gönyű, Szina, Bölzse (Belža); Mogyorós; Tegenye; Pálócz; Bező; Lekárt; Vaján; a residence ending '-mező' (read as Feketemező by the Duska agent); Alsókánya; Magasrév.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-011",
+   "DM-H-013"
+  ]
+ },
+ {
+  "id": "DM-L-023",
+  "text": "From the Places agent @6eab2b2: Alsókánya is the Hungarian name of Jastrabie pri Michalovciach (PL-P-014), which the church books call Jesztreb. This confirms the reading 'Kelt: Alsókányán' in DM-D-008: the civil birth of 1906 at Solymos was registered at Jastrabie.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-006",
+   "DM-H-018"
+  ]
+ },
+ {
+  "id": "DM-L-024",
+  "text": "From the Places agent @6eab2b2: the Iňačovce Greek Catholic church archive was badly damaged by lightning on 6 July 1929 and by fire on 1 April 1930 (PL-S-046); the indexed register stops in 1898 (PL-R-003). Three birth volumes of a state register for 1895 to 1906 appear in an index of FamilySearch image groups (PL-S-047), not opened.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-005",
+   "DM-H-018",
+   "DM-H-025"
+  ]
+ },
+ {
+  "id": "DM-L-025",
+  "text": "From the Places agent @6eab2b2: Greek Catholics living in Senné, Jastrabie and Stretava were registered at Iňačovce (PL-H-001, supported, 90). The Reformed of Iňačovce were a filial of Lúčky (PL-R-005). Vysoká nad Uhom stayed on the Slovak side in April 1939 (PL-S-036).",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-002",
+   "DM-H-003",
+   "DM-H-026"
+  ]
+ },
+ {
+  "id": "DM-L-026",
+  "text": "From the coordinator's method note of 12 Nov 2026 (ledger X-017): cholera waves in Hungary in 1831-32, 1848-49, 1854-55, 1866-67, 1872-73 and 1892-93. In this file: twins born in May 1873 both marked dead (DM-D-013), a first child dead at six weeks in February 1857 (DM-D-012). No cause of death is written on any strip in hand.",
+  "url": "https://github.com/primerogueinc/duska-coordinator",
+  "bears_on": [
+   "DM-H-010",
+   "DM-H-021"
+  ]
+ },
+ {
+  "id": "DM-L-027",
+  "text": "Place names as written in folder F-06, flagged to the Places agent: 'Sztrajnyán' (read with doubt; taken as Stráňany by Michalovce) and 'Lasztomér' (taken as Lastomír). Both identifications are from training. If right, both lie in old Zemplén county, outside the Csicser and Iňačovce parishes.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-027",
+   "DM-H-015"
+  ]
+ },
+ {
+  "id": "DM-L-028",
+  "text": "Places as written on the four soldiers' cards, flagged to the Places agent: Enyiczke (Abaujtorna); Nizankowica (Přemyšl, Halič); Giňov (okr. Košice); Michaľany (okr. Sabinov) and Veľký Šariš (okr. Prešov); places of death Perdica u Mte Asolone and Col della Fratte (Italy), Barca u Košic, vrch Dolzok and Mahala (okr. Czernovice, Bukovina), Samarkand. The card index itself is taken, from training, to be the Czech military archive's index of the dead of 1914-1918.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-028",
+   "DM-H-029"
+  ]
+ },
+ {
+  "id": "DM-L-029",
+  "text": "From the Places agent @c5044e4: the Csicser Greek Catholic deaths are in Prešov church-register catalogue no. 182 (to 1886) and no. 182/1 (1887-1907, microfilm 432), both covering Vysoká (PL-R-050). These are the volumes for the burial search that ledger X-017 requires on Mihály Demkó of 1882 (DM-NC-001). Not opened by anyone yet.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-010",
+   "DM-H-016",
+   "DM-H-020"
+  ]
+ },
+ {
+  "id": "DM-L-030",
+  "text": "From the Places agent @c5044e4: Roman Catholics of Viszoka belonged to Pavlovce nad Uhom, not to Čičarovce. Mária Hreskó's own baptism and burial would be in the Pavlovce Roman Catholic book, filmed 1818-1907 (PL-R-052).",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-020",
+   "DM-H-010"
+  ]
+ },
+ {
+  "id": "DM-L-031",
+  "text": "From the Places agent @c5044e4: no Iňačovce Greek Catholic volume after 1898 is listed at Prešov (PL-Q-006, open); the Belža Greek Catholic register for 1791-1896 is in the Košice state archive (PL-R-053); Vysoká stayed on the Slovak side in 1939-1944 while Čičarovce, its parish seat, went to Hungary (PL-H-012, 80).",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-005",
+   "DM-H-029"
+  ]
+ },
+ {
+  "id": "DM-L-032",
+  "text": "The Solymos Greek Catholic baptism book notes deaths of young children in the remarks column ('meghalt', with a date) on eight of the strips in hand, 1875 to 1894. A blank remarks cell in those years is therefore weak evidence of survival past childhood. Observed on the strips, not taken from any guide.",
+  "url": null,
+  "bears_on": [
+   "DM-H-031",
+   "DM-H-033"
+  ]
+ },
+ {
+  "id": "DM-L-033",
+  "text": "The Duska agent holds the same candidate baptism for Ahn 19 as its own hypothesis (DUS:H-038 @66f89b1, at 55). Two readings of one strip, made separately; not two pieces of evidence.",
+  "url": "https://github.com/primerogueinc/genealogu-duska-1",
+  "bears_on": [
+   "DM-H-031"
+  ]
+ },
+ {
+  "id": "DM-L-034",
+  "text": "From the Places agent @208af51, which read the Prešov archive's catalogue itself: Iňačovce Greek Catholic deaths are nos. 380 to 383, to 1898; Stráňany Greek Catholics are in the Michalovce parish (no. 673, 1876-1890) and an entry misplaced by rite should be sought under the same number in the other book (PL-R-056); Lastomír has its own Greek Catholic book from 1860 (no. 531; PL-R-055); Enyiczke is Haniska by Košice (PL-N-025); the Pavlovce Roman Catholic volumes begin only in 1869, so a Roman Catholic of Viszoka born earlier is not in them (PL-R-052). Its caution on Jesztreb house numbers is the same as this repo's: one cottar household, seven numbers.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "DM-H-031",
+   "DM-H-027",
+   "DM-H-010"
+  ]
+ }
 ]

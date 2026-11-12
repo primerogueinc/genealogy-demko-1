@@ -1,4 +1,4 @@
-# DM-D-035 · Baptism of Anna Demko, born 12 January [1870], Jesztreb 54
+# DM-D-035 · Baptism of Anna Demko, born 12 January [1871], Jesztreb 54 (file name says 1870)
 
 - **File:** `archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Anna_Demko_1870.png`
 - **SHA-256:** `d30597dc87daf31244c65f19125f4e434641235c2a3b5c1230fb94a7b86007b1`
@@ -27,5 +27,5 @@ No. 4. Born 12 January, baptised 13 January: Anna, legitimate daughter of Michae
 
 ## Notes
 
-- Year 1870 from the collector's file name.
+- The collector's file name says 1870. The strip DM-D-068 shows the blank row no. 49 of 1870 for the same parents, house and godparents, with '1871' written over it; this entry, no. 4 of January, is the child that row was begun for. Year corrected to 1871 in DM-B-010.
 - Probably the older Mihály Demkó implied by 'ifj.' in the 1889 entry. Readings agree with DUS:D-005-08.

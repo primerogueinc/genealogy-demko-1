@@ -1,84 +1,118 @@
 [
-  {
-    "id": "DM-NC-001",
-    "rule": "X-017 rules 1 to 5",
-    "person": "P-018 / DM-X-001, Mihály Demkó, baptised 20 Aug 1882",
-    "burials_searched": "none: no burial register of the Csicser Greek Catholic parish or of the Roman Catholic parish for Viszoka, 1882 to 1897, is in hand",
-    "forward_search": "The strips in hand for this couple end in 1882. No later Mihály to György Demkó is in hand; the mother was bearing by January 1857, so a child after 1882 is unlikely.",
-    "backward": "An earlier Mihály, twin, born 29 May [1873], is marked with a cross (DM-D-013). The 1882 child is itself a reuse of that name. The two are kept as two people.",
-    "age_test": "The father of 1906 is '24 (huszonnégy) éves' on 23 Aug 1906: born between 24 Aug 1881 and 23 Aug 1882. The child of 19 Aug 1882 fits; the twin of 1873 does not.",
-    "cousin_test": "The 1906 record names no parents for him. A cousin Mihály born about 1881-82 to János Demkó of Viszoka no. 120 is not excluded by the strips in hand (gap between March 1879 and January 1883).",
-    "result": "necronym risk: unresolved. Link capped at 70.",
-    "logged": "2026-11-12T06:16:34Z"
-  },
-  {
-    "id": "DM-NC-002",
-    "rule": "X-017 rules 1 to 3",
-    "person": "P-009, Mária Demkó, born 22 Aug 1906",
-    "burials_searched": "none: no burial or civil death register for Solymos, 1906 to 1921, is in hand",
-    "forward_search": "One other baptism of a Mária to a Mihály Demkó is in hand (DM-D-006, 24 February, year not shown, mother Anna). It is kept as a second person.",
-    "age_test": "The gravestone gives 'born 1906'. No record gives her age at marriage or death.",
-    "result": "necronym risk: unresolved. That Ahn 9 is the child of 1906 stays an agreement of name, village and year.",
-    "logged": "2026-11-12T06:16:34Z"
-  },
-  {
-    "id": "DM-NC-003",
-    "rule": "X-017 rules 1, 6 and 7",
-    "person": "P-036, György Demkó, husband of Mária Hreskó; candidates Georgius of [1831] and György of [1834]",
-    "burials_searched": "none in hand",
-    "forward_search": "Three wives' names appear with a György Demko at Viszoka between [1831] and [1840]. Under rule 7 they are taken as successive wives of one man until a record shows two men (DM-H-021).",
-    "result": "necronym risk: unresolved for both boys.",
-    "logged": "2026-11-12T06:16:34Z"
-  },
-  {
-    "id": "DM-NC-004",
-    "rule": "X-017 rule 3",
-    "person": "János Demkó: twin of [1873] (cross), and János born 29 Mar 1875, same parents",
-    "result": "Two people. The second carries the name of the first.",
-    "logged": "2026-11-12T06:16:34Z"
-  },
-  {
-    "id": "DM-NC-005",
-    "rule": "X-017 rule 7",
-    "person": "DM-X-016 Anna Szlekár [1874] and DM-X-028 Mária Szlekár [1877-1883], wives of János Demkó",
-    "result": "Kept as two women. A slip of the pen for one woman is as likely; no record decides.",
-    "logged": "2026-11-12T06:16:34Z"
-  },
-  {
-    "id": "DM-NC-006",
-    "rule": "X-017 item 6",
-    "person": "DUS:K-004 György Demko (1895, Gönyű) and DUS:K-007 Mária Hriczko ([1894], Szina)",
-    "result": "Neither is attached to anyone on this line or used for any inference here.",
-    "logged": "2026-11-12T06:16:34Z"
-  },
-  {
-    "id": "DM-NC-007",
-    "rule": "X-017 rules 2 and 6",
-    "person": "Three men named Mihály Demkó: P-018 (born Viszoka 1882), DM-X-029 (the younger, of Jesztreb, a father in 1889), DM-X-008 (of Sztrajnyán (?), a father in 1887 and 1892)",
-    "result": "Kept as three people. Each is tied to his own wife's name and village; only P-018 is tied to Ahn 9, by the birthplace and age written in 1906.",
-    "logged": "2026-11-12T06:23:02Z"
-  },
-  {
-    "id": "DM-NC-008",
-    "rule": "X-017 rules 2 and 3",
-    "person": "Anna Kocsis, born 18 Mar [1875], and Anna Kocsis, born 16 Apr 1877, both to János Kocsis of Solymos no. 13",
-    "result": "Two people. No burial for the first is in hand.",
-    "logged": "2026-11-12T06:28:32Z"
-  },
-  {
-    "id": "DM-NC-009",
-    "rule": "X-017 rules 2 and 7",
-    "person": "Borbála Kocsis of [1843] (mother Anna Cservenyák) and Borbála Kocsis of [1846] (mother Mária), both to Pál Kocsis of Solymos",
-    "result": "Two girls and, until shown otherwise, two wives of one man.",
-    "logged": "2026-11-12T06:28:32Z"
-  },
-  {
-    "id": "DM-NC-010",
-    "rule": "X-017 rule 1",
-    "person": "P-019, Mária Kocsis, born at Solymos about 1886",
-    "burials_searched": "none in hand",
-    "forward_search": "No baptism of a Mária Kocsis is in hand at all. Her birth year comes from her age, 20, as written in August 1906.",
-    "result": "Not yet attached to any baptism. When one is found, look for a second Mária to the same parents before taking it.",
-    "logged": "2026-11-12T06:28:32Z"
-  }
+ {
+  "id": "DM-NC-001",
+  "rule": "X-017 rules 1 to 5",
+  "person": "P-018 / DM-X-001, Mihály Demkó, baptised 20 Aug 1882",
+  "burials_searched": "none: no burial register of the Csicser Greek Catholic parish or of the Roman Catholic parish for Viszoka, 1882 to 1897, is in hand",
+  "forward_search": "The strips in hand for this couple end in 1882. No later Mihály to György Demkó is in hand; the mother was bearing by January 1857, so a child after 1882 is unlikely.",
+  "backward": "An earlier Mihály, twin, born 29 May [1873], is marked with a cross (DM-D-013). The 1882 child is itself a reuse of that name. The two are kept as two people.",
+  "age_test": "The father of 1906 is '24 (huszonnégy) éves' on 23 Aug 1906: born between 24 Aug 1881 and 23 Aug 1882. The child of 19 Aug 1882 fits; the twin of 1873 does not.",
+  "cousin_test": "The 1906 record names no parents for him. A cousin Mihály born about 1881-82 to János Demkó of Viszoka no. 120 is not excluded by the strips in hand (gap between March 1879 and January 1883).",
+  "result": "necronym risk: unresolved. Link capped at 70.",
+  "logged": "2026-11-12T06:16:34Z"
+ },
+ {
+  "id": "DM-NC-002",
+  "rule": "X-017 rules 1 to 3",
+  "person": "P-009, Mária Demkó, born 22 Aug 1906",
+  "burials_searched": "none: no burial or civil death register for Solymos, 1906 to 1921, is in hand",
+  "forward_search": "One other baptism of a Mária to a Mihály Demkó is in hand (DM-D-006, 24 February, year not shown, mother Anna). It is kept as a second person.",
+  "age_test": "The gravestone gives 'born 1906'. No record gives her age at marriage or death.",
+  "result": "necronym risk: unresolved. That Ahn 9 is the child of 1906 stays an agreement of name, village and year.",
+  "logged": "2026-11-12T06:16:34Z"
+ },
+ {
+  "id": "DM-NC-003",
+  "rule": "X-017 rules 1, 6 and 7",
+  "person": "P-036, György Demkó, husband of Mária Hreskó; candidates Georgius of [1831] and György of [1834]",
+  "burials_searched": "none in hand",
+  "forward_search": "Three wives' names appear with a György Demko at Viszoka between [1831] and [1840]. Under rule 7 they are taken as successive wives of one man until a record shows two men (DM-H-021).",
+  "result": "necronym risk: unresolved for both boys.",
+  "logged": "2026-11-12T06:16:34Z"
+ },
+ {
+  "id": "DM-NC-004",
+  "rule": "X-017 rule 3",
+  "person": "János Demkó: twin of [1873] (cross), and János born 29 Mar 1875, same parents",
+  "result": "Two people. The second carries the name of the first.",
+  "logged": "2026-11-12T06:16:34Z"
+ },
+ {
+  "id": "DM-NC-005",
+  "rule": "X-017 rule 7",
+  "person": "DM-X-016 Anna Szlekár [1874] and DM-X-028 Mária Szlekár [1877-1883], wives of János Demkó",
+  "result": "Kept as two women. A slip of the pen for one woman is as likely; no record decides.",
+  "logged": "2026-11-12T06:16:34Z"
+ },
+ {
+  "id": "DM-NC-006",
+  "rule": "X-017 item 6",
+  "person": "DUS:K-004 György Demko (1895, Gönyű) and DUS:K-007 Mária Hriczko ([1894], Szina)",
+  "result": "Neither is attached to anyone on this line or used for any inference here.",
+  "logged": "2026-11-12T06:16:34Z"
+ },
+ {
+  "id": "DM-NC-007",
+  "rule": "X-017 rules 2 and 6",
+  "person": "Three men named Mihály Demkó: P-018 (born Viszoka 1882), DM-X-029 (the younger, of Jesztreb, a father in 1889), DM-X-008 (of Sztrajnyán (?), a father in 1887 and 1892)",
+  "result": "Kept as three people. Each is tied to his own wife's name and village; only P-018 is tied to Ahn 9, by the birthplace and age written in 1906.",
+  "logged": "2026-11-12T06:23:02Z"
+ },
+ {
+  "id": "DM-NC-008",
+  "rule": "X-017 rules 2 and 3",
+  "person": "Anna Kocsis, born 18 Mar [1875], and Anna Kocsis, born 16 Apr 1877, both to János Kocsis of Solymos no. 13",
+  "result": "Two people. No burial for the first is in hand.",
+  "logged": "2026-11-12T06:28:32Z"
+ },
+ {
+  "id": "DM-NC-009",
+  "rule": "X-017 rules 2 and 7",
+  "person": "Borbála Kocsis of [1843] (mother Anna Cservenyák) and Borbála Kocsis of [1846] (mother Mária), both to Pál Kocsis of Solymos",
+  "result": "Two girls. The reading 'two wives of one man' is withdrawn: see DM-NC-013.",
+  "logged": "2026-11-12T06:28:32Z"
+ },
+ {
+  "id": "DM-NC-010",
+  "rule": "X-017 rule 1",
+  "person": "P-019, Mária Kocsis, born at Solymos about 1886",
+  "burials_searched": "none in hand",
+  "forward_search": "No baptism of a Mária Kocsis is in hand at all. Her birth year comes from her age, 20, as written in August 1906.",
+  "result": "A candidate baptism has since been found: see DM-NC-011.",
+  "logged": "2026-11-12T06:28:32Z"
+ },
+ {
+  "id": "DM-NC-011",
+  "rule": "X-017 rules 1 and 2",
+  "person": "P-019, Mária Kocsis, against the Mária baptised 28 Feb [1887] at Solymos no. 19",
+  "burials_searched": "none in hand. The Places agent now gives the Iňačovce Greek Catholic death volumes at Prešov as nos. 382 (1861-1874) and 383 (1860-1898), film 88 (PL-R-003 @208af51). No agent has opened them, and nothing is known after 1898.",
+  "forward_search": "All 58 strips of the folder checked by label, and the 28 held here read: no second Mária to Mihály Kocsis and Mária Knyezső; their next child in hand is Anna, October [1889]. The remarks cell of the [1887] entry is blank, in a book that notes infant deaths there on eight strips between 1875 and 1894.",
+  "age_test": "Born February 1887: 19 in August 1906, where the civil record says 20.",
+  "result": "Unresolved. Not attached to P-019. DM-H-031 is held at 58 and cannot pass 70 until a burial search or the marriage entry is seen.",
+  "logged": "2026-11-12T06:48:29Z"
+ },
+ {
+  "id": "DM-NC-012",
+  "rule": "X-017 rule on two baptisms to the same parents",
+  "person": "The blank entry no. 49 of 1870 and Anna Demko, no. 4 of January [1871], both to Michael Demko and Maria Lazár of Jesztreb no. 54",
+  "forward_search": "Same parents, same house number, same godparents, three rows apart, and the first row has no name and no dates.",
+  "result": "One child, entered once. The blank row is a false start overwritten with the new year. The Anna strip is redated from [1870] to [1871].",
+  "logged": "2026-11-12T06:48:29Z"
+ },
+ {
+  "id": "DM-NC-013",
+  "rule": "X-017 rule on a change of mother's name",
+  "person": "Children of 'Pál Kocsis' of Solymos: Borbála [1843] (Anna Cservenyák), Borbála [1846] (Mária Jevcsák), Mihály [1847 or 1848] (Anna Cservenyák)",
+  "forward_search": "The [1846] strip was read again at a larger size; the mother is Mária Jevcsák.",
+  "result": "The mothers alternate, so this is not a widower's second marriage. Either two men called Pál Kocsis held land at Solymos in the 1840s, or the [1846] entry names the wrong mother. Open. A second Borbála three years after the first is then no evidence that the first had died, if the fathers are two men.",
+  "logged": "2026-11-12T06:48:29Z"
+ },
+ {
+  "id": "DM-NC-014",
+  "rule": "X-017 rule 1",
+  "person": "Mária Demkó of Jesztreb, born [1888] to Mihály Demkó and Anna Jaros, against P-009 Maria Demko, born 1906 to Mihály Demkó and Mária Kocsis",
+  "age_test": "Eighteen years apart; different mothers; different fathers (DM-H-033 against DM-H-010).",
+  "result": "Two people. A record of a 'Mária Demkó, daughter of Mihály' from this parish must be placed by date and mother's name before it is given to either. The same holds for the Maria of [1864], aunt of the [1888] child.",
+  "logged": "2026-11-12T06:48:29Z"
+ }
 ]
