@@ -186,5 +186,21 @@
   ],
   "archive_path": "archive/duska-census/",
   "taken_from": "primerogueinc/genealogu-duska-1 @c1c3be2 and @2043138, its F-011"
+ },
+ {
+  "id": "F-13",
+  "path": "Duska Death",
+  "described_by_kevin": "The owner's folder of deaths, given to the Duska agent in sub-folders: 'Belza Kosice Greek Catholic' (9 strips), 'Cicarovce - Greek Catholic' (18), 'Inacovce Greek Catholic' (46). The Duska agent routed 41 strips to this line, and all 41 are taken here under ledger X-012: burials of Demko and Kocsis families at Viszoka, Jesztreb, Solymos and in Abaúj, [1831] to 1897. More sub-folders may follow.",
+  "received": "2026-11-12",
+  "files_received": 41,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-018"
+  ],
+  "archive_path": "archive/duska-death/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513, its F-013"
  }
 ]

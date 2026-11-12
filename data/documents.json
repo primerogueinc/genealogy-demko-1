@@ -8794,5 +8794,4042 @@
   "independent": false,
   "also_read_by": "DUS:D-011-84 @2043138",
   "taken_from": "primerogueinc/genealogu-duska-1 @2043138 under ledger X-012"
+ },
+ {
+  "id": "DM-D-106",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-1",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Anna_Demko_1837.png",
+  "sha256": "a05159fba7f996da7cb1991469458f1c8e9efaf32e430029e8e30b1deab7c160",
+  "image": {
+   "format": "PNG",
+   "width": 1585,
+   "height": 279
+  },
+  "title": "Burial of Anna Demko, widow, aged 35, 9 February [1837], Pálóc (?)",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Demko 1837",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Date",
+    "original": "Böjt Elő Hava 9én",
+    "english": "9th of February (\"the month before Lent\")",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Demko Anna",
+    "english": "Anna Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Standing",
+    "original": "özvegy",
+    "english": "widow",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "35",
+    "english": "35",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Condition",
+    "original": "özvegy zsellér[...]",
+    "english": "widow, cottar",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Place",
+    "original": "Pálócz (?)",
+    "english": "Pálóc (Pavlovce nad Uhom) (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "Aszály (?)",
+    "english": "wasting (?)",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "The 9th of February. Anna Demko, widow, 35 years old, Greek Catholic, a cottar widow, of Pálóc (?). Cause: wasting (?).",
+  "notes": [
+   "The row below it is the Pihulics boy of DM-D-123 [same page]. The name András above the word özvegy belongs to the row before. No year on the strip.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-10 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1837] by the file name; the form is that of the 1830s and 1840s",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-10 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-107",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-2",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Anna_Demko_1873.png",
+  "sha256": "21c0a559aadaa6dd0a92c9450f733e485713bf5f6bcc3b2abb34acd0924bb4f0",
+  "image": {
+   "format": "PNG",
+   "width": 1742,
+   "height": 160
+  },
+  "title": "Burial of Anna, about 1, daughter of János Demkó, farmer; died 26 August [1873], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Demko 1873",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "86",
+    "english": "86",
+    "certainty": "probable"
+   },
+   {
+    "column": "Died",
+    "original": "Aug. 26.",
+    "english": "26 August",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Anna",
+    "english": "Anna",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja: Demkó János gazda",
+    "english": "her father: János Demkó, farmer",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "1 (?)",
+    "english": "about 1 year (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "gyengeség (?)",
+    "english": "weakness (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka Aug. 27.",
+    "english": "Viszoka, 27 August",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 86. 26 August. Anna; her father János Demkó, farmer. About one year old (?). Buried at Viszoka on 27 August.",
+  "notes": [
+   "The row with it is András, son of a Juhász, cottar, of Csicser, aged about 15 (?). Entry 86 by late August is a heavy year: the cholera summer. No baptism of this Anna is in hand; the Anna of DM-D-016 was born in October [1874], after this one died, to the same father: a name used again.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-11 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial.",
+   "does_not_fit": "No year on the strip. Entry 86 by late August, among cholera deaths in the other strips of this page run, fits 1873.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1873] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-11 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-108",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-3",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Anna_Pesotar_Demko_1842.png",
+  "sha256": "e8100a3048e43f1ebc79017fbceca230592fe94ce60126c704414289ce2a7f35",
+  "image": {
+   "format": "PNG",
+   "width": 1453,
+   "height": 202
+  },
+  "title": "Burial of Anna Pesotár (?), wife of György Demko, aged 34 (?), [1842], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Pesotar Demko 1842",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Name",
+    "original": "Pesotár (?) Anna",
+    "english": "Anna Pesotár (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Husband",
+    "original": "Férje Demko György",
+    "english": "her husband György Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "34 (?)",
+    "english": "34 (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Viszoka",
+    "english": "Viszoka",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "Szárazkórság",
+    "english": "consumption (\"dry sickness\")",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Anna Pesotár (?); her husband György Demko. Aged 34 (?). Greek Catholic. Viszoka. Consumption.",
+  "notes": [
+   "Her surname is small and hard: Pesotár (?) is the collector's reading and fits the strokes. A György Demko of Viszoka had children by an Anna read here as Samudovszki (?) in [1834] and [1838] (DM-D-021, DM-D-022). Whether this is that Anna under another reading of the surname cannot be told from the strips.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-12 @9462513.",
+   "After comparison. Age: 34 (?) here, 37 in the Duska agent's reading."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1842] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-12 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "Age: 34 (?) here, 37 in the Duska agent's reading."
+  ]
+ },
+ {
+  "id": "DM-D-109",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-4",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Barbara_Demko_1831.png",
+  "sha256": "ac4bcb3389612c209b7e2bffec76790d66e673918245148051496a701e599df0",
+  "image": {
+   "format": "PNG",
+   "width": 1547,
+   "height": 172
+  },
+  "title": "Burial of Barbara, wife of Georgius Demko, aged 25, [1831], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Barbara Demko 1831",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Day",
+    "original": "22a",
+    "english": "the 22nd",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Barbara",
+    "english": "Barbara",
+    "certainty": "clear"
+   },
+   {
+    "column": "Husband",
+    "original": "Georgius Demko maritus",
+    "english": "Georgius Demko, husband",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "25",
+    "english": "25",
+    "certainty": "probable"
+   },
+   {
+    "column": "Place",
+    "original": "Viszoka",
+    "english": "Viszoka",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "Phtysis",
+    "english": "consumption",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The 22nd. Barbara; Georgius Demko, her husband. Aged 25. Viszoka. Consumption.",
+  "notes": [
+   "Latin, the language of the Csicser book in the early 1830s (as DM-D-020 and DM-D-024). She is the Barbara of DM-D-020, mother of the Georgius baptised in [1831]: she died the year he was born, if both file years are right.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-13 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled, one page wide, in Latin: day, name, husband or parent, age, place, cause. The language of this book in the early 1830s, as in the baptisms of [1831] and [1832].",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1831] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-13 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-110",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-5",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Erzebet_Demko_1875.png",
+  "sha256": "70593ad3f8f28a9fca67532986868c1c38abd15067d5fabd4affc68c3a46a03f",
+  "image": {
+   "format": "PNG",
+   "width": 1867,
+   "height": 91
+  },
+  "title": "Burial of Erzsébet Demkó, widow of György Hajdú, aged 54, 8 November [1875], Pálóc (?)",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Erzebet Demko 1875",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "23 (?)",
+    "english": "23 (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Died",
+    "original": "Nov. 8.",
+    "english": "8 November",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Demkó Erzsébet",
+    "english": "Erzsébet Demkó",
+    "certainty": "clear"
+   },
+   {
+    "column": "Standing",
+    "original": "Hajdú György özvegye, zsellér",
+    "english": "widow of György Hajdú, cottar",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex, age",
+    "original": "nő, 54",
+    "english": "female, 54",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Pálóc (?) Nov. 10.",
+    "english": "Pálóc (?), 10 November",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "Erzsébet Demkó, widow of György Hajdú, cottar. Female, 54. Died 8 November, buried 10 November at Pálóc (?).",
+  "notes": [
+   "A Demko woman born about 1821, married out of the name. Not placed in any household.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-14 @9462513.",
+   "After comparison. Husband's surname: Hajdú here, H[ajtó] in the Duska agent's reading. Cause: not read here; pneumonia there."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial.",
+   "does_not_fit": "No year on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1875] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-14 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "Husband's surname: Hajdú here, H[ajtó] in the Duska agent's reading. Cause: not read here; pneumonia there."
+  ]
+ },
+ {
+  "id": "DM-D-111",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-6",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Gyorgy_Demko_1905.png",
+  "sha256": "20ba74b849e18ccfbf8e1bf49bed4af1d195b8b7c8d4912da6b99e5786a09f73",
+  "image": {
+   "format": "PNG",
+   "width": 1346,
+   "height": 188
+  },
+  "title": "Burial of György, aged 5, son of György Demko, on the 15th; a page of the 1830s or 1840s, not of 1905",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Demko 1905",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Day",
+    "original": "15.",
+    "english": "the 15th",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "György",
+    "english": "György",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "Attya Demkó György",
+    "english": "his father György Demkó",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "5. E.",
+    "english": "5 years",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Condition",
+    "original": "[struck through]",
+    "english": "[a word struck through]",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Next column",
+    "original": "[Zs]ellérség (?)",
+    "english": "cottar's holding (?), by the Duska agent's reading; not read here",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Last column",
+    "original": "Viszoka",
+    "english": "Viszoka",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The 15th. György; his father György Demkó. Five years old. Greek Catholic. Viszoka (?).",
+  "notes": [
+   "The file name says 1905. The form says otherwise: hand-ruled columns, the old spelling \"Attya\", age as \"5. E.\", no entry number, no house number, the same form as the strips of [1836], [1837], [1841] and [1842]. By 1905 this parish wrote on a printed form with a year in each entry. So this is a burial of about 1835 to 1845, and 1905 may be a slip for 1835. Which column holds the place is not sure.",
+   "File name says 1905; the form is that of the 1830s and 1840s.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-15 @9462513.",
+   "After comparison. The two doubtful columns: the Duska agent reads the first as the father's state and the last as Viszoka, with the cause cut off. That fits the page better than this agent's guess of a cause, and is adopted with a question mark."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "The file name says 1905. The form is seventy years older: by the 1850s this book had a two-page form with running numbers, and by 1883 it wrote the year in every entry. A burial of 1905 would not look like this.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "About 1835 to 1845, by the form",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-15 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "The two doubtful columns: the Duska agent reads the first as the father's state and the last as Viszoka, with the cause cut off. That fits the page better than this agent's guess of a cause, and is adopted with a question mark."
+  ]
+ },
+ {
+  "id": "DM-D-112",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-7",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Gyorgy_Kocsis_1841.png",
+  "sha256": "8516aa1d3a96e3bc1584727ddad090425f2fd8b37dee7d4ad91079b396d3d3cd",
+  "image": {
+   "format": "PNG",
+   "width": 1563,
+   "height": 300
+  },
+  "title": "Burial of György Kocsis, aged 5, son of János Kocsis, on the 15th, [1841], Mogyorós (?)",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Kocsis 1841",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Day",
+    "original": "15.",
+    "english": "the 15th",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Kocsis György",
+    "english": "György Kocsis",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "Attya Kocsis János",
+    "english": "his father János Kocsis",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "5. E.",
+    "english": "5 years",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Mogyo-rós (?)",
+    "english": "Mogyorós (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "Hideglelés",
+    "english": "fever",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The 15th. György Kocsis; his father János Kocsis. Five years old. Greek Catholic. Of Mogyorós (?). Fever.",
+  "notes": [
+   "A Kocsis family of the Csicser parish, as in DM-D-028 (Mogyorós, [1832]). No stated link to the Kocsis of Solymos.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-16 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1841] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-16 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-113",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-8",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Iliona_Demko_1836.png",
+  "sha256": "95a41debeea99e11c903e16945eba13a6ee169c35aa79f7f7e2d4011722927d0",
+  "image": {
+   "format": "PNG",
+   "width": 1709,
+   "height": 223
+  },
+  "title": "Burial of Ilona Demkó, 14th of a month [1836], Viszoka: a child of György Demko's wife, aged 3 (?), or his wife, aged 33",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Iliona Demko 1836",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Date",
+    "original": "[Jan. ?] 14én",
+    "english": "the 14th [of January ?]",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Name",
+    "original": "Demkó Ilona",
+    "english": "Ilona Demkó",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parent",
+    "original": "Annya [over Attya] Demko Györgyné",
+    "english": "her mother [written over \"her father\"]: the wife of György Demko",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "3 (?)",
+    "english": "3 (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Condition",
+    "original": "Jobbágy / Telkes",
+    "english": "serf / holder of a plot",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Place",
+    "original": "Viszoka",
+    "english": "Viszoka",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "Gilisszta",
+    "english": "worms",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The 14th. Ilona Demkó; her mother, the wife of György Demko. Aged 3 (?). Greek Catholic. Of a serf holding. Viszoka. Worms.",
+  "notes": [
+   "The clerk first wrote \"her father\" and changed it to \"her mother\". The age could be 13: the first stroke may be a 1 or a flourish.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-17 @9462513.",
+   "After comparison. The two agents read this entry differently. Here: a child aged 3 (?), with 'her mother, the wife of György Demko' written over 'her father'. The Duska agent: Ilona, wife of György Demkó, aged 33. The cause, worms, is a child's death. If she is a wife, a György Demko of Viszoka lost a wife in [1831], another in [1836] and a third in [1842]. Not settled."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "No year and no church on the strip. The relation cell is corrected in the clerk's hand.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1836] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-17 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "The two agents read this entry differently. Here: a child aged 3 (?), with 'her mother, the wife of György Demko' written over 'her father'. The Duska agent: Ilona, wife of György Demkó, aged 33. The cause, worms, is a child's death. If she is a wife, a György Demko of Viszoka lost a wife in [1831], another in [1836] and a third in [1842]. Not settled."
+  ]
+ },
+ {
+  "id": "DM-D-114",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-9",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Infant_Demko_1873.png",
+  "sha256": "fb6126367cd8a8029e08d8b4b6e417a955a31914312b064200987bdde8c0c896",
+  "image": {
+   "format": "PNG",
+   "width": 1597,
+   "height": 129
+  },
+  "title": "Burial of an unnamed infant son of János Demkó, farmer; died 22 March [1873], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Infant Demko 1873",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "18",
+    "english": "18",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Mart. 22.",
+    "english": "22 March",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "[blank]",
+    "english": "[no name]",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja: Demkó János gazda",
+    "english": "his father: János Demkó, farmer",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex",
+    "original": "fi",
+    "english": "male",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "[blank]",
+    "english": "[none given]",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "gyenges[ég] (?)",
+    "english": "weakness (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka Mart. 23.",
+    "english": "Viszoka, 23 March",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 18. 22 March. [No name]; his father János Demkó, farmer. Male. Buried at Viszoka on 23 March.",
+  "notes": [
+   "No name and no age: a child who died before baptism. The rows of the right-hand page sit one line off the left in this strip, so the cause and burial are matched by date.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-18 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial.",
+   "does_not_fit": "No year on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1873] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-18 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-115",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-10",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Janos_Demko_1872.png",
+  "sha256": "432eccb3313c3196895f94cd594f66671f2ebb9d70cf9574e06a031708d1811e",
+  "image": {
+   "format": "PNG",
+   "width": 1628,
+   "height": 147
+  },
+  "title": "Burial of János, aged 2, son of György Demkó, farmer; died 14 December [1872], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1872",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "49",
+    "english": "49",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "dec. 14.",
+    "english": "14 December",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "János",
+    "english": "János",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja: Demkó György gazda",
+    "english": "his father: György Demkó, farmer",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 2",
+    "english": "male, 2",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "köhögés (?)",
+    "english": "cough (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka dec. 15.",
+    "english": "Viszoka, 15 December",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 49. 14 December. János; his father György Demkó, farmer. Male, 2 years. Buried at Viszoka on 15 December.",
+  "notes": [
+   "A János born about 1870, of whom no baptism is in hand. Five and a half months after he died the twins of 29 May [1873] were baptised Mihály and János (DM-D-013): the name was given again at once. The row below is a death from cholera.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-19 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial.",
+   "does_not_fit": "No year on the strip. The next row is a cholera death.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1872] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-19 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-116",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-11",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Janos_Demko_1873.png",
+  "sha256": "d5feafcde9e804ddfa008affb6b211bcbaecf07772af9f992a001f1ef2e52a31",
+  "image": {
+   "format": "PNG",
+   "width": 1798,
+   "height": 96
+  },
+  "title": "Burial of János, aged 15 days, twin son of György Demkó, farmer; died 14 June [1873], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1873",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "31",
+    "english": "31",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Junius 14",
+    "english": "14 June",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "János",
+    "english": "János",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja Demkó György gazda",
+    "english": "his father György Demkó, farmer",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 15 nap[os]",
+    "english": "male, 15 days",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "gyengeség",
+    "english": "weakness",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka Jun. 15.",
+    "english": "Viszoka, 15 June",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 31. 14 June. János; his father György Demkó, farmer. Male, 15 days. Weakness. Buried at Viszoka on 15 June.",
+  "notes": [
+   "The twin of DM-D-013, born 29 May. The row above, no. 30, is his brother Mihály (DM-D-121). The cross against his name in the baptism strip is this burial.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-20 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial.",
+   "does_not_fit": "No year on the strip; the twins' baptism (DM-D-013) carries the same file year.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1873] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-20 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-117",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-12",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Janos_Demko_1878.png",
+  "sha256": "c8ff3995c2914d904f0a734604deb74e8d6d81da070b719228ac0781db02a2bb",
+  "image": {
+   "format": "PNG",
+   "width": 1673,
+   "height": 106
+  },
+  "title": "Burial of János, aged 2 weeks, son of János Demkó, farmer; died 14 March [1879], Viszoka 120",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1878",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "11",
+    "english": "11",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "marc. 14.",
+    "english": "14 March",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "János",
+    "english": "János",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja: Demkó János gazda",
+    "english": "his father: János Demkó, farmer",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Viszoka 120",
+    "english": "Viszoka, house 120",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 2 hetes",
+    "english": "male, 2 weeks",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "gyengeség",
+    "english": "weakness",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka marc. 16.",
+    "english": "Viszoka, 16 March",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 11. 14 March. János; his father János Demkó, farmer. Viszoka 120. Male, two weeks. Weakness. Buried at Viszoka on 16 March.",
+  "notes": [
+   "The file name says 1878. The baptism strip of this child (DM-D-018) has him born on 2 March and carries the note that he died on 14 March 1879, in house 120. Father, house, day and age all agree, so the burial is of 1879 and the file name is a year out.",
+   "File name says 1878; the baptism strip of the same child says 1879.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-21 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial. This page adds a column for the village and house number on the left.",
+   "does_not_fit": "The file name says 1878. The baptism strip of the same child, with the note of this death, says 1879.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "1879, by the baptism strip DM-D-018",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-21 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-118",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-13",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Janos_Kocsis_1783.png",
+  "sha256": "1a0989632a2202dec80f5c4b6f7abd5ec8af62f5f3d8aeed7216e8bb0b783e1e",
+  "image": {
+   "format": "PNG",
+   "width": 1758,
+   "height": 118
+  },
+  "title": "Burial of János, aged 17, son of János Kocsis, cottar; died of cholera 7 August [1873], Cséppely 21",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Kocsis 1783",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "73",
+    "english": "73",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Aug. 7.",
+    "english": "7 August",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "János",
+    "english": "János",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja: Kocsis János zsellér",
+    "english": "his father: János Kocsis, cottar",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Cséppely 21",
+    "english": "Cséppely (Čepeľ), house 21",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 17",
+    "english": "male, 17",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "cholera",
+    "english": "cholera",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Cséppely aug. 8.",
+    "english": "Cséppely, 8 August",
+    "certainty": "probable"
+   },
+   {
+    "column": "Remark",
+    "original": "mátyóczi lelkész által tem[...]",
+    "english": "buried by the minister of Mátyóc (?)",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "No. 73. 7 August. János; his father János Kocsis, cottar. Cséppely 21. Male, 17. Cholera. Buried at Cséppely on 8 August. Remark: buried by the minister of Mátyóc (?).",
+  "notes": [
+   "The file name says 1783. That cannot be: the entry is in Hungarian on the numbered form of the 1870s, the rows around it are cholera deaths in August, and it is entry 73 of its year. It is the cholera summer of 1873; 1783 is 1873 with two figures changed about. A Kocsis of the Csicser parish, not of Solymos.",
+   "File name says 1783; the form and the cholera say 1873.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-22 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial. This page adds a column for the village and house number on the left.",
+   "does_not_fit": "The file name says 1783. The parish did not write Hungarian on a numbered two-page form in 1783, and cholera did not reach Hungary until 1831 (from recall).",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "1873, by the form and the epidemic",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-22 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-119",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-14",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Maria_Demko_1857.png",
+  "sha256": "ff42adc7434014232da89c0df0a942cefac4391a1ef3091860cea2ad43a0c422",
+  "image": {
+   "format": "PNG",
+   "width": 1508,
+   "height": 115
+  },
+  "title": "Burial of Maria Demko, aged 60, wife of György Tirpák; died 1 January 1857, Vysoka 34",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Rusyn / Church Slavonic, Cyrillic script",
+  "collector_label": "Death of Maria Demko 1857",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "1.",
+    "english": "1",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1857 Януар. 1",
+    "english": "1 January 1857; the last figure is written over",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Марія Демко",
+    "english": "Maria Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Standing",
+    "original": "Георгія Тирпака – супруга",
+    "english": "wife of Georgij Tirpak (György Tirpák)",
+    "certainty": "probable"
+   },
+   {
+    "column": "Place",
+    "original": "Висока 34",
+    "english": "Vysoka, house 34",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex",
+    "original": "жен.",
+    "english": "female",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "60.",
+    "english": "60",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "суха хорость (?)",
+    "english": "consumption (\"dry sickness\") (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Buried",
+    "original": "Висока 185[7] Януар. 3.",
+    "english": "Vysoka, 3 January",
+    "certainty": "probable"
+   },
+   {
+    "column": "By",
+    "original": "Іосифъ Кубекъ (?) пар. Чичер.",
+    "english": "Josif Kubek (?), parish priest of Csicser",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "No. 1. 1 January 1857. Maria Demko, wife of György Tirpák. Vysoka 34. Female, 60. Consumption (?). Buried at Vysoka on 3 January by the parish priest of Csicser.",
+  "notes": [
+   "In Cyrillic, like the baptism of January 1857 in this book (DM-D-012): the book is in Cyrillic in the 1850s. The Places agent finds the same in the Solymos book for 1851 to 1853 and takes it as the eparchy's habit in those years, not as a sign of what the village spoke (its note 'What Rusyn means', PL-S-137). She is the Mária Demko, wife of György Tirpák, whose children were baptised from [1832] to [1839] (DM-D-024 to DM-D-026). Born about 1797: the oldest Demko of Viszoka with an age in this file. She is not the infant Mária Demkó of DM-D-012, who was born the next day.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-23 @9462513.",
+   "After comparison. Husband's surname: this agent read 'M[...]nak' and could not finish it. The Duska agent reads Tirpák. In Cyrillic cursive the letter т is written like a Latin m; read so, the word is Тирпака. Adopted.",
+   "After comparison. Officiant: adopted from the Duska agent's reading, with a question mark."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Cyrillic script with a running number, the year written in the entry, a house number, and the officiant's name and parish at the end.",
+   "does_not_fit": "Nothing. The last figure of the year is written over.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "1 to 3 January 1857",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-23 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "Husband's surname: this agent read 'M[...]nak' and could not finish it. The Duska agent reads Tirpák. In Cyrillic cursive the letter т is written like a Latin m; read so, the word is Тирпака. Adopted.",
+   "Officiant: adopted from the Duska agent's reading, with a question mark."
+  ]
+ },
+ {
+  "id": "DM-D-120",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-15",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Maria_Demko_1883.png",
+  "sha256": "265acdf648439a022f66e1f1031ab5a78ac9d78472a43e0dbcf5819848e8735b",
+  "image": {
+   "format": "PNG",
+   "width": 1477,
+   "height": 140
+  },
+  "title": "Burial of Zsuzsanna (?) Demkó, aged 2 months, daughter of János Demkó; died about 1 March 1883, Viszoka 136 (file name says Maria)",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Demko 1883",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "19",
+    "english": "19",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1883. Marc. [1 ?]én",
+    "english": "[1 ?] March 1883",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Name",
+    "original": "Demkó Zsuzsanna",
+    "english": "Zsuzsanna Demkó",
+    "certainty": "probable"
+   },
+   {
+    "column": "Parent",
+    "original": "Demkó János leánya",
+    "english": "daughter of János Demkó",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Viszoka 136.",
+    "english": "Viszoka, house 136",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "nő, 2 hónapos",
+    "english": "female, 2 months",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "köhögés",
+    "english": "cough",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sacraments",
+    "original": "nem",
+    "english": "no",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka Marc. 2án",
+    "english": "Viszoka, 2 March",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 19. [1] March 1883. Zsuzsanna Demkó, daughter of János Demkó. Viszoka 136. Female, two months. Cough. Buried at Viszoka on 2 March.",
+  "notes": [
+   "The file is named for a Maria. The name on the strip reads Zsuzsanna (?), split over two lines, and the child fits the Zsuzsánna born to János Demkó and Mária Szlekár on 6 January 1883 (DM-D-019): two months old on 1 March. Entry 18 above it, dated the 28th, has the names János and Szlekár Anna (?) but is cut off.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-24 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "The file name calls the child Maria. The name on the strip is Zsuzsanna (?).",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "March 1883, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-24 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-121",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-16",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Mihaly_Demko_1873.png",
+  "sha256": "4fb8b0a57d3dc6557aaf1c1b750317fe0f01e5833c59487fdea89c4b01f3fe53",
+  "image": {
+   "format": "PNG",
+   "width": 1831,
+   "height": 79
+  },
+  "title": "Burial of Mihály, aged 12 days, twin son of György Demkó, farmer; died 11 June [1873], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Demko 1873",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "30",
+    "english": "30",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Junius 11",
+    "english": "11 June",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Mihály",
+    "english": "Mihály",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja: Demkó György gazda",
+    "english": "his father: György Demkó, farmer",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 12 napos",
+    "english": "male, 12 days",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "gyengeség",
+    "english": "weakness",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka Jun. 13.",
+    "english": "Viszoka, 13 June",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 30. 11 June. Mihály; his father György Demkó, farmer. Male, 12 days. Weakness. Buried at Viszoka on 13 June.",
+  "notes": [
+   "The first Mihály of this father: the twin of DM-D-013, born 29 May. His brother János is the next row (DM-D-116). The twins were baptised from a house at a place ending -mező, no. 33; both were buried at Viszoka.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-25 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial.",
+   "does_not_fit": "No year in the entry; the row above carries a burial date ending '873'.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "June 1873",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-25 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-122",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-17",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Mihaly_Demko_1888.png",
+  "sha256": "45458a6fdfa5ff4c9f39dfc1bd85a6ece156233631e1548af7b727b2ad34f2a4",
+  "image": {
+   "format": "PNG",
+   "width": 1559,
+   "height": 98
+  },
+  "title": "Burial of Mihály, aged 1 month (?), son of György Demkó, farmer, Viszoka 121; died 3 May, year not on the strip (file name: 1888)",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Demko 1888",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "27",
+    "english": "27",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "majus 3.",
+    "english": "3 May",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Mihály",
+    "english": "Mihály",
+    "certainty": "clear"
+   },
+   {
+    "column": "Father",
+    "original": "atyja: Demkó György gazda",
+    "english": "his father: György Demkó, farmer",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Viszoka 121.",
+    "english": "Viszoka, house 121",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex",
+    "original": "fi",
+    "english": "male",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "1 (?) hónapos",
+    "english": "1 month (?); the figure could be a 7",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "gyengeség",
+    "english": "weakness",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Viszoka majus 5-én",
+    "english": "Viszoka, 5 May",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 27. 3 May. Mihály; his father György Demkó, farmer. Viszoka 121. Male, one month (?). Weakness. Buried at Viszoka on 5 May.",
+  "notes": [
+   "A second dead Mihály of György Demkó, farmer, of house 121: the house where János (1875) and Borbála ([1879]) were born to György Demkó and Mária Hreskó. The file name says 1888. The strip does not show a year, and its form is against 1888: it is the form of the strip that is proved to be 1879 (DM-D-117), with \"atyja:\", a place-and-house column and no year in the entry, while the page of 1883 (DM-D-120) writes the year in every entry in another hand. If it were 1888 the mother, who was bearing in January 1857, would have borne a child thirty-one years later, and the couple would have named a son Mihály while the Mihály of 1882 was alive. So the likelier reading is a year between 1876 and 1881, perhaps 1878 with one figure changed. It is not proved. If 1888 is right, there was a second, younger György Demkó, farmer, at house 121.",
+   "File name says 1888; the form is that of the page of 1879, and 1888 does not fit the family.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-26 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with a running number, the day without the year, the dead person's name, then 'atyja:', 'neje:' or 'férje:' and the father's or spouse's name and state, sex, age; on the facing page cause, sacraments, place and day of burial. This page adds a column for the village and house number on the left.",
+   "does_not_fit": "The file name says 1888. The form is the one used on the page of 1879 (DM-D-117): no year in the entry, 'atyja:', a village-and-house column. The page of 1883 (DM-D-120) is already on another form, with the year in each entry and a different hand. So the form places this strip before 1883.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "Not on the strip. By the form, the later 1870s or the first years of the 1880s",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-26 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-123",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-18",
+  "file": "archive/duska-death/cicarovce-greek-catholic/Death_of_Mihaly_Pihulics_Demko_1837.png",
+  "sha256": "3d91100b4659c05b0a22d1ee96bbed5b2456460a1b40babe9883a4bb888af582",
+  "image": {
+   "format": "PNG",
+   "width": 1553,
+   "height": 210
+  },
+  "title": "Burial of Mihály Pihulics, child, son of Mihály Pihulics and Mária Demko; February or March [1837], Viszoka",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Pihulics Demko 1837",
+  "register": {
+   "parish": "Greek Catholic parish of Csicser (Čičarovce), by the owner's folder name. The villages on the strips (Viszoka, Pálóc, Csicser, Cséppely, Mogyorós) are those of the baptism strips of that parish; the entry of 1857 is signed by a parish priest of Csicser.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Date",
+    "original": "Böjt [Elő or Más] Hava 17",
+    "english": "17 February or 17 March",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Name",
+    "original": "Pihulics Mihály",
+    "english": "Mihály Pihulics",
+    "certainty": "probable"
+   },
+   {
+    "column": "Parents",
+    "original": "Pihulics Mihály / Demko Mária",
+    "english": "Mihály Pihulics / Mária Demko",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "4 [½ or hó] (?)",
+    "english": "four and a half years, or four months (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Condition",
+    "original": "gyermek",
+    "english": "child",
+    "certainty": "probable"
+   },
+   {
+    "column": "Place",
+    "original": "Viszoka",
+    "english": "Viszoka",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "Hideglelés",
+    "english": "fever",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "February. Mihály Pihulics; parents Mihály Pihulics and Mária Demko. A child. Greek Catholic. Viszoka. Fever.",
+  "notes": [
+   "The row under Anna Demko on the same page (DM-D-106). A Demko woman of Viszoka married to a Pihulics: a second married-out Mária Demko of the 1830s beside the wife of György Tirpák.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-27 @9462513.",
+   "After comparison. Month: read here as February ('Böjt Elő Hava'), by the Duska agent as March ('Böjt Más Hava'). Age: four and a half here, four months there. The strip is too small to settle either."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Csicser (Čičarovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Cicarovce - Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1837] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-27 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "Month: read here as February ('Böjt Elő Hava'), by the Duska agent as March ('Böjt Más Hava'). Age: four and a half here, four months there. The strip is too small to settle either."
+  ]
+ },
+ {
+  "id": "DM-D-124",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-19",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Anna_Demko_1870.png",
+  "sha256": "5e2550a1cb5b26e2675fb18a074d7adb743172d48ee28fb966fcc84af1089861",
+  "image": {
+   "format": "PNG",
+   "width": 1499,
+   "height": 169
+  },
+  "title": "Burial of Anna, aged 2 months, daughter of Michael Demko and Maria Lazar; died 16 March [1870 or 1871], Jesztreb",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Anna Demko 1870",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "11",
+    "english": "11",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Martii 16",
+    "english": "16 March",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Anna parentes Michael Demko et Maria Lazar",
+    "english": "Anna; parents Michael Demko and Maria Lazar",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb numer. 64 (?)",
+    "english": "Jesztreb, house 64 (?): the first figure may be a 5",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Sex, age",
+    "original": "foem., 2 mens.",
+    "english": "female, 2 months",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "variolae",
+    "english": "smallpox",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb Martius 17.",
+    "english": "Jesztreb, 17 March",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 11. 16 March. Anna; parents Michael Demko and Maria Lazar. Jesztreb 64 (?). Female, two months. Smallpox. Buried at Jesztreb on 17 March.",
+  "notes": [
+   "She is the Anna of DM-D-035, born 12 January: two months old on 16 March. That strip was redated here from [1870] to [1871]; this file is named 1870. The two must be one year, and neither strip shows it. Left as 1870 or 1871.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-29 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Latin with a running number, day, name and parent in one cell ('N., Michaelis Demko g.c. inquil. filia'), village and house number, sex, age, cause, place and day of burial.",
+   "does_not_fit": "No year on the strip. The baptism of the same child is filed as 1870 and read here as [1871].",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "1870 or 1871",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-29 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-125",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-20",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Anna_Demko_1891.png",
+  "sha256": "915a79f395bdbdef8fed72216d805c859d78994e3e81255214e4fe51b734b690",
+  "image": {
+   "format": "PNG",
+   "width": 1607,
+   "height": 226
+  },
+  "title": "Burial of Anna, aged 1 year 3½ months, daughter of Mihály Demko the younger and Anna Járos; died 17 March 1891, Jesztreb 46",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Demko 1891",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "7",
+    "english": "7",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1891 márczius 17.",
+    "english": "17 March 1891",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Anna, szülei: ifjb. Demko Mihály, Járos Anna",
+    "english": "Anna; her parents: Mihály Demko the younger, Anna Járos",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb 46.",
+    "english": "Jesztreb, house 46",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "nő, 1 éves és 3½ hónapos",
+    "english": "female, 1 year and 3½ months",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "nem tudatik",
+    "english": "not known",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb márczius 19.",
+    "english": "Jesztreb, 19 March",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 7. 17 March 1891. Anna; her parents Mihály Demko the younger and Anna Járos. Jesztreb 46. Female, one year and three and a half months. Cause not known. Buried at Jesztreb on 19 March.",
+  "notes": [
+   "Agrees with the note on her baptism (DM-D-034: born 26 November [1889], died 17 March 1891). The age fixes the baptism year as 1889.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-30 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "March 1891, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-30 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-126",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-21",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Erzsebet_Demko_1885.png",
+  "sha256": "642653bb76a087e13b33c75d4d592947bfe4eb9839b6339d837295636fd29c24",
+  "image": {
+   "format": "PNG",
+   "width": 1673,
+   "height": 174
+  },
+  "title": "Burial of Erzsébet, aged 6 months, daughter of Mihály Demko and Mária Lázár; died of smallpox 11 February 1885, Jesztreb 47",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Erzsebet Demko 1885",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "8",
+    "english": "8",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1885 Február 11.",
+    "english": "11 February 1885",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Erzsébet, Demko Mihály és Lázár Mária leánya",
+    "english": "Erzsébet, daughter of Mihály Demko and Mária Lázár",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb 47",
+    "english": "Jesztreb, house 47",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "nő, 6 hónap.",
+    "english": "female, 6 months",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "himlő",
+    "english": "smallpox",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb Február 12.",
+    "english": "Jesztreb, 12 February",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 8. 11 February 1885. Erzsébet, daughter of Mihály Demko and Mária Lázár. Jesztreb 47. Female, six months. Smallpox. Buried at Jesztreb on 12 February.",
+  "notes": [
+   "Agrees with her baptism (DM-D-051: born 13 August [1884], died 11 February 1885).",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-41 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "February 1885, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-41 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-127",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-22",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Eva_Demko_1837.png",
+  "sha256": "97e0015ecb9de95cf243f85bca9f6698b66b03ef477bae3d0e37b67d42cc5dc3",
+  "image": {
+   "format": "PNG",
+   "width": 1531,
+   "height": 325
+  },
+  "title": "Burial of Éva Demko, aged 39, wife of András, 23 March [1837], Nagy Szeretva (?)",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Eva Demko 1837",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Date",
+    "original": "23. Martii",
+    "english": "23 March",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Demko Éva",
+    "english": "Éva Demko",
+    "certainty": "probable"
+   },
+   {
+    "column": "Husband",
+    "original": "Férje András",
+    "english": "her husband András",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "39.",
+    "english": "39",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Condition",
+    "original": "Gazda.",
+    "english": "farmer",
+    "certainty": "probable"
+   },
+   {
+    "column": "Place",
+    "original": "Nagy Szeretva (?)",
+    "english": "Nagy-Szeretva (Stretava) (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "hideglelés",
+    "english": "fever",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The 23rd of March. Éva Demko; her husband András. Aged 39. Greek Catholic. Farmer's household. Of Nagy Szeretva (?). Fever.",
+  "notes": [
+   "Only the husband's given name is written, so the form does not say whether Demko is her maiden name or his surname. Born about 1798.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-42 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1837] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-42 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-128",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-23",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Gyorgy_Demko_1879.png",
+  "sha256": "158df96bc1efd9af1b848c3dda09eea61a34afdc06b68969f74deb19113ac162",
+  "image": {
+   "format": "PNG",
+   "width": 1581,
+   "height": 189
+  },
+  "title": "Burial of György, aged 1½, son of Mihály Demko; died of smallpox 1 June 1879, Jesztreb",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Demko 1879",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "16",
+    "english": "16",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1879 Junius 1",
+    "english": "1 June 1879",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "György, Demko Mihály fia",
+    "english": "György, son of Mihály Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb",
+    "english": "Jesztreb",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 1½ éves",
+    "english": "male, 1½ years",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "himlő",
+    "english": "smallpox",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "[...] Junius 3.",
+    "english": "[place not read], 3 June",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "No. 16. 1 June 1879. György, son of Mihály Demko. Jesztreb. Male, one and a half years. Smallpox. Buried on 3 June.",
+  "notes": [
+   "He fits the twin György born 27 June 1877 (DM-D-052), who would be a month short of two. The age is as the priest wrote it.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-44 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing. The burial place is not read.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "June 1879, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-44 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-129",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-24",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Janos_Demko_1883.png",
+  "sha256": "d83d5cc3503cdfc58031417d8ad92387d3e857ab0254767fa3cd96a3b30a57f3",
+  "image": {
+   "format": "PNG",
+   "width": 1732,
+   "height": 221
+  },
+  "title": "Burial of János, aged 4½ (?), son of Mihály Demko and Mária Lázár; died 23 January 1883, Jesztreb 47",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1883",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "2",
+    "english": "2",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1883 Január 23.",
+    "english": "23 January 1883",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "János, Demko Mihály és Lázár Mária fia",
+    "english": "János, son of Mihály Demko and Mária Lázár",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb 47",
+    "english": "Jesztreb, house 47",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 4½ (?) éves",
+    "english": "male, 4½ years (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "torokfájás",
+    "english": "sore throat (diphtheria ?)",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb Január 25",
+    "english": "Jesztreb, 25 January",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 2. 23 January 1883. János, son of Mihály Demko and Mária Lázár. Jesztreb 47. Male, four and a half (?). Sore throat. Buried at Jesztreb on 25 January.",
+  "notes": [
+   "He fits the twin János born 27 June 1877 (DM-D-052), who was five and a half; the first figure of the age is not sure. Both twins of 1877 are now buried. The János born to the same parents on 21 December [1885] (DM-D-060) carries his name.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-46 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "January 1883, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-46 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-130",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-25",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Janos_Kocsis_1891.png",
+  "sha256": "7322707221c34cfc982f3292d1b15cd2208d3cdc229041a98eaa91ea27de07a2",
+  "image": {
+   "format": "PNG",
+   "width": 1689,
+   "height": 233
+  },
+  "title": "Burial of János Kocsis, cottar, aged 70, husband of Anna Kovács; died 3 November 1891, Solymos 16",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Kocsis 1891",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "28",
+    "english": "28",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1891 November 3.",
+    "english": "3 November 1891",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Kocsis János, Kovács Anna férje, zsellér",
+    "english": "János Kocsis, husband of Anna Kovács, cottar",
+    "certainty": "clear"
+   },
+   {
+    "column": "Origin, house",
+    "original": "Zavatka (?) / Solymos 16.",
+    "english": "[born at] Závadka (?); [lived at] Solymos, house 16",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 70.",
+    "english": "male, 70",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "végelgyengülés",
+    "english": "old age",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sacraments",
+    "original": "igen",
+    "english": "yes",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Solymos nov. 4.",
+    "english": "Solymos, 4 November",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 28. 3 November 1891. János Kocsis, husband of Anna Kovács, cottar. Of Závadka (?), living at Solymos 16. Male, 70. Old age. Sacraments: yes. Buried at Solymos on 4 November.",
+  "notes": [
+   "The János Kocsis of Solymos no. 13 (DM-D-047). Born about 1821, and by this entry not born at Solymos but at Závadka (?). He was about 65 when Ahn 19 was born.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-47 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "November 1891, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-47 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-131",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-26",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Joannes_Demko_1864.png",
+  "sha256": "a861c0514d6fef7b1842abd0cb808d77124f19793a2ec6bca82e41a36b451b43",
+  "image": {
+   "format": "PNG",
+   "width": 1755,
+   "height": 360
+  },
+  "title": "Burial of Joannes, aged 19, son of Joannes Rusnak (?) and Susana Demko; died 13 December 1864, Jesztreb 18",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Joannes Demko 1864",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "106",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "22",
+    "english": "22",
+    "certainty": "probable"
+   },
+   {
+    "column": "Died",
+    "original": "1864 Decemb. 13.",
+    "english": "13 December 1864",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Joannes – parentes Joannes Rusnak (?) [et] Susana Demko",
+    "english": "Joannes; parents Joannes Rusnak (?) and Susana Demko",
+    "certainty": "probable"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb, numerus domus 18.",
+    "english": "Jesztreb, house 18",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex",
+    "original": "masc.",
+    "english": "male",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "19.",
+    "english": "19",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "febres nervosae",
+    "english": "nervous fever (typhus)",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sacraments",
+    "original": "provisus",
+    "english": "provided",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb Decemb. 1[4]",
+    "english": "Jesztreb, 14 December (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "By",
+    "original": "Josephus Danilovics parochus Solymosiensis",
+    "english": "Josephus Danilovics, parish priest of Solymos",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 22. 13 December 1864. Joannes; parents Joannes Rusnak (?) and Susana Demko. Jesztreb 18. Male, 19. Typhus. Buried at Jesztreb by Josephus Danilovics, parish priest of Solymos.",
+  "notes": [
+   "A printed form headed MATRICULA DEFUNCTORUM, page 106. The file is named for a Joannes Demko. On the strip the dead youth is not a Demko: Demko is his mother. A Susana Demko of Jesztreb is the wife of János Szmeriga in the baptisms of [1845] and of 13 November [1864] (DM-D-053, DM-D-036) and in the burial of 1867 (DM-D-137). Here, a month after that baptism, the father's surname reads Rusnak (?). Either there were two women of the name at Jesztreb, or Rusnak ('the Rusyn') was a by-name of the Szmeriga house. The strip does not say.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-50 @9462513.",
+   "After comparison. Year: first read here as 1867 (?). Looked at again beside the strip of February 1867, the last figure is a 4, not that strip's 7. The file name and the Duska agent's reading (1864) stand.",
+   "After comparison. Father's surname: first read here as Szmeriga, with the help of the baptism strips. Letter by letter it is nearer Rusnak, which is the Duska agent's reading. Adopted with a question mark.",
+   "The Places agent's note on the word Rusyn (PL-S-137) says that in eastern Slovakia 'Rusnak' was a common word for a Greek Catholic. That makes a by-name more likely than it would be for another surname; it does not show it."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A printed two-page form headed MATRICULA DEFUNCTORUM with printed Latin column heads ('Numerus currens', 'Annus et dies obitus', 'Nomen et Conditio defuncti', 'Locus originis et habitationis, Numerus domus', 'Sexus', 'Aetas', 'Morbus', 'Locus et dies Sepulturae', 'Nomen Sepelientis', 'Observationes'). The year is written in the entry.",
+   "does_not_fit": "The file name files the dead youth as a Demko. Demko is his mother's name.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "December 1864, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-50 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "Year: first read here as 1867 (?). Looked at again beside the strip of February 1867, the last figure is a 4, not that strip's 7. The file name and the Duska agent's reading (1864) stand.",
+   "Father's surname: first read here as Szmeriga, with the help of the baptism strips. Letter by letter it is nearer Rusnak, which is the Duska agent's reading. Adopted with a question mark."
+  ]
+ },
+ {
+  "id": "DM-D-132",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-27",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Maria__Holos_1894.png",
+  "sha256": "81cf98361ba50e4d2ecf9b580632b59e42c6504107438765159cfb6a0b0adcdc",
+  "image": {
+   "format": "PNG",
+   "width": 1731,
+   "height": 210
+  },
+  "title": "Burial of Mária Holos, aged 2 years 2 months, daughter of Mihály Holos and Mária Demko; died 4 February 1894, Jesztreb 34",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Holos 1894",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "5",
+    "english": "5",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1894 Február 4.",
+    "english": "4 February 1894",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Holos Mária, szül: Holos Mihály, Demko Mária",
+    "english": "Mária Holos; parents Mihály Holos, Mária Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb 34.",
+    "english": "Jesztreb, house 34",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "nő, 2 év és 2 hónap",
+    "english": "female, 2 years and 2 months",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "vereshimlő",
+    "english": "measles (\"red pox\")",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb Február 6.",
+    "english": "Jesztreb, 6 February",
+    "certainty": "clear"
+   },
+   {
+    "column": "By",
+    "original": "[...] György solymosi g.k. lelkész",
+    "english": "[...] György, Greek Catholic priest of Solymos",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 5. 4 February 1894. Mária Holos; parents Mihály Holos and Mária Demko. Jesztreb 34. Female, two years and two months. Measles. Buried at Jesztreb on 6 February.",
+  "notes": [
+   "Agrees with her baptism (DM-D-062: born 2 December [1891], died 4 February 1894). The age fixes the baptism year as 1891.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-57 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "February 1894, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-57 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-133",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-28",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Maria_Kocsis_1876.png",
+  "sha256": "b113b695e24613495309063ca58e8f5ecb3eabe1d196754d2052a6429dbd4735",
+  "image": {
+   "format": "PNG",
+   "width": 1712,
+   "height": 192
+  },
+  "title": "Burial of Maria, daughter of Joannes Kocsis, cottar of Solymos; died 3 January 1876, Solymos 13",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Maria Kocsis 1876",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "1",
+    "english": "1",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1876. 3. Januar.",
+    "english": "3 January 1876",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Maria, Joannis Kocsis inquil. Solymosiensis filia",
+    "english": "Maria, daughter of Joannes Kocsis, cottar of Solymos",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Solymos No. 13",
+    "english": "Solymos, house 13",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex",
+    "original": "foem.",
+    "english": "female",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "[not read]",
+    "english": "[not read]",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "carbunculus",
+    "english": "carbuncle",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Solymos 4. Januarii",
+    "english": "Solymos, 4 January",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 1. 3 January 1876. Maria, daughter of Joannes Kocsis, cottar of Solymos. Solymos 13. Female. Carbuncle. Buried at Solymos on 4 January.",
+  "notes": [
+   "A Mária Kocsis of Solymos who died in 1876: a daughter of the couple of house 13 (DM-D-047). She is ten years too early to be confused with Ahn 19, but she shows the name Mária was already used, and lost, in that house.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-60 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Latin with a running number, day, name and parent in one cell ('N., Michaelis Demko g.c. inquil. filia'), village and house number, sex, age, cause, place and day of burial.",
+   "does_not_fit": "Nothing. The year stands at the head of the first entry of January.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "January 1876, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-60 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-134",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-29",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Maria_Lazar_Demko_1897.png",
+  "sha256": "8a8aa688f93c92d8f8204d748f5e548af8dcc65681619a3888f8ea0b5624f17e",
+  "image": {
+   "format": "PNG",
+   "width": 1557,
+   "height": 162
+  },
+  "title": "Burial of Mária Lázár, wife of Mihály Demko, aged 54; died 23 April 1897, Jesztreb 54",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Lazar Demko 1897",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "10",
+    "english": "10",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1897 Április 23.",
+    "english": "23 April 1897",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Lázár Mária, Demko Mihály neje",
+    "english": "Mária Lázár, wife of Mihály Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb 54.",
+    "english": "Jesztreb, house 54",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "nő, 54 éves",
+    "english": "female, 54",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "tüdőgyuladás",
+    "english": "pneumonia",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sacraments",
+    "original": "igen",
+    "english": "yes",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb április 25.",
+    "english": "Jesztreb, 25 April",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 10. 23 April 1897. Mária Lázár, wife of Mihály Demko. Jesztreb 54. Female, 54. Pneumonia. Sacraments: yes. Buried at Jesztreb on 25 April.",
+  "notes": [
+   "The mother of the Jesztreb Demko family. Born about 1843; her husband Mihály was alive in April 1897, for she is his wife and not his widow.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-64 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "April 1897, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-64 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-135",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-30",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Mihaly_Holos_1891.png",
+  "sha256": "6e6560766a2d14fbd1b47675a7e0a8c665aee0624f37481da8ddb8b39561b02e",
+  "image": {
+   "format": "PNG",
+   "width": 1714,
+   "height": 176
+  },
+  "title": "Burial of Mihály, aged 6 months, son of Mihály Holos and Mária Demko; died 16 January 1891, Jesztreb 38",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Holos 1891",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "3",
+    "english": "3",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "1891 Január 16.",
+    "english": "16 January 1891",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Mihály, szülei: Holos Mihály és Demko Mária",
+    "english": "Mihály; his parents Mihály Holos and Mária Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb 38.",
+    "english": "Jesztreb, house 38",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 6 hónapos",
+    "english": "male, 6 months",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "torokgyík",
+    "english": "croup (diphtheria)",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb Január 18.",
+    "english": "Jesztreb, 18 January",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 3. 16 January 1891. Mihály; his parents Mihály Holos and Mária Demko. Jesztreb 38. Male, six months. Croup. Buried at Jesztreb on 18 January.",
+  "notes": [
+   "Agrees with his baptism (DM-D-063: born 21 July [1890], died 16 January 1891), except the house: 40 there, 38 here.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-69 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian with the year written in every entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "January 1891, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-69 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-136",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-31",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Pal_Kocsis_1848.png",
+  "sha256": "a9545dc3710208d4feaf8f3352bb7d0c3eca103c8b28a3aa8e111e2dc8fa7cf2",
+  "image": {
+   "format": "PNG",
+   "width": 1800,
+   "height": 214
+  },
+  "title": "Burial of Pál Kocsis, farmer, aged 32, husband of Mária Jevcsák; 17 February [1848], Jesztreb",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Pal Kocsis 1848",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Date",
+    "original": "Febr. 17.",
+    "english": "17 February",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Kocsis Pál",
+    "english": "Pál Kocsis",
+    "certainty": "clear"
+   },
+   {
+    "column": "Wife",
+    "original": "neje Maria Jevcsák",
+    "english": "his wife Mária Jevcsák",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "32",
+    "english": "32",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rite",
+    "original": "Gk.",
+    "english": "Greek Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Condition",
+    "original": "gazda",
+    "english": "farmer",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "[...] (?)",
+    "english": "not read",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb",
+    "english": "Jesztreb",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The 17th of February. Pál Kocsis; his wife Mária Jevcsák. Aged 32. Greek Catholic. Farmer. Jesztreb.",
+  "notes": [
+   "The husband of Mária Jevcsák, father of the Borbála of [1846] (DM-D-050). Born about 1816; entered at Jesztreb, though the child was baptised from Solymos. The other Pál Kocsis, husband of Anna Cservenyák, had a son baptised on 20 November [1847 or 1848] (DM-D-059); if that year is 1848 the father was alive nine months after this burial, and there were two men.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-70 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled columns with no printed head; one page wide; no entry number and no house number; relation written as 'Attya', 'Férje', 'neje' in a column of its own; rite as 'GK'; the cause in the last column.",
+   "does_not_fit": "No year on the strip. The village on his row is Jesztreb; his child was baptised from Solymos.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1848] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-70 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-137",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-32",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Unknown_Demko_1867.png",
+  "sha256": "4f2987dbf24bdf204c43b00413dcde23758ec7cf87c21ed802812d107b10df57",
+  "image": {
+   "format": "PNG",
+   "width": 1760,
+   "height": 311
+  },
+  "title": "Burial of Josephus, aged 6, son of Joannes Szmeriga, farmer, and Susana Demko; died of smallpox 28 February 1867, Jesztreb 15 or 19",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Unknown Demko 1867",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "7",
+    "english": "7",
+    "certainty": "probable"
+   },
+   {
+    "column": "Died",
+    "original": "1867 Februa[rii] 28.",
+    "english": "28 February 1867",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Josephus, parentes Joannes [Sz]meriga (?) colonus [et] Susana Demko",
+    "english": "Josephus; parents Joannes Szmeriga (?), farmer, and Susana Demko",
+    "certainty": "probable"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb numer. domus 1[5 or 9].",
+    "english": "Jesztreb, house 15 or 19",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Sex",
+    "original": "masc.",
+    "english": "male",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "6.",
+    "english": "6",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "[...] variolae",
+    "english": "smallpox",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb Martius 2.",
+    "english": "Jesztreb, 2 March",
+    "certainty": "probable"
+   },
+   {
+    "column": "By",
+    "original": "Josephus Danilovics parochus Solymosiensis",
+    "english": "Josephus Danilovics, parish priest of Solymos",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 7. 28 February 1867. Josephus; parents Joannes Szmeriga (?), farmer, and Susana Demko. Jesztreb 19. Male, 6. Smallpox. Buried at Jesztreb on 2 March by Josephus Danilovics, parish priest of Solymos.",
+  "notes": [
+   "The file calls the dead child 'Unknown Demko'. He has a name, Josephus, and he is not a Demko: Demko is his mother. Same printed form as DM-D-131.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-71 @9462513.",
+   "After comparison. House: read here as 19, by the Duska agent as 15. Left as either.",
+   "After comparison. The note that the couple lost two sons in one year is withdrawn with the year of DM-D-131."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A printed two-page form headed MATRICULA DEFUNCTORUM with printed Latin column heads ('Numerus currens', 'Annus et dies obitus', 'Nomen et Conditio defuncti', 'Locus originis et habitationis, Numerus domus', 'Sexus', 'Aetas', 'Morbus', 'Locus et dies Sepulturae', 'Nomen Sepelientis', 'Observationes'). The year is written in the entry.",
+   "does_not_fit": "The file name calls the child 'Unknown Demko'. The strip names him Josephus, son of a Szmeriga.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "February and March 1867, written in the entry",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-71 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "House: read here as 19, by the Duska agent as 15. Left as either.",
+   "The note that the couple lost two sons in one year is withdrawn with the year of DM-D-131."
+  ]
+ },
+ {
+  "id": "DM-D-138",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-33",
+  "file": "archive/duska-death/inacovce-greek-catholic/Death_of_Zuzanna_Duska_1876.png",
+  "sha256": "bf1e4c22eb5f6df7a180dca416c92bdd8c9c46b6dc377892c5fe2b6cee0fd2b5",
+  "image": {
+   "format": "PNG",
+   "width": 1717,
+   "height": 157
+  },
+  "title": "Burial of Zuzanna, aged 9 months (?), daughter of Michael Demko, cottar of Jesztreb; died 10 April [1876], Jesztreb 34 (file name says Duska)",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Zuzanna Duska 1876",
+  "register": {
+   "parish": "Greek Catholic parish of Solymos (Iňačovce): the printed entries of the 1860s are signed 'parochus Solymosiensis' and that of 1894 'solymosi g.k. lelkész'. Folder name agrees.",
+   "denomination": "Greek Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "27",
+    "english": "27",
+    "certainty": "probable"
+   },
+   {
+    "column": "Died",
+    "original": "10 Aprilis",
+    "english": "10 April",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Zuzanna, Michaelis Demko g.c. inquil. Jesz. filia",
+    "english": "Zuzanna, daughter of Michael Demko, Greek Catholic cottar of Jesztreb",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Jesztreb No. 34",
+    "english": "Jesztreb, house 34",
+    "certainty": "probable"
+   },
+   {
+    "column": "Sex, age",
+    "original": "foem., 9 (?) mens.",
+    "english": "female, 9 (?) months",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Cause",
+    "original": "veres himlő",
+    "english": "measles (\"red pox\")",
+    "certainty": "probable"
+   },
+   {
+    "column": "Buried",
+    "original": "Jesztreb 11. Aprilis",
+    "english": "Jesztreb, 11 April",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 27. 10 April. Zuzanna, daughter of Michael Demko, Greek Catholic cottar of Jesztreb. Jesztreb 34. Female, nine (?) months. Measles. Buried at Jesztreb on 11 April.",
+  "notes": [
+   "Filed by the collector under Duska. The strip says Demko. She is the Susanna of DM-D-064 (born 12 May [1875], died 10 April 1876, Jesztreb 33); she was eleven months old, so the 9 may be an 11.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-73 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Solymos (Iňačovce), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Inacovce Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Latin with a running number, day, name and parent in one cell ('N., Michaelis Demko g.c. inquil. filia'), village and house number, sex, age, cause, place and day of burial.",
+   "does_not_fit": "The file name says Duska. The strip says Demko.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1876] by the file name; the baptism strip agrees",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-73 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-139",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-34",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Andras_Solsesz_Demko_1878.png",
+  "sha256": "acbbe577f2d224504c6c91074a47de026ac3fade5f5c95c3ca85b7b8c2130e09",
+  "image": {
+   "format": "PNG",
+   "width": 1588,
+   "height": 202
+  },
+  "title": "Burial of András Soltész, cottar, aged 74, husband of Erzsébet Demko; died 25 December [1878], Bernátfalva",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Andras Solsesz Demko 1878",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "50",
+    "english": "50",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "December 25-én",
+    "english": "25 December",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Soltész András zsellér, Demko Erzsébet férje",
+    "english": "András Soltész, cottar, husband of Erzsébet Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Origin, home",
+    "original": "Nagy-Ida / Bernátfalva",
+    "english": "Nagy-Ida / Bernátfalva",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "74",
+    "english": "74",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "végelgyengülés",
+    "english": "old age",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sacraments",
+    "original": "ellátva",
+    "english": "provided",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Bernátfalva December 27-én",
+    "english": "Bernátfalva, 27 December",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 50. 25 December. András Soltész, cottar, husband of Erzsébet Demko. Born at Nagy-Ida, of Bernátfalva. Aged 74. Old age. Buried at Bernátfalva on 27 December.",
+  "notes": [
+   "The dead man is a Soltész; the Demko is his wife. Abaúj county, far from Viszoka.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-01 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian without the year in the entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "The file is named for a Demko. The dead man is a Soltész; Demko is his wife. Nothing names the church.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1878] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-013-01 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-140",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-35",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Anna_Kocsis_May1840.png",
+  "sha256": "9ce718385e77f180e12c6fda7dcf7ff9037df3448915e5d1b5cc0dfab56445d4",
+  "image": {
+   "format": "PNG",
+   "width": 1645,
+   "height": 227
+  },
+  "title": "Burial of Anna Kocsis, aged 27, a herdsman's wife (?); 18 May [1840], Gönyű",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Anna Kocsis May1840",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry, day",
+    "original": "23. / 18.",
+    "english": "no. 23, the 18th",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Anna Kocsis [...] Pastoris uxor",
+    "english": "Anna Kocsis, wife of [...], herdsman; or wife of a man named Pásztori",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Age",
+    "original": "Annorum 27.",
+    "english": "27 years",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Gönyü",
+    "english": "Gönyű",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 23, the 18th. Anna Kocsis, a herdsman's wife (?). Aged 27. Gönyű.",
+  "notes": [
+   "A Kocsis woman in Abaúj. No link to Solymos.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-02 @9462513.",
+   "After comparison. 'Pastoris uxor': read here as the wife of a man named Gasp. Pásztori, by the Duska agent as 'wife of a herdsman'. In Latin the second is the plainer reading. Both kept."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled, in Latin: number, day, name and standing, age, place, officiant ('Idem').",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1840] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-02 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "'Pastoris uxor': read here as the wife of a man named Gasp. Pásztori, by the Duska agent as 'wife of a herdsman'. In Latin the second is the plainer reading. Both kept."
+  ]
+ },
+ {
+  "id": "DM-D-141",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-36",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Gyorgy_Demko_1892.png",
+  "sha256": "4267f77e1a2e0e9e256dd344b47a899e5fb2878dbb376c4471027db0603417ad",
+  "image": {
+   "format": "PNG",
+   "width": 1731,
+   "height": 246
+  },
+  "title": "Burial of György Demko, aged 2 years 3 months, son of György Demko and Katalin Jobbágy; died of diphtheria 9 March [1892], Gönyű",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Demko 1892",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "17",
+    "english": "17",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Márczius 9-én",
+    "english": "9 March",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Demko György, Demko György és Jobbágy Katalin fia",
+    "english": "György Demko, son of György Demko and Katalin Jobbágy",
+    "certainty": "clear"
+   },
+   {
+    "column": "Origin, home",
+    "original": "Nagy-Ida / Gönyü",
+    "english": "Nagy-Ida / Gönyű",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 2 év 3 hó",
+    "english": "male, 2 years 3 months",
+    "certainty": "probable"
+   },
+   {
+    "column": "Cause",
+    "original": "diftheritisz",
+    "english": "diphtheria",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Gönyü Márczius 11-én",
+    "english": "Gönyű, 11 March",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 17. 9 March. György Demko, son of György Demko and Katalin Jobbágy. Gönyű. Male, two years and three months. Diphtheria. Buried at Gönyű on 11 March.",
+  "notes": [
+   "The couple of DM-D-032. Their György of 29 March 1895 was given the name of this dead brother.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-03 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian without the year in the entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1892] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-03 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-142",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-37",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Janos_Demko_1892.png",
+  "sha256": "7823c5f462ea299f679cd117c635af76c40a5acbef3f78452afb4fd6e1fa11dd",
+  "image": {
+   "format": "PNG",
+   "width": 1520,
+   "height": 242
+  },
+  "title": "Burial of János Demko, aged 1½, son of György Demko and Katalin Jobbágy; died of diphtheria 30 October [1892], Gönyű",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1892",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "38",
+    "english": "38",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Október 30-án",
+    "english": "30 October",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, parents",
+    "original": "Demko János, Demko György és Jobbágy Katalin fia",
+    "english": "János Demko, son of György Demko and Katalin Jobbágy",
+    "certainty": "clear"
+   },
+   {
+    "column": "Origin, home",
+    "original": "Nagy-Ida / Gönyü",
+    "english": "Nagy-Ida / Gönyű",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "fi, 1½ éves",
+    "english": "male, 1½ years",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "diftheritisz",
+    "english": "diphtheria",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Gönyü November 1-én",
+    "english": "Gönyű, 1 November",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 38. 30 October. János Demko, son of György Demko and Katalin Jobbágy. Gönyű. Male, one and a half. Diphtheria. Buried at Gönyű on 1 November.",
+  "notes": [
+   "The second son the couple lost to diphtheria in one year, if the two file years are right.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-04 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian without the year in the entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1892] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-04 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-143",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-38",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Laszlo_Demko_1889.png",
+  "sha256": "14cb733ef44c0ce2fcf3f7b8d3114bc726d45e7cb32c2f491590acb6c0f0d13d",
+  "image": {
+   "format": "PNG",
+   "width": 1658,
+   "height": 229
+  },
+  "title": "Burial of László Demko, gardener, aged 80, husband of Erzsébet N.; died 28 February [1889], Kenyhec",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Laszlo Demko 1889",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "6",
+    "english": "6",
+    "certainty": "clear"
+   },
+   {
+    "column": "Died",
+    "original": "Február 28-án",
+    "english": "28 February",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Demko László kertész, N. Erzsébet férje",
+    "english": "László Demko, gardener, husband of Erzsébet N.",
+    "certainty": "clear"
+   },
+   {
+    "column": "Place",
+    "original": "Kenyhecz",
+    "english": "Kenyhec",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, age",
+    "original": "férfi, 80 éves",
+    "english": "male, 80",
+    "certainty": "clear"
+   },
+   {
+    "column": "Cause",
+    "original": "aggkor",
+    "english": "old age",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sacraments",
+    "original": "a lelkész igénybe nem vétetett",
+    "english": "the priest was not called",
+    "certainty": "clear"
+   },
+   {
+    "column": "Buried",
+    "original": "Kenyhecz Márczius 1.",
+    "english": "Kenyhec, 1 March",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 6. 28 February. László Demko, gardener, husband of Erzsébet N. Kenyhec. Male, 80. Old age. The priest was not called. Buried at Kenyhec on 1 March.",
+  "notes": [
+   "A gardener born about 1809. The priest did not know the wife's surname and wrote N.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-06 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "A two-page handwritten form in Hungarian without the year in the entry, name and parents in one cell, village and house number, sex, age, cause, sacraments, place and day of burial, officiant.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1889] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-06 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-144",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-39",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Maria_Demko_1850.png",
+  "sha256": "cea1fcb4fbe73b0f46c05088bcf3a94dd4fa466c70faed2d51ff60017e4dc64e",
+  "image": {
+   "format": "PNG",
+   "width": 1738,
+   "height": 183
+  },
+  "title": "Burial of Maria Demko, aged 2 weeks, daughter of the gardener of Gecse; 2 March [1850]",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Demko 1850",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "13",
+    "english": "13",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date",
+    "original": "Márcz. 2án",
+    "english": "2 March",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Maria Demko",
+    "english": "Maria Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Standing",
+    "original": "Getsi kertész leánya",
+    "english": "daughter of the gardener of Gecse",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "2 hetes",
+    "english": "2 weeks",
+    "certainty": "probable"
+   },
+   {
+    "column": "Burial",
+    "original": "Getsi temetőn, Bölsei (?) lelkész",
+    "english": "in the graveyard of Gecse, [by] the minister of Bölzse (Belža) (?)",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "No. 13. 2 March. Maria Demko, daughter of the gardener of Gecse. Two weeks old. Buried in the graveyard of Gecse by the minister of Bölzse (?).",
+  "notes": [
+   "The father is named only by his work. A gardener László Demko of this parish died at Kenyhec forty years on (DM-D-143); the form does not say they are one man.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-07 @9462513.",
+   "After comparison. Place: first read here as 'P[e]tsi (?)'. The Duska agent reads Getsi, Gecse, the village named in the next strip (DM-D-145). Adopted."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled, in Hungarian, one page wide: number, day, name, standing, age, then the graveyard and the officiant written across the last columns.",
+   "does_not_fit": "No year on the strip. The burial was in another village's graveyard by the minister of Bölzse (?), which is what a book of the Belža parish would note.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1850] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-07 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "Place: first read here as 'P[e]tsi (?)'. The Duska agent reads Getsi, Gecse, the village named in the next strip (DM-D-145). Adopted."
+  ]
+ },
+ {
+  "id": "DM-D-145",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-40",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Maria_Demko_Maybe_1849.png",
+  "sha256": "965cd3c5e5f1e0518cda9b48ef1b127989282f2d0fe40d76db4f9c1d04594ae3",
+  "image": {
+   "format": "PNG",
+   "width": 1737,
+   "height": 201
+  },
+  "title": "Burial of Mária Demko, a few weeks old, child of the gardener of Csány; 14 August [1849]",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Demko Maybe 1849",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "47",
+    "english": "47",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date",
+    "original": "Augusz. 14én",
+    "english": "14 August",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Demko Mária",
+    "english": "Mária Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Standing",
+    "original": "Csányi kertész [...]",
+    "english": "[child] of the gardener of Csány",
+    "certainty": "probable"
+   },
+   {
+    "column": "Age",
+    "original": "egynéhány hetes",
+    "english": "a few weeks old",
+    "certainty": "probable"
+   },
+   {
+    "column": "Burial",
+    "original": "Gecsei temetőn, N.T. [...] Ferencz [...] plebánus",
+    "english": "in the graveyard of Gecse, by the Reverend [...] Ferenc, parish priest of [...]",
+    "certainty": "uncertain"
+   }
+  ],
+  "translation": "No. 47. 14 August. Mária Demko, child of the gardener of Csány. A few weeks old. Buried in the graveyard of Gecse by a Roman Catholic parish priest.",
+  "notes": [
+   "The collector's \"maybe\" is about whether she belongs. She is a gardener's child in Abaúj, buried by the neighbouring Latin-rite priest, perhaps because the Greek Catholic priest was not at hand in August 1849.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-08 @9462513.",
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled, in Hungarian, one page wide: number, day, name, standing, age, then the graveyard and the officiant written across the last columns.",
+   "does_not_fit": "No year on the strip. The officiant is a Roman Catholic parish priest ('plebánus') of another place, entered in a Greek Catholic book.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1849] by the file name, which adds 'maybe'",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-08 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-146",
+  "batch": "DM-B-018",
+  "folder": "F-13",
+  "source": "DM-S-018-41",
+  "file": "archive/duska-death/belza-kosice-greek-catholic/Death_of_Maria_Demko_October_1856.png",
+  "sha256": "de454250a66e6dd571a14166f1323b9b0b4496946675b9ea8ac8c89c32a1453f",
+  "image": {
+   "format": "PNG",
+   "width": 1721,
+   "height": 237
+  },
+  "title": "Burial of Maria Demko, aged 37 (?), wife of Michael S[...]; 15 October [1856]",
+  "kind": "Parish burial register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "Death of Maria Demko October 1856",
+  "register": {
+   "parish": "By the owner's folder name, the Greek Catholic parish of Belža in Abaúj. Nothing on the strips names the church.",
+   "denomination": "Greek Catholic (by the folder name)",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Day",
+    "original": "15a",
+    "english": "the 15th",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Maria Demko, Michaelis S[...]ko (?) uxor",
+    "english": "Maria Demko, wife of Michael S[...]ko (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Age",
+    "original": "37 (?)",
+    "english": "37 (?)",
+    "certainty": "uncertain"
+   },
+   {
+    "column": "Buried",
+    "original": "17a",
+    "english": "the 17th",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "The 15th. Maria Demko, wife of Michael S[...]. Aged 37 (?). Buried the 17th.",
+  "notes": [
+   "A married Demko woman in Abaúj, born about 1819. This agent could not read the husband's surname or the place. The Duska agent reads L[ejk]o and Szakaly, both with doubt.",
+   "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-09 @9462513."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Greek Catholic parish of Belža (by the folder name), burials",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder of deaths, sub-folder 'Belza Kosice Greek Catholic', given to the Duska agent. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+  },
+  "object": {
+   "kind": "One entry cut from a page of a church burial register",
+   "why": "Hand-ruled, in Latin, with ditto marks for most columns: number, day, name and husband, place, age, day of burial.",
+   "does_not_fit": "No year and no church on the strip.",
+   "made_by": "The parish priest or his cantor, at the time of the burial",
+   "when": "[1856] by the file name",
+   "kept_where": "From recall, not checked: one copy of each parish book stayed in the parish and a second went to the bishop or the county. The strip does not show which this is, or where it is now.",
+   "compared_with": [
+    "The other burial strips of the same book in this folder",
+    "The baptism strips of the same parish read in DM-B-005 and DM-B-010"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-013-09 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
  }
 ]

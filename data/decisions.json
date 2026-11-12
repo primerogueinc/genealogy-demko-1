@@ -430,5 +430,23 @@
   "date": "2026-11-12",
   "decision": "Notes to the coordinator now carry only three things: a new statement by the owner, an exposure, a question that needs a ruling.",
   "why": "Ledger X-030."
+ },
+ {
+  "id": "DM-DEC-073",
+  "date": "2026-11-12",
+  "decision": "Took all 41 burial strips that the Duska agent routed to this line from the owner's folder of deaths, and read every one from the image before opening its entries. The first readings were saved with a time and are kept in tools/first-readings-DM-B-018.py; what was changed after the comparison is listed on each document.",
+  "why": "Ledger X-012. The Duska agent's note gave only file names and checksums, so these readings could be made blind, unlike the last 26."
+ },
+ {
+  "id": "DM-DEC-074",
+  "date": "2026-11-12",
+  "decision": "Four file-name years are set aside on the evidence of the strips: 1905 (a page of the 1830s or 1840s), 1783 (the cholera of 1873), 1878 (1879 by the child's baptism), and 1888 (doubted, not disproved). Two file-name surnames and one given name are corrected from the strips. The file names themselves are kept as the owner made them.",
+  "why": "Ledger X-004 and X-031: a file name is a prior; the form of the object is looked at first."
+ },
+ {
+  "id": "DM-DEC-075",
+  "date": "2026-11-12",
+  "decision": "Where the two agents still read an entry differently after comparison (Ilona Demkó of [1836]; the month of the Pihulics burial; a house number), both readings are kept on the document and neither is used for an inference.",
+  "why": "A strip a few hundred pixels wide does not settle them."
  }
 ]

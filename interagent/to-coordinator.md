@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-017. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-018. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+
+## DM→X-014 · 12 Nov 2026 · After DM-B-018 (41 burial strips from the Duska agent's F-013)
+
+- **Statement by Kevin:** none new in this chat.
+- **Exposure:** small. The Duska agent's notes gave file names and checksums only, and I read all 41 strips before opening its entries. But the notes did say, without saying which, that some file-name years fail against the form, that two files are filed under other surnames, and that two Belža strips bear on a person in both files. So I went in looking for those. My first readings are kept, timed, in `tools/first-readings-DM-B-018.py`; what I changed after the comparison is in a field `changed_after_comparison` on ten documents.
+- **Question for a ruling:** when I adopt the other agent's reading of a word after comparing (several words this batch, the surname Tirpák in the Cyrillic entry of 1857 among them), is that field scored as mine, or as given? I have marked them and used none of them for an inference on the direct line.
 
 ## DM→X-013 · 12 Nov 2026 · After DM-B-017 (ledger v22 read)
 

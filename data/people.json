@@ -450,9 +450,14 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-005-2"
+   "DM-S-005-2",
+   "DM-S-018-16"
   ],
-  "note": "Marked with a cross: died young. Not the Mihály of 1882."
+  "note": "Marked with a cross: died young. Not the Mihály of 1882. Buried: he died on 11 June [1873], twelve days old (DM-D-121).",
+  "death": {
+   "date": "11 Jun [1873]",
+   "place": "Viszoka"
+  }
  },
  {
   "id": "DM-X-012",
@@ -467,9 +472,14 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-005-2"
+   "DM-S-005-2",
+   "DM-S-018-11"
   ],
-  "note": "Marked with a cross: died young."
+  "note": "Marked with a cross: died young. Buried: he died on 14 June [1873], fifteen days old (DM-D-116). He was himself named for a brother János who had died aged 2 on 14 December [1872] (DM-X-068).",
+  "death": {
+   "date": "14 Jun [1873]",
+   "place": "Viszoka"
+  }
  },
  {
   "id": "DM-X-013",
@@ -486,7 +496,7 @@
   "sources": [
    "DM-S-005-3"
   ],
-  "note": "Son of György Demkó and Mária Hreskó."
+  "note": "Son of György Demkó and Mária Hreskó. He is the third János of this father: one died aged 2 in December [1872], one a twin in June [1873] (DM-NC-020). No burial of this one is among the strips of DM-B-018."
  },
  {
   "id": "DM-X-014",
@@ -521,9 +531,13 @@
    "DM-S-005-5",
    "DM-S-005-6",
    "DM-S-005-7",
-   "DM-S-005-8"
+   "DM-S-005-8",
+   "DM-S-018-9",
+   "DM-S-018-2",
+   "DM-S-018-12",
+   "DM-S-018-15"
   ],
-  "note": "Greek Catholic farmer at Viszoka (no. 141 in [1877], no. 120 in 1879). Wife Anna or Mária Szlekár. Children Anna [1874], Erzsébet [1877], János 1879 (lived twelve days), Zsuzsánna 1883. See DM-H-022."
+  "note": "Greek Catholic farmer at Viszoka (no. 141 in [1877], no. 120 in 1879). Wife Anna or Mária Szlekár. Children Anna [1874], Erzsébet [1877], János 1879 (lived twelve days), Zsuzsánna 1883. See DM-H-022. Burials of four of his children are in hand: an unnamed son, 22 March [1873]; Anna, about 1, 26 August [1873]; János, two weeks, 14 March 1879, house 120; Zsuzsanna, two months, about 1 March 1883, house 136 (DM-D-114, DM-D-107, DM-D-117, DM-D-120). His houses: 120, 141, 136."
  },
  {
   "id": "DM-X-016",
@@ -593,7 +607,7 @@
   "sources": [
    "DM-S-005-10"
   ],
-  "note": "Son of György Demko and Anna Samudovszki (?). See DM-H-020."
+  "note": "Son of György Demko and Anna Samudovszki (?). See DM-H-020. One of the two boys named György baptised at Viszoka in the 1830s died aged 5 (DM-X-070); which one is not known."
  },
  {
   "id": "DM-X-020",
@@ -642,9 +656,14 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-005-9"
+   "DM-S-005-9",
+   "DM-S-018-4"
   ],
-  "note": "Surname doubtful."
+  "note": "Surname doubtful. Buried in [1831], aged 25, 'Georgius Demko her husband', of consumption (DM-D-109): the year her son Georgius was baptised, if both file years are right.",
+  "death": {
+   "date": "[1831]",
+   "place": "Viszoka"
+  }
  },
  {
   "id": "DM-X-023",
@@ -661,7 +680,7 @@
   "sources": [
    "DM-S-005-9"
   ],
-  "note": "Son of Georg. Demko and Barbara. See DM-H-020."
+  "note": "Son of Georg. Demko and Barbara. See DM-H-020. One of the two boys named György baptised at Viszoka in the 1830s died aged 5 (DM-X-070); which one is not known. His mother Barbara died the year he was born."
  },
  {
   "id": "DM-X-024",
@@ -695,9 +714,14 @@
   "sources": [
    "DM-S-005-13",
    "DM-S-005-14",
-   "DM-S-005-15"
+   "DM-S-005-15",
+   "DM-S-018-14"
   ],
-  "note": "Greek Catholic. Children Maria [1832], János [1835], Mihály [1839]. Born before about 1815."
+  "note": "Greek Catholic. Children Maria [1832], János [1835], Mihály [1839]. Born before about 1815. She died on 1 January 1857 at Vysoka 34, aged 60, of consumption, 'wife of György Tirpák' (DM-D-119). Born about 1797.",
+  "death": {
+   "date": "1 Jan 1857",
+   "place": "Viszoka no. 34"
+  }
  },
  {
   "id": "DM-X-026",
@@ -712,9 +736,11 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-005-20"
+   "DM-S-005-20",
+   "DM-S-018-36",
+   "DM-S-018-37"
   ],
-  "note": "Greek Catholic landholder at Gönyű no. 24 in 1895, wife Katalin Jobbágy, son György born 29 Mar 1895. Same man as DUS:K-005."
+  "note": "Greek Catholic landholder at Gönyű no. 24 in 1895, wife Katalin Jobbágy, son György born 29 Mar 1895. Same man as DUS:K-005. Two sons were buried at Gönyű in [1892], both of diphtheria: György, 2 years 3 months, on 9 March, and János, 1½, on 30 October (DM-D-141, DM-D-142). The György of 1895 carries the first one's name."
  },
  {
   "id": "DM-X-027",
@@ -767,7 +793,8 @@
   "proof": "documented",
   "sources": [
    "DM-S-006-1",
-   "DM-S-010-8"
+   "DM-S-010-8",
+   "DM-S-018-20"
   ],
   "note": "Greek Catholic cottar at Jesztreb, wife Anna Jaros. Daughter Mária born 11 Feb [1888], entered as illegitimate and legitimised in February 1889; daughter Anna born 26 Nov [1889] at no. 71, died 1891. Very probably the Michael baptised 16 Mar 1866, son of Michael Demko and Maria Lazár (DM-H-033). Not the Mihály born at Viszoka in 1882."
  },
@@ -801,9 +828,10 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-006-1"
+   "DM-S-006-1",
+   "DM-S-018-20"
   ],
-  "note": "Died in her second year.",
+  "note": "Died in her second year. Burial in hand (DM-D-125): Jesztreb 46, aged 1 year 3½ months, which fixes her birth year as 1889.",
   "death": {
    "date": "17 Mar 1891",
    "place": null
@@ -829,9 +857,15 @@
    "DM-S-010-14",
    "DM-S-010-15",
    "DM-S-010-11",
-   "DM-S-010-7"
+   "DM-S-010-7",
+   "DM-S-018-19",
+   "DM-S-018-21",
+   "DM-S-018-23",
+   "DM-S-018-24",
+   "DM-S-018-29",
+   "DM-S-018-33"
   ],
-  "note": "Greek Catholic cottar (inquilinus, zsellér) at Jesztreb, wife Maria Lazár. Children in hand: Maria, 21 Aug [1864] (no. 28); Michael, 14 or 15 Mar 1866 (no. 32); Anna, 12 Jan [1871] (no. 54); Susanna, 12 May [1875] (no. 33), died 10 Apr 1876; twins János and György, 27 Jun 1877; Erzsébet, 13 Aug [1884] (no. 47), died 11 Feb 1885; János, 21 Dec [1885] (no. 64). Seven house numbers in twenty-one years: a cottar who rented. Georgius Mazur and Maria Tamás stand godparents from 1864 to 1871. Father of the 'younger' Mihály (DM-H-033)."
+  "note": "Greek Catholic cottar (inquilinus, zsellér) at Jesztreb, wife Maria Lazár. Children in hand: Maria, 21 Aug [1864] (no. 28); Michael, 14 or 15 Mar 1866 (no. 32); Anna, 12 Jan [1871] (no. 54); Susanna, 12 May [1875] (no. 33), died 10 Apr 1876; twins János and György, 27 Jun 1877; Erzsébet, 13 Aug [1884] (no. 47), died 11 Feb 1885; János, 21 Dec [1885] (no. 64). Seven house numbers in twenty-one years: a cottar who rented. Georgius Mazur and Maria Tamás stand godparents from 1864 to 1871. Father of the 'younger' Mihály (DM-H-033). Burials of five of his children by Mária Lázár are in hand: Anna (1870 or 1871), Zuzanna (1876), György (1879), János (1883), Erzsébet (1885). His wife Mária Lázár died at Jesztreb 54 on 23 April 1897, aged 54, of pneumonia; she is entered as his wife, not his widow, so he was alive then (DM-D-134)."
  },
  {
   "id": "DM-X-033",
@@ -847,9 +881,11 @@
   "proof": "documented",
   "sources": [
    "DM-S-006-3",
-   "DM-S-008-11"
+   "DM-S-008-11",
+   "DM-S-018-26",
+   "DM-S-018-32"
   ],
-  "note": "Greek Catholic, of Jesztreb. Sons György, 5 Apr [1845], and András, 13 Nov [1864]. Born before about 1827."
+  "note": "Greek Catholic, of Jesztreb. Sons György, 5 Apr [1845], and András, 13 Nov [1864]. Born before about 1827. A son Josephus, 6, died of smallpox on 28 February 1867 (DM-D-137). A Joannes, 19, son of 'Joannes Rusnak (?) and Susana Demko', died of typhus on 13 December 1864 at Jesztreb 18 (DM-D-131): the same woman under a by-name of her husband's house, or a second Susana Demko."
  },
  {
   "id": "DM-X-034",
@@ -882,9 +918,11 @@
   "proof": "documented",
   "sources": [
    "DM-S-006-6",
-   "DM-S-008-5"
+   "DM-S-008-5",
+   "DM-S-018-25",
+   "DM-S-018-28"
   ],
-  "note": "He Greek Catholic, a cottar; she Roman Catholic. Daughters Anna, born 18 Mar [1875], and Anna again, born 16 Apr 1877. One of two Kocsis couples at Solymos who could be the parents of Ahn 19. See DM-H-025."
+  "note": "He Greek Catholic, a cottar; she Roman Catholic. Daughters Anna, born 18 Mar [1875], and Anna again, born 16 Apr 1877. One of two Kocsis couples at Solymos who could be the parents of Ahn 19. See DM-H-025. János Kocsis died at Solymos 16 on 3 November 1891, aged 70, 'husband of Anna Kovács, cottar', born at Závadka (?) (DM-D-130). A daughter Maria died at Solymos 13 on 3 January 1876 (DM-D-133). He was born about 1821 and was not a native of Solymos."
  },
  {
   "id": "DM-X-036",
@@ -971,9 +1009,10 @@
   "sources": [
    "DM-S-008-7",
    "DM-S-008-8",
-   "DM-S-010-6"
+   "DM-S-010-6",
+   "DM-S-018-31"
   ],
-  "note": "Greek Catholic landholder. Borbála, 20 Jul [1843], by Anna Cservenyák; Borbála, [1846], by Mária Jevcsák; Mihály, 20 Nov [1847 or 1848], by Anna Cservenyák. The order of the mothers' names rules out two wives in turn: two men of this name, or a slip in the [1846] entry (DM-NC-013)."
+  "note": "Greek Catholic landholder. Borbála, 20 Jul [1843], by Anna Cservenyák; Borbála, [1846], by Mária Jevcsák; Mihály, 20 Nov [1847 or 1848], by Anna Cservenyák. The order of the mothers' names rules out two wives in turn: two men of this name, or a slip in the [1846] entry (DM-NC-013). A Pál Kocsis, farmer, husband of Mária Jevcsák, died on 17 February [1848], aged 32, entered at Jesztreb (DM-D-136). If the son of Pál Kocsis and Anna Cservenyák was baptised in November 1848, there were two men of the name (DM-NC-013)."
  },
  {
   "id": "DM-X-041",
@@ -1144,9 +1183,11 @@
   "sources": [
    "DM-S-010-10",
    "DM-S-010-9",
-   "DM-S-010-13"
+   "DM-S-010-13",
+   "DM-S-018-27",
+   "DM-S-018-30"
   ],
-  "note": "Greek Catholic. Her husband a cottar without a house. Children Mihály, 21 Jul [1890] (no. 40), died 16 Jan 1891; Mária, 2 Dec [1891] (no. 34), died 4 Feb 1894. Probably the Maria baptised 21 Aug [1864], daughter of Michael Demko and Maria Lazár: a Mazur is godparent in both generations."
+  "note": "Greek Catholic. Her husband a cottar without a house. Children Mihály, 21 Jul [1890] (no. 40), died 16 Jan 1891; Mária, 2 Dec [1891] (no. 34), died 4 Feb 1894. Probably the Maria baptised 21 Aug [1864], daughter of Michael Demko and Maria Lazár: a Mazur is godparent in both generations. Burials of both her Holos children are in hand (DM-D-135, DM-D-132)."
  },
  {
   "id": "DM-X-050",
@@ -1478,5 +1519,211 @@
    "date": "10 Nov 1879",
    "place": null
   }
+ },
+ {
+  "id": "DM-X-068",
+  "ahnentafel": null,
+  "name": "János Demkó, died aged 2",
+  "role": "Brother of P-018, if P-018 is the Mihály of 1882",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "about 1870",
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-10"
+  ],
+  "note": "Son of György Demkó, farmer. Died 14 December [1872], aged 2; buried at Viszoka. No baptism in hand. The first of three sons this father named János.",
+  "death": {
+   "date": "14 Dec [1872]",
+   "place": "Viszoka"
+  }
+ },
+ {
+  "id": "DM-X-069",
+  "ahnentafel": null,
+  "name": "Mihály Demkó, died aged 1 month (?), Viszoka 121",
+  "role": "A second dead Mihály of György Demkó, farmer; older brother of P-018 if the strip is of the 1870s",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-17"
+  ],
+  "note": "Son of György Demkó, farmer, of Viszoka 121. Died 3 May, one month old (?); the year is not on the strip. The owner's file name says 1888; the form of the page says before 1883 (DM-H-043). No baptism in hand.",
+  "death": {
+   "date": "3 May, year not known (file name: 1888)",
+   "place": "Viszoka no. 121"
+  }
+ },
+ {
+  "id": "DM-X-070",
+  "ahnentafel": null,
+  "name": "György Demko, died aged 5",
+  "role": "One of the two boys baptised György at Viszoka in the 1830s, probably",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-6"
+  ],
+  "note": "Son of György Demkó; died on the 15th of a month aged 5, on a page of the 1830s or 1840s. The owner's file name says 1905, which the form rules out (DM-H-044).",
+  "death": {
+   "date": "about 1836 to 1840",
+   "place": "Viszoka (?)"
+  }
+ },
+ {
+  "id": "DM-X-071",
+  "ahnentafel": null,
+  "name": "Anna Pesotár (?), wife of György Demko",
+  "role": "A wife of a György Demko of Viszoka; perhaps the Anna of DM-X-018",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "about 1805 to 1808",
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-3"
+  ],
+  "note": "Died in [1842] aged 34 (?) or 37, of consumption, at Viszoka. Her surname is doubtful in both agents' readings.",
+  "death": {
+   "date": "[1842]",
+   "place": "Viszoka"
+  }
+ },
+ {
+  "id": "DM-X-072",
+  "ahnentafel": null,
+  "name": "Ilona Demkó, of Viszoka",
+  "role": "A child of György Demko's wife, or his wife",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-8"
+  ],
+  "note": "Buried on the 14th of a month in [1836]. Read here as a child of 3 (?), by the Duska agent as a wife of 33. Cause: worms.",
+  "death": {
+   "date": "[1836]",
+   "place": "Viszoka"
+  }
+ },
+ {
+  "id": "DM-X-073",
+  "ahnentafel": null,
+  "name": "Demko women married out, parish of Csicser",
+  "role": "Collateral Demkos",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-1",
+   "DM-S-018-18",
+   "DM-S-018-5"
+  ],
+  "note": "Anna Demko, widow, cottar, of Pálóc (?), died 9 February [1837] aged 35. Mária Demko, wife of Mihály Pihulics of Viszoka, whose son Mihály died in February or March [1837]. Erzsébet Demkó, widow of György Hajdú (?), cottar, of Pálóc (?), died 8 November [1875] aged 54. None is placed in a household."
+ },
+ {
+  "id": "DM-X-074",
+  "ahnentafel": null,
+  "name": "Éva Demko, wife of András",
+  "role": "Unplaced Demko, parish of Solymos",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "about 1798",
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-22"
+  ],
+  "note": "Died 23 March [1837] aged 39, of fever, at Nagy Szeretva (?). The form does not say whether Demko is her maiden name or her husband's.",
+  "death": {
+   "date": "23 Mar [1837]",
+   "place": "Nagy Szeretva (?)"
+  }
+ },
+ {
+  "id": "DM-X-075",
+  "ahnentafel": null,
+  "name": "Pál Kocsis, husband of Mária Jevcsák",
+  "role": "A Kocsis of the generation before Ahn 38; father of the Borbála of [1846]",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "about 1816",
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-31"
+  ],
+  "note": "Farmer, Greek Catholic. Died 17 February [1848] aged 32; the village on his row reads Jesztreb. Born about 1816.",
+  "death": {
+   "date": "17 Feb [1848]",
+   "place": "Jesztreb (?)"
+  }
+ },
+ {
+  "id": "DM-X-076",
+  "ahnentafel": null,
+  "name": "The Demkos of the Belža strips (Abaúj)",
+  "role": "Unplaced Demkos, Abaúj county",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-38",
+   "DM-S-018-39",
+   "DM-S-018-40",
+   "DM-S-018-34",
+   "DM-S-018-41"
+  ],
+  "note": "László Demko, gardener, died at Kenyhec on 28 February [1889] aged 80, husband of Erzsébet N. Two infants named Mária Demko, daughters of gardeners at Gecse and Csány, died in [1850] and [1849]. Erzsébet Demko was the wife of András Soltész, cottar, who died at Bernátfalva on 25 December [1878] aged 74. Maria Demko, wife of Michael L[...], died on 15 October [1856] aged 37 (?). A gardener's family and two women married out, sixty kilometres from Viszoka. No link to the line."
+ },
+ {
+  "id": "DM-X-077",
+  "ahnentafel": null,
+  "name": "Kocsis of the parish of Csicser and of Abaúj, in the burial strips",
+  "role": "Namesakes; no stated link to the Kocsis of Solymos",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-018-7",
+   "DM-S-018-13",
+   "DM-S-018-35"
+  ],
+  "note": "György Kocsis, 5, son of János Kocsis, of Mogyorós (?), died in [1841]. János Kocsis, 17, son of János Kocsis, cottar, of Cséppely 21, died of cholera on 7 August [1873]. Anna Kocsis, 27, a herdsman's wife (?), died at Gönyű on 18 May [1840]."
  }
 ]

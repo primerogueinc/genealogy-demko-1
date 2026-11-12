@@ -5,7 +5,7 @@
   "person": "P-018 / DM-X-001, Mihály Demkó, baptised 20 Aug 1882",
   "burials_searched": "none: no burial register of the Csicser Greek Catholic parish or of the Roman Catholic parish for Viszoka, 1882 to 1897, is in hand",
   "forward_search": "The strips in hand for this couple end in 1882. No later Mihály to György Demkó is in hand; the mother was bearing by January 1857, so a child after 1882 is unlikely.",
-  "backward": "An earlier Mihály, twin, born 29 May [1873], is marked with a cross (DM-D-013). The 1882 child is itself a reuse of that name. The two are kept as two people.",
+  "backward": "An earlier Mihály, twin, born 29 May [1873], is marked with a cross (DM-D-013). The 1882 child is itself a reuse of that name. The two are kept as two people. Since DM-B-018 the burials are in hand: the twin Mihály was buried on 13 June [1873] (DM-D-121). A second infant Mihály of 'György Demkó, farmer', house 121, died on 3 May of a year the strip does not show (DM-D-122); see DM-NC-019.",
   "age_test": "The father of 1906 is '24 (huszonnégy) éves' on 23 Aug 1906: born between 24 Aug 1881 and 23 Aug 1882. The child of 19 Aug 1882 fits; the twin of 1873 does not.",
   "cousin_test": "The 1906 record names no parents for him. A cousin Mihály born about 1881-82 to János Demkó of Viszoka no. 120 is not excluded by the strips in hand (gap between March 1879 and January 1883).",
   "result": "Closed for survival in DM-B-017: the census of 1930 has a Michal Demko born at Vysoká in August 1882 alive at Iňačovce (DM-D-105). The days differ, the 19th in the baptism and the 28th in the census. That he is the son of György Demkó and Mária Hreskó still rests on there being one such birth in the strips.",
@@ -96,7 +96,7 @@
   "rule": "X-017 rule on two baptisms to the same parents",
   "person": "The blank entry no. 49 of 1870 and Anna Demko, no. 4 of January [1871], both to Michael Demko and Maria Lazár of Jesztreb no. 54",
   "forward_search": "Same parents, same house number, same godparents, three rows apart, and the first row has no name and no dates.",
-  "result": "One child, entered once. The blank row is a false start overwritten with the new year. The Anna strip is redated from [1870] to [1871].",
+  "result": "One child, entered once. The blank row is a false start overwritten with the new year. The Anna strip is redated from [1870] to [1871]. Since DM-B-018: her burial strip, 16 March, aged 2 months, is filed by the owner as 1870 (DM-D-124). Baptism and burial are of one year; neither strip shows it.",
   "logged": "2026-11-12T06:48:29Z"
  },
  {
@@ -104,7 +104,7 @@
   "rule": "X-017 rule on a change of mother's name",
   "person": "Children of 'Pál Kocsis' of Solymos: Borbála [1843] (Anna Cservenyák), Borbála [1846] (Mária Jevcsák), Mihály [1847 or 1848] (Anna Cservenyák)",
   "forward_search": "The [1846] strip was read again at a larger size; the mother is Mária Jevcsák.",
-  "result": "The mothers alternate, so this is not a widower's second marriage. Either two men called Pál Kocsis held land at Solymos in the 1840s, or the [1846] entry names the wrong mother. Open. A second Borbála three years after the first is then no evidence that the first had died, if the fathers are two men.",
+  "result": "The mothers alternate, so this is not a widower's second marriage. Either two men called Pál Kocsis held land at Solymos in the 1840s, or the [1846] entry names the wrong mother. Open. A second Borbála three years after the first is then no evidence that the first had died, if the fathers are two men. Since DM-B-018: a Pál Kocsis, husband of Mária Jevcsák, was buried on 17 February [1848], aged 32 (DM-D-136). So the two wives are not a slip of the pen: Mária Jevcsák had a husband Pál who died in [1848]. If the Mihály of DM-D-059 was baptised in November 1848, his father Pál, husband of Anna Cservenyák, was a second man. If that baptism is of 1847, one man with two entries under different wives' names is still possible. Leaning to two men.",
   "logged": "2026-11-12T06:48:29Z"
  },
  {
@@ -148,5 +148,43 @@
   "age_test": "31 in November 1937 fits August 1906. '28' does not; it is the figure on her husband's application, which has the boy's age right. How it got there is not known (DM-PR-7).",
   "result": "Two dates for one woman: 22 August 1906 on her passport, contract and gravestone, 15 August 1907 in the census, given by her husband's family. Logged as unresolved. A search of the Alsókánya civil births of 1907 for a second Mária Demkó, and of the deaths of 1906 to 1907, would close it. DM-H-024 is at 7.",
   "logged": "2026-11-12T09:54:51Z"
+ },
+ {
+  "id": "DM-NC-019",
+  "rule": "X-017 rules 1 to 5",
+  "person": "The sons named Mihály of György Demkó, farmer, of Viszoka: the twin of 29 May [1873]; the infant who died on 3 May of an unknown year at house 121; the Mihály baptised 20 August 1882 (P-018 / DM-X-001)",
+  "burials_searched": "The Csicser burial strips of DM-B-018: eighteen strips, [1831] to 1883, cut by the owner for the surnames Demko and Kocsis. Not a whole register.",
+  "forward_search": "After 1882: no later Mihály to a György Demkó in the baptism strips. The burial strip filed as 1888 would be one, if that year is right.",
+  "result": "Three boys, not one. The first died at twelve days (DM-D-121). The second died at one month (DM-D-122). The third lived to be counted in 1930 (DM-D-105). The order of the second and third rests on the form of a strip, not on a date: see DM-H-043. If the second died in 1888, the rule that a name is reused only after a death would be broken, and that would point to two fathers named György Demkó.",
+  "logged": "2026-11-12T22:33:17Z",
+  "age_test": "The father of 1906 was 24: born August 1881 to August 1882. Neither dead infant can be he.",
+  "cousin_test": "A second György Demkó, farmer, at Viszoka in the 1880s is not excluded. It is the reading that 1888 would force."
+ },
+ {
+  "id": "DM-NC-020",
+  "rule": "X-017 rules 1 to 5",
+  "person": "The sons named János of György Demkó, farmer, of Viszoka: one who died aged 2 on 14 December [1872]; the twin who died on 14 June [1873]; the János baptised 29 March 1875",
+  "burials_searched": "The same eighteen strips.",
+  "forward_search": "No burial of the János of 1875 among them.",
+  "result": "Three boys. The name was given again within six months of the first death and within two years of the second (DM-D-115, DM-D-116, DM-D-014). Whether the third lived is not known; DM-H-037 depends on it.",
+  "logged": "2026-11-12T22:33:17Z"
+ },
+ {
+  "id": "DM-NC-021",
+  "rule": "X-017 rules 1 to 5",
+  "person": "Children of János Demkó, farmer, of Viszoka: Anna who died on 26 August [1873], and Anna baptised 13 October [1874]",
+  "burials_searched": "The same eighteen strips.",
+  "forward_search": "No burial of the second Anna among them.",
+  "result": "Two girls. The second was born fourteen months after the first died (DM-D-107, DM-D-016). The 'Anna Demkó, daughter of János' of any later record is the second.",
+  "logged": "2026-11-12T22:33:17Z"
+ },
+ {
+  "id": "DM-NC-022",
+  "rule": "X-017 rules 1 to 5",
+  "person": "Reused names in the two other Demko families: at Jesztreb, János (twin of 1877, died 1883) and János (born 21 December [1885]); at Gönyű, György (died March [1892]) and György (born 29 March 1895)",
+  "burials_searched": "The Solymos and Belža burial strips of DM-B-018.",
+  "forward_search": "None.",
+  "result": "Two people in each pair (DM-D-129 and DM-D-060; DM-D-141 and DM-D-032). Neither family is on the line. Logged so that a later record of 'János Demkó of Jesztreb' or 'György Demko of Gönyű' is placed by date.",
+  "logged": "2026-11-12T22:33:17Z"
  }
 ]

@@ -1,6 +1,14 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-017. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-018. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+
+## DM→SITE-008 · 12 Nov 2026 · Forty-one documents, one new field, one new file (DM-B-018)
+
+- `documents.json`: 41 new entries, `DM-D-106` to `DM-D-146`, all with `object`. New optional field `changed_after_comparison`: a list of sentences saying what was changed after the other agent's reading was seen. Present on ten documents.
+- Images are short strips, about 1,300 to 1,800 pixels wide and 100 to 360 high, under `archive/duska-death/` in three sub-folders. All public.
+- `folders.json`: new folder `F-13`. `necronym_checks.json`: four new entries, `DM-NC-019` to `DM-NC-022`, with the same keys as before.
+- `people.json`: ten new people, `DM-X-068` to `DM-X-077`; three of them are groups (a name that begins "The Demkos of", "Demko women", "Kocsis of").
+- New file outside `data/`: `tools/first-readings-DM-B-018.py`, the readings as first made. Not for display.
 
 ## DM→SITE-007 · 12 Nov 2026 · Two new fields (DM-B-017)
 

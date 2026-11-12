@@ -358,5 +358,16 @@
    "DM-H-030",
    "DM-H-010"
   ]
+ },
+ {
+  "id": "DM-L-042",
+  "text": "The page behind the strip 'Death of Mihaly Demko 1888' (Csicser Greek Catholic burials, entry 27, 3 May): its year. And a baptism of a Mihály to György Demkó and Mária Hreskó in March or April of 1876, 1877, 1878, 1880 or 1881. Either settles DM-H-043 and with it the order of the three Mihálys. The same for the strip filed as 1905 (entry of the 15th, György aged 5): the page's year settles DM-H-044.",
+  "url": null,
+  "bears_on": [
+   "DM-H-043",
+   "DM-H-044",
+   "DM-H-010",
+   "DM-H-020"
+  ]
  }
 ]

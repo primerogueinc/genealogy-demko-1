@@ -1010,5 +1010,415 @@
   "reliability": "A state census sheet filled in for the household; dates are as the household gave them, and relationships are to the head.",
   "document": "DM-D-105",
   "also": "DUS:D-011-84 @2043138"
+ },
+ {
+  "id": "DM-S-018-1",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Anna Demko, widow, aged 35, 9 February [1837], Pálóc (?)",
+  "extract": "The 9th of February. Anna Demko, widow, 35 years old, Greek Catholic, a cottar widow, of Pálóc (?). Cause: wasting (?).",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-106",
+  "also": "DUS:D-013-10 @9462513"
+ },
+ {
+  "id": "DM-S-018-2",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Anna, about 1, daughter of János Demkó, farmer; died 26 August [1873], Viszoka",
+  "extract": "No. 86. 26 August. Anna; her father János Demkó, farmer. About one year old (?). Buried at Viszoka on 27 August.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-107",
+  "also": "DUS:D-013-11 @9462513"
+ },
+ {
+  "id": "DM-S-018-3",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Anna Pesotár (?), wife of György Demko, aged 34 (?), [1842], Viszoka",
+  "extract": "Anna Pesotár (?); her husband György Demko. Aged 34 (?). Greek Catholic. Viszoka. Consumption.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-108",
+  "also": "DUS:D-013-12 @9462513"
+ },
+ {
+  "id": "DM-S-018-4",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Barbara, wife of Georgius Demko, aged 25, [1831], Viszoka",
+  "extract": "The 22nd. Barbara; Georgius Demko, her husband. Aged 25. Viszoka. Consumption.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-109",
+  "also": "DUS:D-013-13 @9462513"
+ },
+ {
+  "id": "DM-S-018-5",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Erzsébet Demkó, widow of György Hajdú, aged 54, 8 November [1875], Pálóc (?)",
+  "extract": "Erzsébet Demkó, widow of György Hajdú, cottar. Female, 54. Died 8 November, buried 10 November at Pálóc (?).",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-110",
+  "also": "DUS:D-013-14 @9462513"
+ },
+ {
+  "id": "DM-S-018-6",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of György, aged 5, son of György Demko, on the 15th; a page of the 1830s or 1840s, not of 1905",
+  "extract": "The 15th. György; his father György Demkó. Five years old. Greek Catholic. Viszoka (?).",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-111",
+  "also": "DUS:D-013-15 @9462513"
+ },
+ {
+  "id": "DM-S-018-7",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of György Kocsis, aged 5, son of János Kocsis, on the 15th, [1841], Mogyorós (?)",
+  "extract": "The 15th. György Kocsis; his father János Kocsis. Five years old. Greek Catholic. Of Mogyorós (?). Fever.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-112",
+  "also": "DUS:D-013-16 @9462513"
+ },
+ {
+  "id": "DM-S-018-8",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Ilona Demkó, 14th of a month [1836], Viszoka: a child of György Demko's wife, aged 3 (?), or his wife, aged 33",
+  "extract": "The 14th. Ilona Demkó; her mother, the wife of György Demko. Aged 3 (?). Greek Catholic. Of a serf holding. Viszoka. Worms.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-113",
+  "also": "DUS:D-013-17 @9462513"
+ },
+ {
+  "id": "DM-S-018-9",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of an unnamed infant son of János Demkó, farmer; died 22 March [1873], Viszoka",
+  "extract": "No. 18. 22 March. [No name]; his father János Demkó, farmer. Male. Buried at Viszoka on 23 March.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-114",
+  "also": "DUS:D-013-18 @9462513"
+ },
+ {
+  "id": "DM-S-018-10",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of János, aged 2, son of György Demkó, farmer; died 14 December [1872], Viszoka",
+  "extract": "No. 49. 14 December. János; his father György Demkó, farmer. Male, 2 years. Buried at Viszoka on 15 December.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-115",
+  "also": "DUS:D-013-19 @9462513"
+ },
+ {
+  "id": "DM-S-018-11",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of János, aged 15 days, twin son of György Demkó, farmer; died 14 June [1873], Viszoka",
+  "extract": "No. 31. 14 June. János; his father György Demkó, farmer. Male, 15 days. Weakness. Buried at Viszoka on 15 June.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-116",
+  "also": "DUS:D-013-20 @9462513"
+ },
+ {
+  "id": "DM-S-018-12",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of János, aged 2 weeks, son of János Demkó, farmer; died 14 March [1879], Viszoka 120",
+  "extract": "No. 11. 14 March. János; his father János Demkó, farmer. Viszoka 120. Male, two weeks. Weakness. Buried at Viszoka on 16 March.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-117",
+  "also": "DUS:D-013-21 @9462513"
+ },
+ {
+  "id": "DM-S-018-13",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of János, aged 17, son of János Kocsis, cottar; died of cholera 7 August [1873], Cséppely 21",
+  "extract": "No. 73. 7 August. János; his father János Kocsis, cottar. Cséppely 21. Male, 17. Cholera. Buried at Cséppely on 8 August. Remark: buried by the minister of Mátyóc (?).",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-118",
+  "also": "DUS:D-013-22 @9462513"
+ },
+ {
+  "id": "DM-S-018-14",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Maria Demko, aged 60, wife of György Tirpák; died 1 January 1857, Vysoka 34",
+  "extract": "No. 1. 1 January 1857. Maria Demko, wife of György Tirpák. Vysoka 34. Female, 60. Consumption (?). Buried at Vysoka on 3 January by the parish priest of Csicser.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-119",
+  "also": "DUS:D-013-23 @9462513"
+ },
+ {
+  "id": "DM-S-018-15",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Zsuzsanna (?) Demkó, aged 2 months, daughter of János Demkó; died about 1 March 1883, Viszoka 136 (file name says Maria)",
+  "extract": "No. 19. [1] March 1883. Zsuzsanna Demkó, daughter of János Demkó. Viszoka 136. Female, two months. Cough. Buried at Viszoka on 2 March.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-120",
+  "also": "DUS:D-013-24 @9462513"
+ },
+ {
+  "id": "DM-S-018-16",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Mihály, aged 12 days, twin son of György Demkó, farmer; died 11 June [1873], Viszoka",
+  "extract": "No. 30. 11 June. Mihály; his father György Demkó, farmer. Male, 12 days. Weakness. Buried at Viszoka on 13 June.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-121",
+  "also": "DUS:D-013-25 @9462513"
+ },
+ {
+  "id": "DM-S-018-17",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Mihály, aged 1 month (?), son of György Demkó, farmer, Viszoka 121; died 3 May, year not on the strip (file name: 1888)",
+  "extract": "No. 27. 3 May. Mihály; his father György Demkó, farmer. Viszoka 121. Male, one month (?). Weakness. Buried at Viszoka on 5 May.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-122",
+  "also": "DUS:D-013-26 @9462513"
+ },
+ {
+  "id": "DM-S-018-18",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Mihály Pihulics, child, son of Mihály Pihulics and Mária Demko; February or March [1837], Viszoka",
+  "extract": "February. Mihály Pihulics; parents Mihály Pihulics and Mária Demko. A child. Greek Catholic. Viszoka. Fever.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-123",
+  "also": "DUS:D-013-27 @9462513"
+ },
+ {
+  "id": "DM-S-018-19",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Anna, aged 2 months, daughter of Michael Demko and Maria Lazar; died 16 March [1870 or 1871], Jesztreb",
+  "extract": "No. 11. 16 March. Anna; parents Michael Demko and Maria Lazar. Jesztreb 64 (?). Female, two months. Smallpox. Buried at Jesztreb on 17 March.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-124",
+  "also": "DUS:D-013-29 @9462513"
+ },
+ {
+  "id": "DM-S-018-20",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Anna, aged 1 year 3½ months, daughter of Mihály Demko the younger and Anna Járos; died 17 March 1891, Jesztreb 46",
+  "extract": "No. 7. 17 March 1891. Anna; her parents Mihály Demko the younger and Anna Járos. Jesztreb 46. Female, one year and three and a half months. Cause not known. Buried at Jesztreb on 19 March.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-125",
+  "also": "DUS:D-013-30 @9462513"
+ },
+ {
+  "id": "DM-S-018-21",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Erzsébet, aged 6 months, daughter of Mihály Demko and Mária Lázár; died of smallpox 11 February 1885, Jesztreb 47",
+  "extract": "No. 8. 11 February 1885. Erzsébet, daughter of Mihály Demko and Mária Lázár. Jesztreb 47. Female, six months. Smallpox. Buried at Jesztreb on 12 February.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-126",
+  "also": "DUS:D-013-41 @9462513"
+ },
+ {
+  "id": "DM-S-018-22",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Éva Demko, aged 39, wife of András, 23 March [1837], Nagy Szeretva (?)",
+  "extract": "The 23rd of March. Éva Demko; her husband András. Aged 39. Greek Catholic. Farmer's household. Of Nagy Szeretva (?). Fever.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-127",
+  "also": "DUS:D-013-42 @9462513"
+ },
+ {
+  "id": "DM-S-018-23",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of György, aged 1½, son of Mihály Demko; died of smallpox 1 June 1879, Jesztreb",
+  "extract": "No. 16. 1 June 1879. György, son of Mihály Demko. Jesztreb. Male, one and a half years. Smallpox. Buried on 3 June.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-128",
+  "also": "DUS:D-013-44 @9462513"
+ },
+ {
+  "id": "DM-S-018-24",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of János, aged 4½ (?), son of Mihály Demko and Mária Lázár; died 23 January 1883, Jesztreb 47",
+  "extract": "No. 2. 23 January 1883. János, son of Mihály Demko and Mária Lázár. Jesztreb 47. Male, four and a half (?). Sore throat. Buried at Jesztreb on 25 January.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-129",
+  "also": "DUS:D-013-46 @9462513"
+ },
+ {
+  "id": "DM-S-018-25",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of János Kocsis, cottar, aged 70, husband of Anna Kovács; died 3 November 1891, Solymos 16",
+  "extract": "No. 28. 3 November 1891. János Kocsis, husband of Anna Kovács, cottar. Of Závadka (?), living at Solymos 16. Male, 70. Old age. Sacraments: yes. Buried at Solymos on 4 November.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-130",
+  "also": "DUS:D-013-47 @9462513"
+ },
+ {
+  "id": "DM-S-018-26",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Joannes, aged 19, son of Joannes Rusnak (?) and Susana Demko; died 13 December 1864, Jesztreb 18",
+  "extract": "No. 22. 13 December 1864. Joannes; parents Joannes Rusnak (?) and Susana Demko. Jesztreb 18. Male, 19. Typhus. Buried at Jesztreb by Josephus Danilovics, parish priest of Solymos.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-131",
+  "also": "DUS:D-013-50 @9462513"
+ },
+ {
+  "id": "DM-S-018-27",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Mária Holos, aged 2 years 2 months, daughter of Mihály Holos and Mária Demko; died 4 February 1894, Jesztreb 34",
+  "extract": "No. 5. 4 February 1894. Mária Holos; parents Mihály Holos and Mária Demko. Jesztreb 34. Female, two years and two months. Measles. Buried at Jesztreb on 6 February.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-132",
+  "also": "DUS:D-013-57 @9462513"
+ },
+ {
+  "id": "DM-S-018-28",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Maria, daughter of Joannes Kocsis, cottar of Solymos; died 3 January 1876, Solymos 13",
+  "extract": "No. 1. 3 January 1876. Maria, daughter of Joannes Kocsis, cottar of Solymos. Solymos 13. Female. Carbuncle. Buried at Solymos on 4 January.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-133",
+  "also": "DUS:D-013-60 @9462513"
+ },
+ {
+  "id": "DM-S-018-29",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Mária Lázár, wife of Mihály Demko, aged 54; died 23 April 1897, Jesztreb 54",
+  "extract": "No. 10. 23 April 1897. Mária Lázár, wife of Mihály Demko. Jesztreb 54. Female, 54. Pneumonia. Sacraments: yes. Buried at Jesztreb on 25 April.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-134",
+  "also": "DUS:D-013-64 @9462513"
+ },
+ {
+  "id": "DM-S-018-30",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Mihály, aged 6 months, son of Mihály Holos and Mária Demko; died 16 January 1891, Jesztreb 38",
+  "extract": "No. 3. 16 January 1891. Mihály; his parents Mihály Holos and Mária Demko. Jesztreb 38. Male, six months. Croup. Buried at Jesztreb on 18 January.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-135",
+  "also": "DUS:D-013-69 @9462513"
+ },
+ {
+  "id": "DM-S-018-31",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Pál Kocsis, farmer, aged 32, husband of Mária Jevcsák; 17 February [1848], Jesztreb",
+  "extract": "The 17th of February. Pál Kocsis; his wife Mária Jevcsák. Aged 32. Greek Catholic. Farmer. Jesztreb.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-136",
+  "also": "DUS:D-013-70 @9462513"
+ },
+ {
+  "id": "DM-S-018-32",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Josephus, aged 6, son of Joannes Szmeriga, farmer, and Susana Demko; died of smallpox 28 February 1867, Jesztreb 15 or 19",
+  "extract": "No. 7. 28 February 1867. Josephus; parents Joannes Szmeriga (?), farmer, and Susana Demko. Jesztreb 19. Male, 6. Smallpox. Buried at Jesztreb on 2 March by Josephus Danilovics, parish priest of Solymos.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-137",
+  "also": "DUS:D-013-71 @9462513"
+ },
+ {
+  "id": "DM-S-018-33",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Zuzanna, aged 9 months (?), daughter of Michael Demko, cottar of Jesztreb; died 10 April [1876], Jesztreb 34 (file name says Duska)",
+  "extract": "No. 27. 10 April. Zuzanna, daughter of Michael Demko, Greek Catholic cottar of Jesztreb. Jesztreb 34. Female, nine (?) months. Measles. Buried at Jesztreb on 11 April.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-138",
+  "also": "DUS:D-013-73 @9462513"
+ },
+ {
+  "id": "DM-S-018-34",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of András Soltész, cottar, aged 74, husband of Erzsébet Demko; died 25 December [1878], Bernátfalva",
+  "extract": "No. 50. 25 December. András Soltész, cottar, husband of Erzsébet Demko. Born at Nagy-Ida, of Bernátfalva. Aged 74. Old age. Buried at Bernátfalva on 27 December.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-139",
+  "also": "DUS:D-013-01 @9462513"
+ },
+ {
+  "id": "DM-S-018-35",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Anna Kocsis, aged 27, a herdsman's wife (?); 18 May [1840], Gönyű",
+  "extract": "No. 23, the 18th. Anna Kocsis, a herdsman's wife (?). Aged 27. Gönyű.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-140",
+  "also": "DUS:D-013-02 @9462513"
+ },
+ {
+  "id": "DM-S-018-36",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of György Demko, aged 2 years 3 months, son of György Demko and Katalin Jobbágy; died of diphtheria 9 March [1892], Gönyű",
+  "extract": "No. 17. 9 March. György Demko, son of György Demko and Katalin Jobbágy. Gönyű. Male, two years and three months. Diphtheria. Buried at Gönyű on 11 March.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-141",
+  "also": "DUS:D-013-03 @9462513"
+ },
+ {
+  "id": "DM-S-018-37",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of János Demko, aged 1½, son of György Demko and Katalin Jobbágy; died of diphtheria 30 October [1892], Gönyű",
+  "extract": "No. 38. 30 October. János Demko, son of György Demko and Katalin Jobbágy. Gönyű. Male, one and a half. Diphtheria. Buried at Gönyű on 1 November.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-142",
+  "also": "DUS:D-013-04 @9462513"
+ },
+ {
+  "id": "DM-S-018-38",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of László Demko, gardener, aged 80, husband of Erzsébet N.; died 28 February [1889], Kenyhec",
+  "extract": "No. 6. 28 February. László Demko, gardener, husband of Erzsébet N. Kenyhec. Male, 80. Old age. The priest was not called. Buried at Kenyhec on 1 March.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-143",
+  "also": "DUS:D-013-06 @9462513"
+ },
+ {
+  "id": "DM-S-018-39",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Maria Demko, aged 2 weeks, daughter of the gardener of Gecse; 2 March [1850]",
+  "extract": "No. 13. 2 March. Maria Demko, daughter of the gardener of Gecse. Two weeks old. Buried in the graveyard of Gecse by the minister of Bölzse (?).",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-144",
+  "also": "DUS:D-013-07 @9462513"
+ },
+ {
+  "id": "DM-S-018-40",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Mária Demko, a few weeks old, child of the gardener of Csány; 14 August [1849]",
+  "extract": "No. 47. 14 August. Mária Demko, child of the gardener of Csány. A few weeks old. Buried in the graveyard of Gecse by a Roman Catholic parish priest.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-145",
+  "also": "DUS:D-013-08 @9462513"
+ },
+ {
+  "id": "DM-S-018-41",
+  "batch": "DM-B-018",
+  "type": "Parish burial register entry",
+  "title": "Burial of Maria Demko, aged 37 (?), wife of Michael S[...]; 15 October [1856]",
+  "extract": "The 15th. Maria Demko, wife of Michael S[...]. Aged 37 (?). Buried the 17th.",
+  "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
+  "document": "DM-D-146",
+  "also": "DUS:D-013-09 @9462513"
  }
 ]

@@ -315,6 +315,12 @@
     "from": 70,
     "to": 70,
     "why": "The census of 1930 has Michal Demko, Greek Catholic, at Iňačovce, born at Vysoká on 28 August 1882 (DM-D-105). So the second link is much firmer: the father of 1906 was born at Vysoká in August 1882, and a boy of that name born there that month lived. What is still missing is a record of his that names his parents. Held at the cap of 70 because no archive reference is in hand for any of the three records (X-009); this agent's own estimate without the cap is about 90."
+   },
+   {
+    "batch": "DM-B-018",
+    "from": 70,
+    "to": 70,
+    "why": "Still at the cap. The burial strips for Viszoka have the twins of 1873 and a János of [1872], which fit the family as built. They also have a second dead Mihály of 'György Demkó, farmer', house 121, one month old, in a year the strip does not show (DM-D-122). If that year is in the 1870s, as the form says, he is one more brother who died before the Mihály of 1882, and the name was simply given a third time. If it is 1888, as the file name says, a György Demkó at house 121 named a son Mihály while the Mihály of 1882 was alive, and there were two fathers of the name; then which of them is the father of the boy of 1882 would have to be shown again. Without the cap this would now be about 85, not 90."
    }
   ],
   "question": "X-Q-03",
@@ -514,20 +520,27 @@
  {
   "id": "DM-H-020",
   "statement": "György Demkó, husband of Mária Hreskó (Ahn 36 if the line holds), is one of the two boys baptised at Viszoka in the 1830s: Georgius of [1831], son of Georg. Demko and Barbara, or György of [1834], son of György Demko and Anna Samudovszki.",
-  "confidence": 65,
+  "confidence": 52,
   "basis": "He was married with a child by January 1857, so born before about 1836, and both boys are Greek Catholic Demkos of Viszoka of the right age. Split about evenly between the two. A third György of the same age, not in the folder, cannot be ruled out.",
   "test": "The marriage of György Demkó and Mária Hreskó, about 1855, in the Csicser Greek Catholic or the Roman Catholic book; his age at burial.",
   "status": "open",
   "raised": "DM-B-005",
   "resolved": null,
   "resolution": null,
-  "history": [],
+  "history": [
+   {
+    "batch": "DM-B-018",
+    "from": 65,
+    "to": 52,
+    "why": "One of the boys named György baptised at Viszoka in the 1830s died aged 5 (DM-D-111). That leaves one of the two alive, and the strip does not say which. The mother of the first, Barbara, died in [1831] (DM-D-109)."
+   }
+  ],
   "necronym_risk": "unresolved"
  },
  {
   "id": "DM-H-021",
   "statement": "The three György Demkos who baptised children at Viszoka in [1831], [1834-1838] and [1840] with wives Barbara, Anna and Mária are fewer than three men.",
-  "confidence": 60,
+  "confidence": 68,
   "basis": "Three wives' names in nine years under one husband's name. A man twice widowed fits the dates as written: Barbara to 1831, Anna 1834 to 1838, Mária by 1840. So do an uncle and nephew, or cousins. The years are the collector's.",
   "test": "Burials of Barbara and Anna Demko at Viszoka, 1831 to 1840; marriages of a widower György Demko.",
   "status": "open",
@@ -540,6 +553,12 @@
     "from": 55,
     "to": 60,
     "why": "Ledger X-017 rule 7: a change of mother's name under one father's name is read as a second marriage until a second man is shown."
+   },
+   {
+    "batch": "DM-B-018",
+    "from": 60,
+    "to": 68,
+    "why": "Barbara died in [1831] (DM-D-109), so her widower could be the György who had children by an Anna from [1834]. An Anna, wife of György Demko, died in [1842] (DM-D-108), two years after a György Demko had a child by Mária Vaszil (?) in [1840]. So Barbara's and Anna's husband may be one man and Mária's is another: two men, not three and not one. This leans on the file-name years."
    }
   ]
  },
@@ -553,7 +572,14 @@
   "raised": "DM-B-005",
   "resolved": null,
   "resolution": null,
-  "history": [],
+  "history": [
+   {
+    "batch": "DM-B-018",
+    "from": 40,
+    "to": 40,
+    "why": "No change. A third house number for him, 136 in 1883 (DM-D-120)."
+   }
+  ],
   "necronym_risk": "unresolved"
  },
  {
@@ -629,6 +655,12 @@
     "from": 12,
     "to": 4,
     "why": "The mother-in-law in Michal Demko's house in 1930 is Roman Catholic and was married in 1879. Anna Kováts, the wife in this rival couple, was bearing children by 1875. Not her."
+   },
+   {
+    "batch": "DM-B-018",
+    "from": 4,
+    "to": 4,
+    "why": "No change. János Kocsis of Solymos 13 was born about 1821 (DM-D-130), so about 65 when Ahn 19 was born; that tells against. He had lost a daughter Maria in 1876 (DM-D-133), so a later Mária would be in the custom; that tells a little for."
    }
   ],
   "question": "X-Q-05"
@@ -649,6 +681,12 @@
     "from": 50,
     "to": 55,
     "why": "The Jesztreb Demkos go back further than thought: Zsuzsi Demko was a mother there in 1845 (DM-D-053), so the family was at Jesztreb by the 1820s, two generations before the Viszoka Mihály came to the parish."
+   },
+   {
+    "batch": "DM-B-018",
+    "from": 55,
+    "to": 55,
+    "why": "No change. The Jesztreb burials add no parent, birthplace or godparent that ties the two families."
    }
   ]
  },
@@ -687,7 +725,7 @@
   "id": "DM-H-029",
   "question": "X-Q-04",
   "statement": "Ján Demko, born 1896 at Giňov and killed in Bukovina on 1 January 1916, is a son of György Demko and Katalin Jobbágy of Gönyű no. 24, a brother of the György born there in March 1895.",
-  "confidence": 40,
+  "confidence": 45,
   "necronym_risk": "unresolved",
   "basis": "Same village, same surname, born a year after the couple's son György (DM-D-032, relayed parish Belža). Against: the card names no parents, and a village can hold several Demko households.",
   "test": "A baptism of János Demko at Gönyű in 1896 in the Belža book; the death-register folio (vol. IV, fol. 148).",
@@ -695,7 +733,14 @@
   "raised": "DM-B-008",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-018",
+    "from": 40,
+    "to": 45,
+    "why": "The couple of Gönyű lost a János to diphtheria in October [1892] (DM-D-142). A János born to them in 1896 would carry his name, as their György of 1895 carries that of the György who died in March [1892]."
+   }
+  ]
  },
  {
   "id": "DM-H-030",
@@ -754,7 +799,14 @@
   "raised": "DM-B-010",
   "resolved": null,
   "resolution": null,
-  "history": [],
+  "history": [
+   {
+    "batch": "DM-B-018",
+    "from": 30,
+    "to": 30,
+    "why": "No change. The Pál Kocsis who died in [1848] is the husband of Mária Jevcsák, not of Anna Cservenyák (DM-D-136), so the father named in this hypothesis is not the dead man."
+   }
+  ],
   "necronym_risk": "unresolved"
  },
  {
@@ -836,7 +888,14 @@
   "raised": "DM-B-013",
   "resolved": null,
   "resolution": null,
-  "history": [],
+  "history": [
+   {
+    "batch": "DM-B-018",
+    "from": 15,
+    "to": 15,
+    "why": "No change. No burial of the János born in 1875 is among the Viszoka strips; two older brothers of the same name are (DM-D-115, DM-D-116). The census sheet for Vysoká 165 that should test this is still to be read."
+   }
+  ],
   "necronym_risk": "unresolved"
  },
  {
@@ -896,6 +955,32 @@
   "test": "The civil birth of 17 September 1911 in the Alsókánya register; the death of Mária Kocsis, 1911 to 1919; the marriage of 3 February 1919, which should call him a widower.",
   "status": "supported",
   "raised": "DM-B-017",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-043",
+  "statement": "The burial of Mihály, one month old, son of György Demkó, farmer, of Viszoka 121, which the owner files as 1888, is of a year between 1876 and 1881. He is a son of György Demkó and Mária Hreskó and an older brother of the Mihály of 1882 (Ahn 18).",
+  "question": "X-Q-03",
+  "confidence": 65,
+  "basis": "The form of the strip is that of the page proved to be 1879 and not that of the page of 1883 (DM-D-122, DM-D-117, DM-D-120). House 121 is the house of György Demkó and Mária Hreskó in 1875 and [1879]. Mária Hreskó was bearing in January 1857; a child of hers in 1888 is not believable. Parents did not give a living child's name to a second child, and the Mihály of 1882 lived. Against: the file name; the strip names no mother; a younger György Demkó, farmer, could have had the house by 1888. The Duska agent holds the same view at 60 (DUS:H-077 @9462513).",
+  "test": "The whole page: the year at its head, or a dated entry above. A baptism of a Mihály to György Demkó in March or April of a year from 1876 to 1881, with a cross. The Csicser burials of 1888, entry 27.",
+  "status": "open",
+  "raised": "DM-B-018",
+  "resolved": null,
+  "resolution": null,
+  "history": [],
+  "necronym_risk": "This is the necronym question itself: see DM-NC-019."
+ },
+ {
+  "id": "DM-H-044",
+  "statement": "The strip filed as 'Death of Gyorgy Demko 1905' is a burial of about 1835 to 1845, and the boy of five is one of the two Györgys baptised at Viszoka in [1831] and [1834].",
+  "confidence": 70,
+  "basis": "The form is the hand-ruled single page of the 1830s and 1840s, with 'Attya' and no entry number (DM-D-111); nothing like it is used after the 1850s in this book. A György, son of a György Demko, aged 5: the two baptisms in hand are of [1831] and [September 1834] (DM-D-020, DM-D-021). Against: a third György, born to the György Demko who had a child by Mária Vaszil (?) in [1840], cannot be excluded if the strip is as late as 1845. The Duska agent holds this at 70 (DUS:H-078 @9462513).",
+  "test": "The whole page, for its year. Then the age gives the birth year: 1836 or 1837 points to the boy of [1831], 1839 or 1840 to the boy of [1834].",
+  "status": "open",
+  "raised": "DM-B-018",
   "resolved": null,
   "resolution": null,
   "history": []
