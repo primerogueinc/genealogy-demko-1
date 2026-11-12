@@ -389,10 +389,11 @@
   "title": "Aged 28",
   "original": "your wife, Maria aged 28, and son, Stefan aged 7",
   "translation": "same",
-  "why": "Ottawa took the ages from her husband's application. She was 31 and the boy was a month short of 8. Mike Duska had been away long enough to lose three years of his wife's age.",
-  "tone": "funny",
+  "why": "Ottawa took the ages from her husband's application. The boy's is right; hers is three years short of her passport's. This agent first put that down to a husband long away from home. The owner offers another reading: Mike Duska may have had neither English nor French when he arrived, so the form may have been filled in for him by someone working through an interpreter or a guess (DM-PR-7). Nothing in hand says which.",
+  "tone": "odd",
   "doc": "DM-D-096",
-  "text": "Ottawa took the ages from her husband's application. She was 31 and the boy was a month short of 8. Mike Duska had been away long enough to lose three years of his wife's age."
+  "text": "Ottawa took the ages from her husband's application. The boy's is right; hers is three years short of her passport's. This agent first put that down to a husband long away from home. The owner offers another reading: Mike Duska may have had neither English nor French when he arrived, so the form may have been filled in for him by someone working through an interpreter or a guess (DM-PR-7). Nothing in hand says which.",
+  "revised": "DM-B-016"
  },
  {
   "id": "DM-C-029",

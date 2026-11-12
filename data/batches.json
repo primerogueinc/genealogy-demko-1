@@ -850,5 +850,28 @@
    "commit": "c1c3be2",
    "found": "Four pages taken from its F-011, checksums equal to its manifest. Its note had given the dates on the census sheet and the rows on the urbarial pages before this agent read them; each was then read from the image and agrees. It holds the householders of Senné 145 as the parents of its Ahn 8; that is its line. Not yet taken: its D-011-23, -27, -28, -31 (Senné census, Kocsis households) and 24 strips of its F-009, all routed here. It says the 1930 sheets for Iňačovce and Vysoká are coming."
   }
+ },
+ {
+  "id": "DM-B-016",
+  "date": "2026-11-12",
+  "at_utc": "2026-11-12T13:03:30Z",
+  "title": "A correction from the owner: why the Ottawa letter has Maria at 28",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new file. The owner read the last batch's curiosity about the Ottawa letter of 1937, which has 'your wife, Maria aged 28' when her passport makes her 31, and offered another reason for it: Mike Duska, newly in Québec, may have spoken neither English nor French, so the application may not have been in his own words. That is logged as his statement. This agent had written the entry as if a husband's bad memory were the known cause, and had also called the boy's age wrong when 7 was right for September 1937. Both are corrected. Nothing in hand says how the figure got onto the form, and no confidence moves. The ledger is unchanged at v19. Curiosities: 0.",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [],
+  "documents_added": [],
+  "priors_added": [
+   "DM-PR-7"
+  ],
+  "curiosities_added": [],
+  "curiosities": 0,
+  "read": [
+   "coordinator ledger v19, duska-coordinator (unchanged)"
+  ]
  }
 ]

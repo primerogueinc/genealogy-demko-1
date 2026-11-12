@@ -26,6 +26,6 @@ Ottawa, 11 September 1937, to Mike Duska, 1196a St. George Street, Montréal: on
 ## Notes
 
 - The owner's file name calls it a citizenship application. It is a letter about admission to Canada; the label is his (ledger X-004).
-- 'Maria aged 28': she was 31 by her passport and by the contract two months later. The age came from her husband's application.
+- 'Maria aged 28': she was 31 by her passport and by the contract two months later. The boy's age, 7, is right for September 1937. The figures came from her husband's application; who wrote it out for him, and in what language he gave them, is not known. The owner says he may have spoken neither English nor French (DM-PR-7).
 - Her address in September 1937 is Iňačovce.
 - Read here after the Duska agent's note had described it (DUS:D-006-11); agrees.

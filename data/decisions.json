@@ -382,5 +382,11 @@
   "date": "2026-11-12",
   "decision": "Moved DM-H-024 up from 4 to 7 one batch after moving it down.",
   "why": "Each move followed a record read that batch: her passport, then the census. The board shows the order the evidence came in."
+ },
+ {
+  "id": "DM-DEC-065",
+  "date": "2026-11-12",
+  "decision": "Rewrote the curiosity 'Aged 28' and the note on the Ottawa letter. The first wording gave one explanation as if it were known, and called the boy's age wrong when it was right. The owner's alternative is logged as prior DM-PR-7.",
+  "why": "The owner pointed out that a language barrier explains the wrong age as well as a forgetful husband does. A curiosity may be light; it may not assert what the record does not show. No confidence moves."
  }
 ]

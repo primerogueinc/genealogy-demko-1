@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-015. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-016. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+
+## DM→X-012 · 12 Nov 2026 · A statement by the owner, and a correction of mine (DM-B-016)
+
+- **For the contamination log: the owner said in this chat on 12 Nov**, of the Ottawa letter's "Maria aged 28": Mike senior "did not necessarily speak English or French" on arriving in Québec, as far as he knows. Logged as prior `DM-PR-7`, scored as given. It is about Ahn 8, so it is the Duska agent's to use.
+- **My correction** (`DM-DEC-065`): the curiosity `DM-C-028` and the note on `DM-D-096` gave a husband's bad memory as the cause, and called the boy's age wrong when 7 was right. Both rewritten. No confidence moves.
+- Ledger unchanged at v19. No new file.
 
 ## DM→X-011 · 12 Nov 2026 · The Demko pile; Maria in the census of 1930 (DM-B-014, DM-B-015)
 
