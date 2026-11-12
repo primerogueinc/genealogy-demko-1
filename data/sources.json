@@ -384,5 +384,111 @@
     "extract": "A Demko woman at Lasztomér with no father named for the child.",
     "reliability": "Original entry, cropped. Year from the file name.",
     "document": "DM-D-041"
+  },
+  {
+    "id": "DM-S-008-1",
+    "batch": "DM-B-008",
+    "type": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "title": "Card: Andreas Demkó, born 1896 at Enyiczke, died 3 April 1918 at Monte Asolone, Italy",
+    "extract": "Andreas Demkó, private in the former Infantry Regiment no. 34, born 1896 at Enyiczke in Abaúj-Torna county. Died 3 April 1918 at Pertica by Monte Asolone in Italy and was buried the next day on the Col della Fratte. Copied from the regiment's death register, volume IX, folio 178.",
+    "reliability": "Derivative: an index card copied between the wars from a military death register, which it cites by volume and folio. Good for the death; birth year and place as the army recorded them.",
+    "document": "DM-D-043"
+  },
+  {
+    "id": "DM-S-008-2",
+    "batch": "DM-B-008",
+    "type": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "title": "Card: Gregor Demko, aged 25, of Nizankowica near Przemyśl, died 9 March 1915 in the epidemic hospital at Košice",
+    "extract": "Gregor Demko, lance-corporal in the former Field Howitzer Regiment no. 10, aged 25, of Nizankowica near Przemyśl in Galicia. Died 9 March 1915 in the epidemic hospital at Košice and was buried the next day in the epidemic cemetery at Barca. Grave unknown. Copied from the register of Garrison Hospital no. 20, volume XII, folio 6.",
+    "reliability": "Derivative: an index card copied between the wars from a military death register, which it cites by volume and folio. Good for the death; birth year and place as the army recorded them.",
+    "document": "DM-D-044"
+  },
+  {
+    "id": "DM-S-008-3",
+    "batch": "DM-B-008",
+    "type": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "title": "Card: Ján Demko, born 1896 at Giňov, died 1 January 1916 in Bukovina",
+    "extract": "Ján Demko, private in the former Honvéd Infantry Regiment no. 9, born 1896 at Giňov near Košice and domiciled there. Died 1 January 1916 on the hill Dolzok in Bukovina and was buried on 4 January at Mahala. Copied from the register of the field superiorate, volume IV, folio 148.",
+    "reliability": "Derivative: an index card copied between the wars from a military death register, which it cites by volume and folio. Good for the death; birth year and place as the army recorded them.",
+    "document": "DM-D-045"
+  },
+  {
+    "id": "DM-S-008-4",
+    "batch": "DM-B-008",
+    "type": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "title": "Card: Ján Demko, born 1889 at Michaľany, died 8 September 1915 in a camp hospital at Samarkand",
+    "extract": "Ján Demko, private in Honvéd Infantry Regiment no. 9, born 1889 at Michaľany in the district of Sabinov, domiciled at Veľký Šariš. Died 8 September 1915 in the camp hospital at Samarkand and was buried there two days later.",
+    "reliability": "Derivative: an index card copied between the wars from a military death register, which it cites by volume and folio. Good for the death; birth year and place as the army recorded them.",
+    "document": "DM-D-046"
+  },
+  {
+    "id": "DM-S-008-5",
+    "batch": "DM-B-008",
+    "type": "Parish baptism register, one entry cut from a page",
+    "title": "Baptism of Anna Kocsis, born 16 April 1877, Solymos 13",
+    "extract": "No. 12. Born 16 April, baptised 17 April 1877: Anna, daughter of János Kocsis, Greek Catholic cottar, and Anna Kováts, Roman Catholic, Solymos no. 13.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-047",
+    "also": "DUS:S-038 @0200bec"
+  },
+  {
+    "id": "DM-S-008-6",
+    "batch": "DM-B-008",
+    "type": "Parish baptism register, one entry cut from a page",
+    "title": "Baptism of Anna Kocsis, born 19 October [1889], Solymos 19",
+    "extract": "No. 44. Born 19 October, baptised 20 October: Anna, legitimate daughter of Mihály Kocsis, Greek Catholic farmer, and Mária Knyezső, Roman Catholic, Solymos no. 19.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-048",
+    "also": "DUS:S-039 @0200bec"
+  },
+  {
+    "id": "DM-S-008-7",
+    "batch": "DM-B-008",
+    "type": "Parish baptism register, one entry cut from a page",
+    "title": "Baptism of Borbála Kocsis, 20 July [1843], Solymos",
+    "extract": "Born 20 July, baptised 21 July: Borbála, daughter of Pál Kocsis, Greek Catholic landholder, and Anna Cservenyák, of Solymos.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-049",
+    "also": "DUS:S-042 @0200bec"
+  },
+  {
+    "id": "DM-S-008-8",
+    "batch": "DM-B-008",
+    "type": "Parish baptism register, one entry cut from a page",
+    "title": "Baptism of Borbála Kocsis, [1846], Solymos",
+    "extract": "Born the 5th, baptised the 6th: Borbála, daughter of Pál Kocsis, Greek Catholic landholder, and Mária, of Solymos.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-050",
+    "also": "DUS:S-043 @0200bec"
+  },
+  {
+    "id": "DM-S-008-9",
+    "batch": "DM-B-008",
+    "type": "Parish baptism register, one entry cut from a page",
+    "title": "Baptism of Erzsébet Demkó, born 13 August [1884], died 11 February 1885, Jesztreb 47",
+    "extract": "No. 30. Born and baptised 13 August: Erzsébet, legitimate daughter of Mihály Demkó, Greek Catholic cottar, and Mária Lazár, Jesztreb no. 47. She died on 11 February 1885.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-051",
+    "also": "DUS:S-044 @0200bec"
+  },
+  {
+    "id": "DM-S-008-10",
+    "batch": "DM-B-008",
+    "type": "Parish baptism register, one entry cut from a page",
+    "title": "Baptism of the twins János and György Demko, born 27 June 1877, Jesztreb",
+    "extract": "No. 16. Born 27 June, baptised 28 June 1877: twin boys János and György, legitimate sons of Miso Demko, cottar, and Mária Lazár, of Jesztreb. Two pairs of godparents.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-052",
+    "also": "DUS:S-048 @0200bec"
+  },
+  {
+    "id": "DM-S-008-11",
+    "batch": "DM-B-008",
+    "type": "Parish baptism register, one entry cut from a page",
+    "title": "Baptism of György Szmeriga, son of Zsuzsi Demko, 5 April [1845], Jesztreb",
+    "extract": "Born 5 April, baptised 6 April: György, son of János Szmeriga, landholding farmer, and Zsuzsi Demko, of Jesztreb.",
+    "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+    "document": "DM-D-053",
+    "also": "DUS:S-047 @0200bec"
   }
 ]

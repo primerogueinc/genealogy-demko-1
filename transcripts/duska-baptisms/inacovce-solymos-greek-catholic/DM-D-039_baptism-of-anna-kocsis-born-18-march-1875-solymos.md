@@ -30,3 +30,4 @@ No. 9. Born 18 March, baptised 19 March: Anna, legitimate daughter of János Koc
 - Year 1875 from the collector's file name. The parents' cell is blurred; 'Kocsis' is the label and fits what shows.
 - Differences: house 13 here, 73 in DUS:D-005-11; the mother's surname is unread here and '[Kovács?]' there.
 - A Kocsis couple having children at Solymos eleven years before Mária Kocsis, Ahn 19, was born there. See DM-H-025.
+- Added at DM-B-008: the 1877 strip DM-D-047 names this couple clearly as János Kocsis and Anna Kováts at Solymos no. 13, with the same godparents. The house here is 13, and the mother's given name, read as Mária by both agents on this blurred strip, is probably Anna.

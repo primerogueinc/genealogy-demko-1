@@ -231,5 +231,14 @@
       "DM-H-027",
       "DM-H-015"
     ]
+  },
+  {
+    "id": "DM-L-028",
+    "text": "Places as written on the four soldiers' cards, flagged to the Places agent: Enyiczke (Abaujtorna); Nizankowica (Přemyšl, Halič); Giňov (okr. Košice); Michaľany (okr. Sabinov) and Veľký Šariš (okr. Prešov); places of death Perdica u Mte Asolone and Col della Fratte (Italy), Barca u Košic, vrch Dolzok and Mahala (okr. Czernovice, Bukovina), Samarkand. The card index itself is taken, from training, to be the Czech military archive's index of the dead of 1914-1918.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+    "bears_on": [
+      "DM-H-028",
+      "DM-H-029"
+    ]
   }
 ]

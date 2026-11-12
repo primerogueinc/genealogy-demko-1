@@ -380,5 +380,67 @@
       "commit": "9e5061e",
       "found": "Their B-010 applies ledger v8; no new folder or file. Nothing new for this line."
     }
+  },
+  {
+    "id": "DM-B-008",
+    "date": "2026-11-12",
+    "at_utc": "2026-11-12T06:28:32Z",
+    "title": "Demko Military: four soldiers' cards; seven more Iňačovce strips",
+    "folder": "F-07",
+    "files": 11,
+    "blurb": "Four index cards for soldiers named Demko who died in the First World War; the folder's name says the Second, but the deaths are of 1915 to 1918. Andreas, born 1896 at Enyiczke, fell on Monte Asolone in Italy in April 1918. Gregor, a Galician from near Przemyśl, died in the epidemic hospital at Košice in March 1915. One Ján, born 1896 at Giňov, was killed in Bukovina on New Year's Day 1916. Another Ján, from Šariš, died a prisoner in a camp hospital at Samarkand in September 1915. None was born in Ung county and none can be tied to Maria Demko's people; the Giňov man may belong to the other Demko family already met in the Belža strips. The cross-review of the Duska repo was more useful to this line. Seven further strips from the Iňačovce Greek Catholic book are taken here. They name two Kocsis couples at Solymos, the village and surname of Maria's mother: János Kocsis and Anna Kováts at house 13 in 1875 and 1877, and Mihály Kocsis and Mária Knyezső at house 19 in 1889. Either could be the parents of the Mária Kocsis born there about 1886; no baptism of hers is in hand. The strips also show the name of a dead child reused twice among the Kocsis, and carry the Demkos of Jesztreb back to the 1820s. Three hypotheses raised, two revised, none resolved.",
+    "raised": [
+      "DM-H-028",
+      "DM-H-029",
+      "DM-H-030"
+    ],
+    "resolved": [],
+    "revised": [
+      "DM-H-025",
+      "DM-H-026"
+    ],
+    "people_added": [
+      "DM-X-039",
+      "DM-X-040",
+      "DM-X-041",
+      "DM-X-042",
+      "DM-X-043",
+      "DM-X-044"
+    ],
+    "sources_added": [
+      "DM-S-008-1",
+      "DM-S-008-2",
+      "DM-S-008-3",
+      "DM-S-008-4",
+      "DM-S-008-5",
+      "DM-S-008-6",
+      "DM-S-008-7",
+      "DM-S-008-8",
+      "DM-S-008-9",
+      "DM-S-008-10",
+      "DM-S-008-11"
+    ],
+    "documents_added": [
+      "DM-D-043",
+      "DM-D-044",
+      "DM-D-045",
+      "DM-D-046",
+      "DM-D-047",
+      "DM-D-048",
+      "DM-D-049",
+      "DM-D-050",
+      "DM-D-051",
+      "DM-D-052",
+      "DM-D-053"
+    ],
+    "read": [
+      "coordinator ledger v10, unchanged at duska-coordinator @f0738c1",
+      "genealogu-duska-1 main @0200bec (cross-review)"
+    ],
+    "cross_review": {
+      "repo": "primerogueinc/genealogu-duska-1",
+      "commit": "0200bec",
+      "found": "Their B-011 adds part 2 of F-005 (11 files). Seven strips naming a Demko or a Kocsis are taken and read here; readings agree with theirs apart from doubtful surnames and one house number. The Krak, Nyemcsik and Duska strips are theirs. One godmother to the Demko twins of 1877 is 'Krak[o] Anna', which may be why Krak strips are in the owner's archive; noted for the Duska agent."
+    }
   }
 ]

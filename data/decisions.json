@@ -172,5 +172,17 @@
     "date": "2026-11-12",
     "decision": "Read ledger v10 and checked this repo against the corrected X-017 item 6. No entry here treats name reuse as something Kevin said about this family. The reused names recorded (Mihály 1873 and 1882, János 1873 and 1875) are read from the strips, and DM-H-024 is scored on the records alone.",
     "why": "Ledger v10: name reuse is working knowledge of the craft, not a prior about the line."
+  },
+  {
+    "id": "DM-DEC-030",
+    "date": "2026-11-12",
+    "decision": "The four soldiers' cards are entered as records of unplaced Demkos. The folder's 'WWII' is recorded as the owner's wording; the cards are of the 1914-1918 war.",
+    "why": "The dates on the cards. Ledger X-004."
+  },
+  {
+    "id": "DM-DEC-031",
+    "date": "2026-11-12",
+    "decision": "Seven strips from part 2 of the Duska repo's F-005 were taken. This agent had read the Duska agent's batch summary before reading the strips, but not its transcriptions.",
+    "why": "Ledger X-012. The cross-review requires reading the other repo first, so full independence is not possible; the order is stated."
   }
 ]

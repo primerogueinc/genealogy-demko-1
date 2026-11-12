@@ -29,3 +29,4 @@ No. 61. Born 13 November, baptised 14 November: András, legitimate son of Joann
 
 - Year 1864 from the collector's file name. The child is a Szmeriga; the Demko is his mother.
 - This agent first read the father as 'Ameriga' and the house as 23. DUS:D-005-05 reads Szmeriga and 29; a Szmeriga János appears on the 1889 strip, so the surname is theirs.
+- Added at DM-B-008: Szmeriga confirmed by DM-D-053.

@@ -733,7 +733,7 @@
   {
     "id": "DM-X-032",
     "ahnentafel": null,
-    "name": "Michael Demko, of Jesztreb",
+    "name": "Michael (Mihály, Miso) Demko, of Jesztreb",
     "role": "Probably the older Mihály implied by 'the younger'",
     "living": false,
     "owner": "demko",
@@ -743,14 +743,16 @@
     },
     "proof": "documented",
     "sources": [
-      "DM-S-006-2"
+      "DM-S-006-2",
+      "DM-S-008-10",
+      "DM-S-008-9"
     ],
-    "note": "Greek Catholic cottar at Jesztreb no. 54 in [1870], wife Maria Lazár, daughter Anna born 12 Jan [1870]."
+    "note": "Greek Catholic cottar at Jesztreb, wife Mária Lazár. Children: Anna, 12 Jan [1870] (no. 54); twins János and György, 27 Jun 1877; Erzsébet, 13 Aug [1884] (no. 47), died 11 Feb 1885. Probably the older Mihály implied by 'the younger' in 1889."
   },
   {
     "id": "DM-X-033",
     "ahnentafel": null,
-    "name": "Susana Demko, wife of Joannes Szmeriga",
+    "name": "Zsuzsi (Susana) Demko, wife of János Szmeriga",
     "role": "Demko woman at Jesztreb",
     "living": false,
     "owner": "demko",
@@ -760,9 +762,10 @@
     },
     "proof": "documented",
     "sources": [
-      "DM-S-006-3"
+      "DM-S-006-3",
+      "DM-S-008-11"
     ],
-    "note": "Greek Catholic. Son András born 13 Nov [1864]."
+    "note": "Greek Catholic, of Jesztreb. Sons György, 5 Apr [1845], and András, 13 Nov [1864]. Born before about 1827."
   },
   {
     "id": "DM-X-034",
@@ -784,7 +787,7 @@
   {
     "id": "DM-X-035",
     "ahnentafel": null,
-    "name": "János Kocsis (?) and his wife Mária",
+    "name": "János Kocsis and Anna Kováts, of Solymos no. 13",
     "role": "Kocsis couple at Solymos; candidates for the parents of Ahn 19",
     "living": false,
     "owner": "demko",
@@ -794,9 +797,10 @@
     },
     "proof": "documented",
     "sources": [
-      "DM-S-006-6"
+      "DM-S-006-6",
+      "DM-S-008-5"
     ],
-    "note": "Daughter Anna born 18 Mar [1875], Solymos. Surname read with doubt. See DM-H-025."
+    "note": "He Greek Catholic, a cottar; she Roman Catholic. Daughters Anna, born 18 Mar [1875], and Anna again, born 16 Apr 1877. One of two Kocsis couples at Solymos who could be the parents of Ahn 19. See DM-H-025."
   },
   {
     "id": "DM-X-036",
@@ -848,5 +852,124 @@
       "DM-S-007-2"
     ],
     "note": "Illegitimate; carries her mother's surname."
+  },
+  {
+    "id": "DM-X-039",
+    "ahnentafel": null,
+    "name": "Mihály Kocsis and Mária Knyezső, of Solymos no. 19",
+    "role": "Candidates for the parents of Ahn 19",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-008-6"
+    ],
+    "note": "He Greek Catholic, a farmer; she Roman Catholic. Daughter Anna born 19 Oct [1889]. See DM-H-030."
+  },
+  {
+    "id": "DM-X-040",
+    "ahnentafel": null,
+    "name": "Pál Kocsis, of Solymos",
+    "role": "Kocsis of an older generation at Solymos",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-008-7",
+      "DM-S-008-8"
+    ],
+    "note": "Greek Catholic landholder. Daughters Borbála, 20 Jul [1843], by Anna Cservenyák, and Borbála, [1846], by a wife Mária. Two wives and two girls under ledger X-017."
+  },
+  {
+    "id": "DM-X-041",
+    "ahnentafel": null,
+    "name": "Andreas Demkó, soldier",
+    "role": "Unplaced Demko, Abaúj",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "1896",
+      "place": "Enyiczke, Abaúj-Torna county"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-008-1"
+    ],
+    "note": "Private, Infantry Regiment no. 34.",
+    "death": {
+      "date": "3 Apr 1918",
+      "place": "Pertica by Monte Asolone, Italy"
+    }
+  },
+  {
+    "id": "DM-X-042",
+    "ahnentafel": null,
+    "name": "Gregor Demko, soldier",
+    "role": "Unplaced Demko, Galicia",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "about 1890",
+      "place": "Nizankowica, district of Przemyśl"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-008-2"
+    ],
+    "note": "Lance-corporal, Field Howitzer Regiment no. 10. Died in the epidemic hospital.",
+    "death": {
+      "date": "9 Mar 1915",
+      "place": "Košice"
+    }
+  },
+  {
+    "id": "DM-X-043",
+    "ahnentafel": null,
+    "name": "Ján Demko, soldier, of Giňov",
+    "role": "Unplaced Demko, Abaúj; perhaps of the Gönyű household",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "1896",
+      "place": "Giňov (Gyňov)"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-008-3"
+    ],
+    "note": "Private, Honvéd Infantry Regiment no. 9. See DM-H-029.",
+    "death": {
+      "date": "1 Jan 1916",
+      "place": "hill Dolzok, district of Czernowitz, Bukovina"
+    }
+  },
+  {
+    "id": "DM-X-044",
+    "ahnentafel": null,
+    "name": "Ján Demko, soldier, of Veľký Šariš",
+    "role": "Unplaced Demko, Šariš",
+    "living": false,
+    "owner": "demko",
+    "birth": {
+      "date": "1889",
+      "place": "Michaľany, district of Sabinov"
+    },
+    "proof": "documented",
+    "sources": [
+      "DM-S-008-4"
+    ],
+    "note": "Private, Honvéd Infantry Regiment no. 9. Died in a camp hospital: a prisoner of war.",
+    "death": {
+      "date": "8 Sep 1915",
+      "place": "Samarkand"
+    }
   }
 ]

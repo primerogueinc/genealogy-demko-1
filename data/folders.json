@@ -63,15 +63,16 @@
   {
     "id": "F-05",
     "path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
-    "described_by_kevin": "Given to the Duska agent in parts; part 1 is 11 files. Six of them name a Demko or a Kocsis and are taken here under ledger X-012. The Krak and Duska strips stay with the Duska agent.",
+    "described_by_kevin": "Given to the Duska agent in two parts so far, 22 files. Thirteen of them name a Demko or a Kocsis and are taken here under ledger X-012. The Krak, Duska and other strips stay with the Duska agent. The Duska agent lists the folder as still open.",
     "received": "2026-11-12",
-    "files_received": 6,
+    "files_received": 13,
     "complete": false,
     "shared_with": [
       "duska"
     ],
     "batches": [
-      "DM-B-006"
+      "DM-B-006",
+      "DM-B-008"
     ],
     "archive_path": "archive/duska-baptisms/inacovce-solymos-greek-catholic/",
     "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629, their F-005"
@@ -88,5 +89,18 @@
       "DM-B-007"
     ],
     "archive_path": "archive/demko-hints/"
+  },
+  {
+    "id": "F-07",
+    "path": "Demko Military",
+    "described_by_kevin": "\"Demko Military Full Folder Czech WWII Fallen Soldiers Cards\". The four cards are of deaths in 1915 to 1918.",
+    "received": "2026-11-12",
+    "files_received": 4,
+    "complete": true,
+    "shared_with": [],
+    "batches": [
+      "DM-B-008"
+    ],
+    "archive_path": "archive/demko-military/"
   }
 ]

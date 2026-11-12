@@ -2839,7 +2839,8 @@
     "translation": "No. 61. Born 13 November, baptised 14 November: András, legitimate son of Joannes Szmeriga and Susana Demko, of Jesztreb.",
     "notes": [
       "Year 1864 from the collector's file name. The child is a Szmeriga; the Demko is his mother.",
-      "This agent first read the father as 'Ameriga' and the house as 23. DUS:D-005-05 reads Szmeriga and 29; a Szmeriga János appears on the 1889 strip, so the surname is theirs."
+      "This agent first read the father as 'Ameriga' and the house as 23. DUS:D-005-05 reads Szmeriga and 29; a Szmeriga János appears on the 1889 strip, so the surname is theirs.",
+      "Added at DM-B-008: Szmeriga confirmed by DM-D-053."
     ],
     "also_read_by": "DUS:D-005-05 / DUS:S-031 @3ac9629",
     "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
@@ -3078,7 +3079,8 @@
     "notes": [
       "Year 1875 from the collector's file name. The parents' cell is blurred; 'Kocsis' is the label and fits what shows.",
       "Differences: house 13 here, 73 in DUS:D-005-11; the mother's surname is unread here and '[Kovács?]' there.",
-      "A Kocsis couple having children at Solymos eleven years before Mária Kocsis, Ahn 19, was born there. See DM-H-025."
+      "A Kocsis couple having children at Solymos eleven years before Mária Kocsis, Ahn 19, was born there. See DM-H-025.",
+      "Added at DM-B-008: the 1877 strip DM-D-047 names this couple clearly as János Kocsis and Anna Kováts at Solymos no. 13, with the same godparents. The house here is 13, and the mother's given name, read as Mária by both agents on this blurred strip, is probably Anna."
     ],
     "also_read_by": "DUS:D-005-11 / DUS:S-037 @3ac9629",
     "taken_from": "primerogueinc/genealogu-duska-1 @3ac9629 under ledger X-012",
@@ -3298,5 +3300,914 @@
       "page_or_image": "unknown; entry number as transcribed",
       "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
     }
+  },
+  {
+    "id": "DM-D-043",
+    "batch": "DM-B-008",
+    "folder": "F-07",
+    "source": "DM-S-008-1",
+    "file": "archive/demko-military/Andreas_Demko.png",
+    "sha256": "aca2c42df9244ea0cbf1b04ad072fa8424dfc8d2340817e983bb391ba0d05e57",
+    "image": {
+      "format": "PNG",
+      "width": 437,
+      "height": 606
+    },
+    "title": "Card: Andreas Demkó, born 1896 at Enyiczke, died 3 April 1918 at Monte Asolone, Italy",
+    "kind": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "language": "Czech",
+    "collector_label": "Andreas Demko",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "The card cites the death register it was copied from; the custodian of the card index is not shown"
+    },
+    "fields": [
+      {
+        "column": "Surname and name",
+        "original": "Demkó Andreas",
+        "english": "Andreas Demkó",
+        "certainty": "clear"
+      },
+      {
+        "column": "Rank and regiment",
+        "original": "vojín, býv. pěš. pl. čís. 34",
+        "english": "Private, former Infantry Regiment no. 34",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born",
+        "original": "1896, Enyiczke, Abaujtorna, Uhry",
+        "english": "1896, Enyiczke, Abaúj-Torna county, Hungary",
+        "certainty": "clear"
+      },
+      {
+        "column": "Domicile",
+        "original": "—",
+        "english": "not given",
+        "certainty": "clear"
+      },
+      {
+        "column": "Died",
+        "original": "3.IV.1918, Perdica u Mte Asolone, Italie",
+        "english": "3 April 1918, Pertica by Monte Asolone, Italy",
+        "certainty": "probable"
+      },
+      {
+        "column": "Buried",
+        "original": "4.IV.1918, Osillatal (?) na Col della Fratte",
+        "english": "4 April 1918, [Osilla valley?] on the Col della Fratte",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Copied from",
+        "original": "matr. býv. pěš. pl. čís. 34 ul. u Z.V.V. Košice",
+        "english": "register of the former Infantry Regiment no. 34, kept at the military command in Košice",
+        "certainty": "probable"
+      },
+      {
+        "column": "Death register",
+        "original": "tom. IX. fol. 178",
+        "english": "volume IX, folio 178",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "Andreas Demkó, private in the former Infantry Regiment no. 34, born 1896 at Enyiczke in Abaúj-Torna county. Died 3 April 1918 at Pertica by Monte Asolone in Italy and was buried the next day on the Col della Fratte. Copied from the regiment's death register, volume IX, folio 178.",
+    "notes": [
+      "The folder's name says Second World War. The deaths on all four cards are of 1915 to 1918.",
+      "No parents, religion or house number are on the form."
+    ],
+    "provenance": {
+      "archive": "unknown; a card index on a Czech army form (printer's line 'Tiskárna MNO - 1163-36')",
+      "fond_or_film": "unknown",
+      "book": "death register of the former Infantry Regiment no. 34, vol. IX, fol. 178",
+      "page_or_image": "one card",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-044",
+    "batch": "DM-B-008",
+    "folder": "F-07",
+    "source": "DM-S-008-2",
+    "file": "archive/demko-military/Gregor_Demko.png",
+    "sha256": "2a561c7910053862e8c7f08d4a8b09d266b388df72540c10c04c8d8b34272d5b",
+    "image": {
+      "format": "PNG",
+      "width": 414,
+      "height": 606
+    },
+    "title": "Card: Gregor Demko, aged 25, of Nizankowica near Przemyśl, died 9 March 1915 in the epidemic hospital at Košice",
+    "kind": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "language": "Czech",
+    "collector_label": "Gregor Demko",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "The card cites the death register it was copied from; the custodian of the card index is not shown"
+    },
+    "fields": [
+      {
+        "column": "Surname and name",
+        "original": "DEMKO, Gregor [typed 'Georg' struck out]",
+        "english": "Gregor Demko; 'Georg' typed first and corrected by hand",
+        "certainty": "clear"
+      },
+      {
+        "column": "Rank and regiment",
+        "original": "svob. býv. pol. houfnicového pl. č. 10",
+        "english": "Lance-corporal, former Field Howitzer Regiment no. 10",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born",
+        "original": "25 let, Nizankowica, Přemyšl, Halič",
+        "english": "aged 25; Nizankowica, district of Przemyśl, Galicia",
+        "certainty": "clear"
+      },
+      {
+        "column": "Domicile",
+        "original": "tamtéž",
+        "english": "the same",
+        "certainty": "clear"
+      },
+      {
+        "column": "Died",
+        "original": "9.III.1915, v epidemické nemocnici v Košicích, Slovensko",
+        "english": "9 March 1915, in the epidemic hospital at Košice",
+        "certainty": "clear"
+      },
+      {
+        "column": "Buried",
+        "original": "10.III.1915, epidemický hřbitov Barca u Košic",
+        "english": "10 March 1915, epidemic cemetery, Barca by Košice",
+        "certainty": "clear"
+      },
+      {
+        "column": "Grave",
+        "original": "neznámo",
+        "english": "unknown",
+        "certainty": "clear"
+      },
+      {
+        "column": "Copied from",
+        "original": "matriky býv. posádkové nemocnice č. 20, uložené u ZVV Košice",
+        "english": "register of the former Garrison Hospital no. 20, kept at the military command in Košice",
+        "certainty": "clear"
+      },
+      {
+        "column": "Death register",
+        "original": "tom. XII, fol. 6",
+        "english": "volume XII, folio 6",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "Gregor Demko, lance-corporal in the former Field Howitzer Regiment no. 10, aged 25, of Nizankowica near Przemyśl in Galicia. Died 9 March 1915 in the epidemic hospital at Košice and was buried the next day in the epidemic cemetery at Barca. Grave unknown. Copied from the register of Garrison Hospital no. 20, volume XII, folio 6.",
+    "notes": [
+      "A Galician Demko, from across the Carpathians. He died of disease, in a hospital and cemetery set aside for epidemics; the card names no illness (cause of death as written: none given)."
+    ],
+    "provenance": {
+      "archive": "unknown; a card index on a Czech army form (printer's line 'Tiskárna MNO - 1163-36')",
+      "fond_or_film": "unknown",
+      "book": "death register of the former Garrison Hospital no. 20, vol. XII, fol. 6",
+      "page_or_image": "one card",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-045",
+    "batch": "DM-B-008",
+    "folder": "F-07",
+    "source": "DM-S-008-3",
+    "file": "archive/demko-military/Jan_Demko_II.png",
+    "sha256": "240e407609e571c9b4607d1737f3d7c45df23ba850ebfb3ace15256572504115",
+    "image": {
+      "format": "PNG",
+      "width": 435,
+      "height": 604
+    },
+    "title": "Card: Ján Demko, born 1896 at Giňov, died 1 January 1916 in Bukovina",
+    "kind": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "language": "Slovak",
+    "collector_label": "Jan Demko II",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "The card cites the death register it was copied from; the custodian of the card index is not shown"
+    },
+    "fields": [
+      {
+        "column": "Surname and name",
+        "original": "DEMKO Ján",
+        "english": "Ján Demko",
+        "certainty": "clear"
+      },
+      {
+        "column": "Rank and regiment",
+        "original": "voj. býv. honvéd. peš. pl. č. 9",
+        "english": "Private, former Honvéd Infantry Regiment no. 9",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born",
+        "original": "1896, Giňov, okr. Košice, Slovensko",
+        "english": "1896, Giňov (Gyňov), district of Košice",
+        "certainty": "clear"
+      },
+      {
+        "column": "Domicile",
+        "original": "tamtiež",
+        "english": "the same",
+        "certainty": "clear"
+      },
+      {
+        "column": "Died",
+        "original": "1./1.1916, na vrchu Dolzok, okr. Czernovice, Bukovina",
+        "english": "1 January 1916, on the hill Dolzok, district of Czernowitz, Bukovina",
+        "certainty": "clear"
+      },
+      {
+        "column": "Buried",
+        "original": "4./1.1916, na hrobitove v Mahale, okr. Czernovice",
+        "english": "4 January 1916, in the cemetery at Mahala, district of Czernowitz",
+        "certainty": "clear"
+      },
+      {
+        "column": "Copied from",
+        "original": "matriky býv. pol. superiorátu, uloženej u ZVV, Bratislava",
+        "english": "register of the former field superiorate, kept at the military command in Bratislava",
+        "certainty": "clear"
+      },
+      {
+        "column": "Death register",
+        "original": "tom. IV., fol. 148",
+        "english": "volume IV, folio 148",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "Ján Demko, private in the former Honvéd Infantry Regiment no. 9, born 1896 at Giňov near Košice and domiciled there. Died 1 January 1916 on the hill Dolzok in Bukovina and was buried on 4 January at Mahala. Copied from the register of the field superiorate, volume IV, folio 148.",
+    "notes": [
+      "Giňov is the Gönyű of the Belža strip DM-D-032, where a György Demko was born to György Demko and Katalin Jobbágy in March 1895. See DM-H-029."
+    ],
+    "provenance": {
+      "archive": "unknown; a card index on a Czech army form (printer's line 'Tiskárna MNO - 1163-36')",
+      "fond_or_film": "unknown",
+      "book": "death register of the former field superiorate, vol. IV, fol. 148",
+      "page_or_image": "one card",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-046",
+    "batch": "DM-B-008",
+    "folder": "F-07",
+    "source": "DM-S-008-4",
+    "file": "archive/demko-military/Jan_Demko.png",
+    "sha256": "2f601236177c9bad99338012dc18c105363427a99561abc9eb2ca085b95f4606",
+    "image": {
+      "format": "PNG",
+      "width": 413,
+      "height": 604
+    },
+    "title": "Card: Ján Demko, born 1889 at Michaľany, died 8 September 1915 in a camp hospital at Samarkand",
+    "kind": "Card from an index of soldiers who died in the war of 1914-1918, on a printed Czech form",
+    "language": "Slovak",
+    "collector_label": "Jan Demko",
+    "register": {
+      "parish": "n/a",
+      "denomination": "n/a",
+      "page": "n/a",
+      "archive_reference": "The card cites the death register it was copied from; the custodian of the card index is not shown"
+    },
+    "fields": [
+      {
+        "column": "Surname and name",
+        "original": "Demko Ján",
+        "english": "Ján Demko",
+        "certainty": "clear"
+      },
+      {
+        "column": "Rank and regiment",
+        "original": "pešiak honv. pešieho pluku č. 9",
+        "english": "Private, Honvéd Infantry Regiment no. 9",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born",
+        "original": "1889, Michaľany, okr. Sabinov, Slovensko",
+        "english": "1889, Michaľany, district of Sabinov",
+        "certainty": "probable"
+      },
+      {
+        "column": "Domicile",
+        "original": "Veľký Šariš, okr. [Šariš, struck out] Prešov, Slovensko",
+        "english": "Veľký Šariš, district of Prešov",
+        "certainty": "probable"
+      },
+      {
+        "column": "Died",
+        "original": "8. septembra 1915, v táborovej nemocnici v Samarkande",
+        "english": "8 September 1915, in the camp hospital at Samarkand",
+        "certainty": "clear"
+      },
+      {
+        "column": "Buried",
+        "original": "10. septembra 1915, na cintoríne v Samarkande",
+        "english": "10 September 1915, in the cemetery at Samarkand",
+        "certainty": "clear"
+      },
+      {
+        "column": "Copied from",
+        "original": "matriky býv. honv. a hus. plukov",
+        "english": "registers of the former Honvéd and hussar regiments",
+        "certainty": "probable"
+      },
+      {
+        "column": "Death register",
+        "original": "VI/II, 39 fol.",
+        "english": "volume VI/II, folio 39",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "Ján Demko, private in Honvéd Infantry Regiment no. 9, born 1889 at Michaľany in the district of Sabinov, domiciled at Veľký Šariš. Died 8 September 1915 in the camp hospital at Samarkand and was buried there two days later.",
+    "notes": [
+      "A death in a camp hospital in Russian Turkestan: a prisoner of war. The card does not say so in words.",
+      "A Šariš Demko, far from Ung."
+    ],
+    "provenance": {
+      "archive": "unknown; a card index on a Czech army form (printer's line 'Tiskárna MNO - 1163-36')",
+      "fond_or_film": "unknown",
+      "book": "death registers of the former Honvéd and hussar regiments, vol. VI/II, fol. 39",
+      "page_or_image": "one card",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    }
+  },
+  {
+    "id": "DM-D-047",
+    "batch": "DM-B-008",
+    "folder": "F-05",
+    "source": "DM-S-008-5",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Anna_Kocsis_1877.png",
+    "sha256": "64c009b634bba51991fa79d5478d20d18748cb7d65e38eee7090756399dc3124",
+    "image": {
+      "format": "PNG",
+      "width": 1808,
+      "height": 298
+    },
+    "title": "Baptism of Anna Kocsis, born 16 April 1877, Solymos 13",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Kocsis 1877",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): entries of the 1880s name the officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "12",
+        "english": "12",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "1877 April 16 / 17",
+        "english": "16 April / 17 April 1877",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex",
+        "original": "Anna / nő",
+        "english": "Anna, girl",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Kocsis Ján. Gk. / Kováts Anna Rk., zsellér",
+        "english": "János Kocsis, Greek Catholic; Anna Kováts, Roman Catholic; cottar",
+        "certainty": "clear"
+      },
+      {
+        "column": "Residence",
+        "original": "Solymos 13.",
+        "english": "Solymos no. 13",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Knyezső Mihály / Ádám Anna",
+        "english": "Mihály Knyezső; Anna Ádám",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "No. 12. Born 16 April, baptised 17 April 1877: Anna, daughter of János Kocsis, Greek Catholic cottar, and Anna Kováts, Roman Catholic, Solymos no. 13.",
+    "notes": [
+      "The year is written in the entry.",
+      "A second Anna to this father two years after the Anna of DM-D-039: the first had probably died. It also settles that strip's house number as 13 and its godparents as the same pair.",
+      "Readings agree with DUS:D-005-12."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    },
+    "also_read_by": "DUS:D-005-12 / DUS:S-038 @0200bec",
+    "taken_from": "primerogueinc/genealogu-duska-1 @0200bec under ledger X-012"
+  },
+  {
+    "id": "DM-D-048",
+    "batch": "DM-B-008",
+    "folder": "F-05",
+    "source": "DM-S-008-6",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Anna_Kocsis_1889.png",
+    "sha256": "df0df5f8c5814801fd8b2c29c6dbd4f39dba0def9aa40d1c0ae4126cc0385970",
+    "image": {
+      "format": "PNG",
+      "width": 1314,
+      "height": 78
+    },
+    "title": "Baptism of Anna Kocsis, born 19 October [1889], Solymos 19",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Kocsis 1889",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): entries of the 1880s name the officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "44.",
+        "english": "44",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "Október 19. / 20.",
+        "english": "19 October / 20 October",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex, legitimacy",
+        "original": "Anna / nő / törvényes",
+        "english": "Anna, girl, legitimate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Kocsis Mihály g.k. gazda / Knyezső Mária r.kath.",
+        "english": "Mihály Kocsis, Greek Catholic, farmer; Mária Knyezső, Roman Catholic",
+        "certainty": "probable"
+      },
+      {
+        "column": "Residence",
+        "original": "Solymos 19.",
+        "english": "Solymos no. 19",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Ivanov (?) Vaszily g.kath. / Balázs Anna",
+        "english": "Vaszily Ivanov (?), Greek Catholic; Anna Balázs",
+        "certainty": "probable"
+      },
+      {
+        "column": "Officiant",
+        "original": "Lescsisin György solymosi g.k. lelkész [...]",
+        "english": "György Lescsisin, Greek Catholic pastor of Solymos",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "No. 44. Born 19 October, baptised 20 October: Anna, legitimate daughter of Mihály Kocsis, Greek Catholic farmer, and Mária Knyezső, Roman Catholic, Solymos no. 19.",
+    "notes": [
+      "Year 1889 from the collector's file name.",
+      "A Kocsis couple having children at Solymos three years after Mária Kocsis, Ahn 19, was born there, with a mother called Mária. See DM-H-030.",
+      "Readings agree with DUS:D-005-13."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    },
+    "also_read_by": "DUS:D-005-13 / DUS:S-039 @0200bec",
+    "taken_from": "primerogueinc/genealogu-duska-1 @0200bec under ledger X-012"
+  },
+  {
+    "id": "DM-D-049",
+    "batch": "DM-B-008",
+    "folder": "F-05",
+    "source": "DM-S-008-7",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Borbala_Kocsis_1843.png",
+    "sha256": "7948a3ff71898bde5916b7bb814caca0ca5941a1ef4fcea8e686e0f128a30b9c",
+    "image": {
+      "format": "PNG",
+      "width": 1647,
+      "height": 232
+    },
+    "title": "Baptism of Borbála Kocsis, 20 July [1843], Solymos",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Borbala Kocsis 1843",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): entries of the 1880s name the officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Born / baptised",
+        "original": "20. / 21. Julius",
+        "english": "20 July / 21 July",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name",
+        "original": "Borbála",
+        "english": "Borbála",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Kocsis Pál / Anna Cservenyák",
+        "english": "Pál Kocsis and Anna Cservenyák",
+        "certainty": "probable"
+      },
+      {
+        "column": "Rite, status",
+        "original": "G.C. / G.C.; telkes gazda",
+        "english": "both Greek Catholic; landholding farmer",
+        "certainty": "probable"
+      },
+      {
+        "column": "Godparents",
+        "original": "Dzur[...] György / Anna Ivana (?)",
+        "english": "György Dzur[...]; Anna Ivana (?)",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Residence",
+        "original": "Solym[os]",
+        "english": "Solymos",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "Born 20 July, baptised 21 July: Borbála, daughter of Pál Kocsis, Greek Catholic landholder, and Anna Cservenyák, of Solymos.",
+    "notes": [
+      "Year 1843 from the collector's file name.",
+      "Readings agree with DUS:D-005-16."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    },
+    "also_read_by": "DUS:D-005-16 / DUS:S-042 @0200bec",
+    "taken_from": "primerogueinc/genealogu-duska-1 @0200bec under ledger X-012"
+  },
+  {
+    "id": "DM-D-050",
+    "batch": "DM-B-008",
+    "folder": "F-05",
+    "source": "DM-S-008-8",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Borbala_Kocsis_1846.png",
+    "sha256": "a62395dc7e1296a28efac1d1d6512ad969c20f57904995a3f4c597178c59048a",
+    "image": {
+      "format": "PNG",
+      "width": 1774,
+      "height": 259
+    },
+    "title": "Baptism of Borbála Kocsis, [1846], Solymos",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Borbala Kocsis 1846",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): entries of the 1880s name the officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Born / baptised",
+        "original": "5 / 6",
+        "english": "Born the 5th, baptised the 6th; month not read",
+        "certainty": "probable"
+      },
+      {
+        "column": "Officiant",
+        "original": "Danilo[vics?] Josef Solym. lelk.",
+        "english": "Josef Danilo[vics?], pastor of Solymos",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Name",
+        "original": "Borbála",
+        "english": "Borbála",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Kocsis Pál Gk. / Mária [Jevcsák or Ivancsák] Gk.",
+        "english": "Pál Kocsis and Mária, surname doubtful; both Greek Catholic",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Status",
+        "original": "telkes gazda",
+        "english": "landholding farmer",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "[Rafacs?] András / Mária [Palcsik?]",
+        "english": "András Rafacs (?); Mária Palcsik (?)",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Residence",
+        "original": "Solym[os]",
+        "english": "Solymos",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "Born the 5th, baptised the 6th: Borbála, daughter of Pál Kocsis, Greek Catholic landholder, and Mária, of Solymos.",
+    "notes": [
+      "Year 1846 from the collector's file name.",
+      "A second Borbála to Pál Kocsis three years after the first, with a different wife's name. Under ledger X-017: the first child and the first wife had probably died, and these are two girls.",
+      "Surnames here differ slightly from DUS:D-005-17 (Iv[a]ncsák, Rafacs, Palcsik); all are doubtful."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    },
+    "also_read_by": "DUS:D-005-17 / DUS:S-043 @0200bec",
+    "taken_from": "primerogueinc/genealogu-duska-1 @0200bec under ledger X-012"
+  },
+  {
+    "id": "DM-D-051",
+    "batch": "DM-B-008",
+    "folder": "F-05",
+    "source": "DM-S-008-9",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Erzebet_Demko_1884.png",
+    "sha256": "da0378da944c92471e20b0b9f8c14b78e43275cc8af8337505213a6f24c2701f",
+    "image": {
+      "format": "PNG",
+      "width": 1842,
+      "height": 245
+    },
+    "title": "Baptism of Erzsébet Demkó, born 13 August [1884], died 11 February 1885, Jesztreb 47",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Erzebet Demko 1884",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): entries of the 1880s name the officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Printed headings",
+        "original": "Folyó szám | Hava és napja: a születésnek, a keresztelésnek | A megkereszteltnek neve; neme: fi, nő; származása: törvényes, törvénytelen | A szülők neve, vallása és polgári állása | Lakhely és házszám | Keresztszülők neve és vallása | A keresztelő lelkész neve | Jegyzet",
+        "english": "Running number | month and day of birth, of baptism | the baptised: name; sex: boy, girl; birth: legitimate, illegitimate | parents' name, religion and civil standing | residence and house number | godparents' name and religion | name of the baptising pastor | note",
+        "certainty": "clear"
+      },
+      {
+        "column": "Entry",
+        "original": "30",
+        "english": "30",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "Augusztus 13. / 13.",
+        "english": "13 August, both",
+        "certainty": "clear"
+      },
+      {
+        "column": "Name, sex, legitimacy",
+        "original": "Erzsébet / nő / törvényes",
+        "english": "Erzsébet, girl, legitimate",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Demkó Mihály g.k. zsellér / Lazár Mária g.k.",
+        "english": "Mihály Demkó, Greek Catholic, cottar; Mária Lazár, Greek Catholic",
+        "certainty": "clear"
+      },
+      {
+        "column": "Residence",
+        "original": "Jesztreb 47",
+        "english": "Jesztreb no. 47",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Tamás Mihály g.k. / Mráz Anna r.k.",
+        "english": "Mihály Tamás, Greek Catholic; Anna Mráz, Roman Catholic",
+        "certainty": "clear"
+      },
+      {
+        "column": "Officiant",
+        "original": "Lescsisin György solymosi g.kath. h. lelkész",
+        "english": "György Lescsisin, Greek Catholic assistant pastor of Solymos",
+        "certainty": "clear"
+      },
+      {
+        "column": "Note",
+        "original": "meghalt 1885 év Febr. 11",
+        "english": "Died 11 February 1885",
+        "certainty": "clear"
+      }
+    ],
+    "translation": "No. 30. Born and baptised 13 August: Erzsébet, legitimate daughter of Mihály Demkó, Greek Catholic cottar, and Mária Lazár, Jesztreb no. 47. She died on 11 February 1885.",
+    "notes": [
+      "Year 1884 from the collector's file name; the death note fits.",
+      "The only strip in the file that keeps the printed column headings. They explain the marks in the sex and legitimacy columns on the other strips of this book.",
+      "No cause of death is given. Readings agree with DUS:D-005-18."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    },
+    "also_read_by": "DUS:D-005-18 / DUS:S-044 @0200bec",
+    "taken_from": "primerogueinc/genealogu-duska-1 @0200bec under ledger X-012"
+  },
+  {
+    "id": "DM-D-052",
+    "batch": "DM-B-008",
+    "folder": "F-05",
+    "source": "DM-S-008-10",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Gyorgy_and_Janos_Demko_TWINS_1877.png",
+    "sha256": "02aeb63214973789ffa52ef2b44895488082ccfc298ce847317dc512fb071e3e",
+    "image": {
+      "format": "PNG",
+      "width": 1622,
+      "height": 246
+    },
+    "title": "Baptism of the twins János and György Demko, born 27 June 1877, Jesztreb",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy and Janos Demko TWINS 1877",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): entries of the 1880s name the officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Entry",
+        "original": "16",
+        "english": "16",
+        "certainty": "clear"
+      },
+      {
+        "column": "Born / baptised",
+        "original": "[1]877 Junius 27 / 28",
+        "english": "27 June / 28 June 1877",
+        "certainty": "probable"
+      },
+      {
+        "column": "Names, sex",
+        "original": "János, György / fi, fi",
+        "english": "János and György, boys",
+        "certainty": "clear"
+      },
+      {
+        "column": "Legitimacy",
+        "original": "t. / t.",
+        "english": "legitimate, both",
+        "certainty": "probable"
+      },
+      {
+        "column": "Parents",
+        "original": "Demko Miso gk. / Lazár Mar. gk., zsellér",
+        "english": "Miso (Mihály) Demko and Mária Lazár, Greek Catholic; cottar",
+        "certainty": "clear"
+      },
+      {
+        "column": "Residence",
+        "original": "Jesztreb [3/8]2",
+        "english": "Jesztreb, house 32 or 82",
+        "certainty": "uncertain"
+      },
+      {
+        "column": "Godparents",
+        "original": "Abara (?) Janko, [Feris?] Zsuzsa; Tamás Mih., Krak[o] Anna",
+        "english": "Janko Abara (?) and Zsuzsa Feris (?); Mihály Tamás and Anna Krak[o]",
+        "certainty": "uncertain"
+      }
+    ],
+    "translation": "No. 16. Born 27 June, baptised 28 June 1877: twin boys János and György, legitimate sons of Miso Demko, cottar, and Mária Lazár, of Jesztreb. Two pairs of godparents.",
+    "notes": [
+      "The marks in the legitimacy column are the clerk's 't.' for legitimate, not crosses.",
+      "The father's name is written in its Slovak pet form, Miso. Readings agree with DUS:D-005-22, which has the house as [8]2."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    },
+    "also_read_by": "DUS:D-005-22 / DUS:S-048 @0200bec",
+    "taken_from": "primerogueinc/genealogu-duska-1 @0200bec under ledger X-012"
+  },
+  {
+    "id": "DM-D-053",
+    "batch": "DM-B-008",
+    "folder": "F-05",
+    "source": "DM-S-008-11",
+    "file": "archive/duska-baptisms/inacovce-solymos-greek-catholic/Baptism_of_Gyorgy_Demko_1845.png",
+    "sha256": "d33bcae62a918989e0f50f63609ed277d92eacec7afd95fd945eeb91c9169835",
+    "image": {
+      "format": "PNG",
+      "width": 1693,
+      "height": 238
+    },
+    "title": "Baptism of György Szmeriga, son of Zsuzsi Demko, 5 April [1845], Jesztreb",
+    "kind": "Parish baptism register, one entry cut from a page",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Demko 1845",
+    "register": {
+      "parish": "Greek Catholic parish of Solymos (Iňačovce): entries of the 1880s name the officiant as 'solymosi g.kath. lelkész'. Folder name agrees.",
+      "denomination": "Greek Catholic",
+      "page": "Not visible",
+      "archive_reference": "Not visible"
+    },
+    "fields": [
+      {
+        "column": "Born / baptised",
+        "original": "5. / 6. April",
+        "english": "5 April / 6 April",
+        "certainty": "probable"
+      },
+      {
+        "column": "Name",
+        "original": "György",
+        "english": "György",
+        "certainty": "clear"
+      },
+      {
+        "column": "Parents",
+        "original": "Szmeriga János Gk. / Demko Zsuzsi Gk.",
+        "english": "János Szmeriga and Zsuzsi Demko, both Greek Catholic",
+        "certainty": "clear"
+      },
+      {
+        "column": "Status",
+        "original": "telkes gazda",
+        "english": "landholding farmer",
+        "certainty": "clear"
+      },
+      {
+        "column": "Godparents",
+        "original": "Holubik Mihály / Mráz Zsuzsi",
+        "english": "Mihály Holubik; Zsuzsi Mráz",
+        "certainty": "clear"
+      },
+      {
+        "column": "Residence",
+        "original": "Jeszt[reb]",
+        "english": "Jesztreb",
+        "certainty": "probable"
+      }
+    ],
+    "translation": "Born 5 April, baptised 6 April: György, son of János Szmeriga, landholding farmer, and Zsuzsi Demko, of Jesztreb.",
+    "notes": [
+      "Year 1845 from the collector's file name. The child is a Szmeriga; the Demko is his mother, the same woman as in DM-D-036 nineteen years later.",
+      "Puts a Demko family at Jesztreb by the 1820s, when she was born. Readings agree with DUS:D-005-21."
+    ],
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic parish of Solymos (Iňačovce), baptisms",
+      "page_or_image": "unknown; entry number as transcribed",
+      "obtained": "unknown. The owner says his scans come mostly from FamilySearch or state archives, some from other people (ledger X-015)."
+    },
+    "also_read_by": "DUS:D-005-21 / DUS:S-047 @0200bec",
+    "taken_from": "primerogueinc/genealogu-duska-1 @0200bec under ledger X-012"
   }
 ]

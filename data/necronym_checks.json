@@ -57,5 +57,28 @@
     "person": "Three men named Mihály Demkó: P-018 (born Viszoka 1882), DM-X-029 (the younger, of Jesztreb, a father in 1889), DM-X-008 (of Sztrajnyán (?), a father in 1887 and 1892)",
     "result": "Kept as three people. Each is tied to his own wife's name and village; only P-018 is tied to Ahn 9, by the birthplace and age written in 1906.",
     "logged": "2026-11-12T06:23:02Z"
+  },
+  {
+    "id": "DM-NC-008",
+    "rule": "X-017 rules 2 and 3",
+    "person": "Anna Kocsis, born 18 Mar [1875], and Anna Kocsis, born 16 Apr 1877, both to János Kocsis of Solymos no. 13",
+    "result": "Two people. No burial for the first is in hand.",
+    "logged": "2026-11-12T06:28:32Z"
+  },
+  {
+    "id": "DM-NC-009",
+    "rule": "X-017 rules 2 and 7",
+    "person": "Borbála Kocsis of [1843] (mother Anna Cservenyák) and Borbála Kocsis of [1846] (mother Mária), both to Pál Kocsis of Solymos",
+    "result": "Two girls and, until shown otherwise, two wives of one man.",
+    "logged": "2026-11-12T06:28:32Z"
+  },
+  {
+    "id": "DM-NC-010",
+    "rule": "X-017 rule 1",
+    "person": "P-019, Mária Kocsis, born at Solymos about 1886",
+    "burials_searched": "none in hand",
+    "forward_search": "No baptism of a Mária Kocsis is in hand at all. Her birth year comes from her age, 20, as written in August 1906.",
+    "result": "Not yet attached to any baptism. When one is found, look for a second Mária to the same parents before taking it.",
+    "logged": "2026-11-12T06:28:32Z"
   }
 ]

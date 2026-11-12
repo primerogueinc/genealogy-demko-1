@@ -506,27 +506,41 @@
   },
   {
     "id": "DM-H-025",
-    "statement": "Mária Kocsis (Ahn 19), born at Solymos about 1886, is a daughter of the János Kocsis and Mária who baptised a child at Solymos in [1875].",
-    "confidence": 30,
+    "statement": "Mária Kocsis (Ahn 19), born at Solymos about 1886, is a daughter of János Kocsis and Anna Kováts of Solymos no. 13.",
+    "confidence": 25,
     "basis": "Same surname, same village, eleven years apart, and the collector kept the strip. The surname on the strip is read with doubt, and Kocsis is a common name.",
     "test": "A baptism of Mária Kocsis at Solymos in 1885 to 1887 in the Iňačovce Greek Catholic book (indexed to 1898, PL-R-003).",
     "status": "open",
     "raised": "DM-B-006",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-008",
+        "from": 30,
+        "to": 25,
+        "why": "The 1877 strip names the couple and their house (DM-D-047). They had daughters in 1875 and 1877 and could have had another about 1886. A second Kocsis couple at Solymos is now on record (DM-H-030), so the odds are shared."
+      }
+    ]
   },
   {
     "id": "DM-H-026",
     "statement": "The Demkos of Jesztreb (Michael and his wife Maria Lazár, 1870; Mihály the younger, 1889) are a different family from the Demkos of Viszoka, with no common ancestor after 1800.",
-    "confidence": 50,
+    "confidence": 55,
     "basis": "Different parish, different standing (cottars against farmers), and the Viszoka Mihály is described in 1906 by his birthplace, as an incomer. Against: he married and settled in the very parish where they lived, which kin often arranged.",
     "test": "Where Michael Demko of Jesztreb was born; marriages of Demkos in the Iňačovce book before 1870.",
     "status": "open",
     "raised": "DM-B-006",
     "resolved": null,
     "resolution": null,
-    "history": []
+    "history": [
+      {
+        "batch": "DM-B-008",
+        "from": 50,
+        "to": 55,
+        "why": "The Jesztreb Demkos go back further than thought: Zsuzsi Demko was a mother there in 1845 (DM-D-053), so the family was at Jesztreb by the 1820s, two generations before the Viszoka Mihály came to the parish."
+      }
+    ]
   },
   {
     "id": "DM-H-027",
@@ -536,6 +550,44 @@
     "test": "The parish and year of each strip; any record naming the parents of Mihály Demkó of Sztrajnyán.",
     "status": "open",
     "raised": "DM-B-007",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-028",
+    "statement": "None of the four soldiers in the 'Demko Military' folder belongs to the Demko line of Viszoka and Solymos.",
+    "confidence": 92,
+    "basis": "Their birthplaces are Enyiczke and Giňov in Abaúj, Michaľany in Šariš and Nizankowica in Galicia; none is in Ung. The cards name no parents. Demko is a common surname from Šariš to Galicia (DM-L-021).",
+    "test": "The death-register folios the cards cite, which should name parents or next of kin.",
+    "status": "open",
+    "raised": "DM-B-008",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-029",
+    "question": "X-Q-04",
+    "statement": "Ján Demko, born 1896 at Giňov and killed in Bukovina on 1 January 1916, is a son of György Demko and Katalin Jobbágy of Gönyű no. 24, a brother of the György born there in March 1895.",
+    "confidence": 40,
+    "necronym_risk": "unresolved",
+    "basis": "Same village, same surname, born a year after the couple's son György (DM-D-032, relayed parish Belža). Against: the card names no parents, and a village can hold several Demko households.",
+    "test": "A baptism of János Demko at Gönyű in 1896 in the Belža book; the death-register folio (vol. IV, fol. 148).",
+    "status": "open",
+    "raised": "DM-B-008",
+    "resolved": null,
+    "resolution": null,
+    "history": []
+  },
+  {
+    "id": "DM-H-030",
+    "statement": "Mária Kocsis (Ahn 19), born at Solymos about 1886, is a daughter of Mihály Kocsis and Mária Knyezső of Solymos no. 19.",
+    "confidence": 40,
+    "basis": "A Kocsis couple of Solymos with a child in [1889], the mother named Mária, and Ahn 19 herself named her first daughter Mária. Mihály Knyezső stood godfather to the other Kocsis couple's children, so the two houses were close. Rival of DM-H-025; the rest of the weight is on a third Kocsis couple not yet seen.",
+    "test": "A baptism of Mária Kocsis at Solymos in 1885 to 1887 in the Iňačovce Greek Catholic book, which is indexed to 1898 (PL-R-003).",
+    "status": "open",
+    "raised": "DM-B-008",
     "resolved": null,
     "resolution": null,
     "history": []
