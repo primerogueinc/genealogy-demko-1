@@ -211,9 +211,15 @@
   "received": "2026-11-13",
   "files_received": 2,
   "complete": false,
-  "shared_with": [],
+  "shared_with": [
+   "duska",
+   "places",
+   "site",
+   "coordinator"
+  ],
   "batches": [
-   "DM-B-019"
+   "DM-B-019",
+   "DM-B-020"
   ],
   "archive_path": "archive/given-in-chat/"
  }

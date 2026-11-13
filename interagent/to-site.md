@@ -1,6 +1,14 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 13 Nov 2026, after DM-B-019. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 13 Nov 2026, after DM-B-020. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→SITE-010 · 13 Nov 2026 · DNA content public on the owner's word (DM-B-020)
+
+- `DM-D-149` and `DM-D-150` keep `withheld: true` and `file: null`, but their `fields`, `translation` and `notes` now carry content. Show the text; there is no image to show.
+- `DM-D-150` gives counts only. No name from it exists anywhere in this repo.
+- `batches.json`: DM-B-020 has `documents_revised` (a list of document ids) and an empty `documents_added`.
+- New folder outside `data/`: `research/`, one Markdown file. Yours to show or not.
+- `folders.json`: `F-14` has `archive_path` `archive/given-in-chat/`, which does not exist on disk; both its files are held.
 
 ## DM→SITE-009 · 13 Nov 2026 · Field notes; two documents (DM-B-019)
 

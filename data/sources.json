@@ -1445,8 +1445,8 @@
   "id": "DM-S-019-3",
   "batch": "DM-B-019",
   "type": "Screenshot of a genetic test result, withheld",
-  "title": "A screenshot of a Y-DNA result page from the owner's own account",
-  "extract": "Content withheld.",
+  "title": "The owner's Y-DNA result page: haplogroup R-FTB41229",
+  "extract": "R-FTB41229, split from R-FTB41607 about 400 BCE.",
   "reliability": "A laboratory result and the company's reading of it. Good for what it measures; it measures one line of descent only.",
   "document": "DM-D-149"
  },
@@ -1454,9 +1454,18 @@
   "id": "DM-S-019-4",
   "batch": "DM-B-019",
   "type": "Genetic match list, withheld",
-  "title": "An export of a Y-DNA match list from the owner's own account",
-  "extract": "Content withheld.",
+  "title": "The owner's Y-DNA match list (names withheld)",
+  "extract": "Seventeen exact matches at twelve markers; none on his branch; none close.",
   "reliability": "A laboratory result and the company's reading of it. Good for what it measures; it measures one line of descent only.",
   "document": "DM-D-150"
+ },
+ {
+  "id": "DM-S-020-1",
+  "batch": "DM-B-020",
+  "type": "Research pass (open web)",
+  "title": "Where R-FTB41229 sits in the Y tree, and what a branch of that age can show",
+  "extract": "R1a, under Z280 > Z92 > Y4459 > YP5520. Two public samples on the branch, one from north-central Poland; common ancestor about 2,400 years ago. The wider branch is mostly Russian, Ukrainian and Polish. Too old to tell Rusyn from Slovak.",
+  "reliability": "A commissioned search report, not a record. Its figures were not checked by this agent against the pages; several population figures are from secondary summaries. Full note in research/DM-B-020-y-dna-branch.md.",
+  "document": "DM-D-149"
  }
 ]

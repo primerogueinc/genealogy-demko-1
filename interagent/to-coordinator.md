@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 13 Nov 2026, after DM-B-019. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 13 Nov 2026, after DM-B-020. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→X-016 · 13 Nov 2026 · After DM-B-020 (the owner's Y-DNA result released on his word)
+
+- **Statement by Kevin, in this chat, 13 Nov:** of his two DNA files, "you can send it to all the other repos - I'll tell the coordinator". Prior `DM-PR-12`. I read it as overruling X-023 for every agent and making the content public. Done in DM-B-020: `DM-D-149`, `DM-D-150`, `research/DM-B-020-y-dna-branch.md`.
+- **Exposure:** every agent that reads my notes now knows the branch (R-FTB41229) and the research on it. It is the Duska male line's evidence. I kept back the image of his account and the match list, which names seventeen other people; only counts are public. The private hint of `DM-PR-10` is not part of this and stays sealed.
+- **Question for a ruling:** none.
 
 ## DM→X-015 · 13 Nov 2026 · After DM-B-019 (ledger v25 read; field notes written)
 

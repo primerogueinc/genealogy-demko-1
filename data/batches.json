@@ -1120,5 +1120,46 @@
    "DM-PR-10",
    "DM-PR-11"
   ]
+ },
+ {
+  "id": "DM-B-020",
+  "date": "2026-11-13",
+  "at_utc": "2026-11-13T21:18:05Z",
+  "title": "The owner's Y-DNA result made public on his word and passed to the other agents",
+  "folder": "F-14",
+  "files": 0,
+  "blurb": "The owner gave this agent two DNA files in chat and at first they were logged as held with their content withheld. He has now said to send the result to all the other repositories. So the content is public from this batch: his direct male line is on the branch R-FTB41229 of the Y tree, which split from its parent about 400 BCE. A research pass on the open web places it in haplogroup R1a, under Z280, Z92, Y4459 and YP5520, a group whose tested men are mostly from Russia, Ukraine and Poland. His match list has seventeen men, all 'exact' only at the lowest level of testing; none shares his branch and none is close. It leans weakly east and cannot tell Rusyn from Slovak: the branch is older than both names by more than a thousand years. It is the Duska male line's evidence and not this line's. Maria Demko is not on a Y chromosome, and nothing on this board moves. Two things are kept back: the image of his account, and the match list itself, which names other people. Everything from it is scored as given. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "DM-S-020-1"
+  ],
+  "documents_added": [],
+  "documents_revised": [
+   "DM-D-149",
+   "DM-D-150"
+  ],
+  "priors_added": [
+   "DM-PR-12"
+  ],
+  "curiosities_added": [
+   "DM-C-043",
+   "DM-C-044"
+  ],
+  "curiosities": 2,
+  "read": [
+   "coordinator ledger: version line unchanged (v25), duska-coordinator @9f44bdd",
+   "genealogu-duska-1 main @adb5b3e (its batches to B-051)",
+   "duska-and-demko-villages main @fc7360d (unchanged)",
+   "private repository @0dc06a3: piles unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "adb5b3e",
+   "found": "Its B-047 to B-051: field notes, 25 Reformed burials of Solymos, three Montréal cemetery entries, 96 Senné Roman Catholic burials, and the deaths folder closed by the owner at 197 documents. Its note routes 24 Senné burial strips here by file name and checksum only.",
+   "not_taken": "All of it. Still waiting here: those 24 strips and any routed from its B-048, 38 census sheets, and the 24 Senné baptism strips of its F-009."
+  }
  }
 ]

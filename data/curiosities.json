@@ -590,5 +590,33 @@
   "tone": "sad",
   "doc": "DM-D-148",
   "text": "The form has a small line 'b' under the wedding date, for the day a marriage ended. For Barbora it is filled in: 25 March 1915. She had a son of three and another of four months. Fifteen years later she is the owner of the house and the two boys are still with her."
+ },
+ {
+  "id": "DM-C-043",
+  "batch": "DM-B-020",
+  "found_in": "DM-B-020",
+  "source": "DM-S-019-4",
+  "document": "DM-D-150",
+  "title": "Exact match, two thousand years apart",
+  "original": "Genetic Distance: Exact Match",
+  "translation": "same",
+  "why": "Seventeen men are listed as an 'Exact Match' to the owner. It means exact at twelve markers, the cheapest test. The five who paid for the full one differ from him at 25 to 43 places, and the nearest man known on his branch has a paternal line from the plains of northern Poland. The last ancestor they share lived before the Roman Empire.",
+  "tone": "odd",
+  "doc": "DM-D-150",
+  "text": "Seventeen men are listed as an 'Exact Match' to the owner. It means exact at twelve markers, the cheapest test. The five who paid for the full one differ from him at 25 to 43 places, and the nearest man known on his branch has a paternal line from the plains of northern Poland. The last ancestor they share lived before the Roman Empire."
+ },
+ {
+  "id": "DM-C-044",
+  "batch": "DM-B-020",
+  "found_in": "DM-B-020",
+  "source": "DM-S-019-3",
+  "document": "DM-D-149",
+  "title": "The Demko agent is given the Duska chromosome",
+  "original": "Your Haplogroup Story: R-FTB41229",
+  "translation": "same",
+  "why": "The owner offered this agent 'something no one else has'. It was his Y chromosome, which comes down the one line of his tree that this agent does not work on: father to son, Duska to Duska. Maria Demko, having been a woman, is not on it. The agent that owns that line was barred from DNA at the time.",
+  "tone": "funny",
+  "doc": "DM-D-149",
+  "text": "The owner offered this agent 'something no one else has'. It was his Y chromosome, which comes down the one line of his tree that this agent does not work on: father to son, Duska to Duska. Maria Demko, having been a woman, is not on it. The agent that owns that line was barred from DNA at the time."
  }
 ]
