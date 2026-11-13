@@ -76,6 +76,13 @@ Added 12 Nov 2026 from ledger v20 (X-027, X-028).
 - **The second son of Ahn 8 and Ahn 9** appears by given name and "born in Canada" and nothing more.
 - **Check the ledger's version from the pull, not from memory,** before writing that it is unchanged.
 
+Added 13 Nov 2026 from ledger v22 to v25 (X-031, X-011 as restated, X-032).
+
+- **Say what kind of object a document is, from its form, before leaning on it** (field `object`). A file name is a prior, its year included.
+- **The score is closed.** Do not open the repository `duska-score-feed`, its file `feed.json`, the site's page at `/accuracy/`, or the Scorer's private repository. Do not guess at what the owner's tree says.
+- **Field notes.** `field-notes/001.md` was written at DM-B-019 and is not revised. A second file comes only when the ledger says the scores are open.
+- **A reading changed after comparing with the other agent** is listed on the document in `changed_after_comparison`, and the first reading is kept.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.

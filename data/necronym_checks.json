@@ -8,7 +8,7 @@
   "backward": "An earlier Mihály, twin, born 29 May [1873], is marked with a cross (DM-D-013). The 1882 child is itself a reuse of that name. The two are kept as two people. Since DM-B-018 the burials are in hand: the twin Mihály was buried on 13 June [1873] (DM-D-121). A second infant Mihály of 'György Demkó, farmer', house 121, died on 3 May of a year the strip does not show (DM-D-122); see DM-NC-019.",
   "age_test": "The father of 1906 is '24 (huszonnégy) éves' on 23 Aug 1906: born between 24 Aug 1881 and 23 Aug 1882. The child of 19 Aug 1882 fits; the twin of 1873 does not.",
   "cousin_test": "The 1906 record names no parents for him. A cousin Mihály born about 1881-82 to János Demkó of Viszoka no. 120 is not excluded by the strips in hand (gap between March 1879 and January 1883).",
-  "result": "Closed for survival in DM-B-017: the census of 1930 has a Michal Demko born at Vysoká in August 1882 alive at Iňačovce (DM-D-105). The days differ, the 19th in the baptism and the 28th in the census. That he is the son of György Demkó and Mária Hreskó still rests on there being one such birth in the strips.",
+  "result": "Closed for survival in DM-B-017: the census of 1930 has a Michal Demko born at Vysoká in August 1882 alive at Iňačovce (DM-D-105). The days differ, the 19th in the baptism and the 28th in the census. That he is the son of György Demkó and Mária Hreskó still rests on there being one such birth in the strips. DM-B-019: his brother János and sister Borbála are in the same census at Vysoká, each with a birthday some days off the baptism book, as his is.",
   "logged": "2026-11-12T06:16:34Z"
  },
  {
@@ -165,8 +165,8 @@
   "rule": "X-017 rules 1 to 5",
   "person": "The sons named János of György Demkó, farmer, of Viszoka: one who died aged 2 on 14 December [1872]; the twin who died on 14 June [1873]; the János baptised 29 March 1875",
   "burials_searched": "The same eighteen strips.",
-  "forward_search": "No burial of the János of 1875 among them.",
-  "result": "Three boys. The name was given again within six months of the first death and within two years of the second (DM-D-115, DM-D-116, DM-D-014). Whether the third lived is not known; DM-H-037 depends on it.",
+  "forward_search": "Since DM-B-019: a Ján Demko, Greek Catholic, born at Vysoká in April 1875, is alive at Vysoká no. 165 on 1 December 1930 (DM-D-147).",
+  "result": "Three boys. The name was given again within six months of the first death and within two years of the second (DM-D-115, DM-D-116, DM-D-014). Whether the third lived is not known; DM-H-037 depends on it. Closed for survival in DM-B-019: the third János lived. The census gives 15 April where the baptism book has 29 March; the same kind of gap as for his brother and sister.",
   "logged": "2026-11-12T22:33:17Z"
  },
  {

@@ -1420,5 +1420,25 @@
   "reliability": "An entry made by the priest at the burial: good for the death and the day, as told for the age and the cause. A strip cut from the page; the year is on the strip only where the entry itself carries it.",
   "document": "DM-D-146",
   "also": "DUS:D-013-09 @9462513"
+ },
+ {
+  "id": "DM-S-019-1",
+  "batch": "DM-B-019",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Vysoká, house 165: Ján Demko, Greek Catholic farmer, born at Vysoká in April 1875, his wife Maria, four sons and a daughter-in-law",
+  "extract": "Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born and six living. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.",
+  "reliability": "A census return: what the household told the commissioner on one night. Good for who lived in the house; the birth dates are the household's memory and run days off the church books.",
+  "document": "DM-D-147",
+  "also": "DUS:D-011-109 @9462513"
+ },
+ {
+  "id": "DM-S-019-2",
+  "batch": "DM-B-019",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Vysoká, house 8: Barbora Hrobáková, born Demková, widow, born at Vysoká in April 1879, and two sons",
+  "extract": "Vysoká, house 8, on the night of 1 December 1930. Barbora, widow Hrobáková, born Demková, owner of the dwelling, born 10 April 1879 at Vysoká, married 20 June 1904, widowed 25 March 1915, three children born. Her sons Michal Hrobák, born 15 February 1912, and Ján Hrobák, born 22 November 1914, both single.",
+  "reliability": "A census return: what the household told the commissioner on one night. Good for who lived in the house; the birth dates are the household's memory and run days off the church books.",
+  "document": "DM-D-148",
+  "also": "DUS:D-011-104 @9462513"
  }
 ]

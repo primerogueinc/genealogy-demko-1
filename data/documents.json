@@ -11574,7 +11574,8 @@
   "notes": [
    "A Mária Kocsis of Solymos who died in 1876: a daughter of the couple of house 13 (DM-D-047). She is ten years too early to be confused with Ahn 19, but she shows the name Mária was already used, and lost, in that house.",
    "Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-60 @9462513.",
-   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter."
+   "After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter.",
+   "The Places agent reads 'carbunculus' in these books as anthrax (its batch PL-B-012). The word is left as written here."
   ],
   "provenance": {
    "archive": "unknown",
@@ -12830,6 +12831,189 @@
    "changes_name": false
   },
   "also_read_by": "DUS:D-013-09 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-147",
+  "batch": "DM-B-019",
+  "folder": "F-12",
+  "source": "DM-S-019-1",
+  "file": "archive/duska-census/Vysoka_-_6_-_House_of_Jan_Demko.png",
+  "sha256": "c469e36c657036d74d63e546a9cef7cc5f7693fc314f5c0337847977b6cb78b2",
+  "image": {
+   "format": "PNG",
+   "width": 1356,
+   "height": 966
+  },
+  "title": "Census of 1 December 1930, Vysoká, house 165: Ján Demko, Greek Catholic farmer, born at Vysoká in April 1875, his wife Maria, four sons and a daughter-in-law",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Vysoka - 6 - House of Jan Demko",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Československá republika. Sčítanie ľudu 1930. Popisný hárok. Politický okres Veľ. Kapušany. Obec Vysoká. Číslo domovné 165. Meno majiteľa domu: Ján Demko",
+    "english": "Czechoslovak Republic. Census of 1930. Household sheet. District of Veľké Kapušany, commune of Vysoká, house no. 165. Owner of the house: Ján Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Demko Ján / majiteľ bytu [a] prednosta domácnosti / mužské / 15 IV 1875 / ženatý / Vysoká, V. Kapušany, Slovensko / čsl., Vysoká / slovenská / grécko katolík / čítať a písať / roľník / hospodár samostatný / trvale",
+    "english": "Ján Demko, owner of the dwelling and head of the household, male, born 15 April 1875, married; born at Vysoká, district of Veľké Kapušany; home commune Vysoká; Slovak; Greek Catholic; reads and writes; farmer on his own account; permanently resident",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 2",
+    "original": "Demkova Maria / manželka / ženské / 5 XII (?) 1878 / vydatá / 10 IX (?) 1897 / 10 ; 6 / Vysoká / slovenská / rímsko katolíčka / čítať a písať",
+    "english": "Maria Demková, wife, born 5 December (?) 1878, married 10 September (?) 1897; ten children born, six living; born at Vysoká; Slovak; Roman Catholic; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Demko Juraj / syn / mužské / 18 VII (?) 1908 / ženatý / Vysoká / grécko katolík / roľník / pomáha",
+    "english": "Juraj Demko, son, born 18 July (?) 1908, married; born at Vysoká; Greek Catholic; farmer, helping in the family",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Demkova Maria / nevesta / ženské / 10 III 1911 / vydatá / 1 IX (?) 1929 / 0 ; 0 / Vysoká / grécko katolíčka",
+    "english": "Maria Demková, daughter-in-law, born 10 March 1911, married 1 September (?) 1929, no children; born at Vysoká; Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "Demko Michal / syn / 16 VIII 1914 / slobodný / Vysoká / grécko katolík / roľník / pomáha",
+    "english": "Michal Demko, son, born 16 August 1914, single; Greek Catholic; farmer, helping in the family",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 6",
+    "original": "Demko Andrej / syn / 11 VII 1916 / slobodný / Vysoká / grécko katolík / roľník / pomáha",
+    "english": "Andrej Demko, son, born 11 July 1916, single; Greek Catholic; helping in the family",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 7",
+    "original": "Demko Ján / syn / 10 VI (?) 1919 / slobodný / Vysoká / grécko katolík",
+    "english": "Ján Demko, son, born 10 June (?) 1919, single; Greek Catholic",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born and six living. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.",
+  "notes": [
+   "A Ján Demko, Greek Catholic, born at Vysoká in April 1875 and still farming there in 1930. One János Demkó was baptised at Viszoka in 1875 in the strips in hand: on 29 March, at house 121, son of György Demkó, Greek Catholic farmer, and Mária Hreskó, Roman Catholic (DM-D-014). Same village, rite and year; the day is seventeen days off. He is taken to be that child, the brother of Maria Demko's father (DM-H-045).",
+   "This is the sheet that was to test DM-H-037, and it sinks it. The János Demko of Senné no. 87 in 1900 was Roman Catholic, a carpenter, with a Greek Catholic wife from Lasztomér, Mária Ivanko (DM-D-086). This Ján is Greek Catholic, a farmer at Vysoká, with a Roman Catholic wife born at Vysoká whom he married in 1897. Two men.",
+   "He is the third son his father named János; the first two died in 1872 and 1873 (DM-NC-020). This one lived to be 55 at least and had ten children.",
+   "Like his father he married a Roman Catholic. The sons are entered Greek Catholic, after the father.",
+   "The Roman numerals for the months are small. The Duska agent, which calls its own reading of this sheet a fast one, has the wife born 5 July and married 10 February, Juraj born 18 September, the daughter-in-law married 1 October and the youngest son born 20 June. Years agree throughout.",
+   "Not an independent reading: the Duska agent's note and abstract for this sheet were seen in an earlier batch."
+  ],
+  "provenance": {
+   "archive": "unknown; the image carries a small catalogue label that is not legible at this size",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Vysoká (nad Uhom)",
+   "page_or_image": "house 165, page 1",
+   "obtained": "unknown; a screen capture from an online viewer. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-109 @9462513",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-148",
+  "batch": "DM-B-019",
+  "folder": "F-12",
+  "source": "DM-S-019-2",
+  "file": "archive/duska-census/Vysoka_-_13_-_House_of_Borbara_Demkova.png",
+  "sha256": "13b7fa091e73b97723bff351cb6b1e181e0bf10b94522943baf7fc21ffbc4d9d",
+  "image": {
+   "format": "PNG",
+   "width": 1349,
+   "height": 971
+  },
+  "title": "Census of 1 December 1930, Vysoká, house 8: Barbora Hrobáková, born Demková, widow, born at Vysoká in April 1879, and two sons",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Vysoka - 13 - House of Borbara Demkova",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Sčítanie ľudu 1930. Politický okres Veľ. Kapušany. Obec Vysoká. Číslo domovné 8.",
+    "english": "Census of 1930. District of Veľké Kapušany, commune of Vysoká, house no. 8",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "vd. Hrobáková r. Demková Barbora / majiteľka bytu / ženské / 10 apr. 1879 / vdova / a) 20 juna 1904 b) 25. marca 1915 / 3 ; – / Vysoká, Veľ. Kapušany, Slovensko / slovenská / grécko katolíčka (?) / roľníčka (?)",
+    "english": "Barbora, widow Hrobáková, born Demková; owner of the dwelling; female; born 10 April 1879; widow; married 20 June 1904, widowed 25 March 1915; three children born; born at Vysoká; Slovak; Greek Catholic (?); farming (?)",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Hrobák Michal / syn / mužské / 15 febr. 1912 / slobodný / Vysoká / grécko katolík",
+    "english": "Michal Hrobák, son, born 15 February 1912, single; born at Vysoká; Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Hrobák Ján / syn / mužské / 22 nov. 1914 / slobodný / Vysoká / grécko katolík",
+    "english": "Ján Hrobák, son, born 22 November 1914, single; born at Vysoká; Greek Catholic",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Vysoká, house 8, on the night of 1 December 1930. Barbora, widow Hrobáková, born Demková, owner of the dwelling, born 10 April 1879 at Vysoká, married 20 June 1904, widowed 25 March 1915, three children born. Her sons Michal Hrobák, born 15 February 1912, and Ján Hrobák, born 22 November 1914, both single.",
+  "notes": [
+   "The commissioner wrote her maiden name: 'r. Demková', born Demko. A Borbála Demkó was baptised at Viszoka on 23 April [1879], at house 121, daughter of György Demkó and Mária Hreskó (DM-D-015). Same name, village, month and year; the day is thirteen days off. She is taken to be that child, a sister of Maria Demko's father (DM-H-045).",
+   "The owner's file name calls this the 'House of Borbara Demkova'. On the sheet her surname is Hrobáková and Demková is the name she was born with.",
+   "She was widowed on 25 March 1915, with a son of three and another of four months. The sheet gives no cause. From recall, not checked: that is the eighth month of the war, and men of her husband's age were at the front.",
+   "The right-hand columns are faint in this capture; rite and occupation are read with doubt.",
+   "Not an independent reading: the Duska agent's note named this house in an earlier batch. Read from the image; agrees with DUS:D-011-104 in every field read by both."
+  ],
+  "provenance": {
+   "archive": "unknown; the image carries a small catalogue label that is not legible at this size",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Vysoká (nad Uhom)",
+   "page_or_image": "house 8, page 1",
+   "obtained": "unknown; a screen capture from an online viewer. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-104 @9462513",
   "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
  }
 ]

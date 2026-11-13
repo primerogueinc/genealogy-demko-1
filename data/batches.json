@@ -1064,5 +1064,54 @@
    "found": "The owner's folder of deaths, 73 strips in three sub-folders; 41 routed here and all taken, each checksum equal to its manifest. Its notes gave file names and checksums only, so every strip was read here first. Agreement: 30 strips agree in every field read by both or differ only in a doubtful letter. Adopted from its reading after a second look at the image: the husband's surname in the Cyrillic entry of 1857 (Tirpák), the year and the father's surname in the printed entry of 1864, the village in the entry of [1850], the state column in the strip filed as 1905. Still different: Ilona Demkó of [1836] (a child of 3 here, a wife of 33 there), the month and age in the Pihulics burial, one house number, one age. Its hypotheses on these strips (DUS:H-031, H-076, H-077, H-078) were read after this agent's own were written; DM-H-043 and DM-H-044 answer to its H-077 and H-078 and DM-H-021 to its H-031 and H-076.",
    "not_taken": "Forty census sheets of 1930 in its F-011 and 24 strips in its F-009 routed here are still to be read; the sheet for Vysoká 165 is first among them."
   }
+ },
+ {
+  "id": "DM-B-019",
+  "date": "2026-11-13",
+  "at_utc": "2026-11-13T07:24:16Z",
+  "title": "Ledger v25 and field notes; a brother and a sister of Maria Demko's father found alive at Vysoká in 1930",
+  "folder": "F-12",
+  "files": 2,
+  "blurb": "Ledger v25 is read, with v23 and v24. It closes the score feed to this agent and asks for one thing: field notes, a short first-person account that goes on the site. They are in field-notes/001.md and will not be changed. Two census sheets of 1930 were taken from the Duska agent's folder. At Vysoká no. 165 is Ján Demko, a Greek Catholic farmer born there in April 1875, with a Roman Catholic wife and four sons. At no. 8 is Barbora Hrobáková, 'born Demková', born there in April 1879, a widow since March 1915. They fit the János and Borbála baptised at Viszoka 121 in 1875 and 1879, the brother and sister of Maria Demko's father, who is in the same census at Iňačovce. That makes three children of one house alive on one night, and all three gave a birthday some days off the baptism book, which explains the nine days that had stood against her father. It also ends a guess of this agent's: the Roman Catholic carpenter János Demko of Senné in 1900 is not the brother, who never left Vysoká. Refuted. The Places agent's answers on where the missing marriages and deaths should be are taken in as a lead. Neither capped link moves: no sheet names a parent. Curiosities: 2",
+  "raised": [
+   "DM-H-045"
+  ],
+  "resolved": [
+   "DM-H-037"
+  ],
+  "revised": [
+   "DM-H-010",
+   "DM-H-005"
+  ],
+  "people_added": [
+   "DM-X-078",
+   "DM-X-079",
+   "DM-X-080"
+  ],
+  "sources_added": [
+   "DM-S-019-1",
+   "DM-S-019-2"
+  ],
+  "documents_added": [
+   "DM-D-147",
+   "DM-D-148"
+  ],
+  "curiosities_added": [
+   "DM-C-041",
+   "DM-C-042"
+  ],
+  "curiosities": 2,
+  "read": [
+   "read ledger v25 (2026-11-13), duska-coordinator @9f44bdd; v23 and v24 read with it",
+   "genealogu-duska-1 main @9462513 (cross-review; unchanged since DM-B-018)",
+   "duska-and-demko-villages main @fc7360d (PL-B-006 to PL-B-012, newly on main) and its note to this agent",
+   "private repository @71c1808: piles unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "9462513",
+   "found": "No new batch. Two of the census sheets it routed here are taken (its D-011-109 and D-011-104), checksums equal to its manifest. Its abstracts, which it calls fast readings, were known before the images were read here, so both readings are marked not independent. Years agree throughout; five months in Roman numerals differ on no. 165 and are marked doubtful here.",
+   "not_taken": "Thirty-eight census sheets and 24 Senné strips routed here are still to be read."
+  }
  }
 ]

@@ -494,14 +494,21 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-005-3"
+   "DM-S-005-3",
+   "DM-S-019-1"
   ],
-  "note": "Son of György Demkó and Mária Hreskó. He is the third János of this father: one died aged 2 in December [1872], one a twin in June [1873] (DM-NC-020). No burial of this one is among the strips of DM-B-018."
+  "note": "Son of György Demkó and Mária Hreskó. He is the third János of this father: one died aged 2 in December [1872], one a twin in June [1873] (DM-NC-020). No burial of this one is among the strips of DM-B-018. Since DM-B-019: a Ján Demko, Greek Catholic farmer, born at Vysoká on 15 April 1875 by the household's word, is the owner of Vysoká no. 165 in the census of 1930, with a Roman Catholic wife Maria (born 1878, married 1897; ten children, six living). Taken to be this János (DM-H-045). He is not the Roman Catholic carpenter of Senné (DM-H-037, refuted).",
+  "residence": [
+   {
+    "date": "1 Dec 1930",
+    "place": "Vysoká no. 165, his own house"
+   }
+  ]
  },
  {
   "id": "DM-X-014",
   "ahnentafel": null,
-  "name": "Borbála Demkó",
+  "name": "Borbála Demkó (Barbora Hrobáková)",
   "role": "Sister of P-018, same proviso",
   "living": false,
   "owner": "demko",
@@ -511,9 +518,20 @@
   },
   "proof": "documented",
   "sources": [
-   "DM-S-005-4"
+   "DM-S-005-4",
+   "DM-S-019-2"
   ],
-  "note": "Daughter of György Demkó and Mária Hreskó."
+  "note": "Daughter of György Demkó and Mária Hreskó. Since DM-B-019: Barbora, widow Hrobáková, 'born Demková', born at Vysoká on 10 April 1879 by the household's word, is at Vysoká no. 8 in the census of 1930 with two sons. Married 20 June 1904, widowed 25 March 1915. Taken to be this Borbála (DM-H-045).",
+  "residence": [
+   {
+    "date": "1 Dec 1930",
+    "place": "Vysoká no. 8, her own dwelling"
+   }
+  ],
+  "marriage": {
+   "date": "20 Jun 1904",
+   "place": null
+  }
  },
  {
   "id": "DM-X-015",
@@ -1725,5 +1743,56 @@
    "DM-S-018-35"
   ],
   "note": "György Kocsis, 5, son of János Kocsis, of Mogyorós (?), died in [1841]. János Kocsis, 17, son of János Kocsis, cottar, of Cséppely 21, died of cholera on 7 August [1873]. Anna Kocsis, 27, a herdsman's wife (?), died at Gönyű on 18 May [1840]."
+ },
+ {
+  "id": "DM-X-078",
+  "ahnentafel": null,
+  "name": "Maria, wife of Ján Demko of Vysoká 165",
+  "role": "Aunt by marriage of Maria Demko, if DM-H-045 holds",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "1878",
+   "place": "Vysoká"
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-019-1"
+  ],
+  "note": "Roman Catholic, born at Vysoká. Married in 1897; ten children born, six living in 1930. Her maiden name is not on the sheet."
+ },
+ {
+  "id": "DM-X-079",
+  "ahnentafel": null,
+  "name": "The household of Ján Demko, Vysoká 165, in 1930",
+  "role": "First cousins of Maria Demko, if DM-H-045 holds",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-019-1"
+  ],
+  "note": "Sons Juraj (born 1908, married in 1929 to Maria, born 1911), Michal (1914), Andrej (1916) and Ján (1919), all Greek Catholic, all born at Vysoká. Dead by the hundred-year rule and by the owner's 'all dead' of the villagers on these sheets."
+ },
+ {
+  "id": "DM-X-080",
+  "ahnentafel": null,
+  "name": "The Hrobák household, Vysoká 8, in 1930",
+  "role": "Husband and sons of Borbála Demkó",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-019-2"
+  ],
+  "note": "Her husband, a Hrobák whose given name is not on the sheet, married her on 20 June 1904 and died on 25 March 1915. Sons Michal (born 15 February 1912) and Ján (born 22 November 1914). A third child was born and is not in the house. Dead by the hundred-year rule."
  }
 ]

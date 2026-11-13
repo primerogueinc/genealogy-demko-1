@@ -127,7 +127,7 @@
  {
   "id": "DM-H-005",
   "statement": "The Uzhhorod record is a Greek Catholic register or register duplicate of the Mukachevo eparchy, and not a civil register.",
-  "confidence": 10,
+  "confidence": 8,
   "basis": "DM-L-003 catalogues exactly such a series for the Ung district. DM-L-001 shows the Iňačovce Greek Catholic books held at Prešov stop at 1898, which would leave a later baptism outside the Slovak holdings.",
   "test": "Whatever told Kevin the record is in Uzhhorod: an archive reply, a catalogue entry, or a fond and file number.",
   "status": "open",
@@ -164,6 +164,12 @@
     "from": 30,
     "to": 10,
     "why": "The owner places the civil registration itself at Uzhhorod (DM-PR-6), which answers the question without a church book. Not refuted: a Greek Catholic entry for her may also exist, there or elsewhere."
+   },
+   {
+    "batch": "DM-B-019",
+    "from": 10,
+    "to": 8,
+    "why": "The Places agent corrects itself: the filmed series of the eparchy at Uzhhorod that it had taken for second copies of parish books is files of yearly returns and extracts (its note after PL-B-008, item 7, @fc7360d). That leaves less room for a church duplicate of a 1906 baptism there."
    }
   ],
   "question": "X-Q-01"
@@ -321,6 +327,12 @@
     "from": 70,
     "to": 70,
     "why": "Still at the cap. The burial strips for Viszoka have the twins of 1873 and a János of [1872], which fit the family as built. They also have a second dead Mihály of 'György Demkó, farmer', house 121, one month old, in a year the strip does not show (DM-D-122). If that year is in the 1870s, as the form says, he is one more brother who died before the Mihály of 1882, and the name was simply given a third time. If it is 1888, as the file name says, a György Demkó at house 121 named a son Mihály while the Mihály of 1882 was alive, and there were two fathers of the name; then which of them is the father of the boy of 1882 would have to be shown again. Without the cap this would now be about 85, not 90."
+   },
+   {
+    "batch": "DM-B-019",
+    "from": 70,
+    "to": 70,
+    "why": "Still at the cap. Two more children of György Demkó and Mária Hreskó are found in the census of 1930 at Vysoká: János, born 1875, and Borbála, born 1879 (DM-D-147, DM-D-148). With Michal at Iňačovce that is three of the family alive on one night, each with the right village, rite, month and year. In all three the census day is off from the baptism book, by 17, 13 and 9 days. So the nine days between 19 and 28 August for Maria's father are the habit of these returns and not a sign of another man. Without the cap, about 88."
    }
   ],
   "question": "X-Q-03",
@@ -875,28 +887,40 @@
     "from": 35,
     "to": 50,
     "why": "If the widow of 1930 is Mária Knyezső, she was born at Iňačovce (DM-D-105). That answers 'another village'. It does not say which Knyezső house, and she is still Roman Catholic among Reformed namesakes."
+   },
+   {
+    "batch": "DM-B-019",
+    "from": 50,
+    "to": 50,
+    "why": "No change in the number. The Places agent finds that Roman Catholics of Solymos belonged to the parish of Senné, and that its baptisms before 1866 are not in the state archive, perhaps burned in 1865 (PL-N-035, PL-H-018 @fc7360d). Mária Knyezső, born 1863 by the census, falls in that gap. Her marriage of 10 November 1879 falls inside the surviving marriage volume, no. 1090."
    }
   ]
  },
  {
   "id": "DM-H-037",
   "statement": "János Demko, carpenter of Senné no. 87 in 1900, is the János baptised at Viszoka in March 1875, son of György Demkó and Mária Hreskó and brother of Ahn 18.",
-  "confidence": 15,
+  "confidence": 3,
   "basis": "Same name, and the right age: 25 at the birth of a first child in hand (DM-D-086, DM-D-014). It would explain how a Viszoka family came to the Senné and Solymos side, where his brother Mihály was a day-labourer by 1906 and where Mihály's daughter married. Against: he is entered as Roman Catholic and the Viszoka child was baptised Greek Catholic; the entry calls him 'of Szenna'; and a Demko woman was already a mother at Senné in 1861 (DM-D-037), so Senné had Demkos of its own.",
   "test": "The marriage of János Demko and Mária Ivanko, about 1898 to 1900, at Senné or at Lasztomér (PL-R-055), which should give his birthplace and father.",
-  "status": "open",
+  "status": "refuted",
   "raised": "DM-B-013",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "DM-B-019",
+  "resolution": "Refuted by the census sheet for Vysoká 165. This agent raised it at 15 in DM-B-013 and named this sheet as the test.",
   "history": [
    {
     "batch": "DM-B-018",
     "from": 15,
     "to": 15,
     "why": "No change. No burial of the János born in 1875 is among the Viszoka strips; two older brothers of the same name are (DM-D-115, DM-D-116). The census sheet for Vysoká 165 that should test this is still to be read."
+   },
+   {
+    "batch": "DM-B-019",
+    "from": 15,
+    "to": 3,
+    "why": "The census of 1930 has a Ján Demko, Greek Catholic farmer, born at Vysoká in April 1875 and still there, with a Roman Catholic wife born at Vysoká and married in 1897 (DM-D-147). The carpenter of Senné in 1900 was Roman Catholic with a Greek Catholic wife from Lasztomér (DM-D-086). The rites are the other way round and the wives are different women. The brother stayed at Vysoká; the carpenter is another man."
    }
   ],
-  "necronym_risk": "unresolved"
+  "necronym_risk": "closed: the János of 1875 is found alive in 1930"
  },
  {
   "id": "DM-H-038",
@@ -970,7 +994,14 @@
   "raised": "DM-B-018",
   "resolved": null,
   "resolution": null,
-  "history": [],
+  "history": [
+   {
+    "batch": "DM-B-019",
+    "from": 65,
+    "to": 65,
+    "why": "No change. The brother and sister born in 1875 and 1879 both lived (DM-D-147, DM-D-148), so the infant Mihály of house 121 is not a second use of either of their birth slots; the open years for him are still 1876 to 1878, 1880 and 1881."
+   }
+  ],
   "necronym_risk": "This is the necronym question itself: see DM-NC-019."
  },
  {
@@ -984,5 +1015,22 @@
   "resolved": null,
   "resolution": null,
   "history": []
+ },
+ {
+  "id": "DM-H-045",
+  "statement": "Ján Demko of Vysoká no. 165 and Barbora Hrobáková, born Demková, of Vysoká no. 8, in the census of 1930, are the János and Borbála baptised at Viszoka in 1875 and [1879], children of György Demkó and Mária Hreskó and brother and sister of Maria Demko's father.",
+  "question": "X-Q-03",
+  "confidence": 70,
+  "basis": "Each has the name, the village of birth, the Greek Catholic rite, and a birth in the same month and year as the baptism (DM-D-147 with DM-D-014; DM-D-148 with DM-D-015). No other János or Borbála Demkó is born at Viszoka in those years in the strips in hand, and the other Demko father of the 1870s, János, had a daughter in October 1874 and a son in 1877, which leaves no room for a child of his in April 1875. Against: the days differ by 17 and 13; the sheets name no parents; the strips are a selection, not the whole register. An identity without an archive reference, so held at the cap of 70 (X-009); without it, about 82.",
+  "test": "The marriage of Ján Demko in 1897 and of Barbora Demková on 20 June 1904, in the Čičarovce Greek Catholic book or the Pavlovce Roman Catholic one: each should name the father. The 1930 sheet of any house where a György Demkó's widow lived.",
+  "status": "supported",
+  "raised": "DM-B-019",
+  "resolved": null,
+  "resolution": null,
+  "history": [],
+  "depends_on": [
+   "The János baptised 29 March 1875 and the Borbála baptised 23 April [1879] at Viszoka 121 are children of György Demkó and Mária Hreskó (read from the strips).",
+   "The two people of 1930 are those two children (agreement of name, place, rite, month and year; no parent named)."
+  ]
  }
 ]

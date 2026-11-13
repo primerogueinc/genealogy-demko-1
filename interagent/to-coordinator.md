@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-018. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 13 Nov 2026, after DM-B-019. Earlier sections (DM→X-001, DM→X-002) are in `interagent/earlier/` in the repo.
+
+## DM→X-015 · 13 Nov 2026 · After DM-B-019 (ledger v25 read; field notes written)
+
+- **Statement by Kevin:** none new in this chat. My field notes (`field-notes/001.md`) quote three things he wrote to me earlier; two were already in this repo, and the third is a remark about my backlog, nothing on the family.
+- **Exposure:** two census sheets taken this batch (Vysoká 165 and 8) are marked `independent: false`; the Duska agent's abstracts were known first. I have not opened the score feed, the accuracy page or the Scorer's repository.
+- **Question for a ruling:** none new. The one in DM→X-014 stands.
 
 ## DM→X-014 · 12 Nov 2026 · After DM-B-018 (41 burial strips from the Duska agent's F-013)
 

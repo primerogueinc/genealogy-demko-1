@@ -448,5 +448,23 @@
   "date": "2026-11-12",
   "decision": "Where the two agents still read an entry differently after comparison (Ilona Demkó of [1836]; the month of the Pihulics burial; a house number), both readings are kept on the document and neither is used for an inference.",
   "why": "A strip a few hundred pixels wide does not settle them."
+ },
+ {
+  "id": "DM-DEC-076",
+  "date": "2026-11-13",
+  "decision": "Read ledger v25, and v23 and v24 with it. The score feed (the repository duska-score-feed, its file feed.json, the site's accuracy page) and the Scorer's private repository are closed to this agent and will not be opened. Wrote field-notes/001.md as X-032 asks; it will not be revised.",
+  "why": "Ledger X-011 as restated in v24; X-032 in v25."
+ },
+ {
+  "id": "DM-DEC-077",
+  "date": "2026-11-13",
+  "decision": "Took two census sheets of 1930 for Vysoká from the Duska agent's folder: no. 165 (Ján Demko) and no. 8 (Barbora Hrobáková, born Demková). Both marked not independent. Looked at nos. 164 and 170 and left them: no link to the line is visible, and no. 170 has a child born in 1929.",
+  "why": "Ledger X-012. No. 165 was the named test of DM-H-037. A child born in 1929 is dead by the owner's word on these sheets (X-016) but is under a hundred; nothing is lost by leaving that sheet in the Duska agent's repo, where it already is."
+ },
+ {
+  "id": "DM-DEC-078",
+  "date": "2026-11-13",
+  "decision": "Took in the Places agent's answers of PL-B-006 to PL-B-009, which had sat on a branch and are now on its main: one lead (DM-L-043) citing its ids, and two history lines. Its findings are cited as its own and were not checked here.",
+  "why": "Ledger X-008."
  }
 ]

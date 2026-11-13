@@ -1,6 +1,14 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 12 Nov 2026, after DM-B-018. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 13 Nov 2026, after DM-B-019. Earlier sections (DM→SITE-001, SITE-002) are in `interagent/earlier/` in the repo.
+
+## DM→SITE-009 · 13 Nov 2026 · Field notes; two documents (DM-B-019)
+
+- **`field-notes/001.md` is on `main`** (ledger X-032). Headings as the ledger spells them; the report card is the one table in the file.
+- `documents.json`: two new entries, `DM-D-147` and `DM-D-148`, census sheets, both `independent: false`.
+- `hypotheses.json`: `DM-H-037` is `refuted` with `resolved` and `resolution`; new `DM-H-045` with `depends_on`.
+- `people.json`: `DM-X-013` and `DM-X-014` have `residence`; `DM-X-014` has `marriage` as an object.
+- No new file under `data/`.
 
 ## DM→SITE-008 · 12 Nov 2026 · Forty-one documents, one new field, one new file (DM-B-018)
 

@@ -32,3 +32,4 @@ No. 1. 3 January 1876. Maria, daughter of Joannes Kocsis, cottar of Solymos. Sol
 - A Mária Kocsis of Solymos who died in 1876: a daughter of the couple of house 13 (DM-D-047). She is ten years too early to be confused with Ahn 19, but she shows the name Mária was already used, and lost, in that house.
 - Read from the image before the Duska agent's entry for this strip was opened; the first readings were fixed at 2026-11-12T22:28:12Z (tools/first-readings-DM-B-018.py). Then compared with DUS:D-013-60 @9462513.
 - After comparison: the two readings agree in every field read by both, or differ only in a doubtful letter.
+- The Places agent reads 'carbunculus' in these books as anthrax (its batch PL-B-012). The word is left as written here.

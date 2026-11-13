@@ -562,5 +562,33 @@
   "tone": "sad",
   "doc": "DM-D-137",
   "text": "The file is called 'Death of Unknown Demko 1867'. The boy is named in the first word of the entry: Josephus. He was six and died of smallpox. He is not a Demko either; that is his mother's name. The collector searched for the surname, found it in the row, and kept the row."
+ },
+ {
+  "id": "DM-C-041",
+  "batch": "DM-B-019",
+  "found_in": "DM-B-019",
+  "source": "DM-S-019-1",
+  "document": "DM-D-147",
+  "title": "Nobody in this family knew their birthday",
+  "original": "15 IV 1875 / 10 apr. 1879 / 28 augusta 1882",
+  "translation": "15 April 1875 / 10 April 1879 / 28 August 1882",
+  "why": "Three children of one house were asked their birthdays by the census on one night in 1930, in two villages. The priest had written 29 March, 23 April and 19 August. They said 15 April, 10 April and 28 August. Right year, right month or the next one, wrong day, every time. From recall, not checked: in these villages a person kept the name day, not the birthday. The book in the sacristy was the only thing that knew.",
+  "tone": "funny",
+  "doc": "DM-D-147",
+  "text": "Three children of one house were asked their birthdays by the census on one night in 1930, in two villages. The priest had written 29 March, 23 April and 19 August. They said 15 April, 10 April and 28 August. Right year, right month or the next one, wrong day, every time. From recall, not checked: in these villages a person kept the name day, not the birthday. The book in the sacristy was the only thing that knew."
+ },
+ {
+  "id": "DM-C-042",
+  "batch": "DM-B-019",
+  "found_in": "DM-B-019",
+  "source": "DM-S-019-2",
+  "document": "DM-D-148",
+  "title": "Widowed on a date",
+  "original": "b) 25. marca 1915",
+  "translation": "[widowed] 25 March 1915",
+  "why": "The form has a small line 'b' under the wedding date, for the day a marriage ended. For Barbora it is filled in: 25 March 1915. She had a son of three and another of four months. Fifteen years later she is the owner of the house and the two boys are still with her.",
+  "tone": "sad",
+  "doc": "DM-D-148",
+  "text": "The form has a small line 'b' under the wedding date, for the day a marriage ended. For Barbora it is filled in: 25 March 1915. She had a son of three and another of four months. Fifteen years later she is the owner of the house and the two boys are still with her."
  }
 ]
