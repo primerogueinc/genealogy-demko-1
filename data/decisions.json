@@ -472,5 +472,11 @@
   "date": "2026-11-13",
   "decision": "Logged a private hint from the owner as prior DM-PR-10 with its content withheld, at his request and with his agreement that its existence be logged. Closed DM-H-019, which the papers of 1937 had refuted five batches ago and which was still shown as open at 80.",
   "why": "Ledger X-029: the owner's word in this chat is acted on at once and logged as given. The second is this agent's own oversight, found while checking the board."
+ },
+ {
+  "id": "DM-DEC-080",
+  "date": "2026-11-13",
+  "decision": "Took two DNA files from the owner on his word, against ledger X-023, and held both: checksum and kind are public, content is not. Ran one research pass on the open web about the branch of the Y tree named in them, with the rule that no mailbox, no family tree and no page written by the owner be opened; the report says none was. Told the owner that the result belongs to the Duska male line and moves nothing on this board. Did not pass the content to the Duska agent, for whom X-023 still stands.",
+  "why": "Ledger X-029: the owner's word in this chat beats the ledger. Ledger X-015 and X-016: files about the owner and naming living third parties are held."
  }
 ]

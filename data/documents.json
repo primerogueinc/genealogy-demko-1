@@ -13015,5 +13015,115 @@
   "independent": false,
   "also_read_by": "DUS:D-011-104 @9462513",
   "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+ },
+ {
+  "id": "DM-D-149",
+  "batch": "DM-B-019",
+  "folder": "F-14",
+  "source": "DM-S-019-3",
+  "file": null,
+  "withheld": true,
+  "sha256": "17429163847061b0565c271e75784d4069e363466c6ed96f8871468b99a7c1b3",
+  "image": {
+   "format": "PNG",
+   "width": 1008,
+   "height": 2244
+  },
+  "title": "A screenshot of a Y-DNA result page from the owner's own account",
+  "kind": "Screenshot of a genetic test result, withheld",
+  "language": "English",
+  "collector_label": "[given in chat; the file name is not kept here]",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "What it is",
+    "original": "n/a",
+    "english": "One screen of a testing company's page for a Y-chromosome test. It names a branch of the Y tree and an age for it.",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Content withheld.",
+  "notes": [
+   "Held under ledger X-015: about the subject of the tree himself.",
+   "Ledger X-023 keeps DNA from the line agents. The owner overruled it for this agent in chat on 13 Nov 2026 (ledger X-029). What it says is scored as given, not as found.",
+   "A Y-chromosome result follows the father's father's line. For the owner that is the Duska male line, not Maria Demko's. Nothing on this board moves on it."
+  ],
+  "provenance": {
+   "archive": "not an archive record",
+   "fond_or_film": "n/a",
+   "book": "n/a",
+   "page_or_image": "n/a",
+   "obtained": "from the owner, in chat, 13 Nov 2026; made by him from his own account with a testing company"
+  },
+  "object": {
+   "kind": "Screenshot of a genetic test result, withheld",
+   "why": "The page and the file carry the testing company's name and layout.",
+   "does_not_fit": "Nothing.",
+   "made_by": "A testing company's website, from the owner's own account",
+   "when": "13 Nov 2026",
+   "kept_where": "With the owner",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "held": "about the subject"
+ },
+ {
+  "id": "DM-D-150",
+  "batch": "DM-B-019",
+  "folder": "F-14",
+  "source": "DM-S-019-4",
+  "file": null,
+  "withheld": true,
+  "sha256": "ee292d4390bca61a6a37a9cc4fad30339e5b80b712278f43f3a69b7e030aeb94",
+  "image": {
+   "format": "CSV"
+  },
+  "title": "An export of a Y-DNA match list from the owner's own account",
+  "kind": "Genetic match list, withheld",
+  "language": "English",
+  "collector_label": "[given in chat; the file name is not kept here]",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "What it is",
+    "original": "n/a",
+    "english": "A table of seventeen people whose Y-chromosome results resemble the owner's at the lowest level of testing, with the countries they give for their paternal lines.",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Content withheld.",
+  "notes": [
+   "Held under ledger X-015: about the subject of the tree himself. It also names living third parties.",
+   "Ledger X-023 keeps DNA from the line agents. The owner overruled it for this agent in chat on 13 Nov 2026 (ledger X-029). What it says is scored as given, not as found.",
+   "A Y-chromosome result follows the father's father's line. For the owner that is the Duska male line, not Maria Demko's. Nothing on this board moves on it."
+  ],
+  "provenance": {
+   "archive": "not an archive record",
+   "fond_or_film": "n/a",
+   "book": "n/a",
+   "page_or_image": "n/a",
+   "obtained": "from the owner, in chat, 13 Nov 2026; made by him from his own account with a testing company"
+  },
+  "object": {
+   "kind": "Genetic match list, withheld",
+   "why": "The page and the file carry the testing company's name and layout.",
+   "does_not_fit": "Nothing.",
+   "made_by": "A testing company's website, from the owner's own account",
+   "when": "13 Nov 2026",
+   "kept_where": "With the owner",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "held": "about the subject"
  }
 ]

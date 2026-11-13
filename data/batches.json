@@ -1071,7 +1071,7 @@
   "at_utc": "2026-11-13T07:24:16Z",
   "title": "Ledger v25 and field notes; a brother and a sister of Maria Demko's father found alive at Vysoká in 1930",
   "folder": "F-12",
-  "files": 2,
+  "files": 4,
   "blurb": "Ledger v25 is read, with v23 and v24. It closes the score feed to this agent and asks for one thing: field notes, a short first-person account that goes on the site. They are in field-notes/001.md and will not be changed. Two census sheets of 1930 were taken from the Duska agent's folder. At Vysoká no. 165 is Ján Demko, a Greek Catholic farmer born there in April 1875, with a Roman Catholic wife and four sons. At no. 8 is Barbora Hrobáková, 'born Demková', born there in April 1879, a widow since March 1915. They fit the János and Borbála baptised at Viszoka 121 in 1875 and 1879, the brother and sister of Maria Demko's father, who is in the same census at Iňačovce. That makes three children of one house alive on one night, and all three gave a birthday some days off the baptism book, which explains the nine days that had stood against her father. It also ends a guess of this agent's: the Roman Catholic carpenter János Demko of Senné in 1900 is not the brother, who never left Vysoká. Refuted. The Places agent's answers on where the missing marriages and deaths should be are taken in as a lead. Neither capped link moves: no sheet names a parent. Curiosities: 2",
   "raised": [
    "DM-H-045"
@@ -1095,7 +1095,9 @@
   ],
   "documents_added": [
    "DM-D-147",
-   "DM-D-148"
+   "DM-D-148",
+   "DM-D-149",
+   "DM-D-150"
   ],
   "curiosities_added": [
    "DM-C-041",
@@ -1115,7 +1117,8 @@
    "not_taken": "Thirty-eight census sheets and 24 Senné strips routed here are still to be read."
   },
   "priors_added": [
-   "DM-PR-10"
+   "DM-PR-10",
+   "DM-PR-11"
   ]
  }
 ]

@@ -1,38 +1,56 @@
 [
-  {
-    "folder": "F-02",
-    "document": "DM-D-005",
-    "original_name": "[owner's name]_Left_and_Michael_Walter_Duska_Right_at_burial_of_Stefan_Duska.jpg",
-    "sha256": "938b80719db3c86fa0eaf9f6410dc518aebf5267d821b22a1311ae74b64f9e09",
-    "bytes": 1278343,
-    "reason": "A photograph showing the subject of the tree at a burial in 2018, with his uncle. Held under ledger X-015: an image about the subject himself. The checksum lets the file be matched later.",
-    "held": "about the subject"
-  },
-  {
-    "folder": "F-08",
-    "document": "DM-D-069",
-    "original_name": "Rodokme_-JavorEN.jpg",
-    "sha256": "334234484be2c81b5cd90ffea4f0fa9ba94571782cc8d9b21d520864bb6868a8",
-    "bytes": 550616,
-    "reason": "A compiled family-tree chart showing living third parties with dates of birth and photographs. Held under ledger X-013 and X-016. The file is in the private repository, pile to-both, commit 9bf2c7a.",
-    "held": "shows living third parties with their birth dates"
-  },
-  {
-    "folder": "F-08",
-    "document": "DM-D-098",
-    "original_name": "maria_boat_and_train_ticket.jpg",
-    "sha256": "0864769695b2b24bdb344d0ae00239906ee3bb1e006bf201ca5cb41b146ea6f3",
-    "bytes": 336227,
-    "reason": "The full photograph of the 1937 transport contract shows, at its edge, part of an addressed envelope belonging to a line outside this experiment (ledger X-020, X-022). A cropped copy is public. The full file is in the private repository, pile to-demko, commit c18bb44.",
-    "held": "outside this experiment (edge of the photograph)"
-  },
-  {
-    "folder": "F-08",
-    "document": "DM-D-100",
-    "original_name": "Obituary_of_Mihaily_Duska.pdf",
-    "sha256": "010b1c4a6fd27cb09f3eddc851228896294f0aa2f53a923dbc59653652174f49",
-    "bytes": 88304,
-    "reason": "A newspaper death notice of 1974 printed from a newspaper-archive website. The page carries the owner's account name and the notice names people of unknown living status. Held under ledger X-016. In the private repository, pile to-demko, commit c18bb44.",
-    "held": "names people of unknown living status and shows the owner's account name on a website"
-  }
+ {
+  "folder": "F-02",
+  "document": "DM-D-005",
+  "original_name": "[owner's name]_Left_and_Michael_Walter_Duska_Right_at_burial_of_Stefan_Duska.jpg",
+  "sha256": "938b80719db3c86fa0eaf9f6410dc518aebf5267d821b22a1311ae74b64f9e09",
+  "bytes": 1278343,
+  "reason": "A photograph showing the subject of the tree at a burial in 2018, with his uncle. Held under ledger X-015: an image about the subject himself. The checksum lets the file be matched later.",
+  "held": "about the subject"
+ },
+ {
+  "folder": "F-08",
+  "document": "DM-D-069",
+  "original_name": "Rodokme_-JavorEN.jpg",
+  "sha256": "334234484be2c81b5cd90ffea4f0fa9ba94571782cc8d9b21d520864bb6868a8",
+  "bytes": 550616,
+  "reason": "A compiled family-tree chart showing living third parties with dates of birth and photographs. Held under ledger X-013 and X-016. The file is in the private repository, pile to-both, commit 9bf2c7a.",
+  "held": "shows living third parties with their birth dates"
+ },
+ {
+  "folder": "F-08",
+  "document": "DM-D-098",
+  "original_name": "maria_boat_and_train_ticket.jpg",
+  "sha256": "0864769695b2b24bdb344d0ae00239906ee3bb1e006bf201ca5cb41b146ea6f3",
+  "bytes": 336227,
+  "reason": "The full photograph of the 1937 transport contract shows, at its edge, part of an addressed envelope belonging to a line outside this experiment (ledger X-020, X-022). A cropped copy is public. The full file is in the private repository, pile to-demko, commit c18bb44.",
+  "held": "outside this experiment (edge of the photograph)"
+ },
+ {
+  "folder": "F-08",
+  "document": "DM-D-100",
+  "original_name": "Obituary_of_Mihaily_Duska.pdf",
+  "sha256": "010b1c4a6fd27cb09f3eddc851228896294f0aa2f53a923dbc59653652174f49",
+  "bytes": 88304,
+  "reason": "A newspaper death notice of 1974 printed from a newspaper-archive website. The page carries the owner's account name and the notice names people of unknown living status. Held under ledger X-016. In the private repository, pile to-demko, commit c18bb44.",
+  "held": "names people of unknown living status and shows the owner's account name on a website"
+ },
+ {
+  "folder": "F-14",
+  "document": "DM-D-149",
+  "original_name": "[screenshot]",
+  "sha256": "17429163847061b0565c271e75784d4069e363466c6ed96f8871468b99a7c1b3",
+  "bytes": 283682,
+  "reason": "Given by the owner in chat. A genetic test result of the owner.",
+  "held": "about the subject"
+ },
+ {
+  "folder": "F-14",
+  "document": "DM-D-150",
+  "original_name": "[match list].csv",
+  "sha256": "ee292d4390bca61a6a37a9cc4fad30339e5b80b712278f43f3a69b7e030aeb94",
+  "bytes": 2143,
+  "reason": "Given by the owner in chat. A genetic test result of the owner. It also names living third parties.",
+  "held": "about the subject"
+ }
 ]

@@ -1440,5 +1440,23 @@
   "reliability": "A census return: what the household told the commissioner on one night. Good for who lived in the house; the birth dates are the household's memory and run days off the church books.",
   "document": "DM-D-148",
   "also": "DUS:D-011-104 @9462513"
+ },
+ {
+  "id": "DM-S-019-3",
+  "batch": "DM-B-019",
+  "type": "Screenshot of a genetic test result, withheld",
+  "title": "A screenshot of a Y-DNA result page from the owner's own account",
+  "extract": "Content withheld.",
+  "reliability": "A laboratory result and the company's reading of it. Good for what it measures; it measures one line of descent only.",
+  "document": "DM-D-149"
+ },
+ {
+  "id": "DM-S-019-4",
+  "batch": "DM-B-019",
+  "type": "Genetic match list, withheld",
+  "title": "An export of a Y-DNA match list from the owner's own account",
+  "extract": "Content withheld.",
+  "reliability": "A laboratory result and the company's reading of it. Good for what it measures; it measures one line of descent only.",
+  "document": "DM-D-150"
  }
 ]

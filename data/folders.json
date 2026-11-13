@@ -203,5 +203,18 @@
   ],
   "archive_path": "archive/duska-death/",
   "taken_from": "primerogueinc/genealogu-duska-1 @9462513, its F-013"
+ },
+ {
+  "id": "F-14",
+  "path": "(given in chat)",
+  "described_by_kevin": "Two files the owner gave this agent in chat on 13 Nov 2026, saying it may use them whatever they contain: a screenshot of a Y-DNA result page and an export of a Y-DNA match list. Both are about the owner himself; the second names living third parties. Neither is in this repository.",
+  "received": "2026-11-13",
+  "files_received": 2,
+  "complete": false,
+  "shared_with": [],
+  "batches": [
+   "DM-B-019"
+  ],
+  "archive_path": "archive/given-in-chat/"
  }
 ]
