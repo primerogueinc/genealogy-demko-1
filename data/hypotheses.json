@@ -520,14 +520,21 @@
  {
   "id": "DM-H-019",
   "statement": "Maria Demko left Slovakia for Canada between August 1947 and September 1950, and her son's baptism certificate was drawn for that journey.",
-  "confidence": 80,
+  "confidence": 6,
   "basis": "The certificate was issued at Senné on 19 Aug 1947 (DM-S-004-8) and she died in Montréal on 9 Sep 1950 (DM-S-004-5). Whether she and Štefan travelled together, and when Mike Duska went, belongs to the Duska agent.",
   "test": "Canadian immigration records for 1947 to 1950; her burial entry.",
-  "status": "open",
+  "status": "refuted",
   "raised": "DM-B-004",
-  "resolved": null,
-  "resolution": null,
-  "history": []
+  "resolved": "DM-B-019",
+  "resolution": "Refuted by her own papers of 1937, in hand since DM-B-014. Left open by oversight for five batches.",
+  "history": [
+   {
+    "batch": "DM-B-019",
+    "from": 80,
+    "to": 6,
+    "why": "A correction that should have been made in DM-B-014. Her passport, the court's consent, the Ottawa letter and the steamship contract put her and her son on a ship from Antwerp on 11 November 1937 (DM-H-038, 85). She did not first leave between 1947 and 1950. The certificate of 1947 was drawn from the Senné book for a family already ten years in Montréal; what it was wanted for is not known."
+   }
+  ]
  },
  {
   "id": "DM-H-020",

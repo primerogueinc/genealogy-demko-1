@@ -466,5 +466,11 @@
   "date": "2026-11-13",
   "decision": "Took in the Places agent's answers of PL-B-006 to PL-B-009, which had sat on a branch and are now on its main: one lead (DM-L-043) citing its ids, and two history lines. Its findings are cited as its own and were not checked here.",
   "why": "Ledger X-008."
+ },
+ {
+  "id": "DM-DEC-079",
+  "date": "2026-11-13",
+  "decision": "Logged a private hint from the owner as prior DM-PR-10 with its content withheld, at his request and with his agreement that its existence be logged. Closed DM-H-019, which the papers of 1937 had refuted five batches ago and which was still shown as open at 80.",
+  "why": "Ledger X-029: the owner's word in this chat is acted on at once and logged as given. The second is this agent's own oversight, found while checking the board."
  }
 ]

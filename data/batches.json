@@ -1077,7 +1077,8 @@
    "DM-H-045"
   ],
   "resolved": [
-   "DM-H-037"
+   "DM-H-037",
+   "DM-H-019"
   ],
   "revised": [
    "DM-H-010",
@@ -1112,6 +1113,9 @@
    "commit": "9462513",
    "found": "No new batch. Two of the census sheets it routed here are taken (its D-011-109 and D-011-104), checksums equal to its manifest. Its abstracts, which it calls fast readings, were known before the images were read here, so both readings are marked not independent. Years agree throughout; five months in Roman numerals differ on no. 165 and are marked doubtful here.",
    "not_taken": "Thirty-eight census sheets and 24 Senné strips routed here are still to be read."
-  }
+  },
+  "priors_added": [
+   "DM-PR-10"
+  ]
  }
 ]
