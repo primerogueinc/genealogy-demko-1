@@ -19,9 +19,9 @@
 | Genetic distance | Exact Match [all 17] | exact at the lowest level of comparison, twelve markers | clear |
 | Markers tested by the match | 1 to 12: 2; 1 to 37: 6; 1 to 67: 3; 1 to 111: 1; 1 to 500: 1; 1 to 700: 4 | how far each match himself tested | clear |
 | Big Y STR differences | 25 of 630; 28 of 633; 35 of 678; 43 of 678; 27 of 559 | the five who took the full test differ from the owner at 25 to 43 markers | clear |
-| Haplogroups of the matches | R-M198 ×6, R-M512 ×3, R-Z280, R-Y4459, R-Y5571, R-BY60495, R-BY98771, R-Z29117, R-BY164152 | none is R-FTB41229 or R-FTB41607 | clear |
+| Haplogroups of the matches | R-M198 ×7, R-M512 ×3, R-Z280, R-Y4459, R-Y5571, R-BY60495, R-BY98771, R-Z29117, R-BY164152 | none is R-FTB41229 or R-FTB41607 | clear |
 | Countries given | Germany 4, Ukraine 2, Sweden 1, Slovakia 1, Poland 1, Unknown Origin 8 | as each match entered it | clear |
-| Earliest ancestors given | six rows; the oldest is a man born 1725 in Ukraine; one is a man born about 1840 in Slovakia | names not copied | clear |
+| Earliest ancestors given | five rows; the oldest is a man born 1725 in Ukraine; one is a man born about 1840 in Slovakia | names not copied | clear |
 
 ## Translation
 
