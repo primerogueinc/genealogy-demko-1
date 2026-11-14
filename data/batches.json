@@ -1186,7 +1186,8 @@
    "DM-D-152"
   ],
   "priors_added": [
-   "DM-PR-13"
+   "DM-PR-13",
+   "DM-PR-14"
   ],
   "curiosities_added": [
    "DM-C-045",
@@ -1196,7 +1197,8 @@
   "read": [
    "read ledger v26 (2026-11-13), duska-coordinator @716c756",
    "genealogu-duska-1 main @8e541e5 (its batches to B-067) and its note to this agent",
-   "private repository @0dc06a3: piles unchanged at last check"
+   "private repository @0dc06a3: piles unchanged at last check",
+   "the owner's DNA repository @0892ded, on his word: a README only"
   ],
   "cross_review": {
    "repo": "primerogueinc/genealogu-duska-1",

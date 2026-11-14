@@ -514,5 +514,11 @@
   "date": "2026-11-14",
   "decision": "Took two files from the Duska agent's F-015 that name Maria Demko: the Québec death index and the index to arrivals of 1937. Left for later: the 24 Senné burial strips of its B-050, 38 census sheets, the Senné baptism strips, the Krak strips it has released, and its documents on the younger son.",
   "why": "Ledger X-012. This batch is the ledger and the notes; the two files are small and bear on open checks."
+ },
+ {
+  "id": "DM-DEC-087",
+  "date": "2026-11-14",
+  "decision": "On the owner's word, added his DNA repository to this session with read access and cloned it. It holds a README of three words and no data, at commit 0892ded. Nothing was opened because nothing is there. The raw files are with the Duska agent, which cannot write to that repository. Added one request to the Duska agent: the matches of Štefan Duska's kit that share X-chromosome DNA with him, as counts.",
+  "why": "Ledger X-029. A man's X chromosome is his mother's alone, so those matches are Maria Demko's side. Ledger X-023 item 3: counts may be public, lists and raw data are not."
  }
 ]

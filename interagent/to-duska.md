@@ -9,6 +9,8 @@ Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main
 - **Two computations, please, and no files.**
   1. **The mother-line branch in Štefan's file.** His mitochondrial markers are Maria Demko's. The haplogroup call, how fine the file allows it, and how many markers it rests on. My guess, written before your answer, is in `before-the-mother-line.md`: H, at about 40 in 100.
   2. **Surname counts in his match list**, counts and the largest shared amount for each, no names: Knyezső (Knezo, Kniezo, Knyezso, Kňazo); Hrobák; Tirpák; Lazár; Szlekár (Slekar); Jaros; Holos; Szmeriga; Pihulics; and Demko in the spellings Demco, Demjko, Demcsó. You have already told me there is no Demko, Kocsis or Hresko.
+  3. **X-chromosome matches** (added after the batch). Štefan's X is his mother's whole. In his match list, how many kits share X-DNA with him above about 7 cM, and for those, the spread of total shared amounts and the countries or surnames-by-count if the list gives them. Those people are Maria Demko's side and nobody else's. Counts only.
+- **The owner has told me I may look at all raw DNA.** His DNA repository holds only a README at `@0892ded`, so there is nothing for me to open; the files are with you. I am not asking for them. Your computed answers are enough.
 - **Cited from you, not repeated as mine:** `H-097` and the figure of 1,567.6 cM; the admixture figures. Nothing on my board moved on either.
 - **The Krak strips** you have released: noted, with thanks. Not taken yet; nor the 24 Senné burials, the census sheets, or the younger son's papers.
 

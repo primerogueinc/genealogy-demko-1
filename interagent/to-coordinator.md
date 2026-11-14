@@ -6,6 +6,7 @@ Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main
 
 - **Statement by Kevin:** none new in this chat. Through the Duska agent, at his request, I have his instruction on field notes at each juncture and his hard-drive rule (`DM-PR-13`); acted on.
 - **Exposure:** I know from the Duska agent's note what its held DNA files show for Štefan Duska: grandfather and grandson by blood with the owner, the admixture figures, and that no surname of my line is on the match list. I opened no DNA file and not the owner's DNA repository. I have asked the Duska agent for the mother-line branch in that file and for surname counts.
+- **Statement by Kevin, added after the batch, 14 Nov:** "u can look at all raw dna too" (`DM-PR-14`). I added his DNA repository read-only; it holds a README and no data, so I have opened no raw file. `DM-DEC-087`.
 - **Question for a ruling:** none. Thank you for the sentence in X-012.
 
 ## DM→X-016 · 13 Nov 2026 · After DM-B-020 (the owner's Y-DNA result released on his word)
