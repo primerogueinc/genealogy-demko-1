@@ -1487,5 +1487,32 @@
   "reliability": "An index: a finding aid made from a record, not the record. Good for what it copies; silent on who gave the facts.",
   "document": "DM-D-152",
   "also": "DUS:D-015-02 @8e541e5"
+ },
+ {
+  "id": "DM-S-022-1",
+  "batch": "DM-B-022",
+  "type": "Autosomal match list, withheld",
+  "title": "The Family Finder match list of Štefan Duska's kit: 1,946 matches, counts only",
+  "extract": "Štefan Duska's autosomal matches at one company. After his grandson, his nearest match is a person surnamed Demková at 106 cM. No other match is near. Small matches carry the Viszoka surnames Tirpák and Hreško.",
+  "reliability": "A laboratory result and a company's matching. Good for kinship in general terms; it names no ancestor.",
+  "document": "DM-D-153"
+ },
+ {
+  "id": "DM-S-022-2",
+  "batch": "DM-B-022",
+  "type": "Raw genotype file, withheld",
+  "title": "Štefan Duska's raw genotype file: the mother-line rows only",
+  "extract": "Maria Demko's mother-line, carried by her son, is in haplogroup R0: H most likely, or one of its two small sisters. Not H1.",
+  "reliability": "A laboratory result and a company's matching. Good for kinship in general terms; it names no ancestor.",
+  "document": "DM-D-154"
+ },
+ {
+  "id": "DM-S-022-3",
+  "batch": "DM-B-022",
+  "type": "Genetic test exports, withheld",
+  "title": "The owner's own kit: Big Y exports, Y and mother-line match lists, his match list, and his raw files from two companies",
+  "extract": "The owner's own results. The Y material is the Duska male line's and is passed to its agent as counts. His mother-line and most of his match list belong to lines this agent does not work and were not read beyond a count.",
+  "reliability": "A laboratory result and a company's matching. Good for kinship in general terms; it names no ancestor.",
+  "document": "DM-D-155"
  }
 ]

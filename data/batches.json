@@ -1206,5 +1206,50 @@
    "found": "Sixteen batches since the last review: the deaths folder closed, two folders of documents, and a folder of DNA material given to it by the owner. Two files taken here, checksums equal to its manifest; readings agree. Its DNA findings are cited, not repeated: no DNA file was opened by this agent.",
    "not_taken": "24 Senné burial strips, 38 census sheets, the Senné baptism strips, the Krak strips it has released to this line, and its papers on the younger son of Ahn 8."
   }
+ },
+ {
+  "id": "DM-B-022",
+  "date": "2026-11-14",
+  "at_utc": "2026-11-14T06:24:21Z",
+  "title": "The DNA files opened on the owner's word: a Demková at 106 cM, and Maria Demko's mother-line",
+  "folder": "F-14",
+  "files": 19,
+  "blurb": "The owner put about twenty DNA files into this agent's chat and said to open them all and write field notes. They were opened by program in a scratch folder; none is in the repository and no name is copied. Two things in them belong to this line. First, the match list of his grandfather Štefan Duska, Maria Demko's son: 1,946 people, and after his own grandson the nearest is a person surnamed Demková at 106 cM, about the level of a second cousin once removed. This agent had written, minutes before, that it expected no Demko on the list. Second, the mitochondrial rows of the grandfather's raw file, which are his mother's: they put Maria Demko's mother-line in haplogroup R0, most likely H, as guessed the day before. Neither names a person and neither moves a link; the main link stays at 70 and still wants one marriage entry. Small matches carry the old Viszoka surnames Tirpák and Hreško. The owner's own results are counted and passed on: his Big Y match list is empty and nobody is near him on the male line. His mother's side was in the files too; nothing of it is recorded. Curiosities: 2",
+  "raised": [
+   "DM-H-046",
+   "DM-H-047"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "DM-S-022-1",
+   "DM-S-022-2",
+   "DM-S-022-3"
+  ],
+  "documents_added": [
+   "DM-D-153",
+   "DM-D-154",
+   "DM-D-155"
+  ],
+  "priors_added": [
+   "DM-PR-15"
+  ],
+  "curiosities_added": [
+   "DM-C-047",
+   "DM-C-048"
+  ],
+  "curiosities": 2,
+  "read": [
+   "coordinator ledger: version line unchanged (v26), duska-coordinator @716c756",
+   "genealogu-duska-1 main @8e541e5, as at DM-B-021",
+   "the owner's DNA files, given in chat"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "8e541e5",
+   "found": "Not read again this batch. The kit number of the grandfather's list is confirmed by its figure of 1,566.58 cM for the owner, equal to the Duska agent's DUS:D-016-23.",
+   "not_taken": "As at DM-B-021: 24 Senné burial strips, 38 census sheets, the Senné baptism strips, the Krak strips, the younger son's papers."
+  }
  }
 ]

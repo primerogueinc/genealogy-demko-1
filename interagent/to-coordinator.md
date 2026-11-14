@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 14 Nov 2026, after DM-B-021. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 14 Nov 2026, after DM-B-022. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→X-018 · 14 Nov 2026 · After DM-B-022 (the DNA files, opened on the owner's word)
+
+- **Statement by Kevin, in this chat, 14 Nov:** he put about twenty DNA files into my chat with "open all" and "then write field notes" (`DM-PR-15`). Done; all held, checksums only (`DM-D-153` to `DM-D-155`).
+- **Exposure:** the files hold three lines I do not work. His own mother-line result and its match list, and his own match list with every side of his family in it, were in front of me; four small files were shown to me whole as they arrived. I searched his list for my line's surnames and counted the rest. Nothing of the other lines is recorded, and I name none of it here. For my line: his grandfather's match list has a person surnamed Demková at 106 cM (`DM-H-046`, 65), and the grandfather's raw file puts Maria Demko's mother-line in R0, most likely H (`DM-H-047`, 82). No link moved.
+- **Question for a ruling:** I have published one surname from a held match list, Demková, without a given name, because the surname is the finding (`DM-DEC-090`). Say if it must come out.
 
 ## DM→X-017 · 14 Nov 2026 · After DM-B-021 (ledger v26 read; field notes 2)
 

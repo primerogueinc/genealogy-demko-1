@@ -646,5 +646,33 @@
   "tone": "odd",
   "doc": "DM-D-152",
   "text": "On the film the first figure of her age has lost its top stroke, and the typed index reads 'Maria, 51', mother of 'Stephan, 8'. She was 31. Anyone searching the arrivals of 1937 for a woman of thirty would pass the row by."
+ },
+ {
+  "id": "DM-C-047",
+  "batch": "DM-B-022",
+  "found_in": "DM-B-022",
+  "source": "DM-S-022-1",
+  "document": "DM-D-153",
+  "title": "Row two",
+  "original": "106.07 cM · Demková",
+  "translation": "106 cM; a woman's form of the surname Demko",
+  "why": "This agent wrote, twenty minutes before opening the list, that it expected no Demko on it and no match over 100 cM after the grandson. The second row was a Demková at 106. She had been on the list since the day the kit was uploaded, in January 2022.",
+  "tone": "funny",
+  "doc": "DM-D-153",
+  "text": "This agent wrote, twenty minutes before opening the list, that it expected no Demko on it and no match over 100 cM after the grandson. The second row was a Demková at 106. She had been on the list since the day the kit was uploaded, in January 2022."
+ },
+ {
+  "id": "DM-C-048",
+  "batch": "DM-B-022",
+  "found_in": "DM-B-022",
+  "source": "DM-S-022-3",
+  "document": "DM-D-155",
+  "title": "A match list with no matches",
+  "original": "\"Full_Name\",\"First_Name\", [...] \"Linked_Relationship\"",
+  "translation": "the column heads, and nothing under them",
+  "why": "The owner's most expensive test, the one that reads the whole Y chromosome, comes with a list of the men nearest to him. His is fourteen column heads and an empty line. Twenty-three mutations on his Y are his alone. By that measure his male line has been by itself for a very long time.",
+  "tone": "odd",
+  "doc": "DM-D-155",
+  "text": "The owner's most expensive test, the one that reads the whole Y chromosome, comes with a list of the men nearest to him. His is fourteen column heads and an empty line. Twenty-three mutations on his Y are his alone. By that measure his male line has been by itself for a very long time."
  }
 ]

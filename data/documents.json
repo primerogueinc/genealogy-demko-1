@@ -13376,5 +13376,288 @@
   "also_read_by": "DUS:D-015-02 @8e541e5",
   "taken_from": "primerogueinc/genealogu-duska-1 @8e541e5 under ledger X-012",
   "independent": false
+ },
+ {
+  "id": "DM-D-153",
+  "batch": "DM-B-022",
+  "folder": "F-14",
+  "source": "DM-S-022-1",
+  "file": null,
+  "withheld": true,
+  "sha256": "f5d36cb2ae144b85be5dd7b1db7ba2bacf6d5291b9f72fb42ba923a3dbd24f43",
+  "image": {
+   "format": "data"
+  },
+  "title": "The Family Finder match list of Štefan Duska's kit: 1,946 matches, counts only",
+  "kind": "Autosomal match list, withheld",
+  "language": "English",
+  "collector_label": "[given in chat; file names not kept here]",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Rows",
+    "original": "1,946",
+    "english": "matches",
+    "certainty": "clear"
+   },
+   {
+    "column": "Top match",
+    "original": "1,566.58 cM; longest block 246.62; 'Half Sibling, Uncle/Aunt/Niece/Nephew, Grandparent/Grandchild'; surname Duska",
+    "english": "the owner, his grandson",
+    "certainty": "clear"
+   },
+   {
+    "column": "Second match",
+    "original": "106.07 cM; longest block 35.56; '2nd Cousin - 4th Cousin'; an uploaded kit; no ancestors listed; surname Demková",
+    "english": "a match bearing the surname of this line in its Slovak feminine form; given name withheld",
+    "certainty": "clear"
+   },
+   {
+    "column": "The same person in the owner's list",
+    "original": "24.96 cM",
+    "english": "about a quarter of 106",
+    "certainty": "clear"
+   },
+   {
+    "column": "By amount shared",
+    "original": "one over 200; one from 100 to 200; two from 40 to 60; seven from 30 to 40; 86 from 20 to 30; 1,849 under 20",
+    "english": "the spread",
+    "certainty": "clear"
+   },
+   {
+    "column": "Surnames of this line, in names or listed forebears",
+    "original": "Demko: 5 besides the owner (106, 18, 15, 15, 12 cM; two of them Demkiv or Demkowicz, another name); Tirpák: 3 (23, 15, 13 cM); Hreško: 1 (14 cM); Lazár: 1; Jaros: 1; Kocsis: 0; Knyezső: 0; Hrobák: 0",
+    "english": "counts and amounts only",
+    "certainty": "clear"
+   },
+   {
+    "column": "X-chromosome column",
+    "original": "'No Match' on every row",
+    "english": "not computed by the company for uploaded kits; says nothing",
+    "certainty": "clear"
+   },
+   {
+    "column": "Places",
+    "original": "no village of this line in any note or forebear list; two rows say Rusyn or Lemko",
+    "english": "of 620 rows that list forebears",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Štefan Duska's autosomal matches at one company. After his grandson, his nearest match is a person surnamed Demková at 106 cM. No other match is near. Small matches carry the Viszoka surnames Tirpák and Hreško.",
+  "notes": [
+   "Held: it names 1,946 living or possibly living people. No name is copied here except that the second match's surname is the feminine of Demko, which is the fact itself.",
+   "The kit is his: the top match is the owner at 1,566.58 cM, the figure the Duska agent has from another site (DUS:D-016-23).",
+   "Every match of his is through Michal Duska or Maria Demko. A surname does not say which, but Demko blood reached him only through his mother.",
+   "106 cM with a longest piece of 35 is, from recall of the usual tables and not checked, the range of a second cousin, a second cousin once removed or a first cousin twice removed. That is a descendant of a brother or sister of Maria Demko's father, or of her own brother.",
+   "No tree of any match was opened and none will be. Nothing is asked of the owner (the hard-drive rule).",
+   "Ledger X-023: DNA names no person and moves no identity or parent link. Scored as given."
+  ],
+  "provenance": {
+   "archive": "not an archive record",
+   "fond_or_film": "n/a",
+   "book": "n/a",
+   "page_or_image": "n/a",
+   "obtained": "from the owner, in chat, 14 Nov 2026; exports from his accounts with testing companies"
+  },
+  "object": {
+   "kind": "Autosomal match list, withheld",
+   "why": "File layout: the testing company's column heads and kit number in the file name.",
+   "does_not_fit": "Nothing.",
+   "made_by": "A testing company's export, downloaded by the owner",
+   "when": "Dated 13 and 14 Nov 2026 in the file names; the raw files January 2022",
+   "kept_where": "With the owner",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "held": "about the subject; names living third parties",
+  "route": "both"
+ },
+ {
+  "id": "DM-D-154",
+  "batch": "DM-B-022",
+  "folder": "F-14",
+  "source": "DM-S-022-2",
+  "file": null,
+  "withheld": true,
+  "sha256": "a3ecd06400fbd6fa53681250a4c1389bc74aa58aec3b59cd2250c4204602d272",
+  "image": {
+   "format": "data"
+  },
+  "title": "Štefan Duska's raw genotype file: the mother-line rows only",
+  "kind": "Raw genotype file, withheld",
+  "language": "English",
+  "collector_label": "[given in chat; file names not kept here]",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Mitochondrial positions tested",
+    "original": "192, all called",
+    "english": "the chip's set",
+    "certainty": "clear"
+   },
+   {
+    "column": "Position 11719",
+    "original": "G",
+    "english": "the ancestral letter: the mother-line is in R0, that is H, HV or V",
+    "certainty": "clear"
+   },
+   {
+    "column": "Positions 12308, 1811",
+    "original": "A, A",
+    "english": "not U, not K",
+    "certainty": "clear"
+   },
+   {
+    "column": "Positions 4917, 15607, 15928",
+    "original": "A, A, G",
+    "english": "not T",
+    "certainty": "clear"
+   },
+   {
+    "column": "Positions 12612, 10398",
+    "original": "A, A",
+    "english": "not J",
+    "certainty": "clear"
+   },
+   {
+    "column": "Positions 1243, 15884",
+    "original": "T, G",
+    "english": "not W",
+    "certainty": "clear"
+   },
+   {
+    "column": "Position 3010",
+    "original": "G",
+    "english": "not H1",
+    "certainty": "clear"
+   },
+   {
+    "column": "Not tested by this chip",
+    "original": "2706, 7028, 14766 and the letters that define the branches of H",
+    "english": "so the call cannot be made finer",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Maria Demko's mother-line, carried by her son, is in haplogroup R0: H most likely, or one of its two small sisters. Not H1.",
+  "notes": [
+   "Held, and never uploaded anywhere (ledger X-023 item 3). Only the mitochondrial rows were read for this line. The Duska agent holds the same file (DUS:D-016-17) and has compared the rest.",
+   "The meaning of each position is from recall of the standard tree, not checked against it.",
+   "This agent's guess, written the day before in field-notes/before-the-mother-line.md: H, at about 40 in 100.",
+   "It names no woman and no village. It would matter only if a woman descended daughter to daughter from the same line had tested and been compared."
+  ],
+  "provenance": {
+   "archive": "not an archive record",
+   "fond_or_film": "n/a",
+   "book": "n/a",
+   "page_or_image": "n/a",
+   "obtained": "from the owner, in chat, 14 Nov 2026; exports from his accounts with testing companies"
+  },
+  "object": {
+   "kind": "Raw genotype file, withheld",
+   "why": "File layout: the testing company's column heads and kit number in the file name.",
+   "does_not_fit": "Nothing.",
+   "made_by": "A testing company's export, downloaded by the owner",
+   "when": "Dated 13 and 14 Nov 2026 in the file names; the raw files January 2022",
+   "kept_where": "With the owner",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "held": "about the subject; names living third parties",
+  "route": "both"
+ },
+ {
+  "id": "DM-D-155",
+  "batch": "DM-B-022",
+  "folder": "F-14",
+  "source": "DM-S-022-3",
+  "file": null,
+  "withheld": true,
+  "sha256": "1f2bcaf70092206c5e11f7da7a0ab0725d20f4831b6fda3aea6f48e4e2b9c689",
+  "image": {
+   "format": "data"
+  },
+  "title": "The owner's own kit: Big Y exports, Y and mother-line match lists, his match list, and his raw files from two companies",
+  "kind": "Genetic test exports, withheld",
+  "language": "English",
+  "collector_label": "[given in chat; file names not kept here]",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "n/a"
+  },
+  "fields": [
+   {
+    "column": "Big Y match list",
+    "original": "a header and no rows",
+    "english": "no man in the company's Big Y data is near enough to be listed",
+    "certainty": "clear"
+   },
+   {
+    "column": "Big Y private variants",
+    "original": "23",
+    "english": "mutations no other tested man shares",
+    "certainty": "clear"
+   },
+   {
+    "column": "Big Y named variants",
+    "original": "2,542 rows",
+    "english": "his place on the tree, position by position",
+    "certainty": "clear"
+   },
+   {
+    "column": "Y-DNA matches",
+    "original": "17 exact at 12 markers; 8 at two steps on the next panel; none at 37, 67 or 111",
+    "english": "nobody close on the male line",
+    "certainty": "clear"
+   },
+   {
+    "column": "His autosomal match list",
+    "original": "3,804 rows; 217 marked 'Paternal' by the company; 246 people are also on his grandfather's list",
+    "english": "counted; searched for this line's surnames only",
+    "certainty": "clear"
+   },
+   {
+    "column": "His mother-line match lists",
+    "original": "1,131 rows and two shorter lists",
+    "english": "counted only; his mother's side, which this agent does not work",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "The owner's own results. The Y material is the Duska male line's and is passed to its agent as counts. His mother-line and most of his match list belong to lines this agent does not work and were not read beyond a count.",
+  "notes": [
+   "Held. Raw genotype data is never uploaded anywhere (ledger X-023 item 3).",
+   "Exposure, reported to the coordinator: his mother-line result and the names on those lists were in front of this agent. Nothing from them is recorded here.",
+   "Two archives of aerial pictures came with the files and are not DNA; they were not opened and are not listed."
+  ],
+  "provenance": {
+   "archive": "not an archive record",
+   "fond_or_film": "n/a",
+   "book": "n/a",
+   "page_or_image": "n/a",
+   "obtained": "from the owner, in chat, 14 Nov 2026; exports from his accounts with testing companies"
+  },
+  "object": {
+   "kind": "Genetic test exports, withheld",
+   "why": "File layout: the testing company's column heads and kit number in the file name.",
+   "does_not_fit": "Nothing.",
+   "made_by": "A testing company's export, downloaded by the owner",
+   "when": "Dated 13 and 14 Nov 2026 in the file names; the raw files January 2022",
+   "kept_where": "With the owner",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "held": "about the subject; names living third parties",
+  "route": "both"
  }
 ]

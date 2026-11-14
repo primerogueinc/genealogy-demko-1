@@ -333,6 +333,12 @@
     "from": 70,
     "to": 70,
     "why": "Still at the cap. Two more children of György Demkó and Mária Hreskó are found in the census of 1930 at Vysoká: János, born 1875, and Borbála, born 1879 (DM-D-147, DM-D-148). With Michal at Iňačovce that is three of the family alive on one night, each with the right village, rite, month and year. In all three the census day is off from the baptism book, by 17, 13 and 9 days. So the nine days between 19 and 28 August for Maria's father are the habit of these returns and not a sign of another man. Without the cap, about 88."
+   },
+   {
+    "batch": "DM-B-022",
+    "from": 70,
+    "to": 70,
+    "why": "No change, and none allowed: DNA names no person (ledger X-023). For the record, her son's nearest match after his own grandson is a person surnamed Demková at 106 cM (DM-D-153). It shows the Demko family of the paper has living kin; it does not say which Demko was whose father."
    }
   ],
   "question": "X-Q-03",
@@ -1052,5 +1058,30 @@
    "The János baptised 29 March 1875 and the Borbála baptised 23 April [1879] at Viszoka 121 are children of György Demkó and Mária Hreskó (read from the strips).",
    "The two people of 1930 are those two children (agreement of name, place, rite, month and year; no parent named)."
   ]
+ },
+ {
+  "id": "DM-H-046",
+  "statement": "The match surnamed Demková who shares 106 cM with Štefan Duska is his kin through his mother's father's family, the Demkos of Vysoká: a descendant of a brother or sister of Michal Demko, or of Maria Demko's brother Juraj.",
+  "question": "X-Q-03",
+  "confidence": 65,
+  "basis": "The amount and the long piece fit a second cousin or a degree either side (DM-D-153). He has Demko blood through one person only. The surname is in its Slovak form on an uploaded kit, which points to a tester in Slovakia. Two Demko households of his mother's uncle and aunt were at Vysoká in 1930 (DM-D-147, DM-D-148). Against: the surname may be hers by marriage; 106 cM can also be a cousin on the Kocsis or the Duska side who happens to bear the name; other Demko families lived a few miles off at Jesztreb. Scored as given: the list came from the owner.",
+  "test": "None that can be run from here. Her own tree or village would settle it, and no match's tree is opened; nothing is asked of the owner. A second list already on his drive that shows the people she and Štefan share would narrow it.",
+  "status": "open",
+  "raised": "DM-B-022",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-047",
+  "statement": "Maria Demko's mother-line is in mitochondrial haplogroup H.",
+  "confidence": 82,
+  "basis": "Her son's file reads G at position 11719, which only R0 does, and reads the ancestral letter at the positions for U, K, T, J and W (DM-D-154). In Europe nearly all of R0 is H; the rest is HV and V. The chip does not test the letters that tell them apart. Predicted at 40 in 100 before the file was opened. Scored as given.",
+  "test": "A full mitochondrial test of the same kit, which is not on the owner's drive and is not asked for.",
+  "status": "supported",
+  "raised": "DM-B-022",
+  "resolved": null,
+  "resolution": null,
+  "history": []
  }
 ]
