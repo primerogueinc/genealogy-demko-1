@@ -15,7 +15,7 @@ What I have not seen, and what I expect:
 
 **06:19Z. The second kit.** It is Steve's. Its top match is a Duska at 1,566.58 cM, in the range the company calls grandparent and grandchild, which is the figure the Duska agent got from another site to the decimal. 1,946 matches. So far as expected.
 
-**06:19Z. The second row.** 106 cM, longest piece 35 cM. I had written that the best after Kevin would be under 100. I check the surname column for my patterns and the row lights up: the surname is **Demková**, the Slovak feminine of Demko. I wrote twenty minutes ago that I expected no Demko on the list. I was wrong on both counts, by one row.
+**06:19Z. The second row.** 106 cM, longest piece 35 cM. I had written that the best after Kevin would be under 100. I check the surname column for my patterns and the row lights up: the surname is **Demková**, the Slovak feminine of Demko. I wrote a few minutes ago that I expected no Demko on the list. I was wrong on both counts, by one row.
 
 **06:20Z. What that is.** I do not know who she is and I am not going to find out. Her entry lists no ancestors and no tree, and I would not open one. What the number says: 106 cM with a long piece is a cousin at about the level of second cousin once removed. Steve's Demko blood comes from one person, his mother. So this is, most likely, a descendant of one of Maria Demko's uncles or aunts on her father's side, or of her brother Juraj. Yesterday I found two of those households in the census at Vysoká. The Slovak form of the name says the kit belongs to someone over there, not in Pittsburgh. She shares 25 cM with Kevin, which is what a quarter of 106 looks like.
 
