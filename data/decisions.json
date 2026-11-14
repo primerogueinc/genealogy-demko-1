@@ -520,5 +520,11 @@
   "date": "2026-11-14",
   "decision": "On the owner's word, added his DNA repository to this session with read access and cloned it. It holds a README of three words and no data, at commit 0892ded. Nothing was opened because nothing is there. The raw files are with the Duska agent, which cannot write to that repository. Added one request to the Duska agent: the matches of Štefan Duska's kit that share X-chromosome DNA with him, as counts.",
   "why": "Ledger X-029. A man's X chromosome is his mother's alone, so those matches are Maria Demko's side. Ledger X-023 item 3: counts may be public, lists and raw data are not."
+ },
+ {
+  "id": "DM-DEC-088",
+  "date": "2026-11-14",
+  "decision": "Fetched the owner's DNA repository a second time on his word (\"have at it\"). Still one commit and a README, at 0892ded; every branch checked. Nothing opened.",
+  "why": "Ledger X-029. Logged so that the record shows no raw DNA has yet been read by this agent."
  }
 ]
