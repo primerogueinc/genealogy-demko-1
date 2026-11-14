@@ -13446,6 +13446,12 @@
     "original": "no village of this line in any note or forebear list; two rows say Rusyn or Lemko",
     "english": "of 620 rows that list forebears",
     "certainty": "clear"
+   },
+   {
+    "column": "Second pass (DM-B-023)",
+    "original": "third match 51.22 cM, longest 27.51, one forebear surname listed: Muličák; forebear surnames recurring among matches of 12 cM and more: Hudák, Barna, Bodnár, Drozd, Kozak, Kowal, Baran, Kulyk, Sikora, Papp, Petryshyn; 'Rusyn' or 'Ruthenian' in four rows, 'Slovak' in none; one row lists Cservenyák (16 cM)",
+    "english": "see research/DM-B-023-what-the-dna-says-for-this-line.md",
+    "certainty": "clear"
    }
   ],
   "translation": "Štefan Duska's autosomal matches at one company. After his grandson, his nearest match is a person surnamed Demková at 106 cM. No other match is near. Small matches carry the Viszoka surnames Tirpák and Hreško.",
@@ -13488,7 +13494,7 @@
   "image": {
    "format": "data"
   },
-  "title": "Štefan Duska's raw genotype file: the mother-line rows only",
+  "title": "Štefan Duska's raw genotype file: the mother-line rows, and a check for kinship between his parents",
   "kind": "Raw genotype file, withheld",
   "language": "English",
   "collector_label": "[given in chat; file names not kept here]",
@@ -13546,6 +13552,12 @@
     "original": "2706, 7028, 14766 and the letters that define the branches of H",
     "english": "so the call cannot be made finer",
     "certainty": "clear"
+   },
+   {
+    "column": "Second pass (DM-B-023): runs where both copies agree",
+    "original": "none of 4 Mb or more on chromosomes 1 to 22; two of 1.5 Mb or more, 6.2 Mb in all",
+    "english": "no sign that his parents were close kin",
+    "certainty": "probable"
    }
   ],
   "translation": "Maria Demko's mother-line, carried by her son, is in haplogroup R0: H most likely, or one of its two small sisters. Not H1.",

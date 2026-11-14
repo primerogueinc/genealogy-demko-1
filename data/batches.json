@@ -1251,5 +1251,46 @@
    "found": "Not read again this batch. The kit number of the grandfather's list is confirmed by its figure of 1,566.58 cM for the owner, equal to the Duska agent's DUS:D-016-23.",
    "not_taken": "As at DM-B-021: 24 Senné burial strips, 38 census sheets, the Senné baptism strips, the Krak strips, the younger son's papers."
   }
+ },
+ {
+  "id": "DM-B-023",
+  "date": "2026-11-14",
+  "at_utc": "2026-11-14T07:08:21Z",
+  "title": "The DNA read for leads: which Demko the cousin is likely to be, and that Maria Demko did not marry a relation",
+  "folder": "F-14",
+  "files": 0,
+  "blurb": "The owner asked why this agent had only counted the DNA when the Duska agent had drawn leads from it. A fair question. This batch is the second pass. The match surnamed Demková, 106 cM from Maria Demko's son, is read against the families on this board: the amount fits a great-grandchild of her uncle Ján Demko, the farmer of Vysoká 165 found in the census two days ago, better than a descendant of her brother. That is a lead, not a finding, and reaching her is the owner's choice. A test on her son's own genome shows no long stretch inherited alike from both parents, so Maria Demko and Michal Duska were not first or second cousins: nobody is to be looked for who is ancestor to both. Three small matches carry the old Viszoka name Tirpák, one Hreško, one Cservenyák; no Kocsis and no Knyezső at all. Where his distant matches say where their people came from, it is eastern Slovakia and the Carpathian side of Poland and Ukraine, with the caution that this is a list of who has tested. Nothing names a parent and no link moves. Curiosities: 2",
+  "raised": [
+   "DM-H-048"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "DM-S-023-1"
+  ],
+  "documents_added": [],
+  "documents_revised": [
+   "DM-D-153",
+   "DM-D-154"
+  ],
+  "priors_added": [
+   "DM-PR-16"
+  ],
+  "curiosities_added": [
+   "DM-C-049",
+   "DM-C-050"
+  ],
+  "curiosities": 2,
+  "read": [
+   "coordinator ledger: version line unchanged (v26) at the last pull",
+   "the owner's DNA files, given in chat (second pass)"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "8e541e5",
+   "found": "Not read again this batch.",
+   "not_taken": "As at DM-B-021."
+  }
  }
 ]

@@ -674,5 +674,33 @@
   "tone": "odd",
   "doc": "DM-D-155",
   "text": "The owner's most expensive test, the one that reads the whole Y chromosome, comes with a list of the men nearest to him. His is fourteen column heads and an empty line. Twenty-three mutations on his Y are his alone. By that measure his male line has been by itself for a very long time."
+ },
+ {
+  "id": "DM-C-049",
+  "batch": "DM-B-023",
+  "found_in": "DM-B-023",
+  "source": "DM-S-023-1",
+  "document": "DM-D-153",
+  "title": "Smith, thirteen times",
+  "original": "Ancestral Surnames: Smith",
+  "translation": "same",
+  "why": "The forebear surname most often listed by the DNA matches of a cottar's son from Senné is Smith: thirteen times. Then Thomas, Jones and Baker. Hudák comes ninth. It is a list of who buys the test, with his family somewhere inside it.",
+  "tone": "funny",
+  "doc": "DM-D-153",
+  "text": "The forebear surname most often listed by the DNA matches of a cottar's son from Senné is Smith: thirteen times. Then Thomas, Jones and Baker. Hudák comes ninth. It is a list of who buys the test, with his family somewhere inside it."
+ },
+ {
+  "id": "DM-C-050",
+  "batch": "DM-B-023",
+  "found_in": "DM-B-023",
+  "source": "DM-S-023-1",
+  "document": "DM-D-154",
+  "title": "Nothing in common",
+  "original": "runs of 4 Mb or more where both copies agree: 0",
+  "translation": "same",
+  "why": "A man carries two copies of his genome, one from each parent. Where the parents are cousins, long pieces of the two copies are the same. Štefan Duska has none. A Roman Catholic from Senné and a Greek Catholic from Iňačovce, three miles apart, married in 1927 and shared no recent ancestor at all. In villages of that size it was not a thing to take for granted.",
+  "tone": "history",
+  "doc": "DM-D-154",
+  "text": "A man carries two copies of his genome, one from each parent. Where the parents are cousins, long pieces of the two copies are the same. Štefan Duska has none. A Roman Catholic from Senné and a Greek Catholic from Iňačovce, three miles apart, married in 1927 and shared no recent ancestor at all. In villages of that size it was not a thing to take for granted."
  }
 ]

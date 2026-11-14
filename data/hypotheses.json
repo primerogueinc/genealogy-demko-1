@@ -1007,7 +1007,14 @@
   "raised": "DM-B-017",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-023",
+    "from": 70,
+    "to": 70,
+    "why": "No change. If the Demková match descended from Juraj as a full brother's grandchild she would share about four times what she does; so she is his great-grandchild or, more likely, not his line at all. That says nothing against Juraj being a full brother."
+   }
+  ]
  },
  {
   "id": "DM-H-043",
@@ -1070,7 +1077,14 @@
   "raised": "DM-B-022",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-023",
+    "from": 65,
+    "to": 65,
+    "why": "No change in the number. Read against the usual amounts, 106 cM fits a great-grandchild of Maria Demko's uncle Ján of Vysoká 165 better than a grandchild or great-grandchild of her brother Juraj. Within this hypothesis the line of Ján is held at about 35, Juraj's at about 15, and other branches the rest."
+   }
+  ]
  },
  {
   "id": "DM-H-047",
@@ -1080,6 +1094,18 @@
   "test": "A full mitochondrial test of the same kit, which is not on the owner's drive and is not asked for.",
   "status": "supported",
   "raised": "DM-B-022",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-048",
+  "statement": "Michal Duska and Maria Demko were not related as first or second cousins: they shared no grandparent and no great-grandparent.",
+  "confidence": 90,
+  "basis": "Their son's genome has no long run where both copies are the same: none of 4 Mb or more (DM-D-154). A child of second cousins would be expected to show several. The same count on the owner's file, as a check, behaves the same way. The two families are of different villages and different rites on paper. Against: a plain method on chip data; third cousins would often leave no long run either. Scored as given.",
+  "test": "A marriage entry of 30 January 1927 with a dispensation for kinship would refute it; one without would agree.",
+  "status": "supported",
+  "raised": "DM-B-023",
   "resolved": null,
   "resolution": null,
   "history": []

@@ -1,4 +1,4 @@
-# DM-D-154 · Štefan Duska's raw genotype file: the mother-line rows only
+# DM-D-154 · Štefan Duska's raw genotype file: the mother-line rows, and a check for kinship between his parents
 
 - **File:** withheld from publication (see `archive/WITHHELD.json`)
 - **SHA-256:** `a3ecd06400fbd6fa53681250a4c1389bc74aa58aec3b59cd2250c4204602d272`
@@ -22,6 +22,7 @@
 | Positions 1243, 15884 | T, G | not W | clear |
 | Position 3010 | G | not H1 | clear |
 | Not tested by this chip | 2706, 7028, 14766 and the letters that define the branches of H | so the call cannot be made finer | clear |
+| Second pass (DM-B-023): runs where both copies agree | none of 4 Mb or more on chromosomes 1 to 22; two of 1.5 Mb or more, 6.2 Mb in all | no sign that his parents were close kin | probable |
 
 ## Translation
 

@@ -22,6 +22,7 @@
 | Surnames of this line, in names or listed forebears | Demko: 5 besides the owner (106, 18, 15, 15, 12 cM; two of them Demkiv or Demkowicz, another name); Tirpák: 3 (23, 15, 13 cM); Hreško: 1 (14 cM); Lazár: 1; Jaros: 1; Kocsis: 0; Knyezső: 0; Hrobák: 0 | counts and amounts only | clear |
 | X-chromosome column | 'No Match' on every row | not computed by the company for uploaded kits; says nothing | clear |
 | Places | no village of this line in any note or forebear list; two rows say Rusyn or Lemko | of 620 rows that list forebears | clear |
+| Second pass (DM-B-023) | third match 51.22 cM, longest 27.51, one forebear surname listed: Muličák; forebear surnames recurring among matches of 12 cM and more: Hudák, Barna, Bodnár, Drozd, Kozak, Kowal, Baran, Kulyk, Sikora, Papp, Petryshyn; 'Rusyn' or 'Ruthenian' in four rows, 'Slovak' in none; one row lists Cservenyák (16 cM) | see research/DM-B-023-what-the-dna-says-for-this-line.md | clear |
 
 ## Translation
 

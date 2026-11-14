@@ -1514,5 +1514,14 @@
   "extract": "The owner's own results. The Y material is the Duska male line's and is passed to its agent as counts. His mother-line and most of his match list belong to lines this agent does not work and were not read beyond a count.",
   "reliability": "A laboratory result and a company's matching. Good for kinship in general terms; it names no ancestor.",
   "document": "DM-D-155"
+ },
+ {
+  "id": "DM-S-023-1",
+  "batch": "DM-B-023",
+  "type": "Analysis of held DNA files",
+  "title": "What the DNA says for the Demko line: leads and limits",
+  "extract": "A Demková at 106 cM fits best a descendant of Maria Demko's uncle Ján. Štefan Duska's parents were not close cousins. Tirpák, Hreško and Cservenyák appear among small matches. His distant kin, where they say, are east Slovak and Carpathian.",
+  "reliability": "This agent's own counts on the owner's files, run by program. Amounts are read against tables from recall. Full note in research/DM-B-023-what-the-dna-says-for-this-line.md.",
+  "document": "DM-D-153"
  }
 ]

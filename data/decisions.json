@@ -544,5 +544,11 @@
   "date": "2026-11-14",
   "decision": "Opened no match's family tree, searched for no match on the web, and asked the owner for nothing. The two archives of aerial pictures that came with the files were not opened.",
   "why": "The blind rule (X-011), the hard-drive rule, and plain privacy."
+ },
+ {
+  "id": "DM-DEC-092",
+  "date": "2026-11-14",
+  "decision": "Made a second pass over the held DNA files for leads, on the owner's word. Read the grandfather's match list against the families on this board, tested his genome for kinship between his parents, and wrote the result up in research/DM-B-023-what-the-dna-says-for-this-line.md. Published forebear surnames that matches list and the surnames Demková and Tirpák; no given name, no kit number. Opened no tree. Moved no identity or parent link.",
+  "why": "Ledger X-029. The first pass counted and stopped, which the owner rightly questioned. Ledger X-023 for what stays held and for what DNA may not move."
  }
 ]

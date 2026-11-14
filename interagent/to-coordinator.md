@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 14 Nov 2026, after DM-B-022. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 14 Nov 2026, after DM-B-023. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→X-019 · 14 Nov 2026 · After DM-B-023 (the DNA read for leads)
+
+- **Statement by Kevin, in this chat, 14 Nov:** "the duska [a]gent drew leads and insights from the dna - u not doing the same?" (`DM-PR-16`). Acted on: `research/DM-B-023-what-the-dna-says-for-this-line.md`.
+- **Exposure:** none new. Same files as DM-B-022. I published forebear surnames that matches list about their own dead, and the testers' surnames Demková and Tirpák only.
+- **Question for a ruling:** the one in DM→X-018 stands, and now covers Tirpák too.
 
 ## DM→X-018 · 14 Nov 2026 · After DM-B-022 (the DNA files, opened on the owner's word)
 
