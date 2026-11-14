@@ -618,5 +618,33 @@
   "tone": "funny",
   "doc": "DM-D-149",
   "text": "The owner offered this agent 'something no one else has'. It was his Y chromosome, which comes down the one line of his tree that this agent does not work on: father to son, Duska to Duska. Maria Demko, having been a woman, is not on it. The agent that owns that line was barred from DNA at the time."
+ },
+ {
+  "id": "DM-C-045",
+  "batch": "DM-B-021",
+  "found_in": "DM-B-021",
+  "source": "DM-S-021-1",
+  "document": "DM-D-151",
+  "title": "Age: 0",
+  "original": "Date of birth: 22-8-1906. Age: 0. Date of death: 9-9-1950",
+  "translation": "same",
+  "why": "The index has her born in 1906, dead in 1950, and aged nought. Somebody left a box empty and the database filled it with a zero. It is the fourth age on record for her, after 28, 31 and the census's 23.",
+  "tone": "funny",
+  "doc": "DM-D-151",
+  "text": "The index has her born in 1906, dead in 1950, and aged nought. Somebody left a box empty and the database filled it with a zero. It is the fourth age on record for her, after 28, 31 and the census's 23."
+ },
+ {
+  "id": "DM-C-046",
+  "batch": "DM-B-021",
+  "found_in": "DM-B-021",
+  "source": "DM-S-021-2",
+  "document": "DM-D-152",
+  "title": "Maria, 51",
+  "original": "Duska / Maria / 51 / 263",
+  "translation": "Duska, Maria, 51 (?), 263",
+  "why": "On the film the first figure of her age has lost its top stroke, and the typed index reads 'Maria, 51', mother of 'Stephan, 8'. She was 31. Anyone searching the arrivals of 1937 for a woman of thirty would pass the row by.",
+  "tone": "odd",
+  "doc": "DM-D-152",
+  "text": "On the film the first figure of her age has lost its top stroke, and the typed index reads 'Maria, 51', mother of 'Stephan, 8'. She was 31. Anyone searching the arrivals of 1937 for a woman of thirty would pass the row by."
  }
 ]

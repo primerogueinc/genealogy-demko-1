@@ -55,7 +55,7 @@
    "DM-S-014-10",
    "DM-S-015-1"
   ],
-  "note": "Son of Michal Duska and Maria Demko by the parish extracts of 1947 and 1955, both from volume IV, page 110, entry 43. Those give his birth as 21 October 1929; his mother's passport and the court's consent of 1937 give 23 October. Emigrated with his mother in November 1937, aged 8. Died 2018 and was known as Steve: stated by Kevin (ledger C-11); 'Steve' is also in his father's death notice of 1974. The Duska agent owns this entry.",
+  "note": "Son of Michal Duska and Maria Demko by the parish extracts of 1947 and 1955, both from volume IV, page 110, entry 43. Those give his birth as 21 October 1929; his mother's passport and the court's consent of 1937 give 23 October. Emigrated with his mother in November 1937, aged 8. Died 2018 and was known as Steve: stated by Kevin (ledger C-11); 'Steve' is also in his father's death notice of 1974. The Duska agent owns this entry. Since DM-B-021, cited from the Duska agent and not measured here: his raw DNA file, compared with the owner's, shows grandfather and grandson by blood (DUS:H-097 @8e541e5). The owner has said publicly that he was raised by his grandparents and knew him at first hand (DUS:S-000-25).",
   "baptism": {
    "date": "26 Oct 1929",
    "place": "Roman Catholic parish of Senné"
@@ -127,9 +127,11 @@
    "DM-S-014-9",
    "DM-S-014-10",
    "DM-S-014-11",
-   "DM-S-015-1"
+   "DM-S-015-1",
+   "DM-S-021-1",
+   "DM-S-021-2"
   ],
-  "note": "Wife of Michal (Mike) Duska and mother of Štefan: the parish extracts of 1947 and 1955, the court's consent of 1937, the gravestone, the deed of 1966 and her husband's death notice of 1974 all say so. Greek Catholic, of Iňačovce. Her emigrant's passport of 1937 gives her birth as 22 August 1906 at Iňačovce, the day and place of civil registration no. 45 of 1906, so the link to that entry now rests on a paper of her own and not only on name, village and year. Its description: face oblong, eyes grey, hair chestnut; a farm woman; she signs 'Marja Duškova'. She lived at Iňačovce in 1937 while her husband was in Montréal. He paid her passage on 17 September 1937; she signed a contract in Prague on 8 November to sail from Antwerp on the 11th by the Montrose with her son, aged 8. Died at Montréal on 9 September 1950. A second son, Mike, is named in 1974. The census of 1930 has her at Senné no. 145 in her husband's father's house, married since 30 January 1927, Slovak by nationality, able to read and write; it gives her birthday as 15 August 1907, a year and a week from the passport's. Ledger X-017: no burial register for Iňačovce after 1906 has been searched, so the check is logged as unresolved; see DM-H-024, now at 7.",
+  "note": "Wife of Michal (Mike) Duska and mother of Štefan: the parish extracts of 1947 and 1955, the court's consent of 1937, the gravestone, the deed of 1966 and her husband's death notice of 1974 all say so. Greek Catholic, of Iňačovce. Her emigrant's passport of 1937 gives her birth as 22 August 1906 at Iňačovce, the day and place of civil registration no. 45 of 1906, so the link to that entry now rests on a paper of her own and not only on name, village and year. Its description: face oblong, eyes grey, hair chestnut; a farm woman; she signs 'Marja Duškova'. She lived at Iňačovce in 1937 while her husband was in Montréal. He paid her passage on 17 September 1937; she signed a contract in Prague on 8 November to sail from Antwerp on the 11th by the Montrose with her son, aged 8. Died at Montréal on 9 September 1950. A second son, Mike, is named in 1974. The census of 1930 has her at Senné no. 145 in her husband's father's house, married since 30 January 1927, Slovak by nationality, able to read and write; it gives her birthday as 15 August 1907, a year and a week from the passport's. Ledger X-017: no burial register for Iňačovce after 1906 has been searched, so the check is logged as unresolved; see DM-H-024, now at 7. Since DM-B-021: the Québec death index gives her birth as 22 August 1906 and her death as 9 September 1950 (DM-D-151); an index to arrivals of 1937 lists her, 31, and Stephan, 8 (DM-D-152).",
   "death": {
    "date": "9 Sep 1950",
    "place": "Montréal, Québec"
@@ -1409,7 +1411,11 @@
   "sources": [
    "DM-S-014-11"
   ],
-  "note": "'Mike' with his brother Steve in their father's death notice of 1974, where the father is 'Mike, Sr.'. The owner gives his name as Michael Jr. (DM-PR-9) and his own file names call him Michael Walter Duska; both are his word. Dead, by the owner's statement to the Duska agent on 12 Nov 2026 (ledger X-016); no date of death is given. He was at his brother's burial in 2018 by the owner's file name. The date of birth is from a Québec registration of 1973 that the Duska agent holds and this agent has not read (DUS:H-071 @2043138, which holds him as the son at 75)."
+  "note": "'Mike' with his brother Steve in their father's death notice of 1974, where the father is 'Mike, Sr.'. The owner gives his name as Michael Jr. (DM-PR-9) and his own file names call him Michael Walter Duska; both are his word. Dead, by the owner's statement to the Duska agent on 12 Nov 2026 (ledger X-016); no date of death is given. He was at his brother's burial in 2018 by the owner's file name. The date of birth is from a Québec registration of 1973 that the Duska agent holds and this agent has not read (DUS:H-071 @2043138, which holds him as the son at 75).",
+  "death": {
+   "date": "14 Jun 2019 (from the Duska agent, DUS:D-015-15, not read here)",
+   "place": null
+  }
  },
  {
   "id": "DM-X-061",

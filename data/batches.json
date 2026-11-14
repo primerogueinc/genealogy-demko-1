@@ -1161,5 +1161,48 @@
    "found": "Its B-047 to B-051: field notes, 25 Reformed burials of Solymos, three Montréal cemetery entries, 96 Senné Roman Catholic burials, and the deaths folder closed by the owner at 197 documents. Its note routes 24 Senné burial strips here by file name and checksum only.",
    "not_taken": "All of it. Still waiting here: those 24 strips and any routed from its B-048, 38 census sheets, and the 24 Senné baptism strips of its F-009."
   }
+ },
+ {
+  "id": "DM-B-021",
+  "date": "2026-11-14",
+  "at_utc": "2026-11-14T05:02:48Z",
+  "title": "Ledger v26 and field notes 2; Maria Demko in a Québec death index and an index of arrivals",
+  "folder": "F-15",
+  "files": 2,
+  "blurb": "Ledger v26 is read. It rewrites the rule on DNA after the owner's Y result went out, answers this agent's question on borrowed readings, and asks every agent for a second set of field notes. Those are in field-notes/002.md. The owner has also asked, through the Duska agent, for a note before each new kind of material and one on the single rule he says he will not override: the agents get what is already on his hard drive and nothing fetched to order. Both are written. Two small documents were taken from the Duska agent's new folder. An index to Québec deaths has Mary Demko, born 22 August 1906, died 9 September 1950, spouse Duska: a third paper for her birthday, this one from her own household, so the census birthday of 1907 now stands alone and the chance that she was a later namesake falls to 4. An index to arrivals of 1937 lists Maria and Stephan Duska under one number, which shows they did land. The Duska agent reports, from held DNA files, that the owner is Štefan Duska's grandson by blood and that no Demko, Kocsis or Hreško is among the grandfather's matches; both are cited as its findings and move nothing here. It has been asked for the mother-line branch in that file, which is Maria Demko's. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "DM-H-024",
+   "DM-H-038"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "DM-S-021-1",
+   "DM-S-021-2"
+  ],
+  "documents_added": [
+   "DM-D-151",
+   "DM-D-152"
+  ],
+  "priors_added": [
+   "DM-PR-13"
+  ],
+  "curiosities_added": [
+   "DM-C-045",
+   "DM-C-046"
+  ],
+  "curiosities": 2,
+  "read": [
+   "read ledger v26 (2026-11-13), duska-coordinator @716c756",
+   "genealogu-duska-1 main @8e541e5 (its batches to B-067) and its note to this agent",
+   "private repository @0dc06a3: piles unchanged at last check"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "8e541e5",
+   "found": "Sixteen batches since the last review: the deaths folder closed, two folders of documents, and a folder of DNA material given to it by the owner. Two files taken here, checksums equal to its manifest; readings agree. Its DNA findings are cited, not repeated: no DNA file was opened by this agent.",
+   "not_taken": "24 Senné burial strips, 38 census sheets, the Senné baptism strips, the Krak strips it has released to this line, and its papers on the younger son of Ahn 8."
+  }
  }
 ]

@@ -1467,5 +1467,25 @@
   "extract": "R1a, under Z280 > Z92 > Y4459 > YP5520. Two public samples on the branch, one from north-central Poland; common ancestor about 2,400 years ago. The wider branch is mostly Russian, Ukrainian and Polish. Too old to tell Rusyn from Slovak.",
   "reliability": "A commissioned search report, not a record. Its figures were not checked by this agent against the pages; several population figures are from secondary summaries. Full note in research/DM-B-020-y-dna-branch.md.",
   "document": "DM-D-149"
+ },
+ {
+  "id": "DM-S-021-1",
+  "batch": "DM-B-021",
+  "type": "Online index to death registrations, one result",
+  "title": "Index to Québec deaths: Mary Demko, born 22 August 1906, died 9 September 1950, spouse Duska",
+  "extract": "Mary Demko, female, born 22 August 1906, of Montréal, spouse Duska, died 9 September 1950.",
+  "reliability": "An index: a finding aid made from a record, not the record. Good for what it copies; silent on who gave the facts.",
+  "document": "DM-D-151",
+  "also": "DUS:D-015-08 @8e541e5"
+ },
+ {
+  "id": "DM-S-021-2",
+  "batch": "DM-B-021",
+  "type": "Typed index to passenger arrivals, on microfilm",
+  "title": "Index to arrivals of 1937: Duska, Maria, and Stephan, 8, both at number 263",
+  "extract": "A typed alphabetical index headed 1937. Duska, Maria, aged 31 (?), and Stephan, aged 8, both against the number 263.",
+  "reliability": "An index: a finding aid made from a record, not the record. Good for what it copies; silent on who gave the facts.",
+  "document": "DM-D-152",
+  "also": "DUS:D-015-02 @8e541e5"
  }
 ]

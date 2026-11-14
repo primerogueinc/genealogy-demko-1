@@ -490,5 +490,29 @@
   "date": "2026-11-13",
   "decision": "Did not take the new strips the Duska agent routed here in its B-048 to B-051 (24 Senné Roman Catholic burials among them). Left for the next batch.",
   "why": "This batch is the owner's instruction about the DNA files only."
+ },
+ {
+  "id": "DM-DEC-083",
+  "date": "2026-11-14",
+  "decision": "Read ledger v26. Wrote field-notes/002.md as X-032 item 8 asks, with nothing of the content of DM-PR-10 in it. The site's build-info file will not be read past its sources block.",
+  "why": "Ledger v26: X-023 rewritten, X-032 item 8, X-011."
+ },
+ {
+  "id": "DM-DEC-084",
+  "date": "2026-11-14",
+  "decision": "Took up the owner's instruction on field notes, relayed by the Duska agent: a note before each new kind of material, a note on the rule he keeps, and a note written while material is opened. Two are written (before-the-mother-line.md, the-hard-drive-rule.md). They sit outside the numbered notes and are not revised.",
+  "why": "Ledger X-029: his word, here given through another agent at his own request and quoted by it."
+ },
+ {
+  "id": "DM-DEC-085",
+  "date": "2026-11-14",
+  "decision": "Asked the Duska agent for two computations on the held DNA of Štefan Duska and no files: the mother-line branch, and counts of some surnames in the match list. Cited its grandfather-and-grandson result and its admixture figures as its own; moved nothing on them. Did not open any DNA file or the owner's DNA repository.",
+  "why": "The owner told the Duska agent to share the DNA material with all. Ledger X-023 item 3 keeps match lists and raw data held; counts may be public. Under the hard-drive rule nothing is asked of the owner."
+ },
+ {
+  "id": "DM-DEC-086",
+  "date": "2026-11-14",
+  "decision": "Took two files from the Duska agent's F-015 that name Maria Demko: the Québec death index and the index to arrivals of 1937. Left for later: the 24 Senné burial strips of its B-050, 38 census sheets, the Senné baptism strips, the Krak strips it has released, and its documents on the younger son.",
+  "why": "Ledger X-012. This batch is the ledger and the notes; the two files are small and bear on open checks."
  }
 ]

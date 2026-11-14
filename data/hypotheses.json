@@ -623,7 +623,7 @@
  {
   "id": "DM-H-024",
   "statement": "The Mária born on 22 August 1906 died young, and Ahn 9 is a later daughter of the same father who was given her name.",
-  "confidence": 7,
+  "confidence": 4,
   "necronym_risk": "unresolved",
   "basis": "Raised because ledger X-017 requires the possibility to be carried until the burials are searched. Against it: the gravestone's 'born 1906', which a later child would not match.",
   "test": "Burials and civil deaths at Solymos, 1906 to 1921; her age in the marriage entry.",
@@ -643,6 +643,12 @@
     "from": 4,
     "to": 7,
     "why": "Read for itself now: the census of 1930 gives her birthday as 15 August 1907 (DM-D-101). A daughter born in August 1907 to parents whose daughter was born in August 1906 is possible only if the births were a bare year apart, and it is exactly what a reused name would look like. Against it: the answer came from her father-in-law's house, not from her own papers; her passport, the contract and her gravestone all say 1906; and a household that misses by a year and a week is ordinary. Up a little, as the rule requires."
+   },
+   {
+    "batch": "DM-B-021",
+    "from": 7,
+    "to": 4,
+    "why": "The index to her death gives her birthday as 22 August 1906 (DM-D-151): what her own household in Montréal told the registrar in 1950. That is three papers for the day, from 1906, 1937 and 1950, against the one census answer of 1930."
    }
   ]
  },
@@ -932,14 +938,21 @@
  {
   "id": "DM-H-038",
   "statement": "Maria Demko and her son Štefan left Prague on 8 November 1937, sailed from Antwerp on the Montrose on 11 November and landed at Montréal that month, joining Mike Duska at 1196a St. George Street.",
-  "confidence": 85,
+  "confidence": 91,
   "basis": "The contract of 8 November names the train, the ship and the day, and she signed it (DM-D-098); her passport is stamped by Canadian immigration at Antwerp on 9 November (DM-D-094); her husband had paid the passage in Montréal on 17 September (DM-D-097); she died at Montréal in 1950. Against: nothing in hand shows the ship sailing as booked or the landing. The contract says Montréal; whether a ship could reach Montréal in the second half of November is not known to this agent.",
   "test": "The Canadian passenger list or landing record of the Montrose, November 1937; a landing stamp on a later page of the passport.",
   "status": "supported",
   "raised": "DM-B-014",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-021",
+    "from": 85,
+    "to": 91,
+    "why": "A typed index to arrivals of 1937 lists Duska, Maria, 31, and Stephan, 8, under one number (DM-D-152). So they did arrive in 1937. The ship and the port are still from the contract only."
+   }
+  ]
  },
  {
   "id": "DM-H-039",

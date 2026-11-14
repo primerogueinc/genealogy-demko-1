@@ -13195,5 +13195,186 @@
   },
   "held": "about the subject",
   "route": "duska"
+ },
+ {
+  "id": "DM-D-151",
+  "batch": "DM-B-021",
+  "folder": "F-15",
+  "source": "DM-S-021-1",
+  "file": "archive/duska-documents-part-1/death_of_Maria_Demko.png",
+  "sha256": "242c8fd7165d78050c49238f959e1fdbba9e3a3af49ae6ea5b48003f26aeb273",
+  "image": {
+   "format": "PNG",
+   "width": 1327,
+   "height": 352
+  },
+  "title": "Index to Québec deaths: Mary Demko, born 22 August 1906, died 9 September 1950, spouse Duska",
+  "kind": "Online index to death registrations, one result",
+  "language": "English and French",
+  "collector_label": "death of Maria Demko",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Name",
+    "original": "DEMKO, MARY",
+    "english": "Mary Demko",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex",
+    "original": "F",
+    "english": "female",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date of birth",
+    "original": "22-8-1906",
+    "english": "22 August 1906",
+    "certainty": "clear"
+   },
+   {
+    "column": "Age",
+    "original": "0",
+    "english": "0: the field is plainly empty in the database; she was 44",
+    "certainty": "clear"
+   },
+   {
+    "column": "Residence",
+    "original": "Montréal",
+    "english": "Montréal",
+    "certainty": "clear"
+   },
+   {
+    "column": "Spouse",
+    "original": "Conjoint(e): DUSKA",
+    "english": "spouse: Duska",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date of death",
+    "original": "9-9-1950",
+    "english": "9 September 1950",
+    "certainty": "clear"
+   },
+   {
+    "column": "Result count",
+    "original": "1 to 1 of 1",
+    "english": "the only result of the search",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "Mary Demko, female, born 22 August 1906, of Montréal, spouse Duska, died 9 September 1950.",
+  "notes": [
+   "Read from the image before the Duska agent's entry was opened; its note said only that the index gives a birth date to set against the baptism. The two readings agree in every field.",
+   "A third paper for 22 August 1906, after the civil registration of 1906 and her passport of 1937 (DM-D-008, DM-D-093). This one was made at her death, from what her family told the registrar in Montréal. The census of 1930, with 15 August 1907, stands alone against the three, and it was answered in her father-in-law's house.",
+   "The death date agrees with the deed of 1966 (DM-D-007). She is entered under her maiden name; no parents are shown.",
+   "The Duska agent calls the source of the birth date a Greek Catholic baptism book. In this repository the paper for that date is the state registration of 1906; no baptism entry of hers is in hand."
+  ],
+  "provenance": {
+   "archive": "unknown; an online index to Québec deaths",
+   "fond_or_film": "unknown",
+   "book": "n/a",
+   "page_or_image": "one search result",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska documents part 1', given to the Duska agent"
+  },
+  "object": {
+   "kind": "A screen capture of one result from an online index to deaths",
+   "why": "Web page layout: a numbered result, labelled fields in English with one French label, and page controls reading '1 to 1 of 1'.",
+   "does_not_fit": "The age reads 0 for a woman of 44: a database field left empty, not a fact.",
+   "made_by": "A database built from death registrations; the capture is the owner's",
+   "when": "The death is of 1950; the index and the capture are recent",
+   "kept_where": "Not shown on the capture",
+   "compared_with": [
+    "The deed of 1966 (DM-D-007)",
+    "Her passport of 1937 (DM-D-093)",
+    "The civil registration of 1906 (DM-D-008)"
+   ],
+   "changes_name": false
+  },
+  "also_read_by": "DUS:D-015-08 @8e541e5",
+  "taken_from": "primerogueinc/genealogu-duska-1 @8e541e5 under ledger X-012"
+ },
+ {
+  "id": "DM-D-152",
+  "batch": "DM-B-021",
+  "folder": "F-15",
+  "source": "DM-S-021-2",
+  "file": "archive/duska-documents-part-1/Stefan_Duska_and_Maria_Demko_Canada_Arrival_1937.png",
+  "sha256": "80b0eceedda9c2652b32ef7a3b04aa5a53f82c8011c9e2898876682fd70861e9",
+  "image": {
+   "format": "PNG",
+   "width": 1920,
+   "height": 841
+  },
+  "title": "Index to arrivals of 1937: Duska, Maria, and Stephan, 8, both at number 263",
+  "kind": "Typed index to passenger arrivals, on microfilm",
+  "language": "English",
+  "collector_label": "Stefan Duska and Maria Demko Canada Arrival 1937",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Heading",
+    "original": "1937 [...] 4.",
+    "english": "the year 1937; sheet 4",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row",
+    "original": "Duska / Maria / [3 or 5]1 / 263",
+    "english": "Duska, Maria, aged 31 (the first figure is blurred and looks like a 5), number 263",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row",
+    "original": "[Duska] / Stephan / 8 / 263",
+    "english": "Stephan, aged 8, number 263",
+    "certainty": "clear"
+   },
+   {
+    "column": "Other rows",
+    "original": "Durston, Durway, Dussault, Dussean, Duszanek (four), Duthie (three)",
+    "english": "strangers, alphabetically before and after",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "A typed alphabetical index headed 1937. Duska, Maria, aged 31 (?), and Stephan, aged 8, both against the number 263.",
+  "notes": [
+   "Not an independent reading: the owner's file name says what the card is. Read from the image; the Duska agent reads the same, and also notes that the first figure of her age looks like a 5.",
+   "Maria Demko was 31 in November 1937 and her son 8. Both share one number, as a mother and child travelling on one passport would. It is taken to be the page or sheet of the passenger list.",
+   "The index names no ship, port or day. It shows that they were entered among arrivals in Canada in 1937, which the papers of DM-B-014 could not: those end with a ticket."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown; a microfilm",
+   "book": "Index to arrivals, 1937",
+   "page_or_image": "sheet 4",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska documents part 1', given to the Duska agent"
+  },
+  "object": {
+   "kind": "A screen capture of one sheet of a typed index, from microfilm",
+   "why": "Typewritten columns on a white sheet with a black film border: surname, given name, age, a number. The year stands at the head.",
+   "does_not_fit": "The owner's file name says 'Stefan Duska and Maria Demko'; the sheet says Duska, Maria, and Stephan. The first figure of her age is blurred.",
+   "made_by": "The immigration service's clerks, as a finding aid to the lists (from recall, not checked)",
+   "when": "1937 or soon after",
+   "kept_where": "Not shown on the capture",
+   "compared_with": [
+    "The steamship contract of 8 November 1937 (DM-D-098)",
+    "Her passport (DM-D-093)"
+   ],
+   "changes_name": true
+  },
+  "also_read_by": "DUS:D-015-02 @8e541e5",
+  "taken_from": "primerogueinc/genealogu-duska-1 @8e541e5 under ledger X-012",
+  "independent": false
  }
 ]

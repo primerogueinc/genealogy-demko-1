@@ -222,5 +222,21 @@
    "DM-B-020"
   ],
   "archive_path": "archive/given-in-chat/"
+ },
+ {
+  "id": "F-15",
+  "path": "Duska documents part 1",
+  "described_by_kevin": "The owner's folder of loose documents, given to the Duska agent. Two files that name Maria Demko are taken here under ledger X-012.",
+  "received": "2026-11-13",
+  "files_received": 2,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-021"
+  ],
+  "archive_path": "archive/duska-documents-part-1/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @8e541e5, its F-015"
  }
 ]

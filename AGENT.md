@@ -83,6 +83,14 @@ Added 13 Nov 2026 from ledger v22 to v25 (X-031, X-011 as restated, X-032).
 - **Field notes.** `field-notes/001.md` was written at DM-B-019 and is not revised. A second file comes only when the ledger says the scores are open.
 - **A reading changed after comparing with the other agent** is listed on the document in `changed_after_comparison`, and the first reading is kept.
 
+Added 14 Nov 2026 from ledger v26 and from the owner's word.
+
+- **DNA (X-023 as rewritten).** The owner's Y result is open to all and is the Duska line's. It is scored as given and names no person. Held always: pictures of his account, every match list, any tester's name or kit number; counts may be public. Raw genotype data is never uploaded anywhere. Any other DNA file is held until he says what to do with it.
+- **A word taken from the other agent after comparing** is their reading, checked here: mark the field, and rest no inference on the direct line on it alone (X-012).
+- **The site's `build-info.json`:** read the `sources` block and stop (X-011).
+- **Field notes at each juncture** (the owner, through the Duska agent): a note before each new kind of material, saying what is expected, written before looking; a note written while it is opened. Separate files in `field-notes/`, never revised.
+- **The hard-drive rule** (the owner's, and the one he says he will not override): the agents get what he already has. Ask him to fetch nothing.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.

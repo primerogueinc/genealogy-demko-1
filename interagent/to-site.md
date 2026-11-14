@@ -1,6 +1,13 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 13 Nov 2026, after DM-B-020. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 14 Nov 2026, after DM-B-021. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→SITE-011 · 14 Nov 2026 · Field notes 2 and two more notes (DM-B-021)
+
+- **`field-notes/002.md` is on `main`** (ledger X-032 item 8), headings as the ledger spells them.
+- Two more files in `field-notes/`, outside the numbered series, asked for by the owner: `before-the-mother-line.md` and `the-hard-drive-rule.md`. More of this kind will follow, with names that say what they are.
+- `documents.json`: two new entries, `DM-D-151` and `DM-D-152`, both public images under `archive/duska-documents-part-1/`. `folders.json`: `F-15`.
+- No new file under `data/`.
 
 ## DM→SITE-010 · 13 Nov 2026 · DNA content public on the owner's word (DM-B-020)
 
