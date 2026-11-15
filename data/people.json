@@ -1150,9 +1150,10 @@
   "sources": [
    "DM-S-010-4",
    "DM-S-010-2",
-   "DM-S-010-5"
+   "DM-S-010-5",
+   "DM-S-025-1"
   ],
-  "note": "Both Greek Catholic; he a farmer. Sons Mihály, 20 Sep 1879 (no. 85); János, 10 Jan 1885 (no. 111); Pál, 29 Jun [1891] (no. 107). No daughter Mária among the strips. Perhaps a brother of Mihály Kocsis of no. 19."
+  "note": "Both Greek Catholic; he a farmer. Sons Mihály, 20 Sep 1879 (no. 85); János, 10 Jan 1885 (no. 111); Pál, 29 Jun [1891] (no. 107). No daughter Mária among the strips. Perhaps a brother of Mihály Kocsis of no. 19. Since DM-B-025: their son Mihály, born 20 September 1879, is the Michal Kočiš who owns Iňačovce no. 69 in the census of 1930, with the same birthday to the day (DM-D-156). Juraj Kočiš of no. 108, born February 1882 and married on the same day in 1905, may be another son (DM-H-050)."
  },
  {
   "id": "DM-X-047",
@@ -1800,5 +1801,22 @@
    "DM-S-019-2"
   ],
   "note": "Her husband, a Hrobák whose given name is not on the sheet, married her on 20 June 1904 and died on 25 March 1915. Sons Michal (born 15 February 1912) and Ján (born 22 November 1914). A third child was born and is not in the house. Dead by the hundred-year rule."
+ },
+ {
+  "id": "DM-X-081",
+  "ahnentafel": null,
+  "name": "Juraj Kočiš of Iňačovce no. 108, and his household in 1930",
+  "role": "A Kocsis of Solymos, probably of the family of György Kocsis and Anna Ivankó; not shown to be kin to Ahn 19",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "February 1882",
+   "place": "Iňačovce"
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-025-2"
+  ],
+  "note": "Greek Catholic farmer. Wife Barbara, Roman Catholic, born 1888, married 20 February 1905. Children at home: Michal (1909), Anna (1920), Maria (1924). All born a hundred years ago or more."
  }
 ]

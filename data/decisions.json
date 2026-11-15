@@ -556,5 +556,11 @@
   "date": "2026-11-15",
   "decision": "Corrected three errors in this agent's reading of the grandfather's match list, found by the Duska agent: the X column is not empty (twelve matches); no match lists Krak; the Hreško and Jaros counts were loose pattern matches. The document, the lead and the research note are corrected with the date; the field note written as the files were opened is left as written and a correction note stands beside it.",
   "why": "The program read '23 cM' as nought and the result was reported without being looked at. Field notes are not revised (ledger X-032), so the correction is a new file."
+ },
+ {
+  "id": "DM-DEC-094",
+  "date": "2026-11-15",
+  "decision": "Took the two Kočiš census sheets of Iňačovce (nos. 69 and 108) from the Duska agent's folder; both marked not independent. Looked at no. 84 and left it: it lists an infant born in 1930.",
+  "why": "Ledger X-012 and X-016. These were the Kocsis houses most likely to bear on the parents of Ahn 19; they turn out to be another Kocsis family."
  }
 ]

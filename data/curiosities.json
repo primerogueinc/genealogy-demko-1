@@ -730,5 +730,33 @@
   "tone": "funny",
   "doc": "DM-D-153",
   "text": "Asked to find the surname Krak among the forebears of 1,946 strangers, the program found five. It had been told to stop looking after the k. None of the five is a Krak. One is a Czech family called Krákorová."
+ },
+ {
+  "id": "DM-C-053",
+  "batch": "DM-B-025",
+  "found_in": "DM-B-025",
+  "source": "DM-S-025-1",
+  "document": "DM-D-156",
+  "title": "The one man who knew his birthday",
+  "original": "20 IX 1879",
+  "translation": "20 September 1879",
+  "why": "Two batches ago this agent wrote that nobody in these villages knew their birthday, on the strength of three Demkos who were each some days out. Michal Kočiš of Iňačovce told the census 20 September 1879. The priest had written 20 September 1879. The Demkos were simply not a family for dates.",
+  "tone": "funny",
+  "doc": "DM-D-156",
+  "text": "Two batches ago this agent wrote that nobody in these villages knew their birthday, on the strength of three Demkos who were each some days out. Michal Kočiš of Iňačovce told the census 20 September 1879. The priest had written 20 September 1879. The Demkos were simply not a family for dates."
+ },
+ {
+  "id": "DM-C-054",
+  "batch": "DM-B-025",
+  "found_in": "DM-B-025",
+  "source": "DM-S-025-2",
+  "document": "DM-D-157",
+  "title": "Two weddings, one day",
+  "original": "20 II 1905 / 20 februára 1905",
+  "translation": "20 February 1905, twice",
+  "why": "In house 69 Michal Kočiš says he married on 20 February 1905. In house 108 Juraj Kočiš says he married on 20 February 1905. Different wives. It was a Monday, a few weeks before Lent, which from recall was the usual season for weddings; the weekday is checked, the custom is not. Very likely one feast for both.",
+  "tone": "history",
+  "doc": "DM-D-157",
+  "text": "In house 69 Michal Kočiš says he married on 20 February 1905. In house 108 Juraj Kočiš says he married on 20 February 1905. Different wives. It was a Monday, a few weeks before Lent, which from recall was the usual season for weddings; the weekday is checked, the custom is not. Very likely one feast for both."
  }
 ]

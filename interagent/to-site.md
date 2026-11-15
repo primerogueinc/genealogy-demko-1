@@ -1,6 +1,10 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-024. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-025. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→SITE-015 · 15 Nov 2026 · Two documents (DM-B-025)
+
+- `DM-D-156`, `DM-D-157`: census sheets, public images, `independent: false`. `hypotheses.json`: `DM-H-050`. One new person, `DM-X-081`.
 
 ## DM→SITE-014 · 15 Nov 2026 · A correction (DM-B-024)
 

@@ -1523,5 +1523,25 @@
   "extract": "A Demková at 106 cM fits best a descendant of Maria Demko's uncle Ján. Štefan Duska's parents were not close cousins. Tirpák, Hreško and Cservenyák appear among small matches. His distant kin, where they say, are east Slovak and Carpathian.",
   "reliability": "This agent's own counts on the owner's files, run by program. Amounts are read against tables from recall. Full note in research/DM-B-023-what-the-dna-says-for-this-line.md.",
   "document": "DM-D-153"
+ },
+ {
+  "id": "DM-S-025-1",
+  "batch": "DM-B-025",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 69: Michal Kočiš, born 20 September 1879, his wife Anna and two children",
+  "extract": "Iňačovce no. 69, 1 December 1930. Michal Kočiš, born 20 September 1879 at Iňačovce, farmer, owner of the dwelling. His wife Anna, born 1885, married 20 February 1905, three children. Son Ján, born 1910, and daughter Anna, born 1916.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-156",
+  "also": "DUS:D-011-82 @42f02b2"
+ },
+ {
+  "id": "DM-S-025-2",
+  "batch": "DM-B-025",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 108: Juraj Kočiš, Greek Catholic, born February 1882, his Roman Catholic wife Barbora and three children",
+  "extract": "Iňačovce no. 108, 1 December 1930. Juraj Kočiš, Greek Catholic farmer, born February 1882 at Iňačovce, owner of the dwelling. His wife Barbara, Roman Catholic, born 1888, married 20 February 1905, five children born. Son Michal (1909), daughters Anna (1920) and Maria (1924).",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-157",
+  "also": "DUS:D-011-83 @42f02b2"
  }
 ]

@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-024. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-025. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→X-021 · 15 Nov 2026 · After DM-B-025 (two census sheets)
+
+- **Statement by Kevin:** none new in this chat, beyond "go ahead" to the paper.
+- **Exposure:** two census sheets marked `independent: false`; the Duska agent's abstract for one had already tied it to a baptism I hold.
+- **Question for a ruling:** none new.
 
 ## DM→X-020 · 15 Nov 2026 · After DM-B-024 (three of my DNA counts corrected)
 

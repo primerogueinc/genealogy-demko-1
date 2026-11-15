@@ -692,6 +692,12 @@
     "from": 4,
     "to": 4,
     "why": "No change. János Kocsis of Solymos 13 was born about 1821 (DM-D-130), so about 65 when Ahn 19 was born; that tells against. He had lost a daughter Maria in 1876 (DM-D-133), so a later Mária would be in the custom; that tells a little for."
+   },
+   {
+    "batch": "DM-B-025",
+    "from": 4,
+    "to": 4,
+    "why": "No change. Neither Kočiš house of 1930 is shown to be of János Kocsis and Anna Kováts."
    }
   ],
   "question": "X-Q-05"
@@ -988,14 +994,21 @@
   "id": "DM-H-041",
   "statement": "Maria Kočišová of the census of 1930 is Mária Knyezső, widow of Mihály Kocsis of Solymos no. 19, and the mother of Mária Kocsis (Ahn 19).",
   "question": "X-Q-05",
-  "confidence": 68,
+  "confidence": 69,
   "basis": "Married name Kocsis; Roman Catholic, as Mária Knyezső is written twice in the baptism book; born at Iňačovce in 1863, so 23 at the birth of the Mária of [1887]; married in 1879; mother-in-law of the man who was Mária Kocsis's husband in 1906 (DM-D-105, DM-D-054, DM-D-048, DM-D-008). Three children born fits Mária, Anna and one more. Against: 'mother-in-law' may be through the second wife, Zuzanna, born 1901, whose maiden name is not given; then the widow need not be the mother of the first. If he married two sisters she is the mother of both. Another Roman Catholic widow Kocsis at Iňačovce cannot be ruled out without the 1930 sheets for the other Kocsis houses. The Duska agent holds the same reading at 60 (DUS:H-070 @2043138): one sheet, read twice.",
   "test": "The marriage of 10 November 1879, in the Iňačovce Greek Catholic or Roman Catholic book (volumes to 1898 are at Prešov, PL-R-003): it names the bride and groom. The marriage of 3 February 1919, for Zuzanna's maiden name. The 1930 sheets of the other Kocsis houses at Iňačovce.",
   "status": "open",
   "raised": "DM-B-017",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-025",
+    "from": 68,
+    "to": 69,
+    "why": "The two Kočiš houses of Iňačovce in the census of 1930 that the owner saved are not hers: Michal of no. 69 is the son of György Kocsis and Anna Ivankó by his birthday, and Juraj of no. 108 married on the same day as he did (DM-D-156, DM-D-157). So no son of Mihály Kocsis and Mária Knyezső is found keeping a house, which is what a widow living with her son-in-law would suggest. A small point."
+   }
+  ]
  },
  {
   "id": "DM-H-042",
@@ -1132,6 +1145,19 @@
   "test": "The village of that match's Kontra forebear. No tree is opened and nothing is asked of the owner.",
   "status": "open",
   "raised": "DM-B-024",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-050",
+  "statement": "Juraj Kočiš of Iňačovce no. 108, born February 1882, is a brother of Michal Kočiš of no. 69 and a son of György Kocsis and Anna Ivankó.",
+  "question": "X-Q-05",
+  "confidence": 50,
+  "basis": "Both are Kočiš men born at Iňačovce three years apart, and both married on 20 February 1905 (DM-D-156, DM-D-157). Juraj is the Slovak for György, the father's name. György Kocsis and Anna Ivankó had sons in 1879, 1885 and 1891, which leaves room for one in 1882. Against: no baptism of him is in hand; a György born in February 1882 at Jesztreb, read Koczák, is (DM-X-051); a shared wedding day can be cousins or neighbours. It matters to this line only as a negative: it takes two Kocsis houses out of the search for Ahn 19's family.",
+  "test": "His baptism in the Solymos Greek Catholic book, February 1882. His marriage entry of 20 February 1905.",
+  "status": "open",
+  "raised": "DM-B-025",
   "resolved": null,
   "resolution": null,
   "history": []

@@ -1332,5 +1332,48 @@
    "found": "Its notes of B-068 to B-073 answer this agent's DNA requests and correct three of its counts; all three corrections are right and are taken. Its X count from the other site (466 kits at 7 cM or more) is cited, not repeated as this agent's.",
    "not_taken": "24 Senné burial strips, 38 census sheets, the Senné baptism strips, the Krak strips, the younger son's papers."
   }
+ },
+ {
+  "id": "DM-B-025",
+  "date": "2026-11-15",
+  "at_utc": "2026-11-15T09:23:59Z",
+  "title": "Two Kočiš houses at Iňačovce in 1930, and neither is Maria Demko's mother's family",
+  "folder": "F-12",
+  "files": 2,
+  "blurb": "Back to the paper. Two census sheets of 1930 for Iňačovce were taken from the Duska agent's folder, the two houses kept by men named Kočiš, in the hope that one was the family of Maria Demko's mother. Neither is. Michal Kočiš of no. 69 gives his birthday as 20 September 1879, and that is, to the day, the Mihály baptised at Solymos to György Kocsis and Anna Ivankó, the third Kocsis couple of the village. Juraj Kočiš of no. 108, born in February 1882, married on 20 February 1905, the very day Michal did, and is most likely his brother. So both houses come out of the search. What is left agrees with the reading held so far: the Roman Catholic widow Kočišová lived with her son-in-law Michal Demko, and no son of hers is found keeping a house. That reading goes from 68 to 69. Her own people, the Knyezsős, have a dozen sheets still unread. The capped links do not move. Curiosities: 2",
+  "raised": [
+   "DM-H-050"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-041"
+  ],
+  "people_added": [
+   "DM-X-081"
+  ],
+  "sources_added": [
+   "DM-S-025-1",
+   "DM-S-025-2"
+  ],
+  "documents_added": [
+   "DM-D-156",
+   "DM-D-157"
+  ],
+  "curiosities_added": [
+   "DM-C-053",
+   "DM-C-054"
+  ],
+  "curiosities": 2,
+  "read": [
+   "coordinator ledger: version line unchanged (v26), duska-coordinator @716c756",
+   "genealogu-duska-1 main @42f02b2",
+   "private repository @a344f75: piles unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "42f02b2",
+   "found": "Two census sheets taken (its D-011-82 and D-011-83), checksums equal to its manifest; its abstracts agree with this reading, one day of one birthday apart. Its abstract had already tied no. 69 to the baptism of 1879.",
+   "not_taken": "24 Senné burial strips, 36 census sheets (the Knyezső houses of Iňačovce first), the Senné baptism strips, the Krak strips, the younger son's papers."
+  }
  }
 ]

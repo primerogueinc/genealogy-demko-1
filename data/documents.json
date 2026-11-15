@@ -13678,5 +13678,178 @@
   },
   "held": "about the subject; names living third parties",
   "route": "both"
+ },
+ {
+  "id": "DM-D-156",
+  "batch": "DM-B-025",
+  "folder": "F-12",
+  "source": "DM-S-025-1",
+  "file": "archive/duska-census/Inacovce_-_7_-_Home_of_Michal_Kocsis.png",
+  "sha256": "653dff19674e2b956c1b77ac43240e956061a29dd8d48a3876e3b6c8f7f4449f",
+  "image": {
+   "format": "PNG",
+   "width": 1530,
+   "height": 1040
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 69: Michal Kočiš, born 20 September 1879, his wife Anna and two children",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 7 - Home of Michal Kocsis",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 69.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 69",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kočiš Michal / majiteľ bytu / mužské / 20 IX 1879 / ženatý / Iňačovce, Michalovce, Slov. / slovenská / roľník",
+    "english": "Michal Kočiš, owner of the dwelling, born 20 September 1879, married; born at Iňačovce; Slovak; farmer",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kočišová Anna / manželka / 15 XII 1885 / vydatá / 20 II 1905 / 3",
+    "english": "Anna Kočišová, wife, born 15 December 1885, married 20 February 1905, three children",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Kočiš Ján / syn / 27 III (?) 1910 / slobodný",
+    "english": "Ján Kočiš, son, born 27 March (?) 1910, single",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Kočišová Anna / dcéra / 20 I 1916 / slobodná",
+    "english": "Anna Kočišová, daughter, born 20 January 1916, single",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 69, 1 December 1930. Michal Kočiš, born 20 September 1879 at Iňačovce, farmer, owner of the dwelling. His wife Anna, born 1885, married 20 February 1905, three children. Son Ján, born 1910, and daughter Anna, born 1916.",
+  "notes": [
+   "He is not of Maria Demko's mother's family. A Mihály Kocsis was baptised at Solymos no. 85 with the birth date 20 September 1879, son of György Kocsis and Anna Ivankó (DM-X-046). The census gives the same day. So this house belongs to the third Kocsis couple of Solymos, not to Mihály Kocsis and Mária Knyezső of no. 19.",
+   "The right-hand columns are faint; rite not read. The Duska agent reads the son's birthday as 21 March.",
+   "Not an independent reading: the Duska agent's note named this house in an earlier batch. Compared with DUS:D-011-82: agreed, the son's day apart."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 69, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-82 @42f02b2",
+  "taken_from": "primerogueinc/genealogu-duska-1 @42f02b2 under ledger X-012"
+ },
+ {
+  "id": "DM-D-157",
+  "batch": "DM-B-025",
+  "folder": "F-12",
+  "source": "DM-S-025-2",
+  "file": "archive/duska-census/Inacovce_-_8_-_Home_of_Juraj_Kocsis.png",
+  "sha256": "f98e5646537e8e46a8ec6a00360a4dae19ecd97653cf845916395098509c2ed4",
+  "image": {
+   "format": "PNG",
+   "width": 1527,
+   "height": 1079
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 108: Juraj Kočiš, Greek Catholic, born February 1882, his Roman Catholic wife Barbora and three children",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 8 - Home of Juraj Kocsis",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 108.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 108",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kočiš Juraj / domácnosti [prednosta] a majiteľ bytu / mužské / [8 ?] februára 1882 / ženatý / Iňačovce / slovenský / grécko katolík / čítať a písať / roľník",
+    "english": "Juraj Kočiš, head of the household and owner of the dwelling, born [8 ?] February 1882, married; born at Iňačovce; Slovak; Greek Catholic; reads and writes; farmer",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kočišová Barbara / manželka / 6 októbra 1888 / vydatá / 20 februára 1905 / 5 ; 2 (?) / rímsko katolíčka / domáca",
+    "english": "Barbara Kočišová, wife, born 6 October 1888, married 20 February 1905; five children born, two (?) living; Roman Catholic; at home",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Kočiš Michal / syn / 7 októbra 1909 / slobodný / grécko katolík",
+    "english": "Michal Kočiš, son, born 7 October 1909, single; Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Kočišová Anna / dcéra / 25 októbra 1920 / grécko katol.",
+    "english": "Anna Kočišová, daughter, born 25 October 1920; Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "Kočišová Maria / dcéra / 6 decembra 1924 / grécko katolíčka",
+    "english": "Maria Kočišová, daughter, born 6 December 1924; Greek Catholic",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 108, 1 December 1930. Juraj Kočiš, Greek Catholic farmer, born February 1882 at Iňačovce, owner of the dwelling. His wife Barbara, Roman Catholic, born 1888, married 20 February 1905, five children born. Son Michal (1909), daughters Anna (1920) and Maria (1924).",
+  "notes": [
+   "He married on 20 February 1905, the same day as Michal Kočiš of no. 69 (DM-D-156). Two Kočiš men of one village marrying on one day reads as two brothers at one wedding; the sheets do not say so.",
+   "The sheet says two children living; three are in the house. One figure or the other is wrong.",
+   "A György was baptised on 11 February [1882] at Jesztreb no. 1, in a strip the owner filed as Kocsis and both agents read as Koczák (DM-X-051). This Juraj is born in February 1882. That may be why the owner kept the strip. The village differs.",
+   "Not an independent reading. Compared with DUS:D-011-83: agreed; it reads the birthday as 8 February."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 108, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-83 @42f02b2",
+  "taken_from": "primerogueinc/genealogu-duska-1 @42f02b2 under ledger X-012"
  }
 ]
