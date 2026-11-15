@@ -8377,7 +8377,7 @@
    {
     "column": "Row 2",
     "original": "Dušková Anna / manželka / 24. aug. 1872 / vydatá / 18. jan. 1892 / 12 ; 9 / Senné / rím. kat.",
-    "english": "Anna Dušková, wife, born 24 Aug 1872, married 18 Jan 1892; 12 children born, 9 living; born at Senné; Roman Catholic",
+    "english": "Anna Dušková, wife, born 24 Aug 1872, married 18 Jan 1892; 12 children born alive, 9 of them dead; born at Senné; Roman Catholic",
     "certainty": "probable"
    },
    {
@@ -8406,7 +8406,8 @@
    "Her husband is not in the house. He is not counted at Senné 145 on 1 December 1930, and by 1937 he is in Montréal. When he left is the Duska agent's question.",
    "Nationality: Slovak. This is the column DM-H-008 asked for, filled in for her in a Roman Catholic household.",
    "The householder and his wife are, by this sheet, her husband's parents; that is the Duska agent's finding and line (DUS:D-011-24).",
-   "The green and red figures are the statistical office's coding, added later. Read here after the Duska agent's note had given the dates; read from the image and agrees."
+   "The green and red figures are the statistical office's coding, added later. Read here after the Duska agent's note had given the dates; read from the image and agrees.",
+   "Corrected in DM-B-026: column 10 of the sheet is headed 'z nich zomrelo', 'of them dead', not 'living'. The first reading is kept in the note. First reading: '12 children born, 9 living'. Twelve born and nine dead leaves three. The Duska agent's burial book has eight of this couple's children buried by 1918 (its note on DUS:D-011-24), which fits nine dead by 1930 and did not fit nine living."
   ],
   "provenance": {
    "archive": "unknown; the image carries a small catalogue label that is not legible at this size",
@@ -8759,18 +8760,19 @@
    {
     "column": "Row 5",
     "original": "Kočišová Maria / testiná / ženské / 15 august 1863 / vdova / 10 novembra 1879 / 3 ; 2 / Iňačovce / slovenský / rímsko katolícka / čítať a písať / domáca / trvale",
-    "english": "Maria Kočišová, mother-in-law, female, born 15 August 1863, widow, married 10 November 1879; three children born, two living; born at Iňačovce; Slovak; Roman Catholic; reads and writes; at home; permanently resident",
+    "english": "Maria Kočišová, mother-in-law, female, born 15 August 1863, widow, married 10 November 1879; three children born alive, two of them dead; born at Iňačovce; Slovak; Roman Catholic; reads and writes; at home; permanently resident",
     "certainty": "clear"
    }
   ],
-  "translation": "Iňačovce, district of Michalovce, house 117, owner Michal Demko, on the night of 1 December 1930. Michal Demko, head of the household, born 28 August 1882 at Vysoká, married, Greek Catholic, Slovak, a farmer, reads and writes. Zuzanna Demková, his wife, born 28 April 1901 at Iňačovce, married 3 February 1919, two children born. Juraj Demko, son, born 17 September 1911 at Iňačovce, single. Anna Demková, daughter, born 12 November 1924. Maria Kočišová, the head's mother-in-law, born 15 August 1863 at Iňačovce, a widow, married 10 November 1879, three children born and two living, Roman Catholic, reads and writes.",
+  "translation": "Iňačovce, district of Michalovce, house 117, owner Michal Demko, on the night of 1 December 1930. Michal Demko, head of the household, born 28 August 1882 at Vysoká, married, Greek Catholic, Slovak, a farmer, reads and writes. Zuzanna Demková, his wife, born 28 April 1901 at Iňačovce, married 3 February 1919, two children born. Juraj Demko, son, born 17 September 1911 at Iňačovce, single. Anna Demková, daughter, born 12 November 1924. Maria Kočišová, the head's mother-in-law, born 15 August 1863 at Iňačovce, a widow, married 10 November 1879, three children born alive and two of them dead, Roman Catholic, reads and writes.",
   "notes": [
    "This is Maria Demko's father, twenty-four years after her birth. The registration of 1906 has Mihály Demkó, Greek Catholic, living at Solymos, born at Magasrév, aged 24. This sheet has Michal Demko, Greek Catholic, owner of a house at Iňačovce, born at Vysoká on 28 August 1882. Magasrév and Vysoká are one village.",
    "It shows that a Mihály Demkó born at Vysoká in August 1882 grew up and was alive in 1930. The baptism in hand is of a boy born 19 August 1882 and baptised the 20th (DM-D-001); the census says the 28th. Nine days apart, in the same month of the same year, in a village with one Demko birth that summer in the strips. This is the survival that ledger X-017 asked for (DM-NC-001).",
    "His wife in 1930 is not Maria's mother. Zuzanna was born in 1901 and married him on 3 February 1919. So Mária Kocsis, alive in August 1906, was dead by then. The son Juraj was born in September 1911, when Zuzanna was ten: he is a child of the first marriage, and so a brother of Maria Demko.",
    "The mother-in-law is the find. Maria Kočišová: a widow whose married name is Kocsis, Roman Catholic in a Greek Catholic house, born at Iňačovce in 1863, married in 1879. The one Roman Catholic woman married to a Kocsis at Solymos in the strips is Mária Knyezső, wife of Mihály Kocsis of no. 19, mother of the Mária baptised in [1887] (DM-D-054). The sheet does not say whose mother she is. She may be the mother of his dead first wife, or of Zuzanna, or of both if he married two sisters. See DM-H-041.",
    "Her birthday is 15 August, like the one given for Maria in her in-laws' house at Senné (DM-D-101).",
-   "The Duska agent's note gave these dates before this agent read the image. Read from the image; agrees with DUS:D-011-84 in every field read by both."
+   "The Duska agent's note gave these dates before this agent read the image. Read from the image; agrees with DUS:D-011-84 in every field read by both.",
+   "Corrected in DM-B-026: column 10 of the sheet is headed 'z nich zomrelo', 'of them dead', not 'living'. The first reading is kept in the note. First reading: 'three children born, two living'. So in 1930 the widow had one living child. See DM-H-041, DM-H-051 and DM-H-053."
   ],
   "provenance": {
    "archive": "unknown; the image carries a small catalogue label that is not legible at this size",
@@ -10034,12 +10036,12 @@
    },
    {
     "column": "Remark",
-    "original": "mátyóczi lelkész által tem[...]",
-    "english": "buried by the minister of Mátyóc (?)",
-    "certainty": "uncertain"
+    "original": "mátyóci lelkészethez tartozik",
+    "english": "belongs to the pastorate of Mátyóc",
+    "certainty": "probable"
    }
   ],
-  "translation": "No. 73. 7 August. János; his father János Kocsis, cottar. Cséppely 21. Male, 17. Cholera. Buried at Cséppely on 8 August. Remark: buried by the minister of Mátyóc (?).",
+  "translation": "No. 73. 7 August. János; his father János Kocsis, cottar. Cséppely 21. Male, 17. Cholera. Buried at Cséppely on 8 August. Remark: belongs to the pastorate of Mátyóc.",
   "notes": [
    "The file name says 1783. That cannot be: the entry is in Hungarian on the numbered form of the 1870s, the rows around it are cholera deaths in August, and it is entry 73 of its year. It is the cholera summer of 1873; 1783 is 1873 with two figures changed about. A Kocsis of the Csicser parish, not of Solymos.",
    "File name says 1783; the form and the cholera say 1873.",
@@ -10067,7 +10069,10 @@
    "changes_name": true
   },
   "also_read_by": "DUS:D-013-22 @9462513",
-  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012"
+  "taken_from": "primerogueinc/genealogu-duska-1 @9462513 under ledger X-012",
+  "changed_after_comparison": [
+   "Remark: read here as 'mátyóczi lelkész által tem[...]', 'buried by the minister of Mátyóc (?)'. The Duska agent read 'belongs to the pastorate of Mátyóc'. The Places agent ruled for that reading on the letters (X-S-008, PL-N-046, ledger v27). Taken; it is their reading."
+  ]
  },
  {
   "id": "DM-D-119",
@@ -12871,7 +12876,7 @@
    {
     "column": "Row 2",
     "original": "Demkova Maria / manželka / ženské / 5 XII (?) 1878 / vydatá / 10 IX (?) 1897 / 10 ; 6 / Vysoká / slovenská / rímsko katolíčka / čítať a písať",
-    "english": "Maria Demková, wife, born 5 December (?) 1878, married 10 September (?) 1897; ten children born, six living; born at Vysoká; Slovak; Roman Catholic; reads and writes",
+    "english": "Maria Demková, wife, born 5 December (?) 1878, married 10 September (?) 1897; ten children born alive, six of them dead; born at Vysoká; Slovak; Roman Catholic; reads and writes",
     "certainty": "probable"
    },
    {
@@ -12905,14 +12910,15 @@
     "certainty": "probable"
    }
   ],
-  "translation": "Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born and six living. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.",
+  "translation": "Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born alive and six of them dead. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.",
   "notes": [
    "A Ján Demko, Greek Catholic, born at Vysoká in April 1875 and still farming there in 1930. One János Demkó was baptised at Viszoka in 1875 in the strips in hand: on 29 March, at house 121, son of György Demkó, Greek Catholic farmer, and Mária Hreskó, Roman Catholic (DM-D-014). Same village, rite and year; the day is seventeen days off. He is taken to be that child, the brother of Maria Demko's father (DM-H-045).",
    "This is the sheet that was to test DM-H-037, and it sinks it. The János Demko of Senné no. 87 in 1900 was Roman Catholic, a carpenter, with a Greek Catholic wife from Lasztomér, Mária Ivanko (DM-D-086). This Ján is Greek Catholic, a farmer at Vysoká, with a Roman Catholic wife born at Vysoká whom he married in 1897. Two men.",
    "He is the third son his father named János; the first two died in 1872 and 1873 (DM-NC-020). This one lived to be 55 at least and had ten children.",
    "Like his father he married a Roman Catholic. The sons are entered Greek Catholic, after the father.",
    "The Roman numerals for the months are small. The Duska agent, which calls its own reading of this sheet a fast one, has the wife born 5 July and married 10 February, Juraj born 18 September, the daughter-in-law married 1 October and the youngest son born 20 June. Years agree throughout.",
-   "Not an independent reading: the Duska agent's note and abstract for this sheet were seen in an earlier batch."
+   "Not an independent reading: the Duska agent's note and abstract for this sheet were seen in an earlier batch.",
+   "Corrected in DM-B-026: column 10 of the sheet is headed 'z nich zomrelo', 'of them dead', not 'living'. The first reading is kept in the note. First reading: 'ten children born, six living'. Ten born and six dead leaves four, and four sons are on the sheet."
   ],
   "provenance": {
    "archive": "unknown; the image carries a small catalogue label that is not legible at this size",
@@ -13076,7 +13082,8 @@
    "The content was withheld in DM-B-019. The owner then said, in chat on 13 Nov 2026: \"you can send it to all the other repos\". The text is public from DM-B-020. The image stays held under ledger X-015, as a picture of the owner's own account and telephone; nothing in it is left out of this transcription except the telephone's status bar.",
    "Ledger X-023 keeps DNA from the line agents. The owner overruled it, first for this agent and then for all (ledger X-029). What it says is scored as given, not as found.",
    "A Y-chromosome result follows the father's father's line. For the owner that is the Duska male line: himself, his father, Štefan Duska, Michal Duska, Andrej Duška. It is not Maria Demko's line, and nothing on this board moves on it.",
-   "Where the branch sits and what it can show: research/DM-B-020-y-dna-branch.md."
+   "Where the branch sits and what it can show: research/DM-B-020-y-dna-branch.md.",
+   "Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that."
   ],
   "provenance": {
    "archive": "not an archive record",
@@ -13174,7 +13181,8 @@
    "The file is held and stays held: it names seventeen living or possibly living third parties (ledger X-016). Only counts are given here. The owner's word to send it on does not change that for this agent; he can say otherwise.",
    "Twelve markers is the weakest level of Y matching. An 'exact match' there can be thousands of years old, and the column of Big Y differences shows that these are.",
    "The Slovak match tested 37 markers and has no deep result. He is no closer than the others on this evidence.",
-   "It is the Duska male line's evidence. Scored as given."
+   "It is the Duska male line's evidence. Scored as given.",
+   "Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that."
   ],
   "provenance": {
    "archive": "not an archive record",
@@ -13468,7 +13476,8 @@
    "106 cM with a longest piece of 35 is, from recall of the usual tables and not checked, the range of a second cousin, a second cousin once removed or a first cousin twice removed. That is a descendant of a brother or sister of Maria Demko's father, or of her own brother.",
    "No tree of any match was opened and none will be. Nothing is asked of the owner (the hard-drive rule).",
    "Ledger X-023: DNA names no person and moves no identity or parent link. Scored as given.",
-   "Corrected in DM-B-024. Three statements of DM-B-022 and DM-B-023 were wrong and are replaced above: that the X column was empty; that one match lists Hreško and one Jaros; and, in a note to the Duska agent, that five list Krak. The Duska agent's reading of the same list (DUS:D-016-43) was right on all three."
+   "Corrected in DM-B-024. Three statements of DM-B-022 and DM-B-023 were wrong and are replaced above: that the X column was empty; that one match lists Hreško and one Jaros; and, in a note to the Duska agent, that five list Krak. The Duska agent's reading of the same list (DUS:D-016-43) was right on all three.",
+   "Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that."
   ],
   "provenance": {
    "archive": "not an archive record",
@@ -13572,7 +13581,8 @@
    "Held, and never uploaded anywhere (ledger X-023 item 3). Only the mitochondrial rows were read for this line. The Duska agent holds the same file (DUS:D-016-17) and has compared the rest.",
    "The meaning of each position is from recall of the standard tree, not checked against it.",
    "This agent's guess, written the day before in field-notes/before-the-mother-line.md: H, at about 40 in 100.",
-   "It names no woman and no village. It would matter only if a woman descended daughter to daughter from the same line had tested and been compared."
+   "It names no woman and no village. It would matter only if a woman descended daughter to daughter from the same line had tested and been compared.",
+   "By its file name the raw file was downloaded in January 2022, before the experiment (ledger X-033 item 2)."
   ],
   "provenance": {
    "archive": "not an archive record",
@@ -13657,7 +13667,8 @@
   "notes": [
    "Held. Raw genotype data is never uploaded anywhere (ledger X-023 item 3).",
    "Exposure, reported to the coordinator: his mother-line result and the names on those lists were in front of this agent. Nothing from them is recorded here.",
-   "Two archives of aerial pictures came with the files and are not DNA; they were not opened and are not listed."
+   "Two archives of aerial pictures came with the files and are not DNA; they were not opened and are not listed.",
+   "Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that."
   ],
   "provenance": {
    "archive": "not an archive record",
@@ -13800,7 +13811,7 @@
    {
     "column": "Row 2",
     "original": "Kočišová Barbara / manželka / 6 októbra 1888 / vydatá / 20 februára 1905 / 5 ; 2 (?) / rímsko katolíčka / domáca",
-    "english": "Barbara Kočišová, wife, born 6 October 1888, married 20 February 1905; five children born, two (?) living; Roman Catholic; at home",
+    "english": "Barbara Kočišová, wife, born 6 October 1888, married 20 February 1905; five children born alive, two (?) of them dead; Roman Catholic; at home",
     "certainty": "probable"
    },
    {
@@ -13825,9 +13836,10 @@
   "translation": "Iňačovce no. 108, 1 December 1930. Juraj Kočiš, Greek Catholic farmer, born February 1882 at Iňačovce, owner of the dwelling. His wife Barbara, Roman Catholic, born 1888, married 20 February 1905, five children born. Son Michal (1909), daughters Anna (1920) and Maria (1924).",
   "notes": [
    "He married on 20 February 1905, the same day as Michal Kočiš of no. 69 (DM-D-156). Two Kočiš men of one village marrying on one day reads as two brothers at one wedding; the sheets do not say so.",
-   "The sheet says two children living; three are in the house. One figure or the other is wrong.",
+   "Five born and two dead leaves three, and three children are in the house. (In DM-B-025 this note said the sheet was wrong. The reader was.)",
    "A György was baptised on 11 February [1882] at Jesztreb no. 1, in a strip the owner filed as Kocsis and both agents read as Koczák (DM-X-051). This Juraj is born in February 1882. That may be why the owner kept the strip. The village differs.",
-   "Not an independent reading. Compared with DUS:D-011-83: agreed; it reads the birthday as 8 February."
+   "Not an independent reading. Compared with DUS:D-011-83: agreed; it reads the birthday as 8 February.",
+   "Corrected in DM-B-026: column 10 of the sheet is headed 'z nich zomrelo', 'of them dead', not 'living'. The first reading is kept in the note. First reading: 'five children born, two (?) living'."
   ],
   "provenance": {
    "archive": "unknown",
@@ -13851,5 +13863,1051 @@
   "independent": false,
   "also_read_by": "DUS:D-011-83 @42f02b2",
   "taken_from": "primerogueinc/genealogu-duska-1 @42f02b2 under ledger X-012"
+ },
+ {
+  "id": "DM-D-158",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-1",
+  "file": "archive/duska-census/Inacovce_-_1_-_House_of_Jan_Knyerso.png",
+  "sha256": "23a93cf862e019aa68b62c128b793d85197f2a7af9936533c2df99ee36a37c7c",
+  "image": {
+   "format": "PNG",
+   "width": 1531,
+   "height": 1079
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 146: Ján Kňežo, Greek Catholic, born 1881; his Roman Catholic wife and mother; a married son; a third household named Ivanko",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 1 - House of Jan Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 146.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 146",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kňežo Ján / prednosta domácnosti a majiteľ bytu / mužské / 10 február 1881 / ženatý / Iňačovce, Michalovce, Slovensko / slovenská / grécko katolík / čítať a písať / roľník",
+    "english": "Ján Kňežo, head of the household and owner of the dwelling, born 10 February 1881, married; born at Iňačovce; Slovak; Greek Catholic; reads and writes; farmer",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kňežová Anna / manželka / 5 február 1881 / vydatá / 6 mája 1900 / 2 ; – / [Laškovo ?], Michalovce / 6 mája 1900 / rímsko katolíčka / čítať a písať",
+    "english": "Anna Kňežová, wife, born 5 February 1881, married 6 May 1900; two children born alive, none dead; born at [Laškovo ?], district of Michalovce, and in Iňačovce since 6 May 1900; Roman Catholic; reads and writes",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Row 3",
+    "original": "Kňežo Ján / prednosta druhej domácnosti, syn majiteľa bytu / 9 decembra 1906 / ženatý / Iňačovce / grécko katolík",
+    "english": "Ján Kňežo, head of a second household, son of the owner, born 9 December 1906, married; born at Iňačovce; Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Kňežová Alžbeta / manželka / 14 októbra 1909 / vydatá / 25 október 1928 / Porostov, Sobrance / 25 október 1928 / grécko katolíčka",
+    "english": "Alžbeta Kňežová, wife, born 14 October 1909, married 25 October 1928; born at Porostov, district of Sobrance, and in Iňačovce since her wedding day; Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "Kňežo Anna / babička / 28 mája 1850 / vdova / a) 12 (?) septembra 1868 b) september 1928 / 2 ; 1 / Iňačovce / rímsko katolíčka / čítať [len]",
+    "english": "Anna Kňežo, grandmother, born 28 May 1850, widow; married 12 (?) September 1868, widowed September 1928; two children born alive, one of them dead; born at Iňačovce; Roman Catholic; reads only",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 6",
+    "original": "Ivanko Anna / prednostka tretej domácnosti / 1 novembra 1902 / vydatá / 1 (?) september 1922 / 3 ; 2 / Iňačovce / grécko katolíčka / roľníčka",
+    "english": "Anna Ivanko, head of a third household, born 1 November 1902, married 1 (?) September 1922; three children born alive, two of them dead; born at Iňačovce; Greek Catholic; farmer",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 7",
+    "original": "Ivanko František / syn / [...] 1928 / Iňačovce / grécko katolík",
+    "english": "František Ivanko, son, born 1928; Greek Catholic",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 146, 1 December 1930. Ján Kňežo, Greek Catholic farmer, born 10 February 1881, owner. His wife Anna, Roman Catholic, born 1881, married 6 May 1900, two children. Their son Ján, born 1906, and his wife Alžbeta from Porostov, married 1928. The grandmother Anna Kňežo, Roman Catholic, born at Iňačovce on 28 May 1850, married in September 1868 and a widow since September 1928; two children, one dead. A third household: Anna Ivanko, born 1902, and her son František, born 1928.",
+  "notes": [
+   "One of only two Greek Catholic Kňežo houses in the twelve sheets, and both have Roman Catholic wives. The 'grandmother' is of an age to be the owner's mother; her husband, a Kňežo, died in September 1928.",
+   "She is Roman Catholic and was born at Iňačovce in 1850, thirteen years before the Roman Catholic widow Kočišová who is taken to be Mária Knyezső (DM-H-041). The same village, rite and generation; no tie is shown.",
+   "The wife's birthplace is the same word as on the sheet for no. 129; possibly Laškovce. Asked of the Places agent.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-71."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 146, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-71 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-159",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-2",
+  "file": "archive/duska-census/Inacovce_-_2_-_House_of_Michal_Knyerso.png",
+  "sha256": "029c31234d473e020ba0fe6e072b7b793c241ac8a2e4c1cb89346c8d3e444213",
+  "image": {
+   "format": "PNG",
+   "width": 1532,
+   "height": 1079
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 145: Michal Kňežo, Greek Catholic, born 1882; his Roman Catholic wife from Jastrabie; his father Hreha, born 1858, and mother Anna",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 2 - House of Michal Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 145.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 145",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kňežo Michal / prednosta domácnosti a majiteľ bytu / 30 júla 1882 / ženatý / Iňačovce / slovenská / grécko katolík / čítať a písať",
+    "english": "Michal Kňežo, head of the household and owner, born 30 July 1882, married; born at Iňačovce; Slovak; Greek Catholic; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kňežová Maria / manželka / 15 júla 1885 / vydatá / september 1904 / 4 ; 2 / Jestreb, Michalovce / september 1904 / rímsko katolíčka",
+    "english": "Maria Kňežová, wife, born 15 July 1885, married September 1904; four children born alive, two of them dead; born at Jastrabie and in Iňačovce since September 1904; Roman Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Bačistová (?) Maria / dcéra / 5 septembra 1905 / vydatá / júli 1925 / Iňačovce / grécko katolíčka",
+    "english": "Maria Bačistová (?), daughter, born 5 September 1905, married July 1925; Greek Catholic",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Row 4",
+    "original": "Kňežo Hreha / otec / 12 septembra 1858 / ženatý / Iňačovce / grécko katolík / čítať a písať",
+    "english": "Hreha Kňežo, father, born 12 September 1858, married; born at Iňačovce; Greek Catholic; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "Kňežová Anna / matka / 12 október 1860 / vydatá / októbra 1881 / 5 ; 1 / Iňačovce / grécko katolíčka / čítať len",
+    "english": "Anna Kňežová, mother, born 12 October 1860, married October 1881; five children born alive, one of them dead; born at Iňačovce; Greek Catholic; reads only",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 145, 1 December 1930. Michal Kňežo, Greek Catholic, born 30 July 1882, owner. His wife Maria, Roman Catholic, born 1885 at Jastrabie, married September 1904, four children, two dead. Their married daughter Maria, born 1905. His father Hreha Kňežo, born 12 September 1858, and mother Anna, born 1860, married October 1881, five children, one dead.",
+  "notes": [
+   "The father's name is written Hreha. It is Gregory: Gergely in the Hungarian books, Gregor in Slovak. From recall, not checked: Hreha is the East Slavic household form, from Hryhorij.",
+   "A Gergely Knyezső, Greek Catholic, with a Roman Catholic wife Borbála Halász, is at Solymos no. 97 in [1886] (DM-X-050). This Hreha married an Anna in October 1881 and she is alive. So either two men of one name, or the baptism strip of [1886] names a different wife in error. Not settled.",
+   "He was born at Iňačovce five years before the widow Kočišová, in a Greek Catholic house. Under the law of 1868 (from recall) the sons of a mixed marriage followed the father and the daughters the mother, so a Roman Catholic sister of a Greek Catholic Kňežo is possible. See DM-H-052.",
+   "The Duska agent did not read the father's name; the rest agrees.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-77."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 145, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-77 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-160",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-3",
+  "file": "archive/duska-census/Inacovce_-_3_-_House_of_Jan_Knyerso_distinct_from_1.png",
+  "sha256": "8ae8baeab4668088c49821f72091493bd18bdde92da0649f520e6e37608eab6a",
+  "image": {
+   "format": "PNG",
+   "width": 1521,
+   "height": 1079
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 144: Ján Kňežo, Reformed, born 1881; his son-in-law Ján Tomovčík's household; his father Pavol, born 1850",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 3 - House of Jan Knyerso distinct from 1",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 144.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 144",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kňežo Ján / prednosta domácnosti a majiteľ bytu / 15 (?) júni 1881 / ženatý / Iňačovce / kalvín / čítať a písať",
+    "english": "Ján Kňežo, head and owner, born 15 (?) June 1881, married; born at Iňačovce; Calvinist; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kňežová Anna / manželka / 14 decembra 1885 / vydatá / 15 júli 1902 / 3 ; 1 / Iňačovce / kalvínka",
+    "english": "Anna Kňežová, wife, born 14 December 1885, married 15 July 1902; three children born alive, one of them dead; born at Iňačovce; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Tomovčík Ján / prednosta druhej domácnosti, zať majiteľa bytu / 8 február 1903 / ženatý / Jestreb, Michalovce / 10 septembra 1925 / kalvín",
+    "english": "Ján Tomovčík, head of a second household, son-in-law of the owner, born 8 February 1903, married; born at Jastrabie, in Iňačovce since 10 September 1925; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Tomovčíková Maria / manželka / 8 február 1908 / vydatá / 10 septembra 1925 / 2 ; – / Iňačovce / kalvínka",
+    "english": "Maria Tomovčíková, wife, born 8 February 1908, married 10 September 1925; two children born alive; born at Iňačovce; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rows 5, 6",
+    "original": "Tomovčík Ján / syn / 25 októbra 1926 ; Tomovčík Štefan / syn / [...] 1928",
+    "english": "Sons Ján Tomovčík, born 25 October 1926, and Štefan, born 1928",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 7",
+    "original": "Kňežo Pavol / otec prednostu prvej domácnosti / 12 novembra 1850 / vdovec / Iňačovce / kalvín / čítať a písať",
+    "english": "Pavol Kňežo, father of the head of the first household, born 12 November 1850, widower; born at Iňačovce; Calvinist; reads and writes",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 144, 1 December 1930. Ján Kňežo, Calvinist, born June 1881, owner; his wife Anna, born 1885, married 1902, three children, one dead. Their daughter Maria, born 1908, her husband Ján Tomovčík from Jastrabie, married 1925, and two small sons. The owner's father Pavol Kňežo, widower, born 12 November 1850.",
+  "notes": [
+   "Next door to nos. 145 and 146 and of another church. The Duska agent's reading agrees.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-78."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 144, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-78 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-161",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-4",
+  "file": "archive/duska-census/Inacovce_-_4_-_House_of_Maria_Demkova.png",
+  "sha256": "8b9e4f408fb684d0175ecf5f172c3b0af290b785a4b56a27b12ed46f739bc700",
+  "image": {
+   "format": "PNG",
+   "width": 1532,
+   "height": 1078
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 167: Maria Danková (not Demková), born 1891; two sons; her mother Anna Kňežová, widow, born 1848",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 4 - House of Maria Demkova",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 167.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 167",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Danková Maria / prednosta domácnosti / 8 decembra 1891 / vydatá / 24 mája 1912 / 2 ; – / Iňačovce / kalvín[ka]",
+    "english": "Maria Danková, head of the household, born 8 December 1891, married 24 May 1912; two children born alive; born at Iňačovce; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rows 2, 3",
+    "original": "Danko Juraj / syn / 3 júla 1914 / slobodný / grécko katolík ; Danko Ján / syn / 13 augusta 1918 / grécko katolík",
+    "english": "Sons Juraj Danko, born 3 July 1914, and Ján Danko, born 13 August 1918; both Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Kňežová Anna / matka / 14 júna 1848 / vdova / a) 16 február 1872 b) 1910 / [...], Michalovce / grécko katolíčka / čítať [len]",
+    "english": "Anna Kňežová, mother, born 14 June 1848, widow; married 16 February 1872, widowed 1910; born in another village of the Michalovce district, name not read; Greek Catholic; reads only",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 167, 1 December 1930. Maria Danková, born 8 December 1891, married 1912, her husband not in the house; her sons Juraj (1914) and Ján (1918), Greek Catholic. Her mother Anna Kňežová, Greek Catholic, a widow since 1910, born 14 June 1848, married 16 February 1872.",
+  "notes": [
+   "The owner's label says 'House of Maria Demkova'. The surname on the sheet is Danková. No Demko is in this house; she is a Kňežo by birth.",
+   "The Duska agent reads Danková too (DUS:D-011-79).",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-79."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 167, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-79 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-162",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-5",
+  "file": "archive/duska-census/Inacovce_-_5_-_House_of_Jan_Knyerso.png",
+  "sha256": "cbb80b57172893e88afae798663dfd4e5ec6eca7822f38d42e37ff8168335b05",
+  "image": {
+   "format": "PNG",
+   "width": 1526,
+   "height": 1078
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 165: Ján Kňežo, Reformed, born 1900; his wife from Blatné Remety; his mother Anna from Hažín, ten children and eight dead",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 5 - House of Jan Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 165.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 165",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kňežo Ján / prednosta domácnosti a majiteľ bytu / 5 december 1900 / ženatý / Iňačovce / kalvín / čítať a písať",
+    "english": "Ján Kňežo, head and owner, born 5 December 1900, married; born at Iňačovce; Calvinist; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kňežová Anna / manželka / 24 december 1904 / vydatá / 8 septembra 1919 / 3 ; 1 / Blatné Remety, Sobrance / 8 september 1919 / kalvínka",
+    "english": "Anna Kňežová, wife, born 24 December 1904, married 8 September 1919; three children born alive, one of them dead; born at Blatné Remety, district of Sobrance; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rows 3, 4",
+    "original": "Kňežová Anna / dcéra / 10 mája 1924 ; Kňežová Maria / dcéra / 16 mája 1926",
+    "english": "Daughters Anna, born 10 May 1924, and Maria, born 16 May 1926",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "Kňežová Anna / matka / 25 december 1870 / vdova / a) 10 júna 1890 b) 17 novemb. 1922 / 10 ; 8 / Hažín, Michalovce / 23 mája 1919 / kalvínka / čítať a písať [nevie]",
+    "english": "Anna Kňežová, mother, born 25 December 1870, widow; married 10 June 1890, widowed 17 November 1922; ten children born alive, eight of them dead; born at Hažín; a date of 23 May 1919 in the column for arrival; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 6",
+    "original": "Kováč Ján / bratanec / 2 októbra 1909 / slobodný / Hažín, Michalovce / 23 mája 1919 / kalvín",
+    "english": "Ján Kováč, nephew, born 2 October 1909, single; born at Hažín, in Iňačovce since 23 May 1919; Calvinist",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 165, 1 December 1930. Ján Kňežo, Calvinist, born 5 December 1900, owner; his wife Anna from Blatné Remety, born 1904, married 1919, three children, one dead; daughters Anna (1924) and Maria (1926). His mother Anna, born 1870 at Hažín, married 1890, widowed 1922, ten children of whom eight are dead. A nephew Ján Kováč, born 1909 at Hažín.",
+  "notes": [
+   "Ten children and eight of them dead. The Duska agent and this one had both been reading that column as the children still living; see field-notes/correction-the-column-of-the-dead.md.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-80."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 165, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-80 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-163",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-6",
+  "file": "archive/duska-census/Inacovce_-_10_-_House_of_Jurar_Knyerso.png",
+  "sha256": "f410283d2d275ad8ff434f01e9d9527ec5b8b351f3a525a4c6727ea7e893eaf3",
+  "image": {
+   "format": "PNG",
+   "width": 1362,
+   "height": 972
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 129: Juraj Kňežo, Reformed, born 1861, his wife Anna and a grandson",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 10 - House of Jurar Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 129.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 129",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kňežo Juraj / prednosta domácnosti a majiteľ bytu / 8 decembra 1861 / ženatý / Iňačovce / kalvín / čítať len",
+    "english": "Juraj Kňežo, head and owner, born 8 December 1861, married; born at Iňačovce; Calvinist; reads only",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kňežová Anna / manželka / 30 júna 1868 / vydatá / február 1888 / 1 ; – / [Laškovo ?], Michalovce / február 1888 / kalvínka / čítať len",
+    "english": "Anna Kňežová, wife, born 30 June 1868, married February 1888; one child born alive; born at [Laškovo ?], in Iňačovce since February 1888; Calvinist; reads only",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Row 3",
+    "original": "Kňežo Juraj / vnuk / 30 marca 1913 / slobodný / Iňačovce / kalvín / čítať a písať",
+    "english": "Juraj Kňežo, grandson, born 30 March 1913, single; Calvinist; reads and writes",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 129, 1 December 1930. Juraj Kňežo, Calvinist, born 8 December 1861, owner; his wife Anna, born 1868, married February 1888, one child; their grandson Juraj, born 1913.",
+  "notes": [
+   "The Duska agent's reading agrees; it gives no day for the head's birth.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-72."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 129, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-72 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-164",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-7",
+  "file": "archive/duska-census/Inacovce_-_11_-_House_of_Pavel_Knyerso.png",
+  "sha256": "389dee4d042b05ac3683dbed7aa63fcb4b6a1c3bac39d12a9ed8a3a515dffd0d",
+  "image": {
+   "format": "PNG",
+   "width": 1513,
+   "height": 1079
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 3: Pavel Kniežo the younger, Reformed, born 1871; his wife Zuzana, born Tomovčík; their son Ján, his wife born Eštok, and three small sons",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 11 - House of Pavel Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 3.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 3",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kniežo Pavel ml. / majiteľ bytu / 20/II 1871 / ženatý / Iňačovce / kalvín / písať, čítať",
+    "english": "Pavel Kniežo the younger, owner, born 20 February 1871, married; born at Iňačovce; Calvinist; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kniežo (Tomovčík) Zuzana / manželka / 15/VIII 1877 / vydatá / 10/II 1895 / 2 ; 1 / Iňačovce / kalvínska",
+    "english": "Zuzana Kniežo, 'Tomovčík' written small under the surname, wife, born 15 August 1877, married 10 February 1895; two children born alive, one of them dead; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Kniežo (Tomovčík) Ján / prednosta domácnosti / 8/VII 1897 / ženatý / Iňačovce / kalvínsky",
+    "english": "Ján Kniežo, 'Tomovčík' written small under the surname, head of a household, born 8 July 1897, married; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Kniežo (Eštok) Mária / manželka / 1/I 1900 / vydatá / 19/IV 1920 / 4 ; 1 / Iňačovce / kalvínska",
+    "english": "Mária Kniežo, 'Eštok' under the surname, wife, born 1 January 1900, married 19 April 1920; four children born alive, one of them dead; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rows 5 to 7",
+    "original": "Kniežo Ján / syn / 13/X 1926 ; Kniežo Štefan / syn / [...] 1928 ; Kniežo Josef / syn / [...] 1928",
+    "english": "Sons Ján, born 13 October 1926, and Štefan and Josef, both born on one day in 1928: twins",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 3, 1 December 1930. Pavel Kniežo the younger, Calvinist, born 20 February 1871, owner; his wife Zuzana, born Tomovčík, born 1877, married 1895. Their son Ján, born 1897; his wife Mária, born Eštok, born 1900, married 1920, four children of whom one is dead; sons Ján (1926) and the twins Štefan and Josef (1928).",
+  "notes": [
+   "This commissioner wrote a second name small under the surname: the maiden name under each wife, and under the son the same name as under his mother. So the small name marks whose branch a Kniežo is.",
+   "The Reformed baptism book of Solymos has the same habit: 'Knyezső Estók' in 1904 (DM-X-054).",
+   "Four born and one dead leaves three, and three sons are in the house: the check that shows what the column means.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-73."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 3, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-73 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-165",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-8",
+  "file": "archive/duska-census/Inacovce_-_12_-_House_of_Janos_Knyerso.png",
+  "sha256": "5c1419f3ba688cad09071fcb310cac4ec0c61b609c66d7b58ab7c64b93d774c3",
+  "image": {
+   "format": "PNG",
+   "width": 1372,
+   "height": 983
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 17: Ján Kniežo 'kontra', Reformed, born 1886; his wife from Blatné Remety; four children",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 12 - House of Janos Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 17.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 17",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kniežo (kontra) Ján / majiteľ bytu / 13/III 1886 / ženatý / Iňačovce / reformované kalvínske / čítať, písať",
+    "english": "Ján Kniežo, 'kontra' written small under the surname, owner, born 13 March 1886, married; born at Iňačovce; Reformed; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kniežo Anna / manželka / 26/XI 1894 / vydatá / 2[7]/II 1911 / 5 ; 1 / Remety Blatné (?), Sobranecký / febr. 1911 / kalvínska",
+    "english": "Anna Kniežo, wife, born 26 November 1894, married 27 (or 21) February 1911; five children born alive, one of them dead; born at Blatné Remety (?), district of Sobrance; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rows 3 to 6",
+    "original": "Kniežo Štefan / syn / 3/IX 1921 ; Kniežo Andrej / syn / 5/I 1925 ; Kniežo Anna / dcéra / [...] 1927 ; Kniežo Eduard / syn / [...] 1930",
+    "english": "Children Štefan, born 3 September 1921; Andrej, born 5 January 1925; Anna, born 1927; Eduard, born 1930",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 17, 1 December 1930. Ján Kniežo, with 'kontra' written under his surname, Reformed, born 13 March 1886, owner; his wife Anna from Blatné Remety, born 1894, married February 1911, five children of whom one is dead; Štefan (1921), Andrej (1925), Anna (1927) and Eduard (1930).",
+  "notes": [
+   "'kontra' is in the place where this commissioner writes a mother's or a wife's family name (see no. 3). A György Knyezső and Anna Kontra have children in the Reformed book of Solymos in 1892 and 1894 (DM-X-054); a son of theirs born in 1886 would be this man. Not shown.",
+   "It bears on the DNA lead of DM-H-049 only this far: the Kontra name is tied to a Reformed Knyezső house, and Mária Knyezső was Roman Catholic.",
+   "The Duska agent reads 'also called Kontra' and the wedding day as 21.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-74."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 17, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-74 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-166",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-9",
+  "file": "archive/duska-census/Inacovce_-_13_-_House_of_Juraj_Knyerso.png",
+  "sha256": "44a32153abdf349f6acb543adac58efc64cb2582b0540e52ccb21faf35d24382",
+  "image": {
+   "format": "PNG",
+   "width": 1368,
+   "height": 978
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 14: Juraj Kniežo, Reformed, born 1856; his Greek Catholic wife Anna, six children and five dead; a daughter-in-law and a married granddaughter",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce - 13 - House of Juraj Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 14.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 14",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kniežo Juraj / majiteľ bytu / 3/IV 1856 / ženatý / Iňačovce / kalvínsky / čítať, písať",
+    "english": "Juraj Kniežo, owner, born 3 April 1856, married; born at Iňačovce; Calvinist; reads and writes",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kniežo Anna / manželka / 15/VIII 1860 / vydatá / 15/I 1878 / 6 ; 5 / Iňačovce / grécko katolícka",
+    "english": "Anna Kniežo, wife, born 15 August 1860, married 15 January 1878; six children born alive, five of them dead; born at Iňačovce; Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 3",
+    "original": "Kniežo Anna / nevesta [dcera, prečiarknuté] / 13/XII 1888 / vydatá / 14/VII (?) 1907 / 1 ; – / Iňačovce / kalvínska",
+    "english": "Anna Kniežo, daughter-in-law ('daughter' struck out), born 13 December 1888, married 14 July (?) 1907; one child born alive; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 4",
+    "original": "Onderko [Kniežo, prečiarknuté] Anna / vnučka / 31/X 1910 / vydatá / 1/VII 1927 / Iňačovce / kalvínska",
+    "english": "Anna Onderko ('Kniežo' struck out), granddaughter, born 31 October 1910, married 1 July 1927; Calvinist",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 14, 1 December 1930. Juraj Kniežo, Calvinist, born 3 April 1856, owner; his wife Anna, Greek Catholic, born 1860, married 15 January 1878, six children of whom five are dead. A daughter-in-law Anna, born 1888, married 1907, and her daughter Anna Onderko, born 1910, married 1927.",
+  "notes": [
+   "A Reformed husband and a Greek Catholic wife, married in 1878: a mixed Kniežo marriage of the very years in which the Roman Catholic Mária Knyezső married a Greek Catholic Kocsis.",
+   "The Duska agent wrote 'six children, five living' and the month of the 1907 wedding as November.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-75."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 14, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-75 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-167",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-10",
+  "file": "archive/duska-census/Inacovce_15_-_House_of_Michael_Knyerso.png",
+  "sha256": "99cefc9cf236f317b9572db61ef29cf0ba696b7f2983d9e6c7363236336b9901",
+  "image": {
+   "format": "PNG",
+   "width": 1366,
+   "height": 969
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 24 or 27: Michal Kniežo, Reformed, born 1899; his wife from Hažín; two children; his widowed mother Anna, born 1869",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce 15 - House of Michael Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 24.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 24 or 27",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kniežo Michal / majiteľ bytu / 17/IX 1899 / ženatý / Iňačovce / kalvínsky",
+    "english": "Michal Kniežo, owner, born 17 September 1899, married; born at Iňačovce; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kniežová Anna / manželka / 31/III 1901 / vydatá / 17/V 1919 / 2 ; – / Hažín, Michalovce / máj 1919 / kalvínska",
+    "english": "Anna Kniežová, wife, born 31 March 1901, married 17 May 1919; two children born alive; born at Hažín, in Iňačovce since May 1919; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rows 3, 4",
+    "original": "Kniežo Michal / syn / 24/V 1923 ; Kniežová Anna / dcéra / 12/V 1926",
+    "english": "Son Michal, born 24 May 1923; daughter Anna, born 12 May 1926",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "Kniežová Anna / matka / 19/III 1869 / vdova / a) 17/[II ?] 1891 b) 23/VII 1907 / 5 ; 2 / Iňačovce / kalvínska",
+    "english": "Anna Kniežová, mother, born 19 March 1869, widow; married 17 February (?) 1891, widowed 23 July 1907; five children born alive, two of them dead; born at Iňačovce; Calvinist",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 24 or 27, 1 December 1930. Michal Kniežo, Calvinist, born 17 September 1899, owner; his wife Anna from Hažín, born 1901, married 17 May 1919; Michal (1923) and Anna (1926). His mother Anna, born 1869, widowed 23 July 1907, five children of whom two are dead.",
+  "notes": [
+   "The house number is read 24 here and 27 by the Duska agent. Not settled.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-88."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 24 or 27, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-88 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-168",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-11",
+  "file": "archive/duska-census/Inacovce_-16_-_House_of_Juraj_Knyerso.png",
+  "sha256": "9d28d0abefcd9afff27b5f0653a974e231db30c361f29b0fc97d95944839e538",
+  "image": {
+   "format": "PNG",
+   "width": 1368,
+   "height": 975
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 31: Juraj Kniežo, Reformed, born 1896; two daughters; his widowed father Michal, born 1857; a Roman Catholic widow Marcinek from Senné",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce -16 - House of Juraj Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 31.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 31",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kniežo Juraj / majiteľ bytu / 5/III 1896 / ženatý / Iňačovce / kalvínske",
+    "english": "Juraj Kniežo, owner, born 5 March 1896, married; born at Iňačovce; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 2",
+    "original": "Kniežo Anna / manželka / 16/IV 1894 / vydatá / [2 ?]/V 1921 / 2 ; – / Iňačovce / kalvínska",
+    "english": "Anna Kniežo, wife, born 16 April 1894, married 2 (or 9) May 1921; two children born alive; Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Rows 3, 4",
+    "original": "Kniežo Anna / dcéra / 26/II 1922 ; Kniežo Maria / dcéra / [...] 1929",
+    "english": "Daughters Anna, born 26 February 1922, and Maria, born 1929",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 5",
+    "original": "Kniežo Michal / otec / 22/VII 1857 / vdovec / b) [...] 1912 / Iňačovce / kalvínska",
+    "english": "Michal Kniežo, father, born 22 July 1857, widower, widowed in 1912 (?); Calvinist",
+    "certainty": "probable"
+   },
+   {
+    "column": "Row 6",
+    "original": "Marcinek Anna / bez pomeru / 8/I 1859 / vdova / a) 25/X 1878 b) 14/X 1922 / 3 ; 2 / Senné, Michalovce / rímsko katolícka",
+    "english": "Anna Marcinek, no relation to the household, born 8 January 1859, widow; married 25 October 1878, widowed 14 October 1922; three children born alive, two of them dead; born at Senné; Roman Catholic",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 31, 1 December 1930. Juraj Kniežo, Calvinist, born 5 March 1896, owner; his wife Anna, born 1894, married May 1921; daughters Anna (1922) and Maria (1929). His father Michal Kniežo, widower, born 22 July 1857. Lodging with them, 'no relation': Anna Marcinek, Roman Catholic widow, born at Senné in 1859.",
+  "notes": [
+   "The Duska agent did not read the sixth row; the rest agrees, the wedding day apart.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-85."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 31, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-85 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012"
+ },
+ {
+  "id": "DM-D-169",
+  "batch": "DM-B-026",
+  "folder": "F-12",
+  "source": "DM-S-026-12",
+  "file": "archive/duska-census/Inacovce_-17_-_House_of_Alabeta_Knyerso.png",
+  "sha256": "11894301cc45821ec9c2dad8cbe90190ed9449461035a9f160e19caaef9f7581",
+  "image": {
+   "format": "PNG",
+   "width": 1366,
+   "height": 971
+  },
+  "title": "Census of 1 December 1930, Iňačovce, house 82: Alžbeta Kniežo, Evangelical, born 1901, her husband away; two children",
+  "kind": "State census household sheet (Popisný hárok)",
+  "language": "Slovak",
+  "collector_label": "Inacovce -17 - House of Alabeta Knyerso",
+  "register": {
+   "parish": "n/a",
+   "denomination": "n/a",
+   "page": "n/a",
+   "archive_reference": "Not legible"
+  },
+  "fields": [
+   {
+    "column": "Head",
+    "original": "Politický okres Michalovce. Obec Iňačovce. Číslo domovné 82.",
+    "english": "District of Michalovce, commune of Iňačovce, house no. 82",
+    "certainty": "clear"
+   },
+   {
+    "column": "Row 1",
+    "original": "Kniežo Alžbeta / prednosta domácnosti / 8/I 1901 / vydatá / 24/[V or XI] 1919 / 2 ; – / [...], [...], Amerika / 24/[...] 1919 / evanjelická / čítať, písať",
+    "english": "Alžbeta Kniežo, head of the household, born 8 January 1901, married 24 May or November 1919; two children born alive; birthplace not read, the country America; in Iňačovce since her wedding day; Evangelical; reads and writes",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Rows 2, 3",
+    "original": "Kniežo Juraj / syn / 20/XII 1920 / kalvínsky ; Kniežo Alžbeta / dcéra / 16/[IV or XI] 1925 / kalvínska",
+    "english": "Son Juraj, born 20 December 1920; daughter Alžbeta, born 16 April or November 1925; both Calvinist",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "Iňačovce no. 82, 1 December 1930. Alžbeta Kniežo, Evangelical, born 8 January 1901 in America, married in 1919, head of the household with her husband away; her children Juraj (1920) and Alžbeta (1925), Calvinist.",
+  "notes": [
+   "'America' as her country of birth is the Duska agent's reading (DUS:D-011-86), taken after comparing; the third line of the cell does read so on a second look.",
+   "Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.",
+   "Anyone born after November 1926 is given by year only.",
+   "Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-86."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Census of 1930, household sheets, commune of Iňačovce",
+   "page_or_image": "house 82, page 1",
+   "obtained": "unknown; a screen capture. From the owner's folder 'Duska Census', given to the Duska agent"
+  },
+  "object": {
+   "kind": "Household sheet (Popisný hárok) of the Czechoslovak census of 1 December 1930",
+   "why": "The printed head reads 'Československá republika', 'Sčítanie ľudu 1930', 'Popisný hárok'; the columns are numbered 1 to 24 and the rows are for 'persons present on the night of 1 to 2 December 1930'. Filled in ink in one hand; coded afterwards in green and red pencil.",
+   "does_not_fit": "Nothing. The image is a screen capture from an online viewer, with the viewer's controls in it.",
+   "made_by": "The census commissioner for the commune, from what the household said; the coloured figures by the statistical office",
+   "when": "December 1930",
+   "kept_where": "With the returns of the state statistical office. From recall, not checked: the Slovak sheets are now in the Slovak National Archives and are shown on a public portal, which the Duska agent names.",
+   "compared_with": [
+    "The form itself; no published example was looked up for this sheet"
+   ],
+   "changes_name": false
+  },
+  "independent": false,
+  "also_read_by": "DUS:D-011-86 @5139f2d",
+  "taken_from": "primerogueinc/genealogu-duska-1 @5139f2d under ledger X-012",
+  "changed_after_comparison": [
+   "Country of birth in row 1: not read at first; 'America' is the Duska agent's reading, taken after comparing."
+  ]
  }
 ]

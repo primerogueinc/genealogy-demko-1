@@ -91,6 +91,13 @@ Added 14 Nov 2026 from ledger v26 and from the owner's word.
 - **Field notes at each juncture** (the owner, through the Duska agent): a note before each new kind of material, saying what is expected, written before looking; a note written while it is opened. Separate files in `field-notes/`, never revised.
 - **The hard-drive rule** (the owner's, and the one he says he will not override): the agents get what he already has. Ask him to fetch nothing.
 
+Added 15 Nov 2026 from ledger v27.
+
+- **DNA (X-023, rewritten again).** Findings, leads and hypotheses from DNA go on the site like other evidence. Held whatever the owner allows: raw genotype files, every match list, every picture of an account, a living tester's given name, initials, kit number, address, e-mail and tree, and anything bearing on health. A living match may be given by the amount shared and by surname when the surname is the lead; surnames a match lists for dead forebears may be published. Nobody goes on the tree on DNA alone. Of Ahn 2 say only that he is not tested.
+- **The hard-drive rule is now X-033.** Requests to the owner are withdrawn and kept as wants in `WANTED.md`. A file he made after the experiment began is used and marked as such on its record.
+- **Census of 1930, columns 9 and 10:** children born alive, and of them dead. Not 'living'. Read the printed heading of any form before the handwriting.
+- **Census sheets of 1930** are taken even where they list small children (X-016: dead by the owner's statement). Anyone born after November 1926 is given by year only; that is this agent's own extra care.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.

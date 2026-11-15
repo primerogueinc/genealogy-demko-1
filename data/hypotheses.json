@@ -893,7 +893,7 @@
  {
   "id": "DM-H-036",
   "statement": "Mária Knyezső, wife of Mihály Kocsis of Solymos no. 19 and candidate for Ahn 39, was born into one of the Knyezső families of Solymos that appear in the Reformed register.",
-  "confidence": 50,
+  "confidence": 35,
   "basis": "The surname is thick on the ground at Solymos: nine couples in the Reformed book between 1884 and 1921, one more in the Greek Catholic book (Gergely, no. 97, DM-D-065). Knyezsős stand godparent across the churches: a Mihály Knyezső for the Kocsis children of no. 13 in the Greek Catholic book, and Knyezsős for Duska children in the Reformed book from 1829 (the Duska agent's finding, not checked here). Her own daughter of 1887 had a Reformed godmother. Against: she is written 'rkath.' in 1887 and again in 1889, by a priest who writes 'ref.' for the godmother in the same entry. A Roman Catholic daughter in a Reformed family needs a Catholic mother. From recall, not checked here: under the Hungarian law of 1868 the children of a mixed marriage followed the parent of their own sex, which would allow exactly that, but a recalled rule only suggests the test. She may also have come from another village. The Duska agent holds the same question at 40 (DUS:H-044 @4d7a299).",
   "test": "Her baptism, about 1850 to 1869, in the Roman Catholic book that served Solymos, or in the Reformed book if her rite changed; the marriage of Mihály Kocsis and Mária Knyezső, before 1887, which should give her age, rite and home village.",
   "status": "open",
@@ -918,6 +918,12 @@
     "from": 50,
     "to": 50,
     "why": "No change in the number. The Places agent finds that Roman Catholics of Solymos belonged to the parish of Senné, and that its baptisms before 1866 are not in the state archive, perhaps burned in 1865 (PL-N-035, PL-H-018 @fc7360d). Mária Knyezső, born 1863 by the census, falls in that gap. Her marriage of 10 November 1879 falls inside the surviving marriage volume, no. 1090."
+   },
+   {
+    "batch": "DM-B-026",
+    "from": 50,
+    "to": 35,
+    "why": "Nine of the twelve Kňežo houses of Iňačovce in 1930 are Reformed, but no Reformed house has a Roman Catholic wife: the mixed marriages shown are with a Greek Catholic and an Evangelical. The Roman Catholic wives are in the two Greek Catholic houses. A Roman Catholic daughter needs a Roman Catholic mother, so the Greek Catholic houses fit her better (DM-H-052). Small numbers, read back sixty-seven years."
    }
   ]
  },
@@ -994,9 +1000,9 @@
   "id": "DM-H-041",
   "statement": "Maria Kočišová of the census of 1930 is Mária Knyezső, widow of Mihály Kocsis of Solymos no. 19, and the mother of Mária Kocsis (Ahn 19).",
   "question": "X-Q-05",
-  "confidence": 69,
-  "basis": "Married name Kocsis; Roman Catholic, as Mária Knyezső is written twice in the baptism book; born at Iňačovce in 1863, so 23 at the birth of the Mária of [1887]; married in 1879; mother-in-law of the man who was Mária Kocsis's husband in 1906 (DM-D-105, DM-D-054, DM-D-048, DM-D-008). Three children born fits Mária, Anna and one more. Against: 'mother-in-law' may be through the second wife, Zuzanna, born 1901, whose maiden name is not given; then the widow need not be the mother of the first. If he married two sisters she is the mother of both. Another Roman Catholic widow Kocsis at Iňačovce cannot be ruled out without the 1930 sheets for the other Kocsis houses. The Duska agent holds the same reading at 60 (DUS:H-070 @2043138): one sheet, read twice.",
-  "test": "The marriage of 10 November 1879, in the Iňačovce Greek Catholic or Roman Catholic book (volumes to 1898 are at Prešov, PL-R-003): it names the bride and groom. The marriage of 3 February 1919, for Zuzanna's maiden name. The 1930 sheets of the other Kocsis houses at Iňačovce.",
+  "confidence": 67,
+  "basis": "Married name Kocsis; Roman Catholic, as Mária Knyezső is written twice in the baptism book; born at Iňačovce in 1863, so 23 at the birth of the Mária of [1887]; married in 1879; mother-in-law of the man who was Mária Kocsis's husband in 1906 (DM-D-105, DM-D-054, DM-D-048, DM-D-008). Three children born alive and two dead by 1930 (corrected in DM-B-026): that fits Mária [1887], dead by 1919, Anna [1889], and Zuzanna, 1901, the wife of the house. Against: 'mother-in-law' may be through the second wife, Zuzanna, born 1901, whose maiden name is not given; then the widow need not be the mother of the first. If he married two sisters she is the mother of both. Another Roman Catholic widow Kocsis at Iňačovce cannot be ruled out without the 1930 sheets for the other Kocsis houses. The Duska agent holds the same reading at 60 (DUS:H-070 @2043138): one sheet, read twice.",
+  "test": "The marriage of 10 November 1879, in the Iňačovce Greek Catholic or Roman Catholic book (volumes to 1898 are at Prešov, PL-R-003): it names the bride and groom. The marriage of 3 February 1919, for Zuzanna's maiden name. The 1930 sheets of the other Kocsis houses at Iňačovce. Since DM-B-026: the baptism of Zuzanna, 28 April 1901, at Solymos; the burial of Anna Kocsis, born 1889, before December 1930.",
   "status": "open",
   "raised": "DM-B-017",
   "resolved": null,
@@ -1007,6 +1013,12 @@
     "from": 68,
     "to": 69,
     "why": "The two Kočiš houses of Iňačovce in the census of 1930 that the owner saved are not hers: Michal of no. 69 is the son of György Kocsis and Anna Ivankó by his birthday, and Juraj of no. 108 married on the same day as he did (DM-D-156, DM-D-157). So no son of Mihály Kocsis and Mária Knyezső is found keeping a house, which is what a widow living with her son-in-law would suggest. A small point."
+   },
+   {
+    "batch": "DM-B-026",
+    "from": 69,
+    "to": 67,
+    "why": "A correction to this agent's own reading. Column 10 of the census sheet is 'of them dead', not 'living' (DM-D-105). The widow had three children and two were dead; so one was alive in 1930. Mária Kocsis was dead by 1919, which fits. But the one living child is most simply the wife of the house, Zuzanna, born 1901: the reading listed here as 'against', that she is mother-in-law through the second wife, is now the likely one. She is then the mother of the first wife as well only if he married two sisters (DM-H-053). For it: three children is exactly Mária [1887], Anna [1889] and Zuzanna 1901. Against: a twelve-year gap, and no paper that names Zuzanna's parents. Down two."
    }
   ]
  },
@@ -1147,7 +1159,14 @@
   "raised": "DM-B-024",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-026",
+    "from": 35,
+    "to": 35,
+    "why": "No change. The census gives a Ján Kniežo, Reformed, born 1886, with 'kontra' written under his surname where the commissioner puts a mother's family name (DM-D-165). So the Kontra name is tied to a Reformed Kňežo house, as in the baptism book. Mária Knyezső was Roman Catholic. It neither helps nor hurts."
+   }
+  ]
  },
  {
   "id": "DM-H-050",
@@ -1158,6 +1177,59 @@
   "test": "His baptism in the Solymos Greek Catholic book, February 1882. His marriage entry of 20 February 1905.",
   "status": "open",
   "raised": "DM-B-025",
+  "resolved": null,
+  "resolution": null,
+  "history": [
+   {
+    "batch": "DM-B-026",
+    "from": 50,
+    "to": 50,
+    "why": "No change. A correction: the sheet for no. 108 is not wrong about the children, the reader was (DM-D-157)."
+   }
+  ]
+ },
+ {
+  "id": "DM-H-051",
+  "statement": "Zuzanna Demková, born at Iňačovce on 28 April 1901, second wife of Michal Demko (Ahn 18), is the daughter of the widow Maria Kočišová who lives in his house in 1930, and so was born Kocsis.",
+  "question": "X-Q-05",
+  "confidence": 70,
+  "basis": "The widow is entered as the head's mother-in-law. She had three children and two are dead (DM-D-105, as corrected). A widow with one living child lives with that child; the wife of the house is of the right age to be a child of a woman married in 1879 and born in the same village. Against: the sheet gives no maiden name for Zuzanna; a widow can stay on in the house of a dead daughter's husband; her living child could be elsewhere. A link with no record naming a parent, so held at the cap of 70 (X-009); without it, about 80.",
+  "test": "Her baptism, 28 April 1901, Solymos Greek Catholic or Senné Roman Catholic. The marriage of 3 February 1919.",
+  "status": "open",
+  "raised": "DM-B-026",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-052",
+  "statement": "Mária Knyezső, candidate for Ahn 39, was born at Iňačovce to a Greek Catholic Kňežo father and a Roman Catholic mother, in the kin of the houses numbered 145 and 146 in 1930.",
+  "question": "X-Q-05",
+  "confidence": 45,
+  "basis": "She is Roman Catholic in two baptism entries and, if she is the widow of 1930, was born at Iňačovce on 15 August 1863. Of twelve Kňežo houses there in 1930 none is Roman Catholic; two are Greek Catholic and both have Roman Catholic wives, one of them a woman born in the village in 1850 (DM-D-159, DM-D-158). Under the law of 1868 (from recall, not checked) daughters of a mixed marriage followed the mother. Hreha Kňežo of no. 145, born 1858, is of her generation. Against: it reads 1930 back to 1863; the owner's sheets may not be every Kňežo house; she may have been baptised Roman Catholic for another reason. Rival of DM-H-036.",
+  "test": "Her baptism, 15 August 1863, in the Roman Catholic book of Senné. Her marriage of 10 November 1879, which should name her father.",
+  "status": "open",
+  "depends_on": [
+   "DM-H-041"
+  ],
+  "raised": "DM-B-026",
+  "resolved": null,
+  "resolution": null,
+  "history": []
+ },
+ {
+  "id": "DM-H-053",
+  "statement": "Michal Demko's two wives were sisters: Zuzanna, whom he married in 1919, was the younger sister of Mária Kocsis (Ahn 19), and Maria Demko's stepmother was her mother's sister.",
+  "question": "X-Q-05",
+  "confidence": 52,
+  "basis": "If the widow of 1930 is Zuzanna's mother (DM-H-051) and also Mária Knyezső, mother of Ahn 19 (DM-H-041), it follows. A widower with small children marrying his wife's sister was common (from recall). Three children fit: Mária [1887], Anna [1889], Zuzanna 1901. Against: both parts are unproved, and the simpler reading of the corrected sheet is that the widow is Zuzanna's mother and no more.",
+  "test": "Zuzanna's baptism of 28 April 1901: the parents should be Mihály Kocsis and Mária Knyezső.",
+  "status": "open",
+  "depends_on": [
+   "DM-H-041",
+   "DM-H-051"
+  ],
+  "raised": "DM-B-026",
   "resolved": null,
   "resolution": null,
   "history": []

@@ -33,3 +33,4 @@ A list of seventeen men whose Y-chromosome results equal the owner's at twelve m
 - Twelve markers is the weakest level of Y matching. An 'exact match' there can be thousands of years old, and the column of Big Y differences shows that these are.
 - The Slovak match tested 37 markers and has no deep result. He is no closer than the others on this evidence.
 - It is the Duska male line's evidence. Scored as given.
+- Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that.

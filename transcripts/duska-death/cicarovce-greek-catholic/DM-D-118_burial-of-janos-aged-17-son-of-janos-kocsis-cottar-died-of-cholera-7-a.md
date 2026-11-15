@@ -22,11 +22,11 @@
 | Sex, age | fi, 17 | male, 17 | probable |
 | Cause | cholera | cholera | clear |
 | Buried | Cséppely aug. 8. | Cséppely, 8 August | probable |
-| Remark | mátyóczi lelkész által tem[...] | buried by the minister of Mátyóc (?) | uncertain |
+| Remark | mátyóci lelkészethez tartozik | belongs to the pastorate of Mátyóc | probable |
 
 ## Translation
 
-No. 73. 7 August. János; his father János Kocsis, cottar. Cséppely 21. Male, 17. Cholera. Buried at Cséppely on 8 August. Remark: buried by the minister of Mátyóc (?).
+No. 73. 7 August. János; his father János Kocsis, cottar. Cséppely 21. Male, 17. Cholera. Buried at Cséppely on 8 August. Remark: belongs to the pastorate of Mátyóc.
 
 ## Notes
 

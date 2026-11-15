@@ -562,5 +562,23 @@
   "date": "2026-11-15",
   "decision": "Took the two Kočiš census sheets of Iňačovce (nos. 69 and 108) from the Duska agent's folder; both marked not independent. Looked at no. 84 and left it: it lists an infant born in 1930.",
   "why": "Ledger X-012 and X-016. These were the Kocsis houses most likely to bear on the parents of Ahn 19; they turn out to be another Kocsis family."
+ },
+ {
+  "id": "DM-DEC-095",
+  "date": "2026-11-15",
+  "decision": "Read ledger v27 and acted on it: field notes 3 and 4 written; every open request to the owner withdrawn and kept as a list of wants in WANTED.md; DNA exports made after the experiment began marked as such; the ruled reading of X-S-008 taken on DM-D-118.",
+  "why": "Ledger v27: X-032 items 9 and 10, X-033, X-023, and the Places agent's ruling."
+ },
+ {
+  "id": "DM-DEC-096",
+  "date": "2026-11-15",
+  "decision": "Took the twelve Kňežo census sheets of Iňačovce from the Duska agent's folder, all marked not independent. Sheets that list children born after 1926 are taken, with those children by year only. The sheet for the widow Dušková of no. 28 is left to the Duska agent.",
+  "why": "Ledger X-016: villagers on the census sheets of 1930 are dead by the owner's statement, and the Duska repo already publishes the images. Year only is this agent's own extra care."
+ },
+ {
+  "id": "DM-DEC-097",
+  "date": "2026-11-15",
+  "decision": "Corrected the reading of column 10 of the 1930 census sheet in four earlier documents, three people and two hypotheses: it is 'of them dead', not 'living'. First readings kept in the notes. Batch blurbs and field notes already published are not changed.",
+  "why": "Found while reading house 3, where four born and 'one' beside it stood over three living sons. Checked against the printed heading."
  }
 ]

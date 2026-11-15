@@ -34,3 +34,4 @@ Maria Demko's mother-line, carried by her son, is in haplogroup R0: H most likel
 - The meaning of each position is from recall of the standard tree, not checked against it.
 - This agent's guess, written the day before in field-notes/before-the-mother-line.md: H, at about 40 in 100.
 - It names no woman and no village. It would matter only if a woman descended daughter to daughter from the same line had tested and been compared.
+- By its file name the raw file was downloaded in January 2022, before the experiment (ledger X-033 item 2).

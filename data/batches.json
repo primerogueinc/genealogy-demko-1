@@ -1375,5 +1375,87 @@
    "found": "Two census sheets taken (its D-011-82 and D-011-83), checksums equal to its manifest; its abstracts agree with this reading, one day of one birthday apart. Its abstract had already tied no. 69 to the baptism of 1879.",
    "not_taken": "24 Senné burial strips, 36 census sheets (the Knyezső houses of Iňačovce first), the Senné baptism strips, the Krak strips, the younger son's papers."
   }
+ },
+ {
+  "id": "DM-B-026",
+  "date": "2026-11-15",
+  "at_utc": "2026-11-15T09:36:43Z",
+  "title": "Ledger v27; twelve Kňežo houses; and a column both agents had been reading upside down",
+  "folder": "F-12",
+  "files": 12,
+  "blurb": "Ledger v27 was read and acted on: field notes 3 and 4 are written, every request to the owner is withdrawn under the hard-drive rule and kept as a list of wants, and the ruled reading of one burial remark is taken. Then the paper: the twelve census sheets of 1930 for the Kňežo houses of Iňačovce, the family name of Mária Knyezső. Nine houses are Reformed and two Greek Catholic; none is Roman Catholic, as she was. The Roman Catholic women are the wives in the two Greek Catholic houses, so those are where to look for her. Reading them turned up an error of this agent's own, and of the Duska agent's. The column read until now as 'children living' is headed 'of them dead'. So the widow Kočišová in Michal Demko's house had three children and two were dead, not two alive. Her one living child is most simply his second wife, Zuzanna, born 1901. That makes Zuzanna a Kocsis (held at 70, the cap), and makes it an even chance that he married his dead wife's sister, which would make Maria Demko's stepmother her aunt. The reading that the widow is Maria Demko's grandmother goes from 69 to 67. The capped links do not move. Curiosities: 5",
+  "raised": [
+   "DM-H-051",
+   "DM-H-052",
+   "DM-H-053"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-041",
+   "DM-H-036"
+  ],
+  "people_added": [
+   "DM-X-082"
+  ],
+  "sources_added": [
+   "DM-S-026-1",
+   "DM-S-026-2",
+   "DM-S-026-3",
+   "DM-S-026-4",
+   "DM-S-026-5",
+   "DM-S-026-6",
+   "DM-S-026-7",
+   "DM-S-026-8",
+   "DM-S-026-9",
+   "DM-S-026-10",
+   "DM-S-026-11",
+   "DM-S-026-12"
+  ],
+  "documents_added": [
+   "DM-D-158",
+   "DM-D-159",
+   "DM-D-160",
+   "DM-D-161",
+   "DM-D-162",
+   "DM-D-163",
+   "DM-D-164",
+   "DM-D-165",
+   "DM-D-166",
+   "DM-D-167",
+   "DM-D-168",
+   "DM-D-169"
+  ],
+  "documents_revised": [
+   "DM-D-101",
+   "DM-D-105",
+   "DM-D-118",
+   "DM-D-147",
+   "DM-D-157",
+   "DM-D-149",
+   "DM-D-150",
+   "DM-D-153",
+   "DM-D-154",
+   "DM-D-155"
+  ],
+  "curiosities_added": [
+   "DM-C-055",
+   "DM-C-056",
+   "DM-C-057",
+   "DM-C-058",
+   "DM-C-059"
+  ],
+  "curiosities": 5,
+  "read": [
+   "read ledger v27, duska-coordinator @9f885b2",
+   "genealogu-duska-1 main @5139f2d",
+   "duska-and-demko-villages main @c45834e",
+   "private repository @a344f75: piles unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "5139f2d",
+   "found": "Twelve census sheets taken (its D-011-71 to -75, -77 to -80, -85, -86, -88), checksums equal to its manifest. Its abstracts agree with these readings in names and years; days differ on four dates and one house number. It left the last row of six sheets unread; they are read here. It reads column 10 as 'living' throughout, as this agent did: told in DM→DU-022. One word taken from it (America, no. 82).",
+   "not_taken": "The widow Dušková of no. 28 (its line). 24 Senné burial strips, 23 census sheets, the Senné baptism strips, the Krak strips, the younger son's papers."
+  }
  }
 ]

@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Head | Československá republika. Sčítanie ľudu 1930. Popisný hárok. Politický okres Veľ. Kapušany. Obec Vysoká. Číslo domovné 165. Meno majiteľa domu: Ján Demko | Czechoslovak Republic. Census of 1930. Household sheet. District of Veľké Kapušany, commune of Vysoká, house no. 165. Owner of the house: Ján Demko | clear |
 | Row 1 | Demko Ján / majiteľ bytu [a] prednosta domácnosti / mužské / 15 IV 1875 / ženatý / Vysoká, V. Kapušany, Slovensko / čsl., Vysoká / slovenská / grécko katolík / čítať a písať / roľník / hospodár samostatný / trvale | Ján Demko, owner of the dwelling and head of the household, male, born 15 April 1875, married; born at Vysoká, district of Veľké Kapušany; home commune Vysoká; Slovak; Greek Catholic; reads and writes; farmer on his own account; permanently resident | clear |
-| Row 2 | Demkova Maria / manželka / ženské / 5 XII (?) 1878 / vydatá / 10 IX (?) 1897 / 10 ; 6 / Vysoká / slovenská / rímsko katolíčka / čítať a písať | Maria Demková, wife, born 5 December (?) 1878, married 10 September (?) 1897; ten children born, six living; born at Vysoká; Slovak; Roman Catholic; reads and writes | probable |
+| Row 2 | Demkova Maria / manželka / ženské / 5 XII (?) 1878 / vydatá / 10 IX (?) 1897 / 10 ; 6 / Vysoká / slovenská / rímsko katolíčka / čítať a písať | Maria Demková, wife, born 5 December (?) 1878, married 10 September (?) 1897; ten children born alive, six of them dead; born at Vysoká; Slovak; Roman Catholic; reads and writes | probable |
 | Row 3 | Demko Juraj / syn / mužské / 18 VII (?) 1908 / ženatý / Vysoká / grécko katolík / roľník / pomáha | Juraj Demko, son, born 18 July (?) 1908, married; born at Vysoká; Greek Catholic; farmer, helping in the family | probable |
 | Row 4 | Demkova Maria / nevesta / ženské / 10 III 1911 / vydatá / 1 IX (?) 1929 / 0 ; 0 / Vysoká / grécko katolíčka | Maria Demková, daughter-in-law, born 10 March 1911, married 1 September (?) 1929, no children; born at Vysoká; Greek Catholic | probable |
 | Row 5 | Demko Michal / syn / 16 VIII 1914 / slobodný / Vysoká / grécko katolík / roľník / pomáha | Michal Demko, son, born 16 August 1914, single; Greek Catholic; farmer, helping in the family | probable |
@@ -25,7 +25,7 @@
 
 ## Translation
 
-Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born and six living. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.
+Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born alive and six of them dead. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.
 
 ## Notes
 
@@ -35,3 +35,4 @@ Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the nigh
 - Like his father he married a Roman Catholic. The sons are entered Greek Catholic, after the father.
 - The Roman numerals for the months are small. The Duska agent, which calls its own reading of this sheet a fast one, has the wife born 5 July and married 10 February, Juraj born 18 September, the daughter-in-law married 1 October and the youngest son born 20 June. Years agree throughout.
 - Not an independent reading: the Duska agent's note and abstract for this sheet were seen in an earlier batch.
+- Corrected in DM-B-026: column 10 of the sheet is headed 'z nich zomrelo', 'of them dead', not 'living'. The first reading is kept in the note. First reading: 'ten children born, six living'. Ten born and six dead leaves four, and four sons are on the sheet.

@@ -30,3 +30,4 @@ The owner's own results. The Y material is the Duska male line's and is passed t
 - Held. Raw genotype data is never uploaded anywhere (ledger X-023 item 3).
 - Exposure, reported to the coordinator: his mother-line result and the names on those lists were in front of this agent. Nothing from them is recorded here.
 - Two archives of aerial pictures came with the files and are not DNA; they were not opened and are not listed.
+- Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that.

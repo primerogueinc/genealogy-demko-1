@@ -38,3 +38,4 @@
 - No tree of any match was opened and none will be. Nothing is asked of the owner (the hard-drive rule).
 - Ledger X-023: DNA names no person and moves no identity or parent link. Scored as given.
 - Corrected in DM-B-024. Three statements of DM-B-022 and DM-B-023 were wrong and are replaced above: that the X column was empty; that one match lists Hreško and one Jaros; and, in a note to the Duska agent, that five list Krak. The Duska agent's reading of the same list (DUS:D-016-43) was right on all three.
+- Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that.

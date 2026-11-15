@@ -1006,7 +1006,7 @@
   "batch": "DM-B-017",
   "type": "State census household sheet",
   "title": "Census of 1 December 1930, Iňačovce, house 117: Michal Demko, born 1882 at Vysoká, his wife Zuzanna, two children, and his mother-in-law Maria Kočišová",
-  "extract": "Iňačovce, district of Michalovce, house 117, owner Michal Demko, on the night of 1 December 1930. Michal Demko, head of the household, born 28 August 1882 at Vysoká, married, Greek Catholic, Slovak, a farmer, reads and writes. Zuzanna Demková, his wife, born 28 April 1901 at Iňačovce, married 3 February 1919, two children born. Juraj Demko, son, born 17 September 1911 at Iňačovce, single. Anna Demková, daughter, born 12 November 1924. Maria Kočišová, the head's mother-in-law, born 15 August 1863 at Iňačovce, a widow, married 10 November 1879, three children born and two living, Roman Catholic, reads and writes.",
+  "extract": "Iňačovce, district of Michalovce, house 117, owner Michal Demko, on the night of 1 December 1930. Michal Demko, head of the household, born 28 August 1882 at Vysoká, married, Greek Catholic, Slovak, a farmer, reads and writes. Zuzanna Demková, his wife, born 28 April 1901 at Iňačovce, married 3 February 1919, two children born. Juraj Demko, son, born 17 September 1911 at Iňačovce, single. Anna Demková, daughter, born 12 November 1924. Maria Kočišová, the head's mother-in-law, born 15 August 1863 at Iňačovce, a widow, married 10 November 1879, three children born alive and two of them dead, Roman Catholic, reads and writes.",
   "reliability": "A state census sheet filled in for the household; dates are as the household gave them, and relationships are to the head.",
   "document": "DM-D-105",
   "also": "DUS:D-011-84 @2043138"
@@ -1426,7 +1426,7 @@
   "batch": "DM-B-019",
   "type": "State census household sheet",
   "title": "Census of 1 December 1930, Vysoká, house 165: Ján Demko, Greek Catholic farmer, born at Vysoká in April 1875, his wife Maria, four sons and a daughter-in-law",
-  "extract": "Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born and six living. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.",
+  "extract": "Vysoká, district of Veľké Kapušany, house 165, owner Ján Demko, on the night of 1 December 1930. Ján Demko, head of the household, born 15 April 1875 at Vysoká, married, Slovak, Greek Catholic, reads and writes, a farmer on his own account. Maria, his wife, born in 1878 at Vysoká, Roman Catholic, married in 1897, ten children born alive and six of them dead. Juraj, their son, born 1908, married, and his wife Maria, born 1911, married in 1929. Their sons Michal (1914), Andrej (1916) and Ján (1919), single.",
   "reliability": "A census return: what the household told the commissioner on one night. Good for who lived in the house; the birth dates are the household's memory and run days off the church books.",
   "document": "DM-D-147",
   "also": "DUS:D-011-109 @9462513"
@@ -1543,5 +1543,125 @@
   "reliability": "A census return: what the household told the commissioner on one night.",
   "document": "DM-D-157",
   "also": "DUS:D-011-83 @42f02b2"
+ },
+ {
+  "id": "DM-S-026-1",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 146: Ján Kňežo, Greek Catholic, born 1881; his Roman Catholic wife and mother; a married son; a third household named Ivanko",
+  "extract": "Iňačovce no. 146, 1 December 1930. Ján Kňežo, Greek Catholic farmer, born 10 February 1881, owner. His wife Anna, Roman Catholic, born 1881, married 6 May 1900, two children. Their son Ján, born 1906, and his wife Alžbeta from Porostov, married 1928. The grandmother Anna Kňežo, Roman Catholic, born at Iňačovce on 28 May 1850, married in September 1868 and a widow since September 1928; two children, one dead. A third household: Anna Ivanko, born 1902, and her son František, born 1928.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-158",
+  "also": "DUS:D-011-71 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-2",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 145: Michal Kňežo, Greek Catholic, born 1882; his Roman Catholic wife from Jastrabie; his father Hreha, born 1858, and mother Anna",
+  "extract": "Iňačovce no. 145, 1 December 1930. Michal Kňežo, Greek Catholic, born 30 July 1882, owner. His wife Maria, Roman Catholic, born 1885 at Jastrabie, married September 1904, four children, two dead. Their married daughter Maria, born 1905. His father Hreha Kňežo, born 12 September 1858, and mother Anna, born 1860, married October 1881, five children, one dead.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-159",
+  "also": "DUS:D-011-77 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-3",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 144: Ján Kňežo, Reformed, born 1881; his son-in-law Ján Tomovčík's household; his father Pavol, born 1850",
+  "extract": "Iňačovce no. 144, 1 December 1930. Ján Kňežo, Calvinist, born June 1881, owner; his wife Anna, born 1885, married 1902, three children, one dead. Their daughter Maria, born 1908, her husband Ján Tomovčík from Jastrabie, married 1925, and two small sons. The owner's father Pavol Kňežo, widower, born 12 November 1850.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-160",
+  "also": "DUS:D-011-78 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-4",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 167: Maria Danková (not Demková), born 1891; two sons; her mother Anna Kňežová, widow, born 1848",
+  "extract": "Iňačovce no. 167, 1 December 1930. Maria Danková, born 8 December 1891, married 1912, her husband not in the house; her sons Juraj (1914) and Ján (1918), Greek Catholic. Her mother Anna Kňežová, Greek Catholic, a widow since 1910, born 14 June 1848, married 16 February 1872.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-161",
+  "also": "DUS:D-011-79 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-5",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 165: Ján Kňežo, Reformed, born 1900; his wife from Blatné Remety; his mother Anna from Hažín, ten children and eight dead",
+  "extract": "Iňačovce no. 165, 1 December 1930. Ján Kňežo, Calvinist, born 5 December 1900, owner; his wife Anna from Blatné Remety, born 1904, married 1919, three children, one dead; daughters Anna (1924) and Maria (1926). His mother Anna, born 1870 at Hažín, married 1890, widowed 1922, ten children of whom eight are dead. A nephew Ján Kováč, born 1909 at Hažín.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-162",
+  "also": "DUS:D-011-80 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-6",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 129: Juraj Kňežo, Reformed, born 1861, his wife Anna and a grandson",
+  "extract": "Iňačovce no. 129, 1 December 1930. Juraj Kňežo, Calvinist, born 8 December 1861, owner; his wife Anna, born 1868, married February 1888, one child; their grandson Juraj, born 1913.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-163",
+  "also": "DUS:D-011-72 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-7",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 3: Pavel Kniežo the younger, Reformed, born 1871; his wife Zuzana, born Tomovčík; their son Ján, his wife born Eštok, and three small sons",
+  "extract": "Iňačovce no. 3, 1 December 1930. Pavel Kniežo the younger, Calvinist, born 20 February 1871, owner; his wife Zuzana, born Tomovčík, born 1877, married 1895. Their son Ján, born 1897; his wife Mária, born Eštok, born 1900, married 1920, four children of whom one is dead; sons Ján (1926) and the twins Štefan and Josef (1928).",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-164",
+  "also": "DUS:D-011-73 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-8",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 17: Ján Kniežo 'kontra', Reformed, born 1886; his wife from Blatné Remety; four children",
+  "extract": "Iňačovce no. 17, 1 December 1930. Ján Kniežo, with 'kontra' written under his surname, Reformed, born 13 March 1886, owner; his wife Anna from Blatné Remety, born 1894, married February 1911, five children of whom one is dead; Štefan (1921), Andrej (1925), Anna (1927) and Eduard (1930).",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-165",
+  "also": "DUS:D-011-74 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-9",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 14: Juraj Kniežo, Reformed, born 1856; his Greek Catholic wife Anna, six children and five dead; a daughter-in-law and a married granddaughter",
+  "extract": "Iňačovce no. 14, 1 December 1930. Juraj Kniežo, Calvinist, born 3 April 1856, owner; his wife Anna, Greek Catholic, born 1860, married 15 January 1878, six children of whom five are dead. A daughter-in-law Anna, born 1888, married 1907, and her daughter Anna Onderko, born 1910, married 1927.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-166",
+  "also": "DUS:D-011-75 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-10",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 24 or 27: Michal Kniežo, Reformed, born 1899; his wife from Hažín; two children; his widowed mother Anna, born 1869",
+  "extract": "Iňačovce no. 24 or 27, 1 December 1930. Michal Kniežo, Calvinist, born 17 September 1899, owner; his wife Anna from Hažín, born 1901, married 17 May 1919; Michal (1923) and Anna (1926). His mother Anna, born 1869, widowed 23 July 1907, five children of whom two are dead.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-167",
+  "also": "DUS:D-011-88 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-11",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 31: Juraj Kniežo, Reformed, born 1896; two daughters; his widowed father Michal, born 1857; a Roman Catholic widow Marcinek from Senné",
+  "extract": "Iňačovce no. 31, 1 December 1930. Juraj Kniežo, Calvinist, born 5 March 1896, owner; his wife Anna, born 1894, married May 1921; daughters Anna (1922) and Maria (1929). His father Michal Kniežo, widower, born 22 July 1857. Lodging with them, 'no relation': Anna Marcinek, Roman Catholic widow, born at Senné in 1859.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-168",
+  "also": "DUS:D-011-85 @5139f2d"
+ },
+ {
+  "id": "DM-S-026-12",
+  "batch": "DM-B-026",
+  "type": "State census household sheet",
+  "title": "Census of 1 December 1930, Iňačovce, house 82: Alžbeta Kniežo, Evangelical, born 1901, her husband away; two children",
+  "extract": "Iňačovce no. 82, 1 December 1930. Alžbeta Kniežo, Evangelical, born 8 January 1901 in America, married in 1919, head of the household with her husband away; her children Juraj (1920) and Alžbeta (1925), Calvinist.",
+  "reliability": "A census return: what the household told the commissioner on one night.",
+  "document": "DM-D-169",
+  "also": "DUS:D-011-86 @5139f2d"
  }
 ]

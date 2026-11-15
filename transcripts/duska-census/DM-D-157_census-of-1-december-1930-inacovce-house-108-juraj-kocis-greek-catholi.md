@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Head | Politický okres Michalovce. Obec Iňačovce. Číslo domovné 108. | District of Michalovce, commune of Iňačovce, house no. 108 | clear |
 | Row 1 | Kočiš Juraj / domácnosti [prednosta] a majiteľ bytu / mužské / [8 ?] februára 1882 / ženatý / Iňačovce / slovenský / grécko katolík / čítať a písať / roľník | Juraj Kočiš, head of the household and owner of the dwelling, born [8 ?] February 1882, married; born at Iňačovce; Slovak; Greek Catholic; reads and writes; farmer | probable |
-| Row 2 | Kočišová Barbara / manželka / 6 októbra 1888 / vydatá / 20 februára 1905 / 5 ; 2 (?) / rímsko katolíčka / domáca | Barbara Kočišová, wife, born 6 October 1888, married 20 February 1905; five children born, two (?) living; Roman Catholic; at home | probable |
+| Row 2 | Kočišová Barbara / manželka / 6 októbra 1888 / vydatá / 20 februára 1905 / 5 ; 2 (?) / rímsko katolíčka / domáca | Barbara Kočišová, wife, born 6 October 1888, married 20 February 1905; five children born alive, two (?) of them dead; Roman Catholic; at home | probable |
 | Row 3 | Kočiš Michal / syn / 7 októbra 1909 / slobodný / grécko katolík | Michal Kočiš, son, born 7 October 1909, single; Greek Catholic | probable |
 | Row 4 | Kočišová Anna / dcéra / 25 októbra 1920 / grécko katol. | Anna Kočišová, daughter, born 25 October 1920; Greek Catholic | probable |
 | Row 5 | Kočišová Maria / dcéra / 6 decembra 1924 / grécko katolíčka | Maria Kočišová, daughter, born 6 December 1924; Greek Catholic | probable |
@@ -28,6 +28,7 @@ Iňačovce no. 108, 1 December 1930. Juraj Kočiš, Greek Catholic farmer, born 
 ## Notes
 
 - He married on 20 February 1905, the same day as Michal Kočiš of no. 69 (DM-D-156). Two Kočiš men of one village marrying on one day reads as two brothers at one wedding; the sheets do not say so.
-- The sheet says two children living; three are in the house. One figure or the other is wrong.
+- Five born and two dead leaves three, and three children are in the house. (In DM-B-025 this note said the sheet was wrong. The reader was.)
 - A György was baptised on 11 February [1882] at Jesztreb no. 1, in a strip the owner filed as Kocsis and both agents read as Koczák (DM-X-051). This Juraj is born in February 1882. That may be why the owner kept the strip. The village differs.
 - Not an independent reading. Compared with DUS:D-011-83: agreed; it reads the birthday as 8 February.
+- Corrected in DM-B-026: column 10 of the sheet is headed 'z nich zomrelo', 'of them dead', not 'living'. The first reading is kept in the note. First reading: 'five children born, two (?) living'.

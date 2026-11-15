@@ -499,7 +499,7 @@
    "DM-S-005-3",
    "DM-S-019-1"
   ],
-  "note": "Son of György Demkó and Mária Hreskó. He is the third János of this father: one died aged 2 in December [1872], one a twin in June [1873] (DM-NC-020). No burial of this one is among the strips of DM-B-018. Since DM-B-019: a Ján Demko, Greek Catholic farmer, born at Vysoká on 15 April 1875 by the household's word, is the owner of Vysoká no. 165 in the census of 1930, with a Roman Catholic wife Maria (born 1878, married 1897; ten children, six living). Taken to be this János (DM-H-045). He is not the Roman Catholic carpenter of Senné (DM-H-037, refuted).",
+  "note": "Son of György Demkó and Mária Hreskó. He is the third János of this father: one died aged 2 in December [1872], one a twin in June [1873] (DM-NC-020). No burial of this one is among the strips of DM-B-018. Since DM-B-019: a Ján Demko, Greek Catholic farmer, born at Vysoká on 15 April 1875 by the household's word, is the owner of Vysoká no. 165 in the census of 1930, with a Roman Catholic wife Maria (born 1878, married 1897; ten children, six of them dead). Taken to be this János (DM-H-045). He is not the Roman Catholic carpenter of Senné (DM-H-037, refuted).",
   "residence": [
    {
     "date": "1 Dec 1930",
@@ -1484,7 +1484,7 @@
   "sources": [
    "DM-S-017-1"
   ],
-  "note": "Greek Catholic. Married Michal Demko on 3 February 1919, aged 17; two children born by 1930. Her maiden name is not on the sheet. If the widow Kočišová in the house is her mother, she was born a Kocsis and was the sister of his first wife (DM-H-041).",
+  "note": "Greek Catholic. Married Michal Demko on 3 February 1919, aged 17; two children born by 1930. Her maiden name is not on the sheet. If the widow Kočišová in the house is her mother, she was born a Kocsis and was the sister of his first wife (DM-H-041). Since DM-B-026: the widow in the house had three children and two were dead by 1930. Her one living child is most simply this Zuzanna (DM-H-051). If the widow is also the mother of his first wife, he married his dead wife's younger sister, and Maria Demko's stepmother was her aunt, five or six years older than herself (DM-H-053).",
   "marriage": {
    "date": "3 Feb 1919",
    "place": null
@@ -1539,7 +1539,7 @@
   "sources": [
    "DM-S-017-1"
   ],
-  "note": "Roman Catholic, born at Iňačovce, a widow in 1930, living in Michal Demko's house as his mother-in-law. Married 10 November 1879; three children born, two living. Reads and writes. Whether she is the mother of his first wife, his second, or both, the sheet does not say: DM-H-041.",
+  "note": "Roman Catholic, born at Iňačovce, a widow in 1930, living in Michal Demko's house as his mother-in-law. Married 10 November 1879; three children born alive, two of them dead. Reads and writes. Whether she is the mother of his first wife, his second, or both, the sheet does not say: DM-H-041. Since DM-B-026: one living child in 1930, then, and the likeliest is the wife of the house, Zuzanna (DM-H-051).",
   "marriage": {
    "date": "10 Nov 1879",
    "place": null
@@ -1766,7 +1766,7 @@
   "sources": [
    "DM-S-019-1"
   ],
-  "note": "Roman Catholic, born at Vysoká. Married in 1897; ten children born, six living in 1930. Her maiden name is not on the sheet."
+  "note": "Roman Catholic, born at Vysoká. Married in 1897; ten children born alive, six of them dead by 1930. Her maiden name is not on the sheet."
  },
  {
   "id": "DM-X-079",
@@ -1818,5 +1818,29 @@
    "DM-S-025-2"
   ],
   "note": "Greek Catholic farmer. Wife Barbara, Roman Catholic, born 1888, married 20 February 1905. Children at home: Michal (1909), Anna (1920), Maria (1924). All born a hundred years ago or more."
+ },
+ {
+  "id": "DM-X-082",
+  "ahnentafel": null,
+  "name": "The Kňežo (Knyezső) houses of Iňačovce in the census of 1930",
+  "role": "The family name of Mária Knyezső, candidate for Ahn 39. No tie to her is shown.",
+  "living": false,
+  "owner": "demko",
+  "proof": "documented",
+  "sources": [
+   "DM-S-026-1",
+   "DM-S-026-2",
+   "DM-S-026-3",
+   "DM-S-026-4",
+   "DM-S-026-5",
+   "DM-S-026-6",
+   "DM-S-026-7",
+   "DM-S-026-8",
+   "DM-S-026-9",
+   "DM-S-026-10",
+   "DM-S-026-11",
+   "DM-S-026-12"
+  ],
+  "note": "Twelve sheets. Reformed: no. 3 (Pavel the younger, 1871), 14 (Juraj, 1856, with a Greek Catholic wife), 17 (Ján 'kontra', 1886), 24 or 27 (Michal, 1899), 31 (Juraj, 1896; father Michal, 1857), 82 (Alžbeta, Evangelical, born in America), 129 (Juraj, 1861), 144 (Ján, 1881; father Pavol, 1850), 165 (Ján, 1900). Greek Catholic: no. 145 (Michal, 1882; father Hreha, 1858) and no. 146 (Ján, 1881; mother Anna, Roman Catholic, born 1850), each with a Roman Catholic wife. No. 167 is a daughter's house: Maria Danková with her mother Anna Kňežová, Greek Catholic, born 1848. No house is Roman Catholic. Everyone named in full was born a hundred years ago or more, or is dead by the owner's statement (ledger X-016)."
  }
 ]

@@ -30,3 +30,4 @@ The owner's direct male line belongs to the branch R-FTB41229 of the Y tree, whi
 - Ledger X-023 keeps DNA from the line agents. The owner overruled it, first for this agent and then for all (ledger X-029). What it says is scored as given, not as found.
 - A Y-chromosome result follows the father's father's line. For the owner that is the Duska male line: himself, his father, Štefan Duska, Michal Duska, Andrej Duška. It is not Maria Demko's line, and nothing on this board moves on it.
 - Where the branch sits and what it can show: research/DM-B-020-y-dna-branch.md.
+- Made after the experiment began (ledger X-033 item 2): the owner made this export or picture from his account on the day he gave it, 13 or 14 November 2026. It is not refused for that.
