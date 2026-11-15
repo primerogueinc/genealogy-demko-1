@@ -220,7 +220,7 @@
    "DM-S-004-6",
    "DM-S-017-1"
   ],
-  "note": "Greek Catholic, born and living at Solymos, aged 20 in August 1906. Wife of Mihály Demkó. Dead before 3 February 1919, when he married again; a son Juraj was born in September 1911, so she was probably alive then. A baptism that may be hers is in hand: Mária, 28 Feb [1887], daughter of Mihály Kocsis and Mária Knyezső, Solymos no. 19 (DM-X-045, DM-H-031). In 1930 a Roman Catholic widow, Maria Kočišová, born 1863, lives in her husband's house as his mother-in-law (DM-X-067, DM-H-041). Not attached to parents yet.",
+  "note": "Greek Catholic, born and living at Solymos, aged 20 in August 1906. Wife of Mihály Demkó. Dead before 3 February 1919, when he married again; a son Juraj was born in September 1911, so she was probably alive then. A baptism that may be hers is in hand: Mária, 28 Feb [1887], daughter of Mihály Kocsis and Mária Knyezső, Solymos no. 19 (DM-X-045, DM-H-031). In 1930 a Roman Catholic widow, Maria Kočišová, born 1863, lives in her husband's house as his mother-in-law (DM-X-067, DM-H-041). Not attached to parents yet. Since DM-B-027: the marriage of the couple at Solymos 19 is found, 14 November 1880 (DM-D-170), and names the mother's parents: Mihály Knyezső, Reformed, and Mária Olaxák, Roman Catholic.",
   "death": {
    "date": "between September 1911 and 3 February 1919",
    "place": null
@@ -1010,9 +1010,10 @@
   "sources": [
    "DM-S-008-6",
    "DM-S-010-1",
-   "DM-S-017-1"
+   "DM-S-017-1",
+   "DM-S-027-1"
   ],
-  "note": "He Greek Catholic, a farmer; she Roman Catholic. Daughters Mária, born 27 Feb [1887], and Anna, born 19 Oct [1889], both at house no. 19. See DM-H-030 and DM-H-031. Her rite, read twice, is Roman Catholic, though most Knyezsős of Solymos are in the Reformed book (DM-X-054). A Roman Catholic widow Maria Kočišová, born at Iňačovce in 1863 and married on 10 November 1879, is in Michal Demko's house in 1930 as his mother-in-law: very probably this Mária Knyezső (DM-H-041)."
+  "note": "He Greek Catholic, a farmer; she Roman Catholic. Daughters Mária, born 27 Feb [1887], and Anna, born 19 Oct [1889], both at house no. 19. See DM-H-030 and DM-H-031. Her rite, read twice, is Roman Catholic, though most Knyezsős of Solymos are in the Reformed book (DM-X-054). A Roman Catholic widow Maria Kočišová, born at Iňačovce in 1863 and married on 10 November 1879, is in Michal Demko's house in 1930 as his mother-in-law: very probably this Mária Knyezső (DM-H-041). Since DM-B-027: on 14 November 1880 a Mária Knyezső, Roman Catholic, 18, of Solymos 19, daughter of Mihály Knyezső and Mária Olaxák, married János Kocsis, 22, Greek Catholic, son of Pál Kocsis and Anna Cservenyák (DM-D-170). The same house and the same wife; the husband is János in the Roman Catholic book and Mihály in the Greek Catholic one (DM-H-054)."
  },
  {
   "id": "DM-X-040",
@@ -1032,7 +1033,7 @@
    "DM-S-010-6",
    "DM-S-018-31"
   ],
-  "note": "Greek Catholic landholder. Borbála, 20 Jul [1843], by Anna Cservenyák; Borbála, [1846], by Mária Jevcsák; Mihály, 20 Nov [1847 or 1848], by Anna Cservenyák. The order of the mothers' names rules out two wives in turn: two men of this name, or a slip in the [1846] entry (DM-NC-013). A Pál Kocsis, farmer, husband of Mária Jevcsák, died on 17 February [1848], aged 32, entered at Jesztreb (DM-D-136). If the son of Pál Kocsis and Anna Cservenyák was baptised in November 1848, there were two men of the name (DM-NC-013)."
+  "note": "Greek Catholic landholder. Borbála, 20 Jul [1843], by Anna Cservenyák; Borbála, [1846], by Mária Jevcsák; Mihály, 20 Nov [1847 or 1848], by Anna Cservenyák. The order of the mothers' names rules out two wives in turn: two men of this name, or a slip in the [1846] entry (DM-NC-013). A Pál Kocsis, farmer, husband of Mária Jevcsák, died on 17 February [1848], aged 32, entered at Jesztreb (DM-D-136). If the son of Pál Kocsis and Anna Cservenyák was baptised in November 1848, there were two men of the name (DM-NC-013). Since DM-B-027: a son János, aged 22 in November 1880, so born about 1858, married Mária Knyezső (DM-D-170)."
  },
  {
   "id": "DM-X-041",
@@ -1159,7 +1160,7 @@
   "id": "DM-X-047",
   "ahnentafel": null,
   "name": "Mihály Kocsis, baptised [1847 or 1848]",
-  "role": "Candidate for Mihály Kocsis of Solymos no. 19 (Ahn 38)",
+  "role": "Son of Pál Kocsis and Anna Cservenyák; probably the witness of 1880, not the husband at no. 19",
   "living": false,
   "owner": "demko",
   "birth": {
@@ -1170,7 +1171,7 @@
   "sources": [
    "DM-S-010-6"
   ],
-  "note": "Son of Pál Kocsis, landholder, and Anna Cservenyák, of Solymos. Aged 39 or 40 when the Mária of [1887] was born. See DM-H-032."
+  "note": "Son of Pál Kocsis, landholder, and Anna Cservenyák, of Solymos. Aged 39 or 40 when the Mária of [1887] was born. See DM-H-032. Since DM-B-027: the man who married Mária Knyezső in 1880 was a son of the same parents but 22 years old and called János; a Mihály Kocsis was first witness (DM-D-170). This Mihály would have been 32. DM-H-032 falls to 8."
  },
  {
   "id": "DM-X-048",
@@ -1539,7 +1540,7 @@
   "sources": [
    "DM-S-017-1"
   ],
-  "note": "Roman Catholic, born at Iňačovce, a widow in 1930, living in Michal Demko's house as his mother-in-law. Married 10 November 1879; three children born alive, two of them dead. Reads and writes. Whether she is the mother of his first wife, his second, or both, the sheet does not say: DM-H-041. Since DM-B-026: one living child in 1930, then, and the likeliest is the wife of the house, Zuzanna (DM-H-051).",
+  "note": "Roman Catholic, born at Iňačovce, a widow in 1930, living in Michal Demko's house as his mother-in-law. Married 10 November 1879; three children born alive, two of them dead. Reads and writes. Whether she is the mother of his first wife, his second, or both, the sheet does not say: DM-H-041. Since DM-B-026: one living child in 1930, then, and the likeliest is the wife of the house, Zuzanna (DM-H-051). Since DM-B-027: taken to be the bride of 14 November 1880, Mária Knyezső of Solymos 19 (DM-D-170): the census date is a year and four days out.",
   "marriage": {
    "date": "10 Nov 1879",
    "place": null
@@ -1842,5 +1843,40 @@
    "DM-S-026-12"
   ],
   "note": "Twelve sheets. Reformed: no. 3 (Pavel the younger, 1871), 14 (Juraj, 1856, with a Greek Catholic wife), 17 (Ján 'kontra', 1886), 24 or 27 (Michal, 1899), 31 (Juraj, 1896; father Michal, 1857), 82 (Alžbeta, Evangelical, born in America), 129 (Juraj, 1861), 144 (Ján, 1881; father Pavol, 1850), 165 (Ján, 1900). Greek Catholic: no. 145 (Michal, 1882; father Hreha, 1858) and no. 146 (Ján, 1881; mother Anna, Roman Catholic, born 1850), each with a Roman Catholic wife. No. 167 is a daughter's house: Maria Danková with her mother Anna Kňežová, Greek Catholic, born 1848. No house is Roman Catholic. Everyone named in full was born a hundred years ago or more, or is dead by the owner's statement (ledger X-016)."
+ },
+ {
+  "id": "DM-X-083",
+  "ahnentafel": null,
+  "name": "Mihály Knyezső and Mária Olaxsik, of Solymos no. 19",
+  "role": "Parents of Mária Knyezső; candidates for Ahn 78 and 79",
+  "living": false,
+  "owner": "demko",
+  "proof": "documented",
+  "sources": [
+   "DM-S-027-1",
+   "DM-S-027-2",
+   "DM-S-027-3",
+   "DM-S-027-4",
+   "DM-S-027-5",
+   "DM-S-027-6"
+  ],
+  "note": "He Reformed ('Hv.', 'Hc.'), she Roman Catholic; farmers with a holding. Children in the Roman Catholic book of Senné: Mária, 18 in November 1880, who married János Kocsis from house 19 (DM-D-170); Mihály, [1870], died 28 September 1879; Borbála, [1873]; János, [1876], died 6 June; Zsuzsanna, [1879]; János, 1883, at house 27. Her surname is Olaxsik three times, Olaxák once, and something like Benyák twice. A Mihály Knyezső stood godfather to a Kocsis child at Solymos 13 in 1877 (DM-D-047). Which of the Reformed Mihálys baptised between 1832 and 1848 he is, is not looked at yet."
+ },
+ {
+  "id": "DM-X-084",
+  "ahnentafel": null,
+  "name": "János Kocsis, groom of 1880",
+  "role": "Husband of Mária Knyezső; candidate for Ahn 38 under the name János",
+  "living": false,
+  "owner": "demko",
+  "birth": {
+   "date": "about 1858",
+   "place": "Solymos (Iňačovce)"
+  },
+  "proof": "documented",
+  "sources": [
+   "DM-S-027-1"
+  ],
+  "note": "Greek Catholic, 22 and a bachelor on 14 November 1880; son of Pál Kocsis and Anna Cservenyák (DM-X-040). Whether he is the 'Mihály Kocsis' of the baptisms of [1887] and [1889] at the same house is DM-H-054."
  }
 ]

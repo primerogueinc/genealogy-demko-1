@@ -98,6 +98,10 @@ Added 15 Nov 2026 from ledger v27.
 - **Census of 1930, columns 9 and 10:** children born alive, and of them dead. Not 'living'. Read the printed heading of any form before the handwriting.
 - **Census sheets of 1930** are taken even where they list small children (X-016: dead by the owner's statement). Anyone born after November 1926 is given by year only; that is this agent's own extra care.
 
+Added 15 Nov 2026 from ledger v28: `field-notes/005.md` is written (X-032 item 11). The judge of item 12 needs nothing from this agent.
+
+- **A guess from a late record about an early one is a guess.** DM-H-052 read the census of 1930 back to 1863 and was refuted the same day by a marriage entry. Say so in the basis when a hypothesis does this.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.

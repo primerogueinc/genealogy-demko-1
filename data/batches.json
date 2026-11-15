@@ -1457,5 +1457,70 @@
    "found": "Twelve census sheets taken (its D-011-71 to -75, -77 to -80, -85, -86, -88), checksums equal to its manifest. Its abstracts agree with these readings in names and years; days differ on four dates and one house number. It left the last row of six sheets unread; they are read here. It reads column 10 as 'living' throughout, as this agent did: told in DM→DU-022. One word taken from it (America, no. 82).",
    "not_taken": "The widow Dušková of no. 28 (its line). 24 Senné burial strips, 23 census sheets, the Senné baptism strips, the Krak strips, the younger son's papers."
   }
+ },
+ {
+  "id": "DM-B-027",
+  "date": "2026-11-15",
+  "at_utc": "2026-11-15T14:30:29Z",
+  "title": "Ledger v28; the wedding of 14 November 1880, found in a folder called 'No idea?'",
+  "folder": "F-16",
+  "files": 7,
+  "blurb": "Ledger v28 asked for one thing, a roast of the owner, and it is written. Then the paper moved on its own. This morning's list of wanted records put one marriage near the top. The owner has since given the Duska agent 277 strips he had filed as 'Found Outside of Collection (No idea?)', and it is among them. On 14 November 1880, in the Roman Catholic book of Senné, Mária Knyezső, 18, Roman Catholic, of Solymos 19, married a Greek Catholic Kocsis of 22. House 19 is where Maria Demko's mother was born, by the reading held here. The entry names the bride's parents: Mihály Knyezső and Mária Olaxák. Five baptisms of her brothers and sisters say her father was Reformed and her mother Roman Catholic. So this morning's guess of a Greek Catholic father is refuted the day it was made, and the Reformed reading, cut this morning from 50 to 35, goes to 70, the cap. The census widow of 1930 gave the wedding as 10 November 1879: a year and four days out. That she is Maria Demko's grandmother goes from 67 to 70. One thing does not fit: the groom is entered as János, and the baptisms call the husband Mihály. Maria Demko's own parents are not named by anything here. Curiosities: 5",
+  "raised": [
+   "DM-H-054",
+   "DM-H-055"
+  ],
+  "resolved": [
+   "DM-H-052"
+  ],
+  "revised": [
+   "DM-H-036",
+   "DM-H-041",
+   "DM-H-031",
+   "DM-H-032",
+   "DM-H-053"
+  ],
+  "people_added": [
+   "DM-X-083",
+   "DM-X-084"
+  ],
+  "sources_added": [
+   "DM-S-027-1",
+   "DM-S-027-2",
+   "DM-S-027-3",
+   "DM-S-027-4",
+   "DM-S-027-5",
+   "DM-S-027-6",
+   "DM-S-027-7"
+  ],
+  "documents_added": [
+   "DM-D-170",
+   "DM-D-171",
+   "DM-D-172",
+   "DM-D-173",
+   "DM-D-174",
+   "DM-D-175",
+   "DM-D-176"
+  ],
+  "curiosities_added": [
+   "DM-C-060",
+   "DM-C-061",
+   "DM-C-062",
+   "DM-C-063",
+   "DM-C-064"
+  ],
+  "curiosities": 5,
+  "read": [
+   "read ledger v28, duska-coordinator @4a13b07",
+   "genealogu-duska-1 main @9794d20",
+   "duska-and-demko-villages main @40447f4",
+   "private repository @036b7b3: piles unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "9794d20",
+   "found": "Its new folder F-018 (277 strips, 34 read by it). Seven taken; six of them had no entry there and are read here first. One (its D-018-09) agrees with this reading. Its question on a second name for Mária Hreskó of Viszoka: none is written in any strip held here.",
+   "not_taken": "About a hundred strips of F-018 that bear on this line by file name; and the backlog of DM-B-026."
+  }
  }
 ]

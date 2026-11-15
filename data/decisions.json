@@ -580,5 +580,23 @@
   "date": "2026-11-15",
   "decision": "Corrected the reading of column 10 of the 1930 census sheet in four earlier documents, three people and two hypotheses: it is 'of them dead', not 'living'. First readings kept in the notes. Batch blurbs and field notes already published are not changed.",
   "why": "Found while reading house 3, where four born and 'one' beside it stood over three living sons. Checked against the printed heading."
+ },
+ {
+  "id": "DM-DEC-098",
+  "date": "2026-11-15",
+  "decision": "Read ledger v28 and wrote field-notes/005.md, the roast the owner asked for, within his limits.",
+  "why": "Ledger v28, X-032 item 11."
+ },
+ {
+  "id": "DM-DEC-099",
+  "date": "2026-11-15",
+  "decision": "Wrote and pushed a note of what was expected before opening the new folder; then took seven strips from it: the marriage of 14 November 1880, five baptisms of the bride's brothers and sisters, and one Reformed baptism of 1863 entered to keep two women apart.",
+  "why": "The owner's rule on notes before new material (DM-PR-13). The seven are the ones that bear on DM-H-041, DM-H-036 and DM-H-052; the rest of the folder waits."
+ },
+ {
+  "id": "DM-DEC-100",
+  "date": "2026-11-15",
+  "decision": "Looked at and did not take: the marriage of János Kocsis and Anna Halász, 16 January 1888 (a Roman Catholic Kocsis of Szenna 93, son of György; another family), and the burial of Márton Kávor, husband of Ilona Knyezső, 29 January 1887, aged 72, Solymos 32.",
+  "why": "Neither bears on the line."
  }
 ]

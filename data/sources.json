@@ -1663,5 +1663,68 @@
   "reliability": "A census return: what the household told the commissioner on one night.",
   "document": "DM-D-169",
   "also": "DUS:D-011-86 @5139f2d"
+ },
+ {
+  "id": "DM-S-027-1",
+  "batch": "DM-B-027",
+  "type": "Parish marriage register, one entry cut from a page",
+  "title": "Marriage of János Kocsis, son of Pál Kocsis and Anna Cservenyák, and Mária Knyezső of Solymos 19, daughter of Mihály Knyezső and Mária Olaxák, 14 November 1880",
+  "extract": "No. 11. On 14 November 1880 János Kocsis, bachelor, 22, Greek Catholic, of Solymos, son of the farmers Pál Kocsis and Anna Cservenyák, married Mária Knyezső, maiden, 18, Roman Catholic, of Solymos 19, daughter of the farmers Mihály Knyezső and Mária Olaxák. Witnesses Mihály Kocsis and Mihály Kenderes. The banns were read.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-170"
+ },
+ {
+  "id": "DM-S-027-2",
+  "batch": "DM-B-027",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Michael Knyezső, March [1870], Solymos 19, son of Michael Knyezső, Reformed, and Maria O[l]enyák, Roman Catholic; died 28 September 1879",
+  "extract": "March [1870]: Michael, legitimate son of Michael Knyezső, of the Helvetic confession, and Maria O[l]enyák (?), Roman Catholic, commoners, of Solymos 19. Godparents Michael Adám and Anna Palusik. Died 28 September 1879.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-171"
+ },
+ {
+  "id": "DM-S-027-3",
+  "batch": "DM-B-027",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Borbála Knyezső, 18 September [1873], Solymos 19, daughter of Mihály Knyezső, Reformed, and Mária Olaxsik, Roman Catholic",
+  "extract": "No. 49, 18 September [1873]: Borbála, legitimate daughter of Mihály Knyezső, of the Helvetic confession, and Mária Olaxsik, Roman Catholic, of Solymos 19.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-172"
+ },
+ {
+  "id": "DM-S-027-4",
+  "batch": "DM-B-027",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of János Knyezső, 7 May [1876], Solymos 19, son of Mihály Knyezső, Reformed, and Mária Olaxsik, Roman Catholic; died 6 June",
+  "extract": "No. 29, 7 May [1876]: János, legitimate son of Mihály Knyezső, of the Helvetic confession, and Mária Olaxsik, Roman Catholic, farmers, of Solymos 19. Godparents Mihály Ádám and Anna Palusik. Died 6 June.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-173"
+ },
+ {
+  "id": "DM-S-027-5",
+  "batch": "DM-B-027",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Zsuzsanna Knyezső, 3 February [1879], Solymos 19, daughter of Mihály Knyezső, Reformed, and Mária Olaxsik, Roman Catholic",
+  "extract": "No. 14, 3 February [1879]: Zsuzsanna, legitimate daughter of Mihály Knyezső, of the Helvetic confession, and Mária Olaxsik, Roman Catholic, of Solymos 19. Godparents Mihály Ádám and Anna Palusik.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-174"
+ },
+ {
+  "id": "DM-S-027-6",
+  "batch": "DM-B-027",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of János Knyezső, 1883, Solymos 27, son of Mihály Knyezső, Reformed, and Mária [B]enyák, Roman Catholic",
+  "extract": "No. 31, 1883: János, legitimate son of Mihály Knyezső, of the Helvetic confession, and Mária [B]enyák, Roman Catholic, farmers, of Solymos 27. Godparents Mihály Ádám and Zsuzsanna Kenderes. Baptised by the parish priest György Balás.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-175"
+ },
+ {
+  "id": "DM-S-027-7",
+  "batch": "DM-B-027",
+  "type": "Parish baptism register, one entry cut from a page",
+  "title": "Baptism of Mária Knyezső, 19 July [1863], Solymos 36, daughter of Pál Knyezső and Borbála Szabó (Reformed book)",
+  "extract": "No. 7, 19 July [1863], in the Reformed book: Mária, daughter of Pál Knyezső and Borbála Szabó, farmers, of Solymos 36. The heading for 1864 follows, so the year is 1863.",
+  "reliability": "Original entry, cropped. Year from the collector's file name unless the entry gives it.",
+  "document": "DM-D-176"
  }
 ]

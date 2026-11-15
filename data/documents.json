@@ -14909,5 +14909,708 @@
   "changed_after_comparison": [
    "Country of birth in row 1: not read at first; 'America' is the Duska agent's reading, taken after comparing."
   ]
+ },
+ {
+  "id": "DM-D-170",
+  "batch": "DM-B-027",
+  "folder": "F-16",
+  "source": "DM-S-027-1",
+  "file": "archive/senne-roman-catholic/1880_-_Marriage_of_Janos_Kocsis_son_of_Pal_and_Anne_Ceternoyak_and_Maria_Knyerso_daughter_of_Mihaly_and_Maria_Olaxsek.png",
+  "sha256": "decd5e6527c389856aa052691cad8a7da79744f5e0cdb6506ad7a654e2ca0a0e",
+  "image": {
+   "format": "PNG",
+   "width": 1459,
+   "height": 114
+  },
+  "title": "Marriage of János Kocsis, son of Pál Kocsis and Anna Cservenyák, and Mária Knyezső of Solymos 19, daughter of Mihály Knyezső and Mária Olaxák, 14 November 1880",
+  "kind": "Parish marriage register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "1880 - Marriage of Janos Kocsis son of Pal and Anne Ceternoyak and Maria Knyerso daughter of Mihaly and Maria Olaxsek",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna). The officiant is the 'plébános' or an assistant; parties are marked 'Rk.' and those of another church 'Hv.' or 'Gk.'. The owner's sub-folder is 'Senne Roca'.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "11.",
+    "english": "11",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date",
+    "original": "1880 Novemb. 14.",
+    "english": "14 November 1880",
+    "certainty": "clear"
+   },
+   {
+    "column": "Groom",
+    "original": "Kocsis János telk. gazd. fia",
+    "english": "János Kocsis, son of a farmer with a holding",
+    "certainty": "clear"
+   },
+   {
+    "column": "Groom's parents",
+    "original": "Kocsis Pál, Cservenyák Anna telk. gazdák",
+    "english": "Pál Kocsis and Anna Cservenyák, farmers with a holding",
+    "certainty": "clear"
+   },
+   {
+    "column": "Groom's residence",
+    "original": "Solymos",
+    "english": "Solymos",
+    "certainty": "probable"
+   },
+   {
+    "column": "Groom's religion",
+    "original": "Gk.",
+    "english": "Greek Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Groom's age, state",
+    "original": "22 éves / nőtlen",
+    "english": "22 years / bachelor",
+    "certainty": "probable"
+   },
+   {
+    "column": "Bride",
+    "original": "Knyezső Mária telk. gazda leány",
+    "english": "Mária Knyezső, daughter of a farmer with a holding",
+    "certainty": "clear"
+   },
+   {
+    "column": "Bride's parents",
+    "original": "Knyezső Mihály, Olaxák Mária telk. gazdák",
+    "english": "Mihály Knyezső and Mária Olaxák, farmers with a holding",
+    "certainty": "probable"
+   },
+   {
+    "column": "Bride's residence",
+    "original": "Solymos 19",
+    "english": "Solymos 19",
+    "certainty": "clear"
+   },
+   {
+    "column": "Bride's religion",
+    "original": "Rk.",
+    "english": "Roman Catholic",
+    "certainty": "clear"
+   },
+   {
+    "column": "Bride's age, state",
+    "original": "18 éves / hajadon",
+    "english": "18 years / maiden",
+    "certainty": "clear"
+   },
+   {
+    "column": "Witnesses",
+    "original": "Kocsis Mihály, Kenderes Mihály telk. gazdák",
+    "english": "Mihály Kocsis and Mihály Kenderes, farmers with a holding",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "Balás (?) György",
+    "english": "György Balás (?)",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Remarks",
+    "original": "hirdettettek",
+    "english": "the banns were read",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 11. On 14 November 1880 János Kocsis, bachelor, 22, Greek Catholic, of Solymos, son of the farmers Pál Kocsis and Anna Cservenyák, married Mária Knyezső, maiden, 18, Roman Catholic, of Solymos 19, daughter of the farmers Mihály Knyezső and Mária Olaxák. Witnesses Mihály Kocsis and Mihály Kenderes. The banns were read.",
+  "notes": [
+   "Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.",
+   "House 19 is the house where a 'Mihály Kocsis, Greek Catholic' and 'Mária Knyezső, Roman Catholic' baptise daughters in [1887] and [1889] (DM-D-054, DM-D-048, both looked at again in this batch: the father's name there is plainly Mihály). So the bride is that mother, and this entry names her parents.",
+   "The groom is János. The first witness is a Mihály Kocsis. A Mihály was baptised to this same Pál Kocsis and Anna Cservenyák in [1847 or 1848] (DM-D-059); he would be 32, not 22. So the witness is probably the groom's elder brother. Why the Greek Catholic book then calls the husband Mihály is not settled: DM-H-054.",
+   "The widow Kočišová of the census of 1930 gave her wedding day as 10 November 1879 and her birth as 15 August 1863 (DM-D-105). This is 14 November 1880, the bride 18. A year and four days out; taken as the same wedding.",
+   "The owner's file name has the year and both sets of parents right. It reads the groom's mother as 'Ceternoyak' and the bride's as 'Olaxsek'."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, marriages (the Places agent names no. 1090, 1863 to 1886, for these years)",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish marriage register, one entry cut from a page",
+   "why": "Ruled columns in the order of a marriage register; one numbered entry between parts of its neighbours.",
+   "does_not_fit": "Nothing. The strip is cut from a page: no heading, no page number, no archive mark.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is on the strip only where transcribed, otherwise it is the owner's.",
+   "kept_where": "Not shown on the image. The Places agent places the Roman Catholic books of Senné in the State Archive at Prešov (its PL-R-006).",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": true,
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018, under ledger X-012"
+ },
+ {
+  "id": "DM-D-171",
+  "batch": "DM-B-027",
+  "folder": "F-16",
+  "source": "DM-S-027-2",
+  "file": "archive/senne-roman-catholic/1870_-_Baptism_of_Michael_Knyerson_son_of_Michael__Maria_Bernyyak_death_-_in_1879.png",
+  "sha256": "57c902567595e90a66e92a6ee77f2585013c066dcaad585612cc22aeec16ca49",
+  "image": {
+   "format": "PNG",
+   "width": 1861,
+   "height": 225
+  },
+  "title": "Baptism of Michael Knyezső, March [1870], Solymos 19, son of Michael Knyezső, Reformed, and Maria O[l]enyák, Roman Catholic; died 28 September 1879",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Latin",
+  "collector_label": "1870 - Baptism of Michael Knyerson son of Michael Maria Bernyyak death - in 1879",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna). The officiant is the 'plébános' or an assistant; parties are marked 'Rk.' and those of another church 'Hv.' or 'Gk.'. The owner's sub-folder is 'Senne Roca'.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry or day",
+    "original": "18. (?)",
+    "english": "18 (?)",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Date",
+    "original": "10. (?) Mart.",
+    "english": "10 (?) March",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Michael / m. / leg.",
+    "english": "Michael / male / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Michael Knyerso, Maria O[l]enyák (?), Hc. Rc. pleb.",
+    "english": "Michael Knyezső and Maria O[l]enyák (?), of the Helvetic confession and Roman Catholic, commoners",
+    "certainty": "probable"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 19.",
+    "english": "Solymos 19",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Michael Adám, Anna Palusik",
+    "english": "Michael Adám and Anna Palusik",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "Josephus [...]ovics Par. Solymos",
+    "english": "Josephus [...]ovics, parish priest, Solymos",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Remarks",
+    "original": "† 1879. Sept. 28.",
+    "english": "died 28 September 1879",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "March [1870]: Michael, legitimate son of Michael Knyezső, of the Helvetic confession, and Maria O[l]enyák (?), Roman Catholic, commoners, of Solymos 19. Godparents Michael Adám and Anna Palusik. Died 28 September 1879.",
+  "notes": [
+   "Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.",
+   "The father is 'Hc.', Helvetic confession: Reformed. The mother is Roman Catholic. Year from the owner's file name.",
+   "The mother's surname is written here in a Latin hand and looks like Olenyák or Benyák; the Hungarian entries of [1873], [1876] and [1879] have Olaxsik."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish baptism register, one entry cut from a page",
+   "why": "Ruled columns in the order of a baptism register; one numbered entry between parts of its neighbours.",
+   "does_not_fit": "Nothing. The strip is cut from a page: no heading, no page number, no archive mark.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is on the strip only where transcribed, otherwise it is the owner's.",
+   "kept_where": "Not shown on the image. The Places agent places the Roman Catholic books of Senné in the State Archive at Prešov (its PL-R-006).",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": true,
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018, under ledger X-012"
+ },
+ {
+  "id": "DM-D-172",
+  "batch": "DM-B-027",
+  "folder": "F-16",
+  "source": "DM-S-027-3",
+  "file": "archive/senne-roman-catholic/1873_-_Baptism_of_Borbala_Knyerso_Daughter_of_Mihaly_and_Maria_Plasick.png",
+  "sha256": "3533dffd656bbea058b9fd50af4720aff347f3867db8ffdd460f943a0c11b45c",
+  "image": {
+   "format": "PNG",
+   "width": 1307,
+   "height": 139
+  },
+  "title": "Baptism of Borbála Knyezső, 18 September [1873], Solymos 19, daughter of Mihály Knyezső, Reformed, and Mária Olaxsik, Roman Catholic",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "1873 - Baptism of Borbala Knyerso Daughter of Mihaly and Maria Plasick",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna). The officiant is the 'plébános' or an assistant; parties are marked 'Rk.' and those of another church 'Hv.' or 'Gk.'. The owner's sub-folder is 'Senne Roca'.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "49.",
+    "english": "49",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date",
+    "original": "Septem. 18.",
+    "english": "18 September",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Borbála / nő / törvényes",
+    "english": "Borbála / female / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály Hv. / Olaxsik Mária Rk.",
+    "english": "Mihály Knyezső, Helvetic confession / Mária Olaxsik, Roman Catholic",
+    "certainty": "probable"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 19.",
+    "english": "Solymos 19",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Kavor (?) Mihály / Tomás (?) Anna",
+    "english": "Mihály Kavor (?) and Anna Tomás (?)",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Officiant",
+    "original": "Dtto",
+    "english": "the same",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 49, 18 September [1873]: Borbála, legitimate daughter of Mihály Knyezső, of the Helvetic confession, and Mária Olaxsik, Roman Catholic, of Solymos 19.",
+  "notes": [
+   "Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.",
+   "Year from the owner's file name. He reads the mother's surname as 'Plasick'."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish baptism register, one entry cut from a page",
+   "why": "Ruled columns in the order of a baptism register; one numbered entry between parts of its neighbours.",
+   "does_not_fit": "Nothing. The strip is cut from a page: no heading, no page number, no archive mark.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is on the strip only where transcribed, otherwise it is the owner's.",
+   "kept_where": "Not shown on the image. The Places agent places the Roman Catholic books of Senné in the State Archive at Prešov (its PL-R-006).",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": true,
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018, under ledger X-012"
+ },
+ {
+  "id": "DM-D-173",
+  "batch": "DM-B-027",
+  "folder": "F-16",
+  "source": "DM-S-027-4",
+  "file": "archive/senne-roman-catholic/1876_-_Baptism_of_Janos_Knyerso_son_Mihaly_and_Mary_Olazcik_died_June_6_1876.png",
+  "sha256": "c678d1ee5144b020bebdf43fe6c7bfb5348e7db810c55baaf45fbc4d44da8c15",
+  "image": {
+   "format": "PNG",
+   "width": 1345,
+   "height": 130
+  },
+  "title": "Baptism of János Knyezső, 7 May [1876], Solymos 19, son of Mihály Knyezső, Reformed, and Mária Olaxsik, Roman Catholic; died 6 June",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "1876 - Baptism of Janos Knyerso son Mihaly and Mary Olazcik died June 6 1876",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna). The officiant is the 'plébános' or an assistant; parties are marked 'Rk.' and those of another church 'Hv.' or 'Gk.'. The owner's sub-folder is 'Senne Roca'.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "29.",
+    "english": "29",
+    "certainty": "clear"
+   },
+   {
+    "column": "Date",
+    "original": "Május 7-én",
+    "english": "7 May",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "János / fi / törvényes",
+    "english": "János / male / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály Hv. / Mária Olaxsik Rk., telk. gazd.",
+    "english": "Mihály Knyezső, Helvetic confession / Mária Olaxsik, Roman Catholic; farmers with a holding",
+    "certainty": "probable"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 19",
+    "english": "Solymos 19",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Ádám Mihály / Palusik Anna",
+    "english": "Mihály Ádám and Anna Palusik",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "Szklamon (?) József solymosi segéd lelkész",
+    "english": "József Szklamon (?), assistant priest of Solymos",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Remarks",
+    "original": "† 6 Jun.",
+    "english": "died 6 June",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 29, 7 May [1876]: János, legitimate son of Mihály Knyezső, of the Helvetic confession, and Mária Olaxsik, Roman Catholic, farmers, of Solymos 19. Godparents Mihály Ádám and Anna Palusik. Died 6 June.",
+  "notes": [
+   "Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.",
+   "Year from the owner's file name, which also gives the death as 6 June 1876. The strip gives no year for the death."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish baptism register, one entry cut from a page",
+   "why": "Ruled columns in the order of a baptism register; one numbered entry between parts of its neighbours.",
+   "does_not_fit": "Nothing. The strip is cut from a page: no heading, no page number, no archive mark.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is on the strip only where transcribed, otherwise it is the owner's.",
+   "kept_where": "Not shown on the image. The Places agent places the Roman Catholic books of Senné in the State Archive at Prešov (its PL-R-006).",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": true,
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018, under ledger X-012"
+ },
+ {
+  "id": "DM-D-174",
+  "batch": "DM-B-027",
+  "folder": "F-16",
+  "source": "DM-S-027-5",
+  "file": "archive/senne-roman-catholic/1879_-_Baptism_of_Zsuzanna_Knyerso_daighter_of_Mihaly_and_Maria_Olarzsek.png",
+  "sha256": "7144e3c1182508539923cfc2852099f1d3a3c2e6c15d96a790261492da20c86e",
+  "image": {
+   "format": "PNG",
+   "width": 1311,
+   "height": 124
+  },
+  "title": "Baptism of Zsuzsanna Knyezső, 3 February [1879], Solymos 19, daughter of Mihály Knyezső, Reformed, and Mária Olaxsik, Roman Catholic",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "1879 - Baptism of Zsuzanna Knyerso daighter of Mihaly and Maria Olarzsek",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna). The officiant is the 'plébános' or an assistant; parties are marked 'Rk.' and those of another church 'Hv.' or 'Gk.'. The owner's sub-folder is 'Senne Roca'.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "14.",
+    "english": "14",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Február 3. / 3.",
+    "english": "3 February / 3 February",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "Zsuzsanna / nő / törvényes",
+    "english": "Zsuzsanna / female / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály Hv. / Olaxsik Mária Rk., telk. gazda, Solymos",
+    "english": "Mihály Knyezső, Helvetic confession / Mária Olaxsik, Roman Catholic; farmer with a holding, Solymos",
+    "certainty": "probable"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 19.",
+    "english": "Solymos 19",
+    "certainty": "clear"
+   },
+   {
+    "column": "Godparents",
+    "original": "Ádám Mihály Rk. / Palusik Anna Rk., solymosiak",
+    "english": "Mihály Ádám and Anna Palusik, Roman Catholics, of Solymos",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "[...] István (?) solymosi segéd lelkész",
+    "english": "[...] István (?), assistant priest of Solymos",
+    "certainty": "doubtful"
+   }
+  ],
+  "translation": "No. 14, 3 February [1879]: Zsuzsanna, legitimate daughter of Mihály Knyezső, of the Helvetic confession, and Mária Olaxsik, Roman Catholic, of Solymos 19. Godparents Mihály Ádám and Anna Palusik.",
+  "notes": [
+   "Not an independent reading: the Duska agent had read this strip (DUS:D-018-09) and the title of its entry, which says the father is Reformed and the house is 19, was seen before this image was opened. The same two facts had by then been read here from three other strips.",
+   "Year from the owner's file name. The Duska agent reads the mother's surname as the owner does, 'Olarzsek'."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish baptism register, one entry cut from a page",
+   "why": "Ruled columns in the order of a baptism register; one numbered entry between parts of its neighbours.",
+   "does_not_fit": "Nothing. The strip is cut from a page: no heading, no page number, no archive mark.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is on the strip only where transcribed, otherwise it is the owner's.",
+   "kept_where": "Not shown on the image. The Places agent places the Roman Catholic books of Senné in the State Archive at Prešov (its PL-R-006).",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": false,
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018, under ledger X-012",
+  "also_read_by": "DUS:D-018-09 @9794d20"
+ },
+ {
+  "id": "DM-D-175",
+  "batch": "DM-B-027",
+  "folder": "F-16",
+  "source": "DM-S-027-6",
+  "file": "archive/senne-roman-catholic/1883_-_Baptism_of_Janos_Knyerson_son_of_Mihaly_and_Maria_Bernyak.png",
+  "sha256": "8a4c2cd15edc2f8c2509ea72f18fe2b86f573afa8768ff8b2aaa979c952cff2f",
+  "image": {
+   "format": "PNG",
+   "width": 1180,
+   "height": 114
+  },
+  "title": "Baptism of János Knyezső, 1883, Solymos 27, son of Mihály Knyezső, Reformed, and Mária [B]enyák, Roman Catholic",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "1883 - Baptism of Janos Knyerson son of Mihaly and Maria Bernyak",
+  "register": {
+   "parish": "Roman Catholic parish of Senné (Szenna). The officiant is the 'plébános' or an assistant; parties are marked 'Rk.' and those of another church 'Hv.' or 'Gk.'. The owner's sub-folder is 'Senne Roca'.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "31.",
+    "english": "31",
+    "certainty": "clear"
+   },
+   {
+    "column": "Year, born / baptised",
+    "original": "1883 / 24 / 24.",
+    "english": "1883; born and baptised on the 24th, the month not on the strip",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name, sex, legitimacy",
+    "original": "János / fi / törvényes",
+    "english": "János / male / legitimate",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyezső Mihály hv. / [B]enyák Mária rk., solymosi telkes gazdák",
+    "english": "Mihály Knyezső, Helvetic confession / Mária [B]enyák, Roman Catholic; farmers with a holding, of Solymos",
+    "certainty": "probable"
+   },
+   {
+    "column": "Residence",
+    "original": "Solymos 27.",
+    "english": "Solymos 27",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Ádám Mihály rk. / Kenderes Zsuzsanna r.k. (?), solymosiak",
+    "english": "Mihály Ádám and Zsuzsanna Kenderes, of Solymos",
+    "certainty": "probable"
+   },
+   {
+    "column": "Officiant",
+    "original": "Balás György plébános",
+    "english": "György Balás, parish priest",
+    "certainty": "probable"
+   }
+  ],
+  "translation": "No. 31, 1883: János, legitimate son of Mihály Knyezső, of the Helvetic confession, and Mária [B]enyák, Roman Catholic, farmers, of Solymos 27. Godparents Mihály Ádám and Zsuzsanna Kenderes. Baptised by the parish priest György Balás.",
+  "notes": [
+   "Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.",
+   "The house is 27, not 19, three years after the daughter married from 19. Either the old couple moved and left 19 to the young one, or the figure is misread.",
+   "The mother's surname here looks like Benyák, as in the Latin entry of [1870]. The same godfather stands throughout, so it is one couple."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic parish of Senné, baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish baptism register, one entry cut from a page",
+   "why": "Ruled columns in the order of a baptism register; one numbered entry between parts of its neighbours.",
+   "does_not_fit": "Nothing. The strip is cut from a page: no heading, no page number, no archive mark.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is on the strip only where transcribed, otherwise it is the owner's.",
+   "kept_where": "Not shown on the image. The Places agent places the Roman Catholic books of Senné in the State Archive at Prešov (its PL-R-006).",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": true,
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018, under ledger X-012"
+ },
+ {
+  "id": "DM-D-176",
+  "batch": "DM-B-027",
+  "folder": "F-16",
+  "source": "DM-S-027-7",
+  "file": "archive/duska-baptisms/inacovce-reformed/1863_-_Baptism_of_Maria_Knyerso_daughter_of_Pal_and_Borbala_Szabo.png",
+  "sha256": "c6ae518e1200642227e1f82721f43904084fd976ed56a564ba7a4bbde039efcf",
+  "image": {
+   "format": "PNG",
+   "width": 1251,
+   "height": 79
+  },
+  "title": "Baptism of Mária Knyezső, 19 July [1863], Solymos 36, daughter of Pál Knyezső and Borbála Szabó (Reformed book)",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "1863 - Baptism of Maria Knyerso daughter of Pal and Borbala Szabo",
+  "register": {
+   "parish": "Reformed (Calvinist) parish of Solymos (Iňačovce). The owner's sub-folder is 'Inacovce - Reformed Christ'; the year heading that follows the entry is in Hungarian.",
+   "denomination": "Reformed",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "7.",
+    "english": "7",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "dto 19 / 19",
+    "english": "the same month (Julius), 19 / 19",
+    "certainty": "probable"
+   },
+   {
+    "column": "Name",
+    "original": "Mária",
+    "english": "Mária",
+    "certainty": "clear"
+   },
+   {
+    "column": "Parents",
+    "original": "Knyersó Pál, Szabó Borbála telkes gazda",
+    "english": "Pál Knyezső and Borbála Szabó, farmer with a holding",
+    "certainty": "probable"
+   },
+   {
+    "column": "Residence",
+    "original": "dto 36. h. sz.",
+    "english": "the same place (Solymos), house no. 36",
+    "certainty": "probable"
+   },
+   {
+    "column": "Godparents",
+    "original": "Hajducsok (?) András, Dzurina Anna",
+    "english": "András Hajducsok (?) and Anna Dzurina",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Next line",
+    "original": "1864-dik évben kereszteltek",
+    "english": "Baptised in the year 1864",
+    "certainty": "clear"
+   }
+  ],
+  "translation": "No. 7, 19 July [1863], in the Reformed book: Mária, daughter of Pál Knyezső and Borbála Szabó, farmers, of Solymos 36. The heading for 1864 follows, so the year is 1863.",
+  "notes": [
+   "Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.",
+   "Not the Mária Knyezső of this line. She was Roman Catholic, the daughter of Mihály Knyezső and Mária Olaxák of Solymos 19 (DM-D-170), and by the census born on 15 August. Entered so that the two Márias of 1863 are not confused."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed parish of Solymos (Iňačovce), baptisms",
+   "page_or_image": "unknown; entry number as transcribed",
+   "obtained": "unknown. From the owner's folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish baptism register, one entry cut from a page",
+   "why": "Ruled columns in the order of a baptism register; one numbered entry between parts of its neighbours.",
+   "does_not_fit": "Nothing. The strip is cut from a page: no heading, no page number, no archive mark.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is on the strip only where transcribed, otherwise it is the owner's.",
+   "kept_where": "Not shown on the image. The Places agent places the Roman Catholic books of Senné in the State Archive at Prešov (its PL-R-006).",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": true,
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018, under ledger X-012"
  }
 ]

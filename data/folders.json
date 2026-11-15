@@ -240,5 +240,21 @@
   ],
   "archive_path": "archive/duska-documents-part-1/",
   "taken_from": "primerogueinc/genealogu-duska-1 @8e541e5, its F-015"
+ },
+ {
+  "id": "F-16",
+  "path": "Duska Family Search Rcords Found Outside of Collection (No idea?)",
+  "described_by_kevin": "The owner's folder of 277 strips, given to the Duska agent on 15 November 2026 in fourteen messages. Sub-folders 'Inacovce - Reformed Christ' (Knyezső baptisms, 1822 to 1866) and 'Senne Roca' (the Roman Catholic book of Senné, 1847 to 1901). Seven strips are taken here under ledger X-012; about a hundred more bear on this line by their file names.",
+  "received": "2026-11-15",
+  "files_received": 7,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-027"
+  ],
+  "archive_path": "archive/senne-roman-catholic/ and archive/duska-baptisms/inacovce-reformed/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018"
  }
 ]
