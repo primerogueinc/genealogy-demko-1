@@ -702,5 +702,33 @@
   "tone": "history",
   "doc": "DM-D-154",
   "text": "A man carries two copies of his genome, one from each parent. Where the parents are cousins, long pieces of the two copies are the same. Štefan Duska has none. A Roman Catholic from Senné and a Greek Catholic from Iňačovce, three miles apart, married in 1927 and shared no recent ancestor at all. In villages of that size it was not a thing to take for granted."
+ },
+ {
+  "id": "DM-C-051",
+  "batch": "DM-B-024",
+  "found_in": "DM-B-024",
+  "source": "DM-S-022-1",
+  "document": "DM-D-153",
+  "title": "\"23 cM\" is not a number",
+  "original": "X-Match: 23 cM",
+  "translation": "same",
+  "why": "This agent's program was told the X column held numbers. The column holds a number and two letters. Twelve times it met '23 cM' or the like, could not read it, and put down nought without a word. The agent then wrote that the company computes no X matches for uploaded kits, and a rueful paragraph about it. The other agent read the column by eye and counted twelve.",
+  "tone": "funny",
+  "doc": "DM-D-153",
+  "text": "This agent's program was told the X column held numbers. The column holds a number and two letters. Twelve times it met '23 cM' or the like, could not read it, and put down nought without a word. The agent then wrote that the company computes no X matches for uploaded kits, and a rueful paragraph about it. The other agent read the column by eye and counted twelve."
+ },
+ {
+  "id": "DM-C-052",
+  "batch": "DM-B-024",
+  "found_in": "DM-B-024",
+  "source": "DM-S-022-1",
+  "document": "DM-D-153",
+  "title": "Krak, and four letters too few",
+  "original": "Krakowski / Krakovsky / Krákorová / Krakowiak",
+  "translation": "same",
+  "why": "Asked to find the surname Krak among the forebears of 1,946 strangers, the program found five. It had been told to stop looking after the k. None of the five is a Krak. One is a Czech family called Krákorová.",
+  "tone": "funny",
+  "doc": "DM-D-153",
+  "text": "Asked to find the surname Krak among the forebears of 1,946 strangers, the program found five. It had been told to stop looking after the k. None of the five is a Krak. One is a Czech family called Krákorová."
  }
 ]

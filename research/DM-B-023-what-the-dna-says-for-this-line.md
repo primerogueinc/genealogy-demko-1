@@ -2,6 +2,8 @@
 
 Second pass over the DNA files the owner gave this agent on 14 November 2026, made after he asked why this agent had only counted. Read by program; no file and no tester's given name is in this repository. Everything here is scored as given. The meaning of amounts of shared DNA is from recall of the usual tables, not checked.
 
+> **Corrected 15 November 2026 (DM-B-024).** Sections 3 and 7 below were wrong in three places, found by the Duska agent: the company's lists do carry X-chromosome matches (twelve for Štefan); no match lists Hreško as such, only the near forms Hricz, Hriczko and Hriško; and the note sent with this said five matches list Krak, when none does. The corrected text is marked.
+
 ## 1. A living cousin on the Demko side
 
 Štefan Duska's nearest match after his grandson is a person surnamed Demková: 106 cM, longest piece 36 cM (`DM-D-153`). That is the range of a second cousin, a second cousin once removed or a first cousin twice removed.
@@ -27,7 +29,7 @@ This matters for both lines: no shared great-grandparent is to be looked for, an
 
 ## 3. Old surnames of Viszoka among the small matches
 
-Three matches carry Tirpák, as their own name or a forebear's: 23, 15 and 13 cM. A Mária Demko of Viszoka married György Tirpák about 1830 and died there in 1857 (`DM-D-119`). Her descendants would be fifth cousins or so to Štefan, which is what such amounts look like. One match lists Hreško among forebears (14 cM), one Cservenyák (16 cM), the name of a Kocsis wife at Solymos in the 1840s. Each alone is noise. Together they are the right names from the right two villages, and nothing more than that.
+Three matches carry Tirpák, as their own name or a forebear's: 23, 15 and 13 cM. A Mária Demko of Viszoka married György Tirpák about 1830 and died there in 1857 (`DM-D-119`). Her descendants would be fifth cousins or so to Štefan, which is what such amounts look like. [Corrected:] No match lists Hreško as such; three list the near forms Hricz, Hriczko and Hriško (34, 20 and 14 cM). One lists Cserveny (16 cM), near but not the Cservenyák of a Kocsis wife at Solymos in the 1840s. One lists Kontra, a Solymos name, and shares 23 cM of X with him, which puts that person on Maria Demko's side for certain. Each alone is noise. Together they are the right names from the right two villages, and nothing more than that.
 
 No Kocsis and no Knyezső in any spelling. The mother's mother's side has left nothing in this list.
 
@@ -47,7 +49,7 @@ Haplogroup R0, most likely H, not H1 (`DM-D-154`, `DM-H-047`). It names nobody.
 
 ## 7. What the files cannot do for this line
 
-- No X-chromosome matching in the company's lists for uploaded kits.
+- [Corrected:] The company's list does carry X matches: twelve, of 6 to 23 cM. All are Maria Demko's side. The Demková match is not among them, which is what a Demko by the male line would show.
 - No list of which matches Štefan and the Demková match share.
 - The owner's Y and his own mother-line are other lines.
 - Nothing here names a parent. The main link stays where the paper puts it.

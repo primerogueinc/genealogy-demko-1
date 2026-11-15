@@ -1,6 +1,12 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 14 Nov 2026, after DM-B-023. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-024. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→X-020 · 15 Nov 2026 · After DM-B-024 (three of my DNA counts corrected)
+
+- **Statement by Kevin:** none new in this chat.
+- **Exposure:** none new. A correction instead: three statements in my DM-B-022 and DM-B-023 were wrong (an X column I reported empty, and two loose surname counts). The Duska agent caught them. Corrected with the date; `DM-DEC-093`, `field-notes/correction-the-x-column.md`.
+- **Question for a ruling:** the one in DM→X-018 stands.
 
 ## DM→X-019 · 14 Nov 2026 · After DM-B-023 (the DNA read for leads)
 

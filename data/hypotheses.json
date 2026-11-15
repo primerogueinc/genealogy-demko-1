@@ -1070,7 +1070,7 @@
   "id": "DM-H-046",
   "statement": "The match surnamed Demková who shares 106 cM with Štefan Duska is his kin through his mother's father's family, the Demkos of Vysoká: a descendant of a brother or sister of Michal Demko, or of Maria Demko's brother Juraj.",
   "question": "X-Q-03",
-  "confidence": 65,
+  "confidence": 67,
   "basis": "The amount and the long piece fit a second cousin or a degree either side (DM-D-153). He has Demko blood through one person only. The surname is in its Slovak form on an uploaded kit, which points to a tester in Slovakia. Two Demko households of his mother's uncle and aunt were at Vysoká in 1930 (DM-D-147, DM-D-148). Against: the surname may be hers by marriage; 106 cM can also be a cousin on the Kocsis or the Duska side who happens to bear the name; other Demko families lived a few miles off at Jesztreb. Scored as given: the list came from the owner.",
   "test": "None that can be run from here. Her own tree or village would settle it, and no match's tree is opened; nothing is asked of the owner. A second list already on his drive that shows the people she and Štefan share would narrow it.",
   "status": "open",
@@ -1083,6 +1083,12 @@
     "from": 65,
     "to": 65,
     "why": "No change in the number. Read against the usual amounts, 106 cM fits a great-grandchild of Maria Demko's uncle Ján of Vysoká 165 better than a grandchild or great-grandchild of her brother Juraj. Within this hypothesis the line of Ján is held at about 35, Juraj's at about 15, and other branches the rest."
+   },
+   {
+    "batch": "DM-B-024",
+    "from": 65,
+    "to": 67,
+    "why": "She shares no X-chromosome DNA with Štefan (DM-D-153, as corrected). His X is his mother's. A woman who is a Demko by her father, and he by his, down from one of Maria Demko's uncles, would carry none of that X, because a father gives his son no X. So the empty X is what a Demko by the male line would show. A small point in favour."
    }
   ]
  },
@@ -1101,11 +1107,31 @@
  {
   "id": "DM-H-048",
   "statement": "Michal Duska and Maria Demko were not related as first or second cousins: they shared no grandparent and no great-grandparent.",
-  "confidence": 90,
+  "confidence": 93,
   "basis": "Their son's genome has no long run where both copies are the same: none of 4 Mb or more (DM-D-154). A child of second cousins would be expected to show several. The same count on the owner's file, as a check, behaves the same way. The two families are of different villages and different rites on paper. Against: a plain method on chip data; third cousins would often leave no long run either. Scored as given.",
   "test": "A marriage entry of 30 January 1927 with a dispensation for kinship would refute it; one without would agree.",
   "status": "supported",
   "raised": "DM-B-023",
+  "resolved": null,
+  "resolution": null,
+  "history": [
+   {
+    "batch": "DM-B-024",
+    "from": 90,
+    "to": 93,
+    "why": "The Duska agent ran the other site's own test on the same kit and got no shared segment at all (DUS:D-016-24 @42f02b2). Two methods, one answer."
+   }
+  ]
+ },
+ {
+  "id": "DM-H-049",
+  "statement": "The match who shares 23 cM of X-chromosome DNA with Štefan Duska and lists Kontra among forebears is kin through Maria Demko's mother's side at Solymos, the Kocsis and Knyezső families.",
+  "question": "X-Q-05",
+  "confidence": 35,
+  "basis": "The X match puts this person on Maria Demko's side beyond doubt: a man has his X from his mother only (DM-D-153). Kontra is a Solymos surname in the registers in hand: Anna Kontra was the wife of a György Knyezső there, and the two Knyezső couples stood godparents for each other in 1890 and 1894 (DM-NC-016). Mária Knyezső is the candidate for Maria Demko's maternal grandmother (DM-H-041). Against: Kontra is not rare in Zemplén and Ung; the other forebears listed are American; an X piece of 23 cM can be many generations old; and half of Maria Demko's X came from her father's mother, Mária Hreskó of Viszoka, about whose family nothing is known. Scored as given.",
+  "test": "The village of that match's Kontra forebear. No tree is opened and nothing is asked of the owner.",
+  "status": "open",
+  "raised": "DM-B-024",
   "resolved": null,
   "resolution": null,
   "history": []

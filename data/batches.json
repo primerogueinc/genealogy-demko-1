@@ -1292,5 +1292,45 @@
    "found": "Not read again this batch.",
    "not_taken": "As at DM-B-021."
   }
+ },
+ {
+  "id": "DM-B-024",
+  "date": "2026-11-15",
+  "at_utc": "2026-11-15T09:20:36Z",
+  "title": "Three of this agent's DNA counts corrected; twelve X matches on Maria Demko's side, one with a Solymos surname",
+  "folder": "F-14",
+  "files": 0,
+  "blurb": "The Duska agent read the same match list and found three of this agent's statements wrong. The X-chromosome column is not empty: this agent's program had read '23 cM' as nought. There are twelve X matches, and since a man's X is his mother's alone, all twelve are Maria Demko's kin. No match lists Krak; the program had stopped reading at the fourth letter. And the 'Hreško' was Hriško. All three are corrected with the date, and a short note says how it happened. The correction brings something with it. One of the two largest X matches, 23 cM, lists a forebear named Kontra: a surname of Solymos, Maria Demko's mother's village, and of a family that stood godparent to the Knyezsős there. It is the first trace in the DNA of her mother's side, held at 35. The Demková cousin has no X match, which is what a Demko by the male line would show, so that reading goes from 65 to 67. The other site's own test agrees that Maria Demko and her husband were not kin. Nothing names a parent; no link moves. The paper waiting from the Duska agent's folders is next. Curiosities: 2",
+  "raised": [
+   "DM-H-049"
+  ],
+  "resolved": [],
+  "revised": [
+   "DM-H-046",
+   "DM-H-048"
+  ],
+  "people_added": [],
+  "sources_added": [],
+  "documents_added": [],
+  "documents_revised": [
+   "DM-D-153"
+  ],
+  "curiosities_added": [
+   "DM-C-051",
+   "DM-C-052"
+  ],
+  "curiosities": 2,
+  "read": [
+   "coordinator ledger: version line unchanged (v26), duska-coordinator @716c756",
+   "genealogu-duska-1 main @42f02b2 (its batches to B-073) and its notes to this agent",
+   "duska-and-demko-villages main @4bbff89 (head only)",
+   "private repository @a344f75: piles unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "42f02b2",
+   "found": "Its notes of B-068 to B-073 answer this agent's DNA requests and correct three of its counts; all three corrections are right and are taken. Its X count from the other site (466 kits at 7 cM or more) is cited, not repeated as this agent's.",
+   "not_taken": "24 Senné burial strips, 38 census sheets, the Senné baptism strips, the Krak strips, the younger son's papers."
+  }
  }
 ]

@@ -13431,14 +13431,14 @@
    },
    {
     "column": "Surnames of this line, in names or listed forebears",
-    "original": "Demko: 5 besides the owner (106, 18, 15, 15, 12 cM; two of them Demkiv or Demkowicz, another name); Tirpák: 3 (23, 15, 13 cM); Hreško: 1 (14 cM); Lazár: 1; Jaros: 1; Kocsis: 0; Knyezső: 0; Hrobák: 0",
-    "english": "counts and amounts only",
+    "original": "Demko: the 106 cM match by name; two more list it among forebears (18, 15 cM); Demkiv and Demkowicz are other names. Tirpák: 3 (23, 15, 13 cM). Kontra: 1 (12 cM, and 23 cM on the X). Lazár: 1 (11 cM). Hreško: 0 as such; the near forms Hricz, Hriczko and Hriško at 34, 20 and 14 cM. Cserveny, not Cservenyák: 1 (16 cM). Kocsis: 0. Knyezső: 0. Hrobák: 0. Jaros: 0. Krak: 0",
+    "english": "counts and amounts only. Corrected in DM-B-024 after the Duska agent's check: Hreško, Jaros and Krak were loose pattern matches",
     "certainty": "clear"
    },
    {
     "column": "X-chromosome column",
-    "original": "'No Match' on every row",
-    "english": "not computed by the company for uploaded kits; says nothing",
+    "original": "12 rows carry an X match: 23, 23, 14, 13, 8, 8, 8, 7, 7, 7, 6 and 6 cM; the rest read 'No Match'",
+    "english": "twelve people share X-chromosome DNA with him; a man's X is his mother's, so all twelve are Maria Demko's side. Corrected in DM-B-024: this field first said every row read 'No Match', which was this agent's program misreading '23 cM'",
     "certainty": "clear"
    },
    {
@@ -13452,6 +13452,12 @@
     "original": "third match 51.22 cM, longest 27.51, one forebear surname listed: Muličák; forebear surnames recurring among matches of 12 cM and more: Hudák, Barna, Bodnár, Drozd, Kozak, Kowal, Baran, Kulyk, Sikora, Papp, Petryshyn; 'Rusyn' or 'Ruthenian' in four rows, 'Slovak' in none; one row lists Cservenyák (16 cM)",
     "english": "see research/DM-B-023-what-the-dna-says-for-this-line.md",
     "certainty": "clear"
+   },
+   {
+    "column": "The twelve X matches (DM-B-024)",
+    "original": "X 23 cM with 29 cM elsewhere, no forebears listed; X 23 cM with 12 cM elsewhere, forebears listed: Henry, Kontra, Lopas, Lopasowski, Minnick, Price; X 14 with 14; X 13 with 9; X 8 with 14, forebears: Bidzilya, Kenesz, Margitich, Merenych, Chmara, Lutak, Tsehlediy; the rest 6 to 8 cM, with Polish and Ukrainian forebear names where any are given. The 106 cM Demková match: no X match",
+    "english": "all twelve are kin through Maria Demko. None is near. One lists Kontra, a Solymos surname.",
+    "certainty": "clear"
    }
   ],
   "translation": "Štefan Duska's autosomal matches at one company. After his grandson, his nearest match is a person surnamed Demková at 106 cM. No other match is near. Small matches carry the Viszoka surnames Tirpák and Hreško.",
@@ -13461,7 +13467,8 @@
    "Every match of his is through Michal Duska or Maria Demko. A surname does not say which, but Demko blood reached him only through his mother.",
    "106 cM with a longest piece of 35 is, from recall of the usual tables and not checked, the range of a second cousin, a second cousin once removed or a first cousin twice removed. That is a descendant of a brother or sister of Maria Demko's father, or of her own brother.",
    "No tree of any match was opened and none will be. Nothing is asked of the owner (the hard-drive rule).",
-   "Ledger X-023: DNA names no person and moves no identity or parent link. Scored as given."
+   "Ledger X-023: DNA names no person and moves no identity or parent link. Scored as given.",
+   "Corrected in DM-B-024. Three statements of DM-B-022 and DM-B-023 were wrong and are replaced above: that the X column was empty; that one match lists Hreško and one Jaros; and, in a note to the Duska agent, that five list Krak. The Duska agent's reading of the same list (DUS:D-016-43) was right on all three."
   ],
   "provenance": {
    "archive": "not an archive record",

@@ -1,6 +1,10 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 14 Nov 2026, after DM-B-023. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-024. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→SITE-014 · 15 Nov 2026 · A correction (DM-B-024)
+
+- `DM-D-153`: two fields rewritten and one added; the research note of DM-B-023 carries a dated correction block. New file `field-notes/correction-the-x-column.md`. `hypotheses.json`: `DM-H-049`.
 
 ## DM→SITE-013 · 14 Nov 2026 · A second research note (DM-B-023)
 
