@@ -942,6 +942,12 @@
     "from": 35,
     "to": 70,
     "why": "This morning it was cut from 50 to 35. That was the wrong way. The Roman Catholic book of Senné has her father, Mihály Knyezső of Solymos 19, as 'Hv.' or 'Hc.', Helvetic confession, in [1870], [1873], [1876], [1879] and 1883, and her marriage entry names him (DM-D-170). She was the Roman Catholic daughter of a Reformed father and a Roman Catholic mother. A parent link from a strip with no archive reference, so held at the cap of 70 (X-009); without it, about 92."
+   },
+   {
+    "batch": "DM-B-028",
+    "from": 70,
+    "to": 70,
+    "why": "No change at the cap. The marriage of 1907 shows the Reformed, Roman Catholic and Greek Catholic Knezsos of Solymos as witnesses for one another (DM-D-217)."
    }
   ]
  },
@@ -1196,10 +1202,10 @@
   "id": "DM-H-050",
   "statement": "Juraj Kočiš of Iňačovce no. 108, born February 1882, is a brother of Michal Kočiš of no. 69 and a son of György Kocsis and Anna Ivankó.",
   "question": "X-Q-05",
-  "confidence": 50,
+  "confidence": 70,
   "basis": "Both are Kočiš men born at Iňačovce three years apart, and both married on 20 February 1905 (DM-D-156, DM-D-157). Juraj is the Slovak for György, the father's name. György Kocsis and Anna Ivankó had sons in 1879, 1885 and 1891, which leaves room for one in 1882. Against: no baptism of him is in hand; a György born in February 1882 at Jesztreb, read Koczák, is (DM-X-051); a shared wedding day can be cousins or neighbours. It matters to this line only as a negative: it takes two Kocsis houses out of the search for Ahn 19's family.",
   "test": "His baptism in the Solymos Greek Catholic book, February 1882. His marriage entry of 20 February 1905.",
-  "status": "open",
+  "status": "supported",
   "raised": "DM-B-025",
   "resolved": null,
   "resolution": null,
@@ -1209,6 +1215,12 @@
     "from": 50,
     "to": 50,
     "why": "No change. A correction: the sheet for no. 108 is not wrong about the children, the reader was (DM-D-157)."
+   },
+   {
+    "batch": "DM-B-028",
+    "from": 50,
+    "to": 70,
+    "why": "Found. Entries 2 and 3 of the Senné marriage book for 20 February 1905 are the two brothers: Mihály Kocsis, born 20 September 1879, and György Kocsis, born 8 February 1882, both of Solymos 98, both sons of György Kocsis and Anna Ivankó (DM-D-201, DM-D-200). The census birthdays of both men and of György's wife agree to the day. A parent link from strips with no archive reference: held at the cap of 70 (X-009). Without it, 97. The expectation was written down before the strips were opened."
    }
   ]
  },
@@ -1283,7 +1295,7 @@
   "id": "DM-H-054",
   "statement": "The János Kocsis who married Mária Knyezső of Solymos 19 on 14 November 1880 and the 'Mihály Kocsis' entered as father at the same house in [1887] and [1889] are one man, a son of Pál Kocsis and Anna Cservenyák born about 1858; one of the two books has his Christian name wrong.",
   "question": "X-Q-05",
-  "confidence": 62,
+  "confidence": 64,
   "basis": "One house, one wife, and the census widow counts three children in one marriage begun in November of 1879 or 1880 (DM-D-170, DM-D-054, DM-D-048, DM-D-105). A second marriage to a Mihály Kocsis would be in the same Roman Catholic book between 1881 and 1886, and the owner, who saved every Kocsis entry he saw there, has none. Against: a priest does not usually get a parishioner's name wrong twice, two and a half years apart; a Mihály Kocsis stands as first witness in 1880; János may have died and she may have married again. If this holds, Ahn 38 is this man, and Pál Kocsis and Anna Cservenyák are Ahn 76 and 77. Which name he went by is not decided here.",
   "test": "A Greek Catholic baptism of a son of Pál Kocsis and Anna Cservenyák about 1858. The burial of a János or a Mihály Kocsis of Solymos 19 before 1930. Any child of 'János Kocsis and Mária Knyezső' between 1881 and 1886.",
   "status": "open",
@@ -1293,17 +1305,43 @@
   "raised": "DM-B-027",
   "resolved": null,
   "resolution": null,
-  "history": []
+  "history": [
+   {
+    "batch": "DM-B-028",
+    "from": 62,
+    "to": 64,
+    "why": "The same book shows a priest writing a father's Christian name wrong: at a burial of February 1908 the father is 'Duska György' where the baptism has András, and the owner caught it (DM-D-226). In another the mother Anna is written Mária (DM-D-216). So a wrong Christian name in one entry is an ordinary thing here. It does not explain two entries two years apart. Up two."
+   }
+  ]
  },
  {
   "id": "DM-H-055",
-  "statement": "Mária Knyezső, wife of Kocsis at Solymos 19 and candidate for Ahn 39, is the daughter of Mihály Knyezső, Reformed, and Mária Olaxsik, Roman Catholic, of Solymos 19. If Ahn 39 is she, they are Ahn 78 and 79.",
+  "statement": "Mária Knyezső, wife of Kocsis at Solymos 19 and candidate for Ahn 39, is the daughter of Mihály Knyezső, Reformed, and Mária Benyik, also written Olaxsik, Roman Catholic, of Solymos 19. If Ahn 39 is she, they are Ahn 78 and 79.",
   "question": "X-Q-05",
   "confidence": 70,
   "basis": "Her marriage entry names them and her house (DM-D-170); four baptisms of their other children give the same house and the father's church. A parent link from a strip with no archive reference: held at the cap of 70 (X-009). Without it, about 93. That she is Ahn 39 is a separate matter: DM-H-030, DM-H-031.",
   "test": "The page the marriage entry was cut from, with its heading. Her baptism of 1862 or 1863, which falls in a gap of the Senné book by the Places agent's account.",
   "status": "supported",
   "raised": "DM-B-027",
+  "resolved": null,
+  "resolution": null,
+  "history": [
+   {
+    "batch": "DM-B-028",
+    "from": 70,
+    "to": 70,
+    "why": "No change at the cap. Two more marriage entries, of her brother János (1903) and her sister Borbála (1907), name the same father, Reformed, and give the mother as Benyik Mária (DM-D-186, DM-D-217). Borbála's birthday ties 'Benyik' to the 'Olaxsik' of the baptisms: one woman. Without the cap, about 95."
+   }
+  ]
+ },
+ {
+  "id": "DM-H-056",
+  "statement": "Mária Hreskó, Roman Catholic, wife of György Demkó of Viszoka and candidate for Ahn 37, was born into the Roman Catholic Hresko family of Viszoka itself; Anna Hreska, born there about 1853 and married to János Repej of Solymos, is her sister and the 'Anna Hreskó' who stood godmother in 1882.",
+  "confidence": 55,
+  "basis": "A Roman Catholic woman born at Magasrév about 1853 under the name Hreska, and a Roman Catholic Hresko farmer there in 1908 (DM-D-221, DM-D-228). Mária bore children at Viszoka from 1873 to 1882 and is always Roman Catholic; the godmother of 20 August 1882 is 'Hreskó Anna r.k.' (DM-D-001). The village, the church, the name and the ages fit. Against: Magasrév as Viszoka is from recall; nothing names Mária's parents; two Hresko women of one village can be cousins; the godmother could be another Anna. It bears on the Duska agent's H-098 (the two Hresko grandmothers were not sisters): a Hresko family settled at Viszoka is a different house from the Hresko-Minarcsin of Senné, though both may come from one stock.",
+  "test": "The Roman Catholic baptisms for Viszoka, about 1845 to 1855: a Mária and an Anna Hresko with one father. The marriage of György Demkó and Mária Hreskó, about 1870 to 1872. Which Roman Catholic parish served Viszoka is asked of the Places agent.",
+  "status": "open",
+  "raised": "DM-B-028",
   "resolved": null,
   "resolution": null,
   "history": []

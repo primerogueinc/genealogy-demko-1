@@ -31,3 +31,4 @@ No. 29, 7 May [1876]: János, legitimate son of Mihály Knyezső, of the Helveti
 
 - Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.
 - Year from the owner's file name, which also gives the death as 6 June 1876. The strip gives no year for the death.
+- Since DM-B-028: the mother's surname here, Olaxsik or Olaxák, was looked at again and is what the priest wrote. Entries of 1903 and 1907 for two of her children call her Benyik Mária (DM-D-186, DM-D-217), as the entries of [1870] and 1883 nearly do. One woman, two surnames.

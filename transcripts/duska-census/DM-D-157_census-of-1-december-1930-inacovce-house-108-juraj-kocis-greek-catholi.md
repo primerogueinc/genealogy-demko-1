@@ -32,3 +32,4 @@ Iňačovce no. 108, 1 December 1930. Juraj Kočiš, Greek Catholic farmer, born 
 - A György was baptised on 11 February [1882] at Jesztreb no. 1, in a strip the owner filed as Kocsis and both agents read as Koczák (DM-X-051). This Juraj is born in February 1882. That may be why the owner kept the strip. The village differs.
 - Not an independent reading. Compared with DUS:D-011-83: agreed; it reads the birthday as 8 February.
 - Corrected in DM-B-026: column 10 of the sheet is headed 'z nich zomrelo', 'of them dead', not 'living'. The first reading is kept in the note. First reading: 'five children born, two (?) living'.
+- Since DM-B-028: his marriage entry is found, 20 February 1905, and names his parents, György Kocsis and Anna Ivankó (DM-D-200). The census dates agree with it.

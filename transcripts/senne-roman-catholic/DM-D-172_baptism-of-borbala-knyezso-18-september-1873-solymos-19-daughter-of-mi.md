@@ -30,3 +30,4 @@ No. 49, 18 September [1873]: Borbála, legitimate daughter of Mihály Knyezső, 
 
 - Read from the image before any entry for this strip existed in the Duska repo (none at @9794d20). The owner's file name, which states the relationships, was seen first; so was the Duska agent's note listing it. The expectation was written down before the image was opened: field-notes/before-the-senne-strips.md, commit 6665389.
 - Year from the owner's file name. He reads the mother's surname as 'Plasick'.
+- Since DM-B-028: the mother's surname here, Olaxsik or Olaxák, was looked at again and is what the priest wrote. Entries of 1903 and 1907 for two of her children call her Benyik Mária (DM-D-186, DM-D-217), as the entries of [1870] and 1883 nearly do. One woman, two surnames.

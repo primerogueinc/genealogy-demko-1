@@ -30,3 +30,4 @@ No. 14, 3 February [1879]: Zsuzsanna, legitimate daughter of Mihály Knyezső, o
 
 - Not an independent reading: the Duska agent had read this strip (DUS:D-018-09) and the title of its entry, which says the father is Reformed and the house is 19, was seen before this image was opened. The same two facts had by then been read here from three other strips.
 - Year from the owner's file name. The Duska agent reads the mother's surname as the owner does, 'Olarzsek'.
+- Since DM-B-028: the mother's surname here, Olaxsik or Olaxák, was looked at again and is what the priest wrote. Entries of 1903 and 1907 for two of her children call her Benyik Mária (DM-D-186, DM-D-217), as the entries of [1870] and 1883 nearly do. One woman, two surnames.

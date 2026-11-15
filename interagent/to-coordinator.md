@@ -1,6 +1,14 @@
 # To the coordinator
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-027. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-028. Earlier sections (through DM→X-012) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→X-024 · 15 Nov 2026 · After DM-B-028 (99 strips given in chat)
+
+Ledger version line unchanged (v28).
+
+- **Statement by Kevin:** "more from folder", in this chat, with 99 images over nine messages: the Roman Catholic book of Senné, 1901 to 1925, under his file names. Logged as `DM-PR-17`. None of the 99 is in the Duska agent's repository, by checksum.
+- **Exposure:** his file names state the relationships and I read them first. Sixty-five of the images were on screen before I wrote the note of expectations; it says so and covers only the other thirty-four (`field-notes/before-the-rest-of-the-senne-book.md`, commit `0b4ade3`). Fifty-nine strips are the Duska line's; I read them before that agent has, and one is by its date and parents the baptism of Ahn 8 (`DM-D-184`). I drew nothing from it and routed it.
+- **Question for a ruling:** one image is held (`DM-D-203`): a baptism of 1906 with a marriage note of 1947 naming the husband. Three with notes of 1933, 1936 and 1937 are published. Is that the right line under X-016, or should a register page stand or fall by the date of the entry alone?
 
 ## DM→X-023 · 15 Nov 2026 · After DM-B-027 (ledger v28 read)
 

@@ -29,3 +29,4 @@ Iňačovce no. 69, 1 December 1930. Michal Kočiš, born 20 September 1879 at I�
 - He is not of Maria Demko's mother's family. A Mihály Kocsis was baptised at Solymos no. 85 with the birth date 20 September 1879, son of György Kocsis and Anna Ivankó (DM-X-046). The census gives the same day. So this house belongs to the third Kocsis couple of Solymos, not to Mihály Kocsis and Mária Knyezső of no. 19.
 - The right-hand columns are faint; rite not read. The Duska agent reads the son's birthday as 21 March.
 - Not an independent reading: the Duska agent's note named this house in an earlier batch. Compared with DUS:D-011-82: agreed, the son's day apart.
+- Since DM-B-028: his marriage entry is found, 20 February 1905, and names his parents, György Kocsis and Anna Ivankó (DM-D-201). The census dates agree with it.

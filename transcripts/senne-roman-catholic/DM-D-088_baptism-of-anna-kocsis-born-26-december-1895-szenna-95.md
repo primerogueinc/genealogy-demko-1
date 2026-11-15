@@ -31,3 +31,4 @@ No. 66. Born 26 December 1895, baptised the 28th: Anna, legitimate daughter of M
 - The year is written on the strip.
 - A Mihály Kocsis at Senné in 1895, next door to János Kocsis at no. 94. Not the Mihály Kocsis of Solymos no. 19: that man is Greek Catholic, a farmer, and his wife is Mária Knyezső (DM-NC-017).
 - The godmother's surname is not read (Jankovcsák? here, Hankos[n]ák in DUS:D-009-20).
+- Since DM-B-028: this Anna married János Dvonyik on 22 July 1918; the entry gives her birthday, 26 December 1895, and her parents, Mihály Kocsis and Anna Dvonyik, Roman Catholics of Senné (DM-D-261). So this strip belongs to a Kocsis family of Senné and not to this line.

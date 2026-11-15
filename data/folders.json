@@ -256,5 +256,20 @@
   ],
   "archive_path": "archive/senne-roman-catholic/ and archive/duska-baptisms/inacovce-reformed/",
   "taken_from": "primerogueinc/genealogu-duska-1 @9794d20, its F-018"
+ },
+ {
+  "id": "F-17",
+  "path": "(given in chat) more from folder",
+  "described_by_kevin": "\"more from folder\": 99 strips attached to nine messages in this chat on 15 November 2026. The Roman Catholic book of Senné, 1901 to 1925, under the owner's file names; a continuation of the sub-folder 'Senne Roca' he gave the Duska agent. Not in the Duska agent's repository.",
+  "received": "2026-11-15",
+  "files_received": 99,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-028"
+  ],
+  "archive_path": "archive/senne-roman-catholic-1901-1925/"
  }
 ]

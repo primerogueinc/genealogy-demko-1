@@ -214,5 +214,14 @@
   "bytes": 1181,
   "reason": "DNA material given by the owner in chat. Held under ledger X-023 item 3.",
   "held": "about the subject; names living third parties"
+ },
+ {
+  "folder": "F-17",
+  "document": "DM-D-203",
+  "original_name": "1906_-_Baptism_of_Borbala_Marcinko_Kocsis_daughter_of_Mihaly_Marcinko__Maria_Kocsis.png",
+  "sha256": "9004c1de73a77c960e49d4949760179071cb3b260fe20c216d11750639952c14",
+  "bytes": 230197,
+  "reason": "A baptism of 1906 with a later note of the child's marriage on 24 November 1947, naming the husband. He may be living. Held under ledger X-016 until the coordinator rules; the entry itself is transcribed without his name.",
+  "held": "a later note names a person of unknown living status"
  }
 ]

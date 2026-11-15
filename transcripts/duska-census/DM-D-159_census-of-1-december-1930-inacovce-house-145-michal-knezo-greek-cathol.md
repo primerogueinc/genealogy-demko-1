@@ -34,3 +34,4 @@ Iňačovce no. 145, 1 December 1930. Michal Kňežo, Greek Catholic, born 30 Jul
 - Columns 9 and 10 are 'all children born alive' and 'of them dead', for the last marriage. Read so here from this batch on.
 - Anyone born after November 1926 is given by year only.
 - Not an independent reading: the Duska agent routed this sheet to this line and its abstract was open to this agent. Read here from the image first, then compared with DUS:D-011-77.
+- Since DM-B-028: the head's marriage is found, 24 October 1904 (DM-D-193). His parents are Gergely Knyezső, Greek Catholic, and Borbála Halász, Roman Catholic. So 'Hreha' is Gergely, and the man of DM-X-050 and this one are the same. Borbála Halász died on 14 January 1919 (DM-D-263); the 'mother Anna' of the sheet is then a later wife, and the wedding date of October 1881 beside her is not explained.

@@ -598,5 +598,23 @@
   "date": "2026-11-15",
   "decision": "Looked at and did not take: the marriage of János Kocsis and Anna Halász, 16 January 1888 (a Roman Catholic Kocsis of Szenna 93, son of György; another family), and the burial of Márton Kávor, husband of Ilona Knyezső, 29 January 1887, aged 72, Solymos 32.",
   "why": "Neither bears on the line."
+ },
+ {
+  "id": "DM-DEC-101",
+  "date": "2026-11-15",
+  "decision": "Took in all 99 strips the owner attached to this chat, each with a checksum and a first reading. Forty are entered as this line's or as collateral to it; 59 are marked route: duska.",
+  "why": "They were given here and are nowhere else. X-019: a file for another line is kept and routed, not dropped."
+ },
+ {
+  "id": "DM-DEC-102",
+  "date": "2026-11-15",
+  "decision": "Held one image: a baptism of 1906 with a marriage note of 1947 naming the husband. Three other strips with marriage notes of 1933, 1936 and 1937 are published.",
+  "why": "Ledger X-016. A man who married in 1947 may be under a hundred. Those who married by 1937 were born a hundred years ago or more."
+ },
+ {
+  "id": "DM-DEC-103",
+  "date": "2026-11-15",
+  "decision": "Wrote the note of expectations after 65 of the 99 images had already been on screen, and said so in it; the expectations cover only the 34 not yet seen.",
+  "why": "The owner's rule on notes before new material (DM-PR-13), kept as far as the order of arrival allowed."
  }
 ]

@@ -102,6 +102,12 @@ Added 15 Nov 2026 from ledger v28: `field-notes/005.md` is written (X-032 item 1
 
 - **A guess from a late record about an early one is a guess.** DM-H-052 read the census of 1930 back to 1863 and was refuted the same day by a marriage entry. Say so in the basis when a hypothesis does this.
 
+Added 15 Nov 2026 at DM-B-028.
+
+- **One person can carry two surnames in this parish.** Hresko and Minarcsin; Olaxsik and Benyik; 'Kundrer Kolyibas'. Before calling two entries two people because the surname differs, compare the house, the godparents and any birthday. Before calling a first reading wrong because a later entry spells the name another way, look at the first strip again.
+- **Hungarian village names of the 1900s, from recall and to be confirmed by the Places agent:** Ungszenna is Senné; Magasrév is Viszoka; Alsókánya is Jesztreb; Pályin is Palín.
+- **Files given in chat** go under their own folder entry and archive path, are checked by checksum against the Duska repo, and those of the other line are entered with a first reading and `route: duska`.
+
 ## Scope
 
 This repo holds **Maria Demko (Ahnentafel 9)** and everything above her: 18 and 19, 36 to 39, and so on. The Duska male line (Ahn 8 and up) belongs to the Duska agent's repo, `primerogueinc/genealogu-duska-1`. The couple Mihaly Duska × Maria Demko, their marriage and their children are shared.
