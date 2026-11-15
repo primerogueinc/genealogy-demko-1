@@ -271,5 +271,21 @@
    "DM-B-028"
   ],
   "archive_path": "archive/senne-roman-catholic-1901-1925/"
+ },
+ {
+  "id": "F-18",
+  "path": "Duska Hints",
+  "described_by_kevin": "The owner's folder of hints, given to the Duska agent on 15 November 2026. One file is taken here under ledger X-012: a Demkó baptism he labelled 'maybe'. Another, the arrivals index of 1937, is the same page as DM-D-152.",
+  "received": "2026-11-15",
+  "files_received": 1,
+  "complete": false,
+  "shared_with": [
+   "duska"
+  ],
+  "batches": [
+   "DM-B-029"
+  ],
+  "archive_path": "archive/duska-hints/",
+  "taken_from": "primerogueinc/genealogu-duska-1 @8928827, its F-019"
  }
 ]

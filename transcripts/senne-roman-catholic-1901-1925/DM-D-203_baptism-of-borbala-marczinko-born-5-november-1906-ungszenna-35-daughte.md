@@ -21,14 +21,15 @@
 | Residence | Ungszenna 35 | Ungszenna 35 | probable |
 | Godparents | Csizmár János gk. gazda; Murnai Györgyné sz. Hricsik Mária r.k. | János Csizmár and Mária Hricsik, wife of György Murnai | probable |
 | Officiant | Barna János lelkész | Barna János lelkész | probable |
-| Remarks | matr. contraxit [...] cum Joanne [...] 24.XI.1947 | a later note in Latin: she married a János [...] on 24 November 1947; the names are not read | probable |
+| Remarks | matr. contraxit [...] cum Joanne [...] [1947] | a later note in Latin: she married a János [...] in 1947; the surname is not read | probable |
 
 ## Translation
 
-No. 37. Born and baptised 5 / 6 November 1906: Borbála, child of Mihály Marczinko, farmer, and Mária Kocsis, Roman Catholics, of Ungszenna 35. Godparents János Csizmár and Mária Hricsik, wife of György Murnai. A later note in Latin: she married a János [...] on 24 November 1947; the names are not read.
+No. 37. Born and baptised 5 / 6 November 1906: Borbála, child of Mihály Marczinko, farmer, and Mária Kocsis, Roman Catholics, of Ungszenna 35. Godparents János Csizmár and Mária Hricsik, wife of György Murnai. A later note in Latin: she married a János [...] in 1947; the surname is not read.
 
 ## Notes
 
 - The mother is a Kocsis of Senné, Roman Catholic. Not this line.
 - Given to this agent by the owner in chat on 15 November 2026 ('more from folder'). Not in the Duska agent's repository at @9794d20. The owner's file name, which states the relationships, was seen before the image.
 - Not of this line. Read here because it was given here; routed to the Duska agent, whose village and families these are. Its reading, when it makes one, is the one to cite.
+- Ledger v29, X-016: a marriage note of 1947 or later is held with its image and its transcription gives the name and the year only. The image was already held; the day and month of the note are taken out of the transcription in DM-B-029.

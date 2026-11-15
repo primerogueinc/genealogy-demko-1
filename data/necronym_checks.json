@@ -195,5 +195,13 @@
   "forward_search": "None needed.",
   "result": "Two people. The first lived a month; the second was named for him seven years later. Neither is on the line; logged because a 'János Knyezső, son of Mihály' may turn up later.",
   "logged": "2026-11-15T14:30:29Z"
+ },
+ {
+  "id": "DM-NC-024",
+  "rule": "X-017 rule 1: a baptism is not an identity",
+  "person": "Mária Demkó, baptised 27 February [1892], daughter of Mihály Demkó and Anna Batrovszki (?), Roman Catholic",
+  "forward_search": "Against Ahn 9: born 1906, mother Mária Kocsis, Greek Catholic father. Every point differs.",
+  "result": "Not Ahn 9. Entered so the two are not confused. The owner's file name says 'maybe'; it is not.",
+  "logged": "2026-11-15T22:33:35Z"
  }
 ]

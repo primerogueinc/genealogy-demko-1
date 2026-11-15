@@ -18148,16 +18148,17 @@
    },
    {
     "column": "Remarks",
-    "original": "matr. contraxit [...] cum Joanne [...] 24.XI.1947",
-    "english": "a later note in Latin: she married a János [...] on 24 November 1947; the names are not read",
+    "original": "matr. contraxit [...] cum Joanne [...] [1947]",
+    "english": "a later note in Latin: she married a János [...] in 1947; the surname is not read",
     "certainty": "probable"
    }
   ],
-  "translation": "No. 37. Born and baptised 5 / 6 November 1906: Borbála, child of Mihály Marczinko, farmer, and Mária Kocsis, Roman Catholics, of Ungszenna 35. Godparents János Csizmár and Mária Hricsik, wife of György Murnai. A later note in Latin: she married a János [...] on 24 November 1947; the names are not read.",
+  "translation": "No. 37. Born and baptised 5 / 6 November 1906: Borbála, child of Mihály Marczinko, farmer, and Mária Kocsis, Roman Catholics, of Ungszenna 35. Godparents János Csizmár and Mária Hricsik, wife of György Murnai. A later note in Latin: she married a János [...] in 1947; the surname is not read.",
   "notes": [
    "The mother is a Kocsis of Senné, Roman Catholic. Not this line.",
    "Given to this agent by the owner in chat on 15 November 2026 ('more from folder'). Not in the Duska agent's repository at @9794d20. The owner's file name, which states the relationships, was seen before the image.",
-   "Not of this line. Read here because it was given here; routed to the Duska agent, whose village and families these are. Its reading, when it makes one, is the one to cite."
+   "Not of this line. Read here because it was given here; routed to the Duska agent, whose village and families these are. Its reading, when it makes one, is the one to cite.",
+   "Ledger v29, X-016: a marriage note of 1947 or later is held with its image and its transcription gives the name and the year only. The image was already held; the day and month of the note are taken out of the transcription in DM-B-029."
   ],
   "provenance": {
    "archive": "unknown",
@@ -25032,5 +25033,92 @@
    "changes_name": false
   },
   "independent": true
+ },
+ {
+  "id": "DM-D-276",
+  "batch": "DM-B-029",
+  "folder": "F-18",
+  "source": "DM-S-029-1",
+  "file": "archive/duska-hints/maria_demko_baptism_1892_-_maybe.png",
+  "sha256": "216a05f8cf5e49d542e96d169fb1d7f87e0e2be3f178a8ce5d301a8619285716",
+  "image": {
+   "format": "PNG",
+   "width": 1429,
+   "height": 196
+  },
+  "title": "Baptism of Mária Demkó, 24 February [1892], daughter of Mihály Demkó, Roman Catholic cottar, and Anna Batrovszki (?)",
+  "kind": "Parish baptism register, one entry cut from a page",
+  "language": "Hungarian",
+  "collector_label": "maria demko baptism 1892 - maybe",
+  "register": {
+   "parish": "Not shown. Both parents are 'rk.', so a Roman Catholic book; by the hand and the form, probably that of Senné, like the strips of DM-B-027 and DM-B-028.",
+   "denomination": "Roman Catholic",
+   "page": "Not visible",
+   "archive_reference": "Not visible"
+  },
+  "fields": [
+   {
+    "column": "Entry",
+    "original": "44.)",
+    "english": "44",
+    "certainty": "clear"
+   },
+   {
+    "column": "Born / baptised",
+    "original": "Febr. 24. / Febr. 27.",
+    "english": "24 February / 27 February",
+    "certainty": "clear"
+   },
+   {
+    "column": "Name",
+    "original": "Mária",
+    "english": "Mária",
+    "certainty": "clear"
+   },
+   {
+    "column": "Sex, legitimacy",
+    "original": "[...] / \" / [...]",
+    "english": "not read; ditto marks",
+    "certainty": "doubtful"
+   },
+   {
+    "column": "Father",
+    "original": "Demkó Mihály rk. zsellér",
+    "english": "Mihály Demkó, Roman Catholic, cottar",
+    "certainty": "clear"
+   },
+   {
+    "column": "Mother",
+    "original": "Batrovszki (?) Anna rk.",
+    "english": "Anna Batrovszki (?), Roman Catholic",
+    "certainty": "doubtful"
+   }
+  ],
+  "translation": "No. 44. Born 24 February, baptised 27 February, year not on the strip (the owner's file name says 1892): Mária, daughter of Mihály Demkó, Roman Catholic, cottar, and Anna Batrovszki (?), Roman Catholic. The strip ends after the parents; no house, godparents or priest.",
+  "notes": [
+   "Not Maria Demko (Ahn 9). She was born in 1906 by every paper held here, and her mother was Mária Kocsis, Greek Catholic. The owner's own 'maybe' was right to doubt it.",
+   "Not either Greek Catholic Demkó house on file (Viszoka: György and Mária Hreskó; Jesztreb: Mihály and Anna Jaros). A third family: a Roman Catholic Demkó, a cottar. A Roman Catholic Demko of Senné, a master carpenter, buried an infant in 1902 (DM-D-179); the owner's file names in the Duska agent's F-018 list Senné Demkos of 1847 to 1901, among them a Mihály Demko with wives named Szalonai, Padó and Adamik (DM-L-052). This Mihály may be that one. Not shown.",
+   "Read from the image before any reading by the Duska agent existed (its manifest has it unread at @8928827). The expectation was written down first: field-notes/before-the-maybe-baptism.md, commit 5b60315. One of four expectations held.",
+   "Year from the owner's file name only."
+  ],
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptisms, parish not shown",
+   "page_or_image": "entry 44",
+   "obtained": "unknown. From the owner's folder 'Duska Hints', given to the Duska agent on 15 November 2026."
+  },
+  "object": {
+   "kind": "Parish baptism register, one entry cut from a page",
+   "why": "Ruled columns in the order of a baptism register; one numbered entry.",
+   "does_not_fit": "Nothing. The strip is cut short at the parents: no residence, godparents or officiant.",
+   "made_by": "The parish clergy, at the time of the event.",
+   "when": "At the event; the year is the owner's.",
+   "kept_where": "Not shown on the image.",
+   "compared_with": [],
+   "changes_name": false
+  },
+  "independent": true,
+  "taken_from": "primerogueinc/genealogu-duska-1 @8928827, its F-019 part 2, under ledger X-012"
  }
 ]

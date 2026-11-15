@@ -105,7 +105,8 @@ Added 15 Nov 2026 from ledger v28: `field-notes/005.md` is written (X-032 item 1
 Added 15 Nov 2026 at DM-B-028.
 
 - **One person can carry two surnames in this parish.** Hresko and Minarcsin; Olaxsik and Benyik; 'Kundrer Kolyibas'. Before calling two entries two people because the surname differs, compare the house, the godparents and any birthday. Before calling a first reading wrong because a later entry spells the name another way, look at the first strip again.
-- **Hungarian village names of the 1900s, from recall and to be confirmed by the Places agent:** Ungszenna is Senné; Magasrév is Viszoka; Alsókánya is Jesztreb; Pályin is Palín.
+- **Hungarian village names of the 1900s:** Ungszenna is Senné; Magasrév is Viszoka (Vysoká nad Uhom) and Alsókánya is Jesztreb, both confirmed by the Places agent (PL-N-052); Pályin is Palín; Pálócz is Pavlovce nad Uhom, the Roman Catholic parish of Viszoka.
+- **Marginal notes (ledger v29, X-016):** judged by the people they name. A marriage note of 1946 or earlier may be shown; one of 1947 or later is held with its image, and the transcription gives the name and the year only.
 - **Files given in chat** go under their own folder entry and archive path, are checked by checksum against the Duska repo, and those of the other line are entered with a first reading and `route: duska`.
 
 ## Scope

@@ -1,6 +1,6 @@
 # What this line would want
 
-Kept under ledger X-033, the hard-drive rule. **Nothing here is a request.** The owner gives what is already on his drive and is asked to fetch nothing. This is a list of where the answers lie, so that a reader can see what a record "would settle" means. Last updated 15 Nov 2026, at DM-B-028.
+Kept under ledger X-033, the hard-drive rule. **Nothing here is a request.** The owner gives what is already on his drive and is asked to fetch nothing. This is a list of where the answers lie, so that a reader can see what a record "would settle" means. Last updated 15 Nov 2026, at DM-B-029.
 
 | # | Record | Where it should be | What it would settle |
 |---|---|---|---|
@@ -18,4 +18,4 @@ Kept under ledger X-033, the hard-drive rule. **Nothing here is a request.** The
 | 12 | Whatever placed Maria Demko's birth record in Uzhhorod | Unknown | DM-H-011. Was DM-A-002. |
 | 13 | Where each folder of images came from | The owner's memory | An archive reference for every document. Was DM-A-007. |
 | 14 | A Greek Catholic baptism of a son of Pál Kocsis and Anna Cservenyák, about 1858 | Solymos Greek Catholic baptisms | Whether Maria Demko's grandfather was János or Mihály: DM-H-054. |
-| 15 | Roman Catholic baptisms and marriages for Viszoka, about 1845 to 1872 | Not known which parish; asked of the Places agent | The parents of Mária Hreskó and whether Anna Hreska was her sister: DM-H-056. |
+| 15 | Marriage of György Demkó and Mária Hreskó, about 1870 to 1872 | Roman Catholic marriages of Pavlovce nad Uhom, which served Viszoka: Prešov nos. 795 to 798, 1818 to 1897 (Places agent, PL-R-052). Her baptism of about 1850 is before the surviving births. | Her father, and whether Anna Hreska was her sister: DM-H-056. |

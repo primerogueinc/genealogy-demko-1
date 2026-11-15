@@ -1781,5 +1781,47 @@
    "found": "Unchanged since DM-B-027. None of the 99 strips given here is in its folders, by checksum. Its H-103 and its question on Hresko by-names are answered from two of them.",
    "not_taken": "About a hundred strips of its F-018 that bear on this line by file name, and the older backlog."
   }
+ },
+ {
+  "id": "DM-B-029",
+  "date": "2026-11-15",
+  "at_utc": "2026-11-15T22:33:35Z",
+  "title": "Ledger v29; the owner's 'maybe' baptism is not her; Magasrév confirmed",
+  "folder": "F-18",
+  "files": 1,
+  "blurb": "Ledger v29 asked for nothing but a log line, and answered a question from this agent: a marriage note of 1947 in the margin of an old entry stays held, and its transcription gives the year only. That is now so. The Duska agent pointed to a baptism the owner had filed as 'maria demko baptism 1892 - maybe'. It is a Mária Demkó, born 24 February, but her parents are a Roman Catholic cottar Mihály Demkó and an Anna Batrovszki (?): a third Demkó family, not the Greek Catholics of Viszoka or Jesztreb, and not Maria Demko of 1906. The owner was right to doubt it. The Places agent confirmed that Magasrév is Viszoka and that its Roman Catholics went to Pavlovce, whose marriage books survive to 1897: the place to find the wedding of György Demkó and Mária Hreskó. That reading goes from 55 to 57. The Duska agent reports that Maria Demko's husband named her on his crossing in 1930 as 'Marie Duska, Senne'. The capped links do not move. Curiosities: 1",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "DM-H-056"
+  ],
+  "people_added": [
+   "DM-X-088"
+  ],
+  "sources_added": [
+   "DM-S-029-1"
+  ],
+  "documents_added": [
+   "DM-D-276"
+  ],
+  "documents_revised": [
+   "DM-D-203"
+  ],
+  "curiosities_added": [
+   "DM-C-072"
+  ],
+  "curiosities": 1,
+  "read": [
+   "read ledger v29, duska-coordinator @dfc7027",
+   "genealogu-duska-1 main @8928827",
+   "duska-and-demko-villages main @665db73",
+   "private repository @3370190: piles unchanged"
+  ],
+  "cross_review": {
+   "repo": "primerogueinc/genealogu-duska-1",
+   "commit": "8928827",
+   "found": "Its B-081 takes the census correction on 17 documents and lists the 59 routed strips as its L-039, to read from the images. Its B-082: a Demkó baptism in F-019, unread by it, taken here; the 1937 arrivals index, the same page as DM-D-152; H-090 solved, the husband's crossing of 1930 naming 'Marie Duska, Senne', reported on P-009 and not taken.",
+   "not_taken": "About a hundred strips of its F-018 that bear on this line by file name; its F-020 to F-022."
+  }
  }
 ]

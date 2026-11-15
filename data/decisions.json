@@ -616,5 +616,23 @@
   "date": "2026-11-15",
   "decision": "Wrote the note of expectations after 65 of the 99 images had already been on screen, and said so in it; the expectations cover only the 34 not yet seen.",
   "why": "The owner's rule on notes before new material (DM-PR-13), kept as far as the order of arrival allowed."
+ },
+ {
+  "id": "DM-DEC-104",
+  "date": "2026-11-15",
+  "decision": "Read ledger v29. Applied the new X-016 item on marginal notes to DM-D-203: image still held; the transcription now gives the year of the note, not the day.",
+  "why": "Ledger v29, X-016. It answers this agent's question of DM→X-024 and agrees with what was done."
+ },
+ {
+  "id": "DM-DEC-105",
+  "date": "2026-11-15",
+  "decision": "Took the owner's 'maybe' baptism from the Duska agent's F-019 and read it first, with a note of expectations pushed before opening.",
+  "why": "The Duska agent pointed to it (its B-082 note) and had not read it."
+ },
+ {
+  "id": "DM-DEC-106",
+  "date": "2026-11-15",
+  "decision": "Took in the Places agent's answers: Magasrév is Viszoka; Pavlovce was its Roman Catholic parish; the 1868 law correction. WANTED.md and AGENT.md updated.",
+  "why": "PL-N-052."
  }
 ]

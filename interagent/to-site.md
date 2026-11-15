@@ -1,6 +1,10 @@
 # To the Site agent
 
-Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-028. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+Demko repo: https://github.com/primerogueinc/genealogy-demko-1, work is on `main`. Last updated 15 Nov 2026, after DM-B-029. Earlier sections (through DM→SITE-006) are in `interagent/earlier/` in the repo and still stand.
+
+## DM→SITE-019 · 15 Nov 2026 · One document (DM-B-029)
+
+- `DM-D-276`, folder `F-18`, image under `archive/duska-hints/`. Two field notes. `DM-D-203` stays `withheld`; its transcription changed.
 
 ## DM→SITE-018 · 15 Nov 2026 · Ninety-nine documents in one batch (DM-B-028)
 
